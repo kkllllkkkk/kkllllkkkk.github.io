@@ -244,6 +244,11 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 乳山生活,rtmp://alivealone.litenews.cn/143/7aa1513e8b9444d8a872e3f66a8cff5e
 文登TV1,rtmp://alivealone.litenews.cn/91/13cc6cb1119e4dc2a4d92969de419459
 文登TV2,rtmp://alivealone.litenews.cn/91/6aac1e7e4bb946bc9833ae1cbc13e67e
+吉林,#genre#
+吉视都市,http://58.245.106.39:9901/tsfile/live/1001_1.m3u8
+吉视影视,http://58.245.106.39:9901/tsfile/live/1000_1.m3u8
+吉视生活,http://58.245.106.39:9901/tsfile/live/1002_1.m3u8
+长影频道,http://58.245.106.39:9901/tsfile/live/1006_1.m3u8
 电影,#genre#
 橙子1台,http://pull-l3-cny.douyincdn.com/live/stream-112618jkftu28080221221240hdcztv12135837529.m3u8
 橙子2台,http://pull-l3-cny.douyincdn.com/live/stream-113356tvb1523868316660llgu2172583690.m3u8
