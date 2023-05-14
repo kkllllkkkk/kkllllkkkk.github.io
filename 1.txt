@@ -259,7 +259,7 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 橙子7台,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213wwmm9032156.m3u8
 橙子8台,http://pull-l3-cny.douyincdn.com/live/stream-112258llfea68080221221240hdbkhs12137296618.m3u8
 星城,https://cn-jssz-cm-02-33.bilivideo.com/live-bvc/888586/live_425917753_27525262.m3u8
-北海电信酒店源,#genre#
+广西酒店源,#genre#
 CETV1,http://204bae1.123nat.com:66/test/gxjd/gxjd.php?id=1
 CCTV16,http://204bae1.123nat.com:66/test/gxjd/gxjd.php?id=2
 动作电影,http://204bae1.123nat.com:66/test/gxjd/gxjd.php?id=3
