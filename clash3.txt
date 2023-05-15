@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-05-11 13:55:10
+# 创建时间：2023-05-15 16:05:50
 # 使用模版：V2RaySE 默认模版
-# 节点数量：3
+# 节点数量：10
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -24,6 +24,13 @@ proxies:
   - {"name":"replit-vmess_1","type":"vmess","server":"qingfeng2.kkllllkkkk.repl.co","port":443,"cipher":"auto","uuid":"b242cbda-522a-4bb9-8250-1e7da7144045","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/b242cbda-522a-4bb9-8250-1e7da7144045-vm","headers":{"host":"qingfeng2.kkllllkkkk.repl.co"}}}
   - {"name":"replit-vmess_2","type":"vmess","server":"Blank-Repl1.kkllllkkkk1.repl.co","port":443,"cipher":"auto","uuid":"88426273-96ac-4681-88f1-b751a7bdb7b0","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/88426273-96ac-4681-88f1-b751a7bdb7b0-vm","headers":{"host":"Blank-Repl1.kkllllkkkk1.repl.co"}}}
   - {"name":"replit-vmess_3","type":"vmess","server":"vmvltrssso-nginx-pro.kkllllkkkk2.repl.co","port":443,"cipher":"auto","uuid":"0971ba02-9497-4d09-91c5-0ee2db888e54","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/0971ba02-9497-4d09-91c5-0ee2db888e54-vm","headers":{"host":"vmvltrssso-nginx-pro.kkllllkkkk2.repl.co"}}}
+  - {"name":"replit-vmess_4","type":"vmess","server":"hasdhf.kkllllkkkk3.repl.co","port":443,"cipher":"auto","uuid":"eba739c5-f329-4812-8952-4f7243d0075a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/eba739c5-f329-4812-8952-4f7243d0075a-vm","headers":{"host":"hasdhf.kkllllkkkk3.repl.co"}}}
+  - {"name":"replit-vmess_5","type":"vmess","server":"jkhghj.kkllllkkkk4.repl.co","port":443,"cipher":"auto","uuid":"60825edc-83a3-4599-9d7a-d38b36630d54","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/60825edc-83a3-4599-9d7a-d38b36630d54-vm","headers":{"host":"jkhghj.kkllllkkkk4.repl.co"}}}
+  - {"name":"replit-vmess_6","type":"vmess","server":"cxvxcv.kkllllkkkk5.repl.co","port":443,"cipher":"auto","uuid":"54360475-623b-417a-985c-e69c914c21f8","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/54360475-623b-417a-985c-e69c914c21f8-vm","headers":{"host":"cxvxcv.kkllllkkkk5.repl.co"}}}
+  - {"name":"replit-vmess_7","type":"vmess","server":"ghjgh.kkllllkkkk6.repl.co","port":443,"cipher":"auto","uuid":"08be4095-db02-4148-badf-1575eb73cea2","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/08be4095-db02-4148-badf-1575eb73cea2-vm","headers":{"host":"ghjgh.kkllllkkkk6.repl.co"}}}
+  - {"name":"replit-vmess_8","type":"vmess","server":"sdasdgbg.kkllllkkkk8.repl.co","port":443,"cipher":"auto","uuid":"8c1e62e6-9e24-4284-b50f-de78cdc36483","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8c1e62e6-9e24-4284-b50f-de78cdc36483-vm","headers":{"host":"sdasdgbg.kkllllkkkk8.repl.co"}}}
+  - {"name":"replit-vmess_9","type":"vmess","server":"zxcvbg.kkllllkkkk9.repl.co","port":443,"cipher":"auto","uuid":"abee55b3-26d6-4928-9869-ad0189db37ab","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/abee55b3-26d6-4928-9869-ad0189db37ab-vm","headers":{"host":"zxcvbg.kkllllkkkk9.repl.co"}}}
+  - {"name":"replit-vmess_10","type":"vmess","server":"xddggh.kkllllkkkk10.repl.co","port":443,"cipher":"auto","uuid":"9cd041f6-0f2e-4d5c-8c16-0536a0ec35a1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/9cd041f6-0f2e-4d5c-8c16-0536a0ec35a1-vm","headers":{"host":"xddggh.kkllllkkkk10.repl.co"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -33,6 +40,13 @@ proxy-groups:
       - replit-vmess_1
       - replit-vmess_2
       - replit-vmess_3
+      - replit-vmess_4
+      - replit-vmess_5
+      - replit-vmess_6
+      - replit-vmess_7
+      - replit-vmess_8
+      - replit-vmess_9
+      - replit-vmess_10
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -42,6 +56,13 @@ proxy-groups:
       - replit-vmess_1
       - replit-vmess_2
       - replit-vmess_3
+      - replit-vmess_4
+      - replit-vmess_5
+      - replit-vmess_6
+      - replit-vmess_7
+      - replit-vmess_8
+      - replit-vmess_9
+      - replit-vmess_10
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -51,6 +72,13 @@ proxy-groups:
       - replit-vmess_1
       - replit-vmess_2
       - replit-vmess_3
+      - replit-vmess_4
+      - replit-vmess_5
+      - replit-vmess_6
+      - replit-vmess_7
+      - replit-vmess_8
+      - replit-vmess_9
+      - replit-vmess_10
   - name: 📲 电报信息
     type: select
     proxies:
@@ -59,6 +87,13 @@ proxy-groups:
       - replit-vmess_1
       - replit-vmess_2
       - replit-vmess_3
+      - replit-vmess_4
+      - replit-vmess_5
+      - replit-vmess_6
+      - replit-vmess_7
+      - replit-vmess_8
+      - replit-vmess_9
+      - replit-vmess_10
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -67,6 +102,13 @@ proxy-groups:
       - replit-vmess_1
       - replit-vmess_2
       - replit-vmess_3
+      - replit-vmess_4
+      - replit-vmess_5
+      - replit-vmess_6
+      - replit-vmess_7
+      - replit-vmess_8
+      - replit-vmess_9
+      - replit-vmess_10
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -75,6 +117,13 @@ proxy-groups:
       - replit-vmess_1
       - replit-vmess_2
       - replit-vmess_3
+      - replit-vmess_4
+      - replit-vmess_5
+      - replit-vmess_6
+      - replit-vmess_7
+      - replit-vmess_8
+      - replit-vmess_9
+      - replit-vmess_10
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -100,6 +149,13 @@ proxy-groups:
       - replit-vmess_1
       - replit-vmess_2
       - replit-vmess_3
+      - replit-vmess_4
+      - replit-vmess_5
+      - replit-vmess_6
+      - replit-vmess_7
+      - replit-vmess_8
+      - replit-vmess_9
+      - replit-vmess_10
 
 rules:
 # 本地/局域网地址
