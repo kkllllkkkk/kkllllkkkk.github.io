@@ -1,3 +1,14 @@
+厦门,#genre#
+厦门鼓浪屿,https://gcksc.v.kcdnvip.com/gc/gly01_1/index.m3u8?contentid=2820180516001#http://gctxyc.liveplay.myqcloud.com/gc/gly01_1/index.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/gly01_1_md.m3u8#http://gcksc.v.kcdnvip.com/gc/gly01_1/index.m3u8#http://gccncc.v.wscdns.com/gc/gly01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/gly01_1/index.m3u8#http://gctxyc.liveplay.myqcloud.com/gc/gly01_1_md.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/gly01_1/index.m3u8#http://gcksc.v.kcdnvip.com/gc/gly01_1/index.m3u8
+厦门卫视,http://39.134.116.30/PLTV/88888888/224/3221226199/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226199/index.m3u8?zfud#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m3u8?zfud#http://youguan.gq/hoge.php?id=xmws#http://39.135.138.58:18890/PLTV/88888888/224/3221226199/index.m3u8?zfud#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m3u8?zfud#http://111.40.196.9/PLTV/88888888/224/3221225643/index.m3u8?zfud#http://120.84.96.89:808/hls/156/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226199/index.m3u8?zfud#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m3u8?zfud#https://live.v1.mk/api/ghyx.php?id=XiaMenHD_2000#http://diyp.gq/hoge.php?id=xmws#http://39.135.138.58:18890/TVOD/88888888/224/3221226199/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226199/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221226199/index.m3u8#http://111.20.35.103:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=#http://39.135.138.60:18890/PLTV/88888910/224/3221226199/index.m3u8#http://39.134.136.161:6610/000000001000/1000000005000266006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3$ITV#http://42.49.129.136:808/hls/49/index.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-xiamenstv/1.m3u8?zfud#http://221.0.78.198:1681/hls/10263/index.m3u8#http://120.84.96.87:808/hls/156/index.m3u8#https://live.v1.mk/aishang/xmws#http://39.134.136.161:6610/000000001000/1000000005000266006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
+厦门1,http://youguan.gq/hoge.php?id=xmtv1#http://diyp.gq/hoge.php?id=xmtv1
+厦门2,http://youguan.gq/hoge.php?id=xmtv2
+厦门移动,http://youguan.gq/hoge.php?id=xmyd#http://diyp.gq/hoge.php?id=xmyd
+厦门风哥茶馆杂谈,http://youguan.gq/6room.php?id=998900&uid=65134981
+厦门音乐广播,http://youguan.gq/ytradio.php?id=1897&type=fujian
+厦门卫视高清,http://jylt.jdshipin.com:808/hls/156/index.m3u8#https://live.v1.mk/api/fjgd.php?id=xm1
+厦门卫视FHD,http://zb-iptv.gq/hoge.php?id=xmws
+厦门卫视 标清,https://live.v1.mk/api/ghyx.php?id=XiaMenHD_2000
 江苏,#genre#
 江苏张家港综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 江苏连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
