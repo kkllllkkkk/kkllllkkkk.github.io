@@ -1,3 +1,173 @@
+延边,#genre#
+延边1[1280*720],http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
+延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8#http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?#http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8#http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8#http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8##http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8#@http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8#@rtmp://202.111.175.166/tslsChannelLive/MJqQNlZ/live
+延边汉语综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8#http://live.ybtvyun.com/video/s10006-225599f0e2ce/index.m3u8#http://live.ybtvyun.com/video/s10006-b173ddcd105b/index.m3u8#http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8#http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8##http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8#@http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8#@rtmp://202.111.175.166/tslsChannelLive/DzyEoXu/live
+延边文化,http://live.ybtvyun.com/video/s10006-3b9a54a11148/index.m3u8
+延边朝语,http://live.ybtvyun.com/video/s10006-bcdce1b448cc/index.m3u8
+延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?#http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild#http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild#http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjil
+延边卫视,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8#http://live.ybtvyun.com/video/s10016-6297f9f7a2d5/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?blog.ntnas.top#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8#http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-yanbianstv/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8$标清576P#http://39.135.138.59:18890/PLTV/88888888/224/3221226201/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226220/1.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8##http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8#http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8#http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8#http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226555/10000100000000060000000000599471_0.smil#http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8#http://39.135.138.58:18890/TVOD/88888888/224/3221226201/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8#http://xtream-ie.com/1uZkGSqvpV/2Q2WVoLJkL/keyJ1cmwiOiJodHRwOi8vbGl2ZS55YnR2eXVuLmNvbS92aWRlby9zMTAwMTYtNmYwZGZkOTc5MTJmL2luZGV4Lm0zdTgiLCJpZCI6MjEwOH0%3D/fast#http://xtream-ie.com/1uZkGSqvpV/2Q2WVoLJkL/keyJ1cmwiOiJodHRwOi8vbGl2ZS55YnR2eXVuLmNvbS92aWRlby9zMTAwMTYtNmYwZGZkOTc5MTJmL2luZGV4Lm0zdTgiLCJpZCI6MjExMH0%3D/fast#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8#http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8#http://live.ybtvyun.com/video/s10006-b316b550fd1f/index.m3u8#http://111.20.35.103:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS55YnR2eXVuLmNvbS92aWRlby9zMTAwMTYtNmYwZGZkOTc5MTJmL2luZGV4Lm0zdTgiLCJpZCI6MjEwOH0%3D/fast#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS55YnR2eXVuLmNvbS92aWRlby9zMTAwMTYtNmYwZGZkOTc5MTJmL2luZGV4Lm0zdTgiLCJpZCI6MjExMH0%3D/fast#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS55YnR2eXVuLmNvbS92aWRlby9zMTAwMTYtNmYwZGZkOTc5MTJmL2luZGV4Lm0zdTgiLCJpZCI6MjExMn0%3D/fast
+1046延边旅游生活广播,http://youguan.gq/yfm.php?id=1870
+延边朝语综合,http://live.ybtvyun.com/video/s10006-b0e09c086590/index.m3u8
+延边卫视[768*576],http://lcx-olt.8866.org:8181/tsfile/live/1131_1.m3u8
+吉林延边旅游生活,http://ls.qingting.fm/live/5022438/64k.m3u8
+延边卫视[1047*576],http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8?
+延边新闻广播,http://youguan.gq/ytradio.php?id=548&type=jilin
+吉林·延边新闻综合 [Geo-blocked],http://stream2.jlntv.cn/jlyb/sd/live.m3u8
+延边文艺生活广播,http://youguan.gq/ytradio.php?id=549&type=jilin
+延边交通文艺广播,http://youguan.gq/ytradio.php?id=1189&type=jilin
+延边广电,http://live.ybtvyun.com/video/s10016-dac6f31db68f/index.m3u8
+延边卫视 (720p)[1280*720][1280*720][1280*720],http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+吉林延边卫视,http://39.134.136.161:6610/000000001000/2000000003000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/1000000005000266008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/2000000003000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=3#http://39.134.136.161:6610/000000001000/1000000005000266008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=3
+延边新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+浙江,#genre#
+浙江数码,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江留学世界,http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8#http://hw-m-l.cztv.com:80/channels/lantian/channel09/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817?
+浙江绍兴公共台,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+浙江乌镇蓝印花布,https://gcbsc.v.live.baishancdnx.cn/gc/zjwzlyhb_1/index.m3u8#https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1_md.m3u8#https://gcbdc.a.bdydns.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
+浙江温州雁荡山,https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8
+浙江教育[1920*1080],http://hw-m-l.cztv.com:80/channels/lantian/channel04/1080p.m3u8
+浙江经济[1920*1080],http://hw-m-l.cztv.com:80/channels/lantian/channel03/1080p.m3u8
+浙江钱江[1920*1080],http://hw-m-l.cztv.com:80/channels/lantian/channel02/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+浙江民生休闲,http://hw-m-l.cztv.com:80/channels/lantian/channel06/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8#http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8#http://api.52tb.xyz/info?id=431&token=20221028cxyi#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?blog.ntnas.top#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8##http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vaHctbS1sLmN6dHYuY29tL2NoYW5uZWxzL2xhbnRpYW4vY2hhbm5lbDAwNi8xMDgwcC5tM3U4IiwiaWQiOjQwNn0%3D/fast#http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed#http://183.129.242.178:3333/tsfile/live/1008_1.m3u8#http://api3.52tb.xyz/info?id=431&token=20221127jxwhhemby
+浙江少儿,http://hw-m-l.cztv.com:80/channels/lantian/channel08/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp;t=1577153787#http://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787$高清720P#http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb88?#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787?#https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1BvTfDQa4VVtLBkknXYZHy67oE61SMpZNe&t=1577153787#http://223.95.111.98:5555/newlive/live/hls/23/live.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?blog.ntnas.top#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#@http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8##http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#@http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://183.129.242.178:3333/tsfile/live/1009_1.m3u8
+浙江国际,http://hw-m-l.cztv.com:80/channels/lantian/channel10/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp;t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884?#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#rtmp://live.sctvcloud.com/live/zhaojue#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?blog.ntnas.top#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#@http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8##http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=157715388#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed#http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450#http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2
+浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp;t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?$超清1080P#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432?#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?$电信超清1080P#http://223.95.111.98:5555/newlive/live/hls/21/live.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&amp%3Bt=1577153432#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?$1080P#http://183.129.242.178:3333/tsfile/live/1006_1.m3u8
+浙江民生,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp;t=1577153787
+浙江公共FHD,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&amp;t=1577153743
+浙江6套FHD,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&amp;t=1577153702#http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&amp%3Bt=1577153702
+浙江国际FHD,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&amp;t=1577153884#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&amp%3Bt=1577153884
+浙江乌镇西市河,http://gctxyc.liveplay.myqcloud.com/gc/zjwzbblh_1_md.m3u8
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8#http://api.52tb.xyz/info?id=436&token=20221028cxyi#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8##http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#@http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vaHctbS1sLmN6dHYuY29tL2NoYW5uZWxzL2xhbnRpYW4vY2hhbm5lbDAwMi8xMDgwcC5tM3U4IiwiaWQiOjQwN30%3D/fast#http://api3.52tb.xyz/info?id=436&token=20221127jxwhhemby
+浙江休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?$超清1080P#http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?$电信超清1080P#http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?$1080P
+浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?$超清1080P#http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?$电信超清1080P#http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?$1080P#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vaHctbS1sLmN6dHYuY29tL2NoYW5uZWxzL2xhbnRpYW4vY2hhbm5lbDAwMy8xMDgwcC5tM3U4IiwiaWQiOjQwOH0%3D/fast
+浙江杭州云栖小镇,http://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/wygjt2_1/index.m3u8#http://gctxyc.liveplay.myqcloud.com/gc/wygjt2_1/index.m3u8#http://gcksc.v.kcdnvip.com/gc/wygjt2_1/index.m3u8#http://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/wygjt2_1/index.m3u8
+浙江杭州千岛湖,http://gcksc.v.kcdnvip.com/gc/caqdh_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/caqdh_1/index.m3u8#https://gcbdc.a.bdydns.com/gc/caqdh_1/index.m3u8?contentid=2820180516001#http://gcksc.v.kcdnvip.com/gc/caqdh_1/index.m3u8#http://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/caqdh_1/index.m3u8
+浙江国际[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+浙江民生[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+浙江好易购,http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?blog.ntnas.top
+浙江教育科技,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8#http://125.210.152.19:9120/live/hzgq-zjjygq-h264.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#http://223.95.111.98:5555/newlive/live/hls/20/live.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?blog.ntnas.top#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8##http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#@http://yd-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8?zzhed
+浙江卫视,https://hw-m-l.cztv.com/channels/lantian/channel01/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k#http://123.178.206.42:8000/hls/17/index.m3u8#http://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8#http://61.190.178.31:808/hls/29/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?blog.ntnas.top#http://123.6.9.146/live/jz-zhejiangweishi/live.m3u8#http://hnhs.chinashadt.com:1936/hnhs/tv4.stream/playlist.m3u8#http://222.188.112.68:10000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://223.95.111.98:5555/newlive/live/hls/17/live.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225703/1.m3u8#http://112.46.85.2:808/hls/34/index.m3u8#http://mayi-tv.ml/iqy.php?id=180063422&tk=5155aab9#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u81080p.m3u8#http://59.51.68.40:1936/live/zjws/playlist.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225744/1653137040-1-1648950003.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225703/index.m3u8#http://39.135.138.58:18890/TVOD/88888888/224/3221225744/index.m3u8#http://39.135.138.59:18890/PLTV/88888888/224/3221225744/index.m3u8#http://103.95.24.37:880/ZJWS.m3u8#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8#http://220.178.228.153:1935/live/zjws/playlist.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/540p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://222.175.159.226:808/hls/42/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://222.175.159.226:808/hls/42/index.m3u8#http://223.151.51.27:85//tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8?$源2#http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8?$源8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?$源6#http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?$源18#http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8?$源21#http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8?$源14#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#h#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8#http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.213.43.82:8888/newlive/live/hls/24/live.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k#http://39.135.138.60:18890/TVOD/88888910/224/3221225703/index.m3u8?/PLTV/.smil#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?blog.ntnas.top#http://39.135.138.58:18890/PLTV/88888888/224/3221225703/1653132080-1-1651283178.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8#https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000#http://iptva.cn/api/M3u8/Index?id=617&card=99982475359#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://39.134.136.205:6610/200000001898/460000089800010070/1.m3u8?IAS$海口移动#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8$超清1080P#http://39.135.138.58:18890/PLTV/88888910/224/3221225744/index.m3u8codeyj#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://39.135.138.60:18890/PLTV/88888888/224/3221225703/index.m3u8#http://39.135.138.60:18890/PLTV/88888888/224/3221225744/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8##http://39.134.116.30/PLTV/88888888/224/3221225703/index.m3u8#http://39.134.116.30/PLTV/88888888/224/3221225744/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225744/index.m3u8#http://183.196.25.171:808/hls/28/index.m3u8#http://117.14.55.102:18080/hls/32/index.m3u8#http://jiexi.bulisite.top/ysp.php?id=zjws#http://222.71.221.186:9901/tsfile/live/0124_1.m3u8#http://111.20.35.103:6610/yinhe/2/ch00000090990000001052/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=#http://120.84.96.87:808/hls/129/index.m3u8#http://cfss.cc/ds/cqyx/zhejiangHD.m3u8#https://cntv.dfkj.live/bestv.php?id=zjwshd8m/8000000#http://61.148.223.18:8888/newlive/live/hls/24/live.m3u8#http://111.59.63.32:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.0.78.198:1681/hls/10231/index.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8#http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8#http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8?blog.ntnas.top#http://162.19.247.76:22222/live/zhejiang/index.m3u8#http://39.134.136.132:6610/200000001898/460000089800010070/1.m3u8?IASHttpSessionId=OTT#http://hw-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://hw-m-l.cztv.com:80/channels/lantian/channel001/720p.m3u8#http://39.134.136.161:6610/000000001000/5000000004000007275/index.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/5000000010000017320/index.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/6000000001000032070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/1000000001000009806/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/1000000001000014260/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3$ITV#https://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8#http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=zhejiangHD_7000#http://42.49.129.136:808/hls/18/index.m3u8#http://tv.fanmingming.com/api/?id=zjws#http://39.134.136.205:6610/200000001898/460000089800010070/1.m3u8?IAS=#http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8#http://117.40.212.162:8888/newlive/live/hls/24/live.m3u8#http://111.20.35.103:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=#http://119.39.128.18:88/hls/42/index.m3u8#http://39.134.136.132:6610/200000001898/460000089800010070/1.m3u8?IAS#http://39.134.136.161:6610/000000001000/1000000001000009806/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3#http://39.134.136.161:6610/000000001000/1000000001000014260/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3#http://39.134.136.161:6610/000000001000/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3#http://39.134.136.161:6610/000000001000/5000000010000017320/index.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=3#http://39.134.136.161:6610/000000001000/6000000001000032070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=3#http://39.134.136.205:6610/200000001898/460000089800010070/1.m3u8?IAS#http://lu1.cc/itv/php/as.php?id=zjws#https://cntv.dfkj.live/aishang.php?id=zjwshd#https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000#http://220.182.45.198:20088/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8$江西宜春8M#http://youguan.gq/iqy.php?id=180063422&tk=5155aab9#http://cntv.sbs/live?id=zjws#http://58.205.220.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8#http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=6bb151ceccd2eb73ad6bf9e5bc7c7906&t=1683179836#http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=7d2e5ff57a2763ce4de15bb667810aac&t=1683179841#http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=7d2e5ff57a2763ce4de15bb667810aac#http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=6bb151ceccd2eb73ad6bf9e5bc7c7906#http://api3.52tb.xyz/info?id=22&token=20221127jxwhhemby#http://api3.52tb.xyz/info?id=73&token=20221127jxwhhemby#http://api3.52tb.xyz/info?id=124&token=20221127jxwhhemby#https://live.v1.mk/aishang/zjwshd#http://api2.52tb.xyz/info?id=22&token=20230218qkyjia#http://api2.52tb.xyz/info?id=73&token=20230218qkyjia#http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8?#http://113.207.84.199:8090/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8#http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8#http://39.135.138.58:18890/TVOD/88888888/224/3221225703/index.m3u8
+浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787##http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8
+浙江卫视 (1080p),http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#https://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江舟山东极岛,http://gcksc.v.kcdnvip.com/gc/djd01_1/index.m3u8#https://gc2ksc.v.kcdnvip.com/gc/djd01_1/index.m3u8?contentid=2820180516001#http://gcksc.v.kcdnvip.com/gc/djd01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/djd01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/djd01_1/index.m3u8#http://gctxyc.liveplay.myqcloud.com/gc/djd01_1/index.m3u8
+浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel05/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+浙江杭州之声,https://ls.qingting.fm/live/1134/64k.m3u8
+浙江杭州中波,https://ls.qingting.fm/live/1132/64k.m3u8
+浙江西湖之声,https://ls.qingting.fm/live/1163/64k.m3u8
+浙江温州经济,https://ls.qingting.fm/live/1157/64k.m3u8
+浙江温州交通,https://ls.qingting.fm/live/1156/64k.m3u8
+浙江温州音乐,https://ls.qingting.fm/live/1149/64k.m3u8
+浙江温州对农,https://ls.qingting.fm/live/1158/64k.m3u8
+浙江义乌交通,https://ls.qingting.fm/live/20533/64k.m3u8
+浙江音乐,https://ls.qingting.fm/live/20033/64k.m3u8
+浙江可乐台,https://ls.qingting.fm/live/1153/64k.m3u8
+浙江台州交通,https://ls.qingting.fm/live/1146/64k.m3u8
+浙江台州音乐,https://ls.qingting.fm/live/1144/64k.m3u8
+浙江仙居,https://ls.qingting.fm/live/5021908/64k.m3u8
+浙江桐乡,https://ls.qingting.fm/live/5021791/64k.m3u8
+浙江大潮,https://ls.qingting.fm/live/5022556/64k.m3u8
+浙江永嘉,https://ls.qingting.fm/live/15318231/64k.m3u8
+浙江FM龙游,https://ls.qingting.fm/live/15318359/64k.m3u8
+浙江三门,https://ls.qingting.fm/live/15318638/64k.m3u8
+浙江FM,https://ls.qingting.fm/live/5022061/64k.m3u8
+浙江玉环,https://ls.qingting.fm/live/20212390/64k.m3u8
+浙江瑞安,https://ls.qingting.fm/live/1143/64k.m3u8
+浙江温玲,https://ls.qingting.fm/live/4567/64k.m3u8
+浙江永康,https://ls.qingting.fm/live/5022570/64k.m3u8
+浙江乐活,https://ls.qingting.fm/live/20005/64k.m3u8
+浙江诸暨,https://ls.qingting.fm/live/5022482/64k.m3u8
+浙江慈溪,https://ls.qingting.fm/live/5021401/64k.m3u8
+浙江宁波交通,https://ls.qingting.fm/live/1140/64k.m3u8
+浙江宁波音乐,https://ls.qingting.fm/live/1142/64k.m3u8
+浙江宁波老少,https://ls.qingting.fm/live/1141/64k.m3u8
+浙江宁波经济,https://ls.qingting.fm/live/1152/64k.m3u8
+浙江溫州-雁蕩山,http://gctxyc.liveplay.myqcloud.com/gc/zjjsrsm_1/index.m3u8
+浙江公共,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743?
+浙江教育,http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?
+浙江易购,http://hw-m-l.cztv.com/channels/lantian/channel11/720p.m3u8?
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u83#http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江少儿[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=
+浙江衛視,http://115.149.139.141:10001/tsfile/live/1024_1.m3u8#http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
+浙江钱江台,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江杭州千島湖,http://gctxyc.liveplay.myqcloud.com/gc/caqdh_1/index.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#@http://yd-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?blog.ntnas.top#http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8##http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://183.129.242.178:3333/tsfile/live/1007_1.m3u8
+浙江经视,http://125.210.152.19:9120/live/hzgq-zjjsgq-h264.m3u8
+浙江钱江频道,http://125.210.152.19:9120/live/hzgq-qjpdgq-h264.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?blog.ntnas.top#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江华语之声,https://ls.qingting.fm/live/20505/64k.m3u8
+浙江浦江,https://ls.qingting.fm/live/5021924/64k.m3u8
+浙江少儿 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?checkedby:iptvcat.com#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?checkedby:iptvcat.net#https://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江国际 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?checkedby:iptvcat.com#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?checkedby:iptvcat.net#https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+浙江钱江 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?checkedby:iptvcat.com#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?checkedby:iptvcat.net#https://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江寧波-北侖區白峰街,http://gctxyc.liveplay.myqcloud.com/gc/syns01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/syns01_1/index.m3u8
+浙江之声,http://youguan.gq/yfm.php?id=633#http://youguan.gq/ytradio.php?id=459&type=zhejiang
+浙江城市之声,http://youguan.gq/yfm.php?id=638#http://youguan.gq/ytradio.php?id=463&type=zhejiang
+浙江卫视HD,http://39.135.138.58:18890/ysten-businessmobile/live/hdzhejiangstv/1.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
+浙江6,http://223.95.111.98:5555/newlive/live/hls/22/live.m3u8
+浙江上星,http://223.95.111.98:5555/newlive/live/hls/19/live.m3u8
+浙江乌镇龙形田,https://gc2ksc.v.kcdnvip.com/gc/zjwzlxt_1/index.m3u8?BR=md&region=shanghai
+浙江乌镇乌镇全景,https://gcbdc.a.bdydns.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+浙江频道-浙江国际频道-源1,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?k=3bace11e14f21605fe174b4035666a1a&t=1623742663
+浙江卫视高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8#http://youguan.gq/guoma.php?id=zjwshd#http://39.134.116.30:8080/PLTV/88888910/224/3221225744/index.m3u8#http://113.207.84.197:8090/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8#http://113.207.84.197:8090/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8#https://live.v1.mk/api/cqyx.php?id=zhejiangHD#https://live.v1.mk/api/fjgd.php?id=zjws#https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8#http://api.52tb.xyz/info?id=434&token=20221028cxyi#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?blog.ntnas.top#http://125.210.152.19:9120/live/hzgq-zjnewsgq-h264.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#@http://yd-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8#@http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?$1080P#http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?#http://api3.52tb.xyz/info?id=434&token=20221127jxwhhemby#http://api2.52tb.xyz/info?id=434&token=20230218qkyjia
+14浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?WithCaption
+16浙江卫视|回看,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?WithCaption
+15浙江卫视|回看,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8?WithCaption
+浙江钱江2,http://125.210.152.19:9120/live/hzgq-qjtvgq-h264.m3u8
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed
+来自浙江的主播,http://youguan.gq/yy.php?id=65025322
+ahlakid.com - 浙江国际 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?checkedby:ahlakid.com
+ahlakid.com - 浙江少儿 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?checkedby:ahlakid.com
+ahlakid.com - 浙江钱江 (1080p) [Not 24/7],http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?checkedby:ahlakid.com
+浙江卫视[1920*1080],http://lcx-olt.8866.org:8181/tsfile/live/1066_1.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8
+浙江卫视[768*576],http://lcx-olt.8866.org:8181/tsfile/live/1169_1.m3u8
+ 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?zzhed
+浙江留学频道,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&amp%3Bt=1577153817
+浙江少儿频道,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp%3Bt=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb88#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb88#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vaHctbS1sLmN6dHYuY29tL2NoYW5uZWxzL2xhbnRpYW4vY2hhbm5lbDAwOC8xMDgwcC5tM3U4IiwiaWQiOjQxMH0%3D/fast#http://api3.52tb.xyz/info?id=433&token=20221127jxwhhemby
+ 浙江乌镇蓝印花布,https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+浙江音乐调频,http://youguan.gq/yfm.php?id=637
+浙江经济广播,http://youguan.gq/ytradio.php?id=460&type=zhejiang
+浙江交通之声,http://youguan.gq/ytradio.php?id=461&type=zhejiang
+浙江民生996,http://youguan.gq/ytradio.php?id=462&type=zhejiang#http://youguan.gq/yfm.php?id=639
+浙江,http://hw-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+浙江杭州生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
+浙江杭州综合,http://183.129.242.178:3333/tsfile/live/1015_1.m3u8
+浙江杭州体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+浙江宁波-1,http://183.129.242.178:3333/tsfile/live/1010_1.m3u8
+浙江宁波-2,http://183.129.242.178:3333/tsfile/live/1011_1.m3u8
+浙江宁波-4,http://183.129.242.178:3333/tsfile/live/1013_1.m3u8
+浙江宁波-3,http://183.129.242.178:3333/tsfile/live/1012_1.m3u8
+浙江宁波-5,http://183.129.242.178:3333/tsfile/live/1014_1.m3u8
+03浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?#http://39.135.138.60:18890/TVOD/88888910/224/3221225703/index.m3u8
+浙江卫视-8M1080,http://gdpy.f3322.net:9901/tsfile/live/1091_1.m3u8
+浙江影视 (720p),http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8#https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+浙江新闻频道,http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vaHctbS1sLmN6dHYuY29tL2NoYW5uZWxzL2xhbnRpYW4vY2hhbm5lbDAwNy8xMDgwcC5tM3U4IiwiaWQiOjQwNX0%3D/fast
+浙江科教影视,http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vaHctbS1sLmN6dHYuY29tL2NoYW5uZWxzL2xhbnRpYW4vY2hhbm5lbDAwNC8xMDgwcC5tM3U4IiwiaWQiOjQwOX0%3D/fast
+浙江之江纪录,http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vaHctbS1sLmN6dHYuY29tL2NoYW5uZWxzL2xhbnRpYW4vY2hhbm5lbDEyLzEwODBwLm0zdTgiLCJpZCI6MTc3Nn0%3D/fast
+浙江某频道,http://39.134.136.161:6610/000000001000/2000000004000000001/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000001&livemode=1&stbId=3$ITV
+浙江卫视FHD,http://39.135.138.58:18890/PLTV/88888910/224/3221225744/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8codeyj
+浙江卫视|蓝光,http://39.135.138.58:18890/PLTV/88888888/224/3221225744/165313704011648950003.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225703/165313208011651283178.m3u8
+浙江经济生活 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江民生休闲 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江6套 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江公共 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江国际 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江留学 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+浙江杭州云栖小镇(直播中国官方-1080P),http://gcksc.v.kcdnvip.com/gc/wygjt2_1/index.m3u8
+浙江卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000295503.m3u8
+浙江卫视 8M,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000#https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+FM93浙江交通之声,http://youguan.gq/yfm.php?id=634
+浙江新闻广播,http://youguan.gq/ytradio.php?id=921&type=zhejiang
+浙江国际频道,http://api3.52tb.xyz/info?id=435&token=20221127jxwhhemby
+浙江教科频道,http://api3.52tb.xyz/info?id=432&token=20221127jxwhhemby
+浙江经视频道,http://api3.52tb.xyz/info?id=437&token=20221127jxwhhemby
+tvg-id tvg-name tvg-logo group-title,浙江卫视,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000295503.m3u8
+浙江卫视_3.2M1080,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
+浙江舟山东极岛(回放),https://gccncc.v.wscdns.com/gc/djd01_1/index.m3u8
+浙江乌镇西市河(回放),https://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
+浙江卫视HQ,http://39.135.138.60:18890/TVOD/88888910/224/3221225703/index.m3u8$江西移动#http://39.135.138.60:18890/TVOD/88888910/224/3221225744/index.m3u8$江西移动
+浙江|杭州综合,http://api2.52tb.xyz/info?id=441&token=20230218htjgzi
 卫视,#genre#
 浙江卫视,https://hw-m-l.cztv.com/channels/lantian/channel01/720p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k#http://123.178.206.42:8000/hls/17/index.m3u8#http://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8#http://61.190.178.31:808/hls/29/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8?#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?blog.ntnas.top#http://123.6.9.146/live/jz-zhejiangweishi/live.m3u8#http://hnhs.chinashadt.com:1936/hnhs/tv4.stream/playlist.m3u8#http://222.188.112.68:10000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://223.95.111.98:5555/newlive/live/hls/17/live.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8#http://112.46.85.2:808/hls/34/index.m3u8#http://mayi-tv.ml/iqy.php?id=180063422&tk=5155aab9#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u81080p.m3u8#http://59.51.68.40:1936/live/zjws/playlist.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225744/1653137040-1-1648950003.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225703/index.m3u8#http://39.135.138.59:18890/PLTV/88888888/224/3221225744/index.m3u8#http://103.95.24.37:880/ZJWS.m3u8#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8#http://220.178.228.153:1935/live/zjws/playlist.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/540p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://222.175.159.226:808/hls/42/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://222.175.159.226:808/hls/42/index.m3u8#http://223.151.51.27:85//tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8?$源2#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?$源6#http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?$源18#http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8?$源21#http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8?$源14#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#h#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8#http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.213.43.82:8888/newlive/live/hls/24/live.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?blog.ntnas.top#https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000#http://iptva.cn/api/M3u8/Index?id=617&card=99982475359#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://39.134.136.205:6610/200000001898/460000089800010070/1.m3u8?IAS$海口移动#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8$超清1080P#http://39.135.138.58:18890/PLTV/88888910/224/3221225744/index.m3u8codeyj#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://39.135.138.60:18890/PLTV/88888888/224/3221225703/index.m3u8#http://39.135.138.60:18890/PLTV/88888888/224/3221225744/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8##http://39.134.116.30/PLTV/88888888/224/3221225744/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225744/index.m3u8#http://183.196.25.171:808/hls/28/index.m3u8#http://117.14.55.102:18080/hls/32/index.m3u8#http://jiexi.bulisite.top/ysp.php?id=zjws#http://111.20.35.103:6610/yinhe/2/ch00000090990000001052/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=#http://cfss.cc/ds/cqyx/zhejiangHD.m3u8#https://cntv.dfkj.live/bestv.php?id=zjwshd8m/8000000#http://61.148.223.18:8888/newlive/live/hls/24/live.m3u8#http://111.59.63.32:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.0.78.198:1681/hls/10231/index.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8#http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8#http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8#http://live.ybtvyun.com/video/s10016-6297f9f7a2d5/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?blog.ntnas.top#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8#http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-yanbianstv/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8$标清576P#http://39.135.138.59:18890/PLTV/88888888/224/3221226201/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226220/1.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8##http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8#http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8#http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8#http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226555/10000100000000060000000000599471_0.smil#http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8#http://39.135.138.58:18890/TVOD/88888888/224/3221226201/index.m3u8#http://xtream-ie.com/1uZkGSqvpV/2Q2WVoLJkL/keyJ1cmwiOiJodHRwOi8vbGl2ZS55YnR2eXVuLmNvbS92aWRlby9zMTAwMTYtNmYwZGZkOTc5MTJmL2luZGV4Lm0zdTgiLCJpZCI6MjEwOH0%3D/fast#http://xtream-ie.com/1uZkGSqvpV/2Q2WVoLJkL/keyJ1cmwiOiJodHRwOi8vbGl2ZS55YnR2eXVuLmNvbS92aWRlby9zMTAwMTYtNmYwZGZkOTc5MTJmL2luZGV4Lm0zdTgiLCJpZCI6MjExMH0%3D/fast#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8#http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8#http://live.ybtvyun.com/video/s10006-b316b550fd1f/index.m3u8
@@ -641,6 +811,43 @@ CCTV13,http://1.183.141.194:8000/hls/13/index.m3u8
 CCTV14,http://1.183.141.194:8000/hls/14/index.m3u8
 CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 济南,#genre#
+济南历下融媒2,https://jsylivealone302.iqilu.com:443/lixia/lixia_tv02/index.m3u8#https://jsylivealone302.iqilu.com:443/lixia/lixia_tv02/index.m3u8?
+济南历下融媒1,https://jsylivealone302.iqilu.com:443/lixia/lixia_tv01/index.m3u8#https://jsylivealone302.iqilu.com:443/lixia/lixia_tv01/index.m3u8?
+济南历下融媒3,https://jsylivealone302.iqilu.com:443/lixia/lixia_tv03/index.m3u8#https://jsylivealone302.iqilu.com:443/lixia/lixia_tv03/index.m3u8?
+济南历下融媒4,https://jsylivealone302.iqilu.com:443/lixia/lixia_tv04/index.m3u8#https://jsylivealone302.iqilu.com:443/lixia/lixia_tv04/index.m3u8?
+济南千佛山望泉城,https://gcbsc.v.live.baishancdnx.cn/gc/tms04_1/index.m3u8#https://gcbsc.v.live.baishancdnx.cn/gc/taishan05_1/index.m3u8?contentid=2820180516001
+济南教育,http://39.134.116.30:8080/PLTV/88888910/224/3221225654/index.m3u8#http://221.0.78.198:1681/hls/10286/index.m3u8
+济南鲁中,http://maomao.kandiantv.cn/hoge.php?id=jnlz#http://youguan.gq/hoge.php?id=jnlz#http://124.222.238.146:320/hoge.php?id=jnlz#http://diyp.gq/hoge.php?id=jnlz#http://live.cooltv.top/tv/jinan.php?id=jnlz#https://ts4.ijntv.cn/ltv1/playlist.m3u8#http://v2.91kds.cn/b9/sdjntv1.m3u8?id=sdlwtv1&auth=rinimabi
+济南娱乐,http://221.0.78.198:1681/hls/10283/index.m3u8#http://v2.91kds.cn/b9/sdjntv1.m3u8?id=sdjnyl&auth=rinimabi#http://youguan.gq/hoge.php?id=jnyl#http://diyp.gq/hoge.php?id=jnyl#http://www.lu1.cc/itv/sdtv/jntv2.php?id=jnyl
+济南都市,http://221.0.78.198:1681/hls/10280/index.m3u8#http://v2.91kds.cn/b9/sdjntv1.m3u8?id=sdjnds&auth=rinimabi#http://youguan.gq/hoge.php?id=jnds#http://124.222.238.146:320/hoge.php?id=jnds#http://lu1.cc/itv/sdtv/jntv2.php?id=jnds#http://live.cooltv.top/tv/jinan.php?id=jnds#http://diyp.gq/hoge.php?id=jnds#http://www.lu1.cc/itv/sdtv/jntv2.php?id=jnds
+济南交旅体育,http://221.0.78.198:1681/hls/10282/index.m3u8
+济南生活,http://221.0.78.198:1681/hls/10281/index.m3u8#http://v2.91kds.cn/b9/sdjntv1.m3u8?id=sdjnsh&auth=rinimabi#http://youguan.gq/hoge.php?id=jnsh#http://lu1.cc/itv/sdtv/jntv2.php?id=jnsh#http://live.cooltv.top/tv/jinan.php?id=jnsh#http://diyp.gq/hoge.php?id=jnsh#http://lu1.cc/itv/sdtv/jntv2.php?id=jnsh##http://www.lu1.cc/itv/sdtv/jntv2.php?id=jnsh
+济南少儿,http://221.0.78.198:1681/hls/10285/index.m3u8#http://v2.91kds.cn/b9/sdjntv1.m3u8?id=sdjnse&auth=rinimabi#http://youguan.gq/hoge.php?id=jnse#http://live.cooltv.top/tv/jinan.php?id=jnse#http://diyp.gq/hoge.php?id=jnse#http://www.lu1.cc/itv/sdtv/jntv2.php?id=jnse
+山东济南故事,https://ls.qingting.fm/live/1672/64k.m3u8
+山东济南音乐,https://ls.qingting.fm/live/1671/64k.m3u8
+山东济南经济,https://ls.qingting.fm/live/1668/64k.m3u8
+山东济南交通,https://ls.qingting.fm/live/1669/64k.m3u8
+山东济南文艺,https://ls.qingting.fm/live/1670/64k.m3u8
+济南综合,http://v2.91kds.cn/b9/sdjntv1.m3u8?id=sdjnxw&auth=rinimabi
+济南文旅,http://v2.91kds.cn/b9/sdjntv1.m3u8?id=sdjnys&auth=rinimabi
+济南影视,http://youguan.gq/hoge.php?id=jnys#http://124.222.238.146:320/hoge.php?id=jnys#http://diyp.gq/hoge.php?id=jnys
+济南商务,http://youguan.gq/hoge.php?id=jnsw#http://124.222.238.146:320/hoge.php?id=jnsw#http://diyp.gq/hoge.php?id=jnsw
+济南科教,http://youguan.gq/hoge.php?id=jnkj#http://diyp.gq/hoge.php?id=jnkj
+济南网,http://youguan.gq/hoge.php?id=jnqtx#http://diyp.gq/hoge.php?id=jnqtx
+济南移动电视,http://youguan.gq/hoge.php?id=jnyd#http://124.222.238.146:320/hoge.php?id=jnyd#http://diyp.gq/hoge.php?id=jnyd
+济南地铁电视,http://youguan.gq/hoge.php?id=jnyddt#http://diyp.gq/hoge.php?id=jnyddt
+济南城市电视,http://youguan.gq/hoge.php?id=jnydcs#http://124.222.238.146:320/hoge.php?id=jnydcs
+济南经济广播,http://youguan.gq/yfm.php?id=800#http://youguan.gq/ytradio.php?id=719&type=shandong
+济南新闻综合,http://124.222.238.146:320/hoge.php?id=jnxwzh#http://lu1.cc/itv/sdtv/jntv2.php?id=jnxw#http://live.cooltv.top/tv/jinan.php?id=jnxw#http://diyp.gq/hoge.php?id=jnxwzh#http://youguan.gq/hoge.php?id=jnxwzh#http://www.lu1.cc/itv/sdtv/jntv2.php?id=jnxw#http://221.0.78.198:1681/hls/10279/index.m3u8
+济南新闻综合高清,http://124.222.238.146:320/hoge.php?id=jnxwhd#http://youguan.gq/hoge.php?id=jnxwhd
+济南影视高清,http://124.222.238.146:320/hoge.php?id=jnyshd#http://diyp.gq/hoge.php?id=jnyshd#http://youguan.gq/hoge.php?id=jnyshd
+济南文旅体育,http://live.cooltv.top/tv/jinan.php?id=jnwlty
+济南新闻广播,http://youguan.gq/yfm.php?id=795#http://youguan.gq/ytradio.php?id=718&type=shandong
+济南都市广播,http://youguan.gq/ytradio.php?id=724&type=shandong
+济南生活广播,http://youguan.gq/ytradio.php?id=725&type=shandong
+济南移动,https://ts5.ijntv.cn/ydtv/playlist.m3u8
+济南城市,https://ts5.ijntv.cn/citytv/playlist.m3u8
+济南音乐广播Music88.7,http://youguan.gq/yfm.php?id=799
 长清综合,rtmp://alivealone.litenews.cn/171/16236930b5ef4329a8a1d47037ee56b6
 长清生活,rtmp://alivealone.litenews.cn/171/b6df53d1f77f4e068055b4eac603bdcb
 济铁电视,rtmp://alivealone.litenews.cn/303/8876f9ea0ce6400d9b1e54a129ff1c0c
@@ -654,6 +861,31 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 章丘综合,rtmp://alivealone.litenews.cn/195/d69e5146a9154e3fb6e8228b0dd4da4d
 章丘公共,rtmp://alivealone.litenews.cn/195/1734a6535af5487a842d1bfeb8efcb0c
 青岛,#genre#
+青岛崂山双福,http://gccncc.v.wscdns.com/gc/qdls03_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/qdls03_1/index.m3u8#http://gcksc.v.kcdnvip.com/gc/qdls03_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/qdls03_1/index.m3u8
+青岛奥帆中心,https://gcbsc.v.live.baishancdnx.cn/gc/bgws7_1/index.m3u8
+青岛城阳频道,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8
+青岛崂山灵旗峰,http://gcksc.v.kcdnvip.com/gc/qdls01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/qdls01_1/index.m3u8#http://gcksc.v.kcdnvip.com/gc/qdls01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/qdls01_1/index.m3u8#https://gccncc.v.wscdns.com/gc/qdls01_1/index.m3u8
+青岛琴岛之眼,https://gcksc.v.kcdnvip.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
+青岛五四广场,https://gcksc.v.kcdnvip.com/gc/hkhs01_1/index.m3u8?contentid=2820180516001
+青岛崂山太清,http://gcbsc.v.live.baishancdnx.cn/gc/qdls04_1/index.m3u8#http://gcksc.v.kcdnvip.com/gc/qdls04_1/index.m3u8#http://gccncc.v.wscdns.com/gc/qdls04_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/qdls04_1/index.m3u8
+青岛崂山八水河,http://gcbsc.v.live.baishancdnx.cn/gc/qdls02_1/index.m3u8#http://gcksc.v.kcdnvip.com/gc/qdls02_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/qdls02_1/index.m3u8
+山东青岛经济,https://ls.qingting.fm/live/1674/64k.m3u8
+山东青岛私家车,https://ls.qingting.fm/live/1675/64k.m3u8
+山东青岛交通,https://ls.qingting.fm/live/1676/64k.m3u8
+山东青岛时尚音乐,https://ls.qingting.fm/live/1677/64k.m3u8
+山东青岛西海岸,https://ls.qingting.fm/live/20176/64k.m3u8
+山东青岛音乐,https://ls.qingting.fm/live/5022537/64k.m3u8
+青岛交通广播,http://youguan.gq/yfm.php?id=807
+FM96.4青岛文艺广播,http://youguan.gq/yfm.php?id=813
+山东青岛五四广场,https://gc2ksc.v.kcdnvip.com/gc/cntv509-zbzg_1/index.m3u8?BR=md&region=shanghai
+青岛艾山天文台,https://gctxyc.liveplay.myqcloud.com/gc/jhs01_1/index.m3u8?contentid=2820180516001
+青岛平度生活服务,http://tp88.cn/IPTV/shangdong/iqilu.php?id=qdpdsh
+青岛即墨新闻综合,http://tp88.cn/IPTV/shangdong/iqilu.php?id=qdjmxw
+青岛即墨生活服务,http://tp88.cn/IPTV/shangdong/iqilu.php?id=qdjmsh
+青岛新闻综合,http://lanjinglive02.qtvnews.com/qtv/zb9.m3u8?auth_key=2195065577-0-0-13b86545db9ed57a81bd05800caa7dd7
+山东青岛故事,https://ls.qingting.fm/live/4956/64k.m3u8
+青岛往事,http://epg.112114.xyz/huya/11342434
+青岛城阳,rtmp://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317
 青岛李沧,rtmp://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b
 黄岛综合,rtmp://alivealone.litenews.cn/227/679fcc2c9e6040e9bf2e9b8f0b5d6e91
 黄岛生活,rtmp://alivealone.litenews.cn/227/b3aab157caa54e07a01457cf37d0114d
@@ -667,6 +899,25 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 平度新闻综合,rtmp://alivealone.litenews.cn/45/807338f470e6432f9595791c50ec290b
 平度生活服务,rtmp://alivealone.litenews.cn/45/1ec11ad4f7e544bbbbaa4cef58eb6c0d
 潍坊,#genre#
+山东潍坊音乐,https://ls.qingting.fm/live/15318631/64k.m3u8#https://ls.qingting.fm/live/4865/64k.m3u8
+山东潍坊城市,https://ls.qingting.fm/live/20211696/64k.m3u8
+山东潍坊交通,https://ls.qingting.fm/live/4014/64k.m3u8
+山东潍坊经济,https://ls.qingting.fm/live/20839/64k.m3u8
+潍坊933经济广播,http://youguan.gq/yfm.php?id=841
+FM107潍坊交通广播,http://youguan.gq/yfm.php?id=1984
+FM100.8潍坊城市之声,http://youguan.gq/yfm.php?id=2249
+潍坊农业,http://youguan.gq/hoge.php?id=wftv2#http://diyp.gq/hoge.php?id=wftv2#http://zb-iptv.gq/hoge.php?id=wftv2
+潍坊公共,http://youguan.gq/hoge.php?id=wftv3#http://diyp.gq/hoge.php?id=wftv3#http://zb-iptv.gq/hoge.php?id=wftv3
+潍坊科教,http://youguan.gq/hoge.php?id=wftv4#http://diyp.gq/hoge.php?id=wftv4#http://zb-iptv.gq/hoge.php?id=wftv4
+潍坊经济生活,http://pullwftv.wftvqcm.com/live/wf2pda.m3u8
+潍坊科教文旅,http://pullwftv.wftvqcm.com/live/wf4pda.m3u8
+潍坊影视综艺,http://pullwftv.wftvqcm.com/live/wf3pda.m3u8
+潍坊资讯音乐广播,http://youguan.gq/yfm.php?id=1985
+潍坊新闻广播,http://youguan.gq/ytradio.php?id=2017&type=shandong#http://youguan.gq/yfm.php?id=849
+潍坊新闻综合,http://diyp.gq/hoge.php?id=wftv1#http://zb-iptv.gq/hoge.php?id=wftv1#http://youguan.gq/hoge.php?id=wftv1#http://pullwftv.wftvqcm.com/live/wf1pda.m3u8
+潍坊青州文旅,http://sdqz.chinashadt.com:2036/live/stream:3.stream_360p/playlist.m3u8
+潍坊青州新闻,http://sdqz.chinashadt.com:2036/live/stream:1.stream_360p/playlist.m3u8
+潍坊新闻综合频道,http://bc55cde36043eed8dcdd3aa8751bb056.livehwc3.cn/pullwftv.wftvqcm.com/live/wf1pda.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=15fc8b2bbb2d68d209c49f6d150215ca
 安丘综合,rtmp://alivealone.litenews.cn/137/3442fc7ba2744a4b899f1d4c43b8d01f
 安丘民生,rtmp://alivealone.litenews.cn/404a4729eb544d84a2491dd37137be95
 滨海区新闻综合,rtmp://wslivealone.iqilu.com/binhai/binhai_tv01 x
@@ -685,6 +936,23 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 诸城新闻,rtmp://alivealone.litenews.cn/115/202304_1651887501444583424
 诸城生活娱乐,rtmp://alivealone.litenews.cn/115/202304_1651887501553635328
 烟台,#genre#
+烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8#http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261.m3u8#http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8#@kdsvod://kk://host1/hoge.m3u8?ip=sdyttv&id=4&pwd=jsdecode
+烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8#http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8#@kdsvod://kk://host1/hoge.m3u8?ip=sdyttv&id=3&pwd=jsdecode#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS55YW50YWl0di5jbi9saXZlL2U1MGYxMDRhNGZmZTRhNDFiMjIxN2NiZGE1MzQxNDZmL2Q4NjA5MmU2OWRmOTQ2NjhiMzMzOTAyNzhiMDYxNzAwLTEubTN1OCIsImlkIjoxNzk2fQ%3D%3D/fast
+烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700.m3u8
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
+山东烟台交通,https://ls.qingting.fm/live/1684/64k.m3u8
+山东烟台音乐,https://ls.qingting.fm/live/5022382/64k.m3u8
+烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8#@kdsvod://kk://host1/hoge.m3u8?ip=sdyttv&id=5&pwd=jsdecode#http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS55YW50YWl0di5jbi9saXZlL2U5ZjFkOTA0NWQ0NzRjMzE4ODRkMTNmYTRmZmJiZDE2L2E0YTliMzcwNGQ4NTQ3NTY5MDc4NDUxMDdjYzU2MTI5LTEubTN1OCIsImlkIjoxNzk4fQ%3D%3D/fast
+烟台交通广播FM103,http://youguan.gq/yfm.php?id=2151
+烟台故事广播FM88.8,http://youguan.gq/yfm.php?id=2155
+烟台综合广播FM101,http://youguan.gq/yfm.php?id=2153
+FM898烟台汽车音乐广播,http://youguan.gq/yfm.php?id=1493
+烟台音乐广播FM105.9,http://youguan.gq/yfm.php?id=2152
+烟台综合广播,http://youguan.gq/ytradio.php?id=1376&type=shandong
+烟台音乐广播,http://youguan.gq/ytradio.php?id=1377&type=shandong
+烟台交通广播,http://youguan.gq/ytradio.php?id=1378&type=shandong
+烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS55YW50YWl0di5jbi9saXZlLzNlODFhODg3OWRhNDRjNWRhZGYzYmQ5YzEwNDY4ZTFjLzliNzc2ZDQyMGVlNDQzODE5OWI3NjU3YzhlYjg4ZjA3LTEubTN1OCIsImlkIjoxNzk3fQ%3D%3D/fast#http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8#@kdsvod://kk://host1/hoge.m3u8?ip=sdyttv&id=2&pwd=jsdecode
+ 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07.m3u8
 长岛综合,rtmp://wslivealone.iqilu.com/changdao/changdao_tv01
 福山综合,rtmp://alivealone.litenews.cn/189/c479c6c0686d468e9f1498b886153b58
 福山生活,rtmp://alivealone.litenews.cn/189/0bd071e873a64877af1228ef5cefb9ce
@@ -705,6 +973,17 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 招远综合,rtmp://alivealone.litenews.cn/55/cb1dadb15e9141d281823bf62fbadd3c
 招远综艺,rtmp://alivealone.litenews.cn/55/d76fb6c7efcd4a609f5746598e93029a
 淄博,#genre#
+淄博综合广播,http://youguan.gq/yfm.php?id=828#http://youguan.gq/ytradio.php?id=1394&type=shandong
+淄博都市,http://youguan.gq/hoge.php?id=sdzbds#http://diyp.gq/hoge.php?id=sdzbds
+淄博科教,http://youguan.gq/hoge.php?id=sdzbkj#http://diyp.gq/hoge.php?id=sdzbkj
+淄博生活,http://youguan.gq/hoge.php?id=sdzbsh#http://diyp.gq/hoge.php?id=sdzbsh
+淄博公共,http://youguan.gq/hoge.php?id=sdzbgg#http://diyp.gq/hoge.php?id=sdzbgg
+淄博交通音乐广播,http://youguan.gq/yfm.php?id=817#http://youguan.gq/ytradio.php?id=1395&type=shandong
+淄博新闻,http://diyp.gq/hoge.php?id=sdzbxw#http://youguan.gq/hoge.php?id=sdzbxw
+淄博新闻频道,http://lu1.cc/itv/sdtv/zbxl.php?id=zbxwzh
+淄博影视频道,http://lu1.cc/itv/sdtv/zbxl.php?id=zbys
+淄博文旅频道,http://lu1.cc/itv/sdtv/zbxl.php?id=zbwl
+淄博私家车广播,http://youguan.gq/yfm.php?id=819
 博山区新闻,rtmp://alivealone.litenews.cn/17/4fd1c42305974bb2a98047a2bfef1d16
 博山区图文,rtmp://alivealone.litenews.cn/17/7ea8010d70524912b41c92aaa5318ea9
 高青综合,rtmp://alivealone.litenews.cn/61/b6a7086cc9e847b3af6a32367d9e6f16
@@ -722,6 +1001,13 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 张店一套,rtmp://alivealone.litenews.cn/101/26255fe556d14adbbe0aa5b138974e22
 张店二套,rtmp://alivealone.litenews.cn/101/2e49c32b085149f08128b1fdff33af04
 枣庄,#genre#
+枣庄公共频道,http://stream.zztvzd.com/3/sd/live.m3u8
+枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8?#http://stream.zztvzd.com/2/sd/live.m3u8#http://stream.zzgd.tv/2/sd/live.m3u8#http://stream.zztvzd.com/2/sd/live.m3u8?shandd#http://stream.zzgd.tv/2/sd/live.m3u8?shandd#http://stream.zztvzd.com/2/playlist.m3u8#http://stream.zztvzd.com/2/sd/live.m3u8?shandd
+枣庄教育频道,http://stream.zztvzd.com/2/sd/live.m3u8
+枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?shandd#http://stream.zztvzd.com/3/sd/live.m3u8#http://stream.zztvzd.com/3/sd/live.m3u8?shandd#http://stream.zzgd.tv/3/sd/live.m3u8?shandd#http://stream.zztvzd.com/3/playlist.m3u8
+枣庄市中综合,http://youguan.gq/iqilu.php?id=zzszzh#http://youguan.gq/yangg/iqilu.php?id=zzszzh#http://diyp.gq/iqilu.php?id=zzszzh
+枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8#http://stream.zzgd.tv/1/sd/live.m3u8#http://stream.zztvzd.com/1/sd/live.m3u8?shandd#http://stream.zzgd.tv/1/sd/live.m3u8?shandd#http://stream.zztvzd.com/1/playlist.m3u8#http://stream.zztvzd.com/1/sd/live.m3u8#@http://stream.zzgd.tv/1/sd/live.m3u8#@rtmp://tv-rtmp.juyun.tv/dreamStreamCore/gMlJ23r/lv1000#@rtmp://210.14.139.210/dreamStreamCore/gMlJ23r/lv1000#http://stream.zztvzd.com/1/sd/live.m3u8
+枣庄薛城新闻综合,http://tp88.cn/IPTV/shangdong/iqilu.php?id=zzxcxw
 山亭综合,rtmp://wslivealone.iqilu.com/shanting/shanting_tv02
 市中区综合,rtmp://alivealone.litenews.cn/233/5652101985474d85ac7300b0dcf783e1
 台儿庄新闻综合,rtmp://alivealone.litenews.cn/185/202304_1651887512488185856
@@ -730,6 +1016,14 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 薛城新闻综合,rtmp://wslivealone.iqilu.com/xuecheng/xuecheng_tv01
 峄城综合,rtmp://alivealone.litenews.cn/209/da1cbd21728444569fd638642e034edf
 东营,#genre#
+东营公共,http://stream.hhek.cn/ggpd/playlist.m3u8#http://stream.hhek.cn/ggpd/sd/live.m3u8?shand#http://stream.hhek.cn/ggpd/sd/live.m3u8#http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd#rtmp://stream.hhek.cn:9936/live/ggpd_sd?shandd
+东营科教,http://stream.hhek.cn/dyjy/playlist.m3u8#http://stream.hhek.cn/dyjy/sd/live.m3u8#http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd#rtmp://stream.hhek.cn:9936/live/dyjy_sd?shandd
+东营科教频道,http://stream.hhek.cn/dyjy/sd/live.m3u8
+东营综合频道,http://stream.hhek.cn/xwzh/sd/live.m3u8
+东营区科教影视,http://youguan.gq/iqilu.php?id=dyqkj#http://youguan.gq/yangg/iqilu.php?id=dyqkj
+东营区新闻综合,http://youguan.gq/yangg/iqilu.php?id=dyqxw
+东营综合,http://stream.hhek.cn/xwzh/sd/live.m3u8#http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd#rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
+东营新闻综合,https://stream.hhek.cn/xwzh/sd/live.m3u8
 东营区新闻综合,rtmp://alivealone.litenews.cn/163/5a9c961850234e4c9331aa447e03471c
 东营区科教影视,rtmp://alivealone.litenews.cn/163/cc1c7080f1be4e20aec6a437913f365b
 广饶新闻综合,rtmp://jsylivealone.iqilu.com/guangrao/guangrao_tv01
@@ -738,6 +1032,9 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 利津综合,rtmp://jsylivealone.iqilu.com/lijin/lijin_tv01
 利津文化生活,rtmp://jsylivealone.iqilu.com/lijin/lijin_tv02
 滨州,#genre#
+山东滨州私家车,https://ls.qingting.fm/live/5021585/64k.m3u8
+滨州邹平民生[785*576],http://s.xinzouping.com:1936/live/mspd.stream/playlist.m3u8
+滨州综合广播,http://youguan.gq/ytradio.php?id=2018&type=shandong
 滨城电视,rtmp://alivealone.litenews.cn/249/301df5063a8f46dc8c7bea7984bebfd6
 博兴综合,rtmp://jsylivealone.iqilu.com/boxing/boxing_tv01
 博兴生活,rtmp://jsylivealone.iqilu.com/boxing/boxing_tv02
@@ -750,6 +1047,12 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 邹平新闻,rtmp://alivealone.litenews.cn/11/3c42abae69e6493d83747b135ea69c27
 邹平民生,rtmp://alivealone.litenews.cn/11/a60cdcc3bece44db81533c01bc9485e3
 德州,#genre#
+德州经济生活,http://youguan.gq/iqilu.php?id=dzjjsh#http://youguan.gq/yangg/iqilu.php?id=dzjjsh
+FM92.9德州文艺广播,http://youguan.gq/yfm.php?id=2044
+德州新闻综合,http://youguan.gq/yangg/iqilu.php?id=dzxwzh#http://youguan.gq/iqilu.php?id=dzxwzh
+929德州文艺广播,http://youguan.gq/ytradio.php?id=2315&type=shandong
+德州新闻综合广播,http://youguan.gq/yfm.php?id=862
+德州交通音乐广播,http://youguan.gq/yfm.php?id=856
 德州新闻综合,rtmp://wslivealone.iqilu.com/dezhou/dezhou_tv01
 德州经济生活,rtmp://wslivealone.iqilu.com/dezhou/dezhou_tv02
 德州图文rtmp://wslivealone.iqilu.com/dezhou/dezhou_tv03
@@ -770,6 +1073,14 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 禹城综合,rtmp://jsylivealone.iqilu.com/yucheng/yucheng_tv01
 禹城综艺,rtmp://jsylivealone.iqilu.com/yucheng/yucheng_tv02
 菏泽,#genre#
+菏泽综艺,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?
+菏泽交通广播,http://youguan.gq/yfm.php?id=845#http://youguan.gq/ytradio.php?id=1385&type=shandong
+菏泽影视频道,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8#http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8#@http://zb.hezegd.com:1935/live/hztv3/1000k/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8#@http://zb.hezegd.com:1935/live/hztv2/1000k/tzwj_video.m3u8#http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd#http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+菏泽新闻广播,http://youguan.gq/ytradio.php?id=1387&type=shandong
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8#http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8#@http://zb.hezegd.com:1935/live/hztv1/1000k/tzwj_video.m3u8
+菏泽音乐广播,http://youguan.gq/ytradio.php?id=1386&type=shandong
+FM87.5菏泽新闻广播,http://youguan.gq/yfm.php?id=1972
 成武综合,rtmp://alivealone.litenews.cn/131/fe5bb10e7b4845a784116b133146698a
 成武综艺,rtmp://alivealone.litenews.cn/131/44014c16d42d4929bb9bc2dd94572a3a
 曹县综合,rtmp://alivealone.litenews.cn/87/17899f8e9ec8476991285406f464ed29
@@ -785,6 +1096,11 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 郓城新闻综合,rtmp://alivealone.litenews.cn/135/a259f9de3bcf42508693588016f372bc
 郓城民生综艺,rtmp://alivealone.litenews.cn/135/d2513d89443546a6a96daefb51d4406c
 济宁,#genre#
+济宁公共,http://39.135.138.58:18890/PLTV/88888910/224/3221225654/index.m3u8
+山东济宁生活,https://ls.qingting.fm/live/4008/64k.m3u8
+济宁曲阜新闻综合,http://tp88.cn/IPTV/shangdong/iqilu.php?id=jiqfxw
+未知地方台	,http://111.20.40.160/PLTV/88888893/224/3221226377/index.m3u8#http://111.20.40.160/PLTV/88888893/224/3221226371/index.m3u8
+未知地方台2	,http://111.20.40.160/PLTV/88888893/224/3221226384/index.m3u8
 嘉祥新闻综合,rtmp://jsylivealone.iqilu.com/jiaxiang/jiaxiang_tv01
 嘉祥生活,rtmp://jsylivealone.iqilu.com/jiaxiang/jiaxiang_tv02
 金乡综合,rtmp://alivealone.litenews.cn/129/bb7fd61fcc61444ba786a7da7ebe4325
@@ -806,6 +1122,16 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 邹城综合,rtmp://blivealone.litenews.cn/b181/aa7efd7814e84d48b176f505003ffc40
 邹城文化生活,rtmp://blivealone.litenews.cn/b181/9e9ff94026554c9682386c91559888f2
 聊城,#genre#
+聊城公共F,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
+聊城公共频道,http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8#http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8#http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
+聊城公共,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8?#http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8?
+山东聊城经济音乐,https://ls.qingting.fm/live/5022262/64k.m3u8
+聊城新闻综合,http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101173/playlist.m3u8#http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel2/playlist.m3u8#http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101173/playlist.m3u8#http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel2/playlist.m3u8
+聊城经济广播,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel6/playlist.m3u8#http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel102999/playlist.m3u8#http://youguan.gq/ytradio.php?id=1581&type=shandong
+聊城交通广播,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel5/playlist.m3u8#http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel102765/playlist.m3u8#http://youguan.gq/yfm.php?id=1881
+聊城新闻广播,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel4/playlist.m3u8#http://youguan.gq/yfm.php?id=1880#http://youguan.gq/ytradio.php?id=1580&type=shandong
+聊城综合广播,http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel102162/playlist.m3u8
+聊城音乐广播,http://youguan.gq/yfm.php?id=1882
 茌平综合,rtmp://alivealone.litenews.cn/31/112df63fd99c4645a442ecb065948bc9
 茌平生活,rtmp://alivealone.litenews.cn/31/e2e5976345df49fdab46f2abff9de5c2
 东昌综合,rtmp://alivealone.litenews.cn/265/19da11ac39484e54b18a2712f4a3b0f3
@@ -819,6 +1145,12 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 阳谷综合,rtmp://wslivealone.iqilu.com/yanggu/yanggu_tv01
 阳谷影视,rtmp://wslivealone.iqilu.com/yanggu/yanggu_tv02
 临沂,#genre#
+临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+临沂图文,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel116773/playlist.m3u8
+临沂交通旅游广播,http://youguan.gq/yfm.php?id=1275#http://youguan.gq/ytradio.php?id=1002&type=shandong
+临沂新闻广播,http://youguan.gq/ytradio.php?id=1004&type=shandong#http://youguan.gq/yfm.php?id=1291
+临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 费县综合,rtmp://alivealone.litenews.cn/41/b9db01b3511d48e6921fa442ce543881
 费县生活,rtmp://alivealone.litenews.cn/41/bae49ccb84d44fa689098f15fafdb5e8
 河东综合,rtmp://alivealone.litenews.cn/191/21838cacf6bb48efbc3bee9c7ca5ecd5
@@ -843,6 +1175,14 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 沂水综合,rtmp://alivealone.litenews.cn/145/3747a14c81ee4cd3a67aa7b9edfd7e02
 沂水生活,rtmp://alivealone.litenews.cn/145/e59cec1353f945e5b07662db7e203d2b
 日照,#genre#
+日照公共,http://live.rzw.com.cn/kzpd/playlist.m3u8#http://maomao.kandiantv.cn/hoge.php?id=rzgg#http://live.rzw.com.cn/kzpd/sd/live.m3u8?#http://youguan.gq/hoge.php?id=rzgg#http://youguan.gq/yangg/hoge.php?id=rzgg#http://live.rzw.com.cn/kzpd/sd/live.m3u8#http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd#http://124.222.238.146:320/hoge.php?id=rzgg#http://diyp.gq/hoge.php?id=rzgg
+日照房车,http://live.rzw.com.cn/fcpd/playlist.m3u8#http://youguan.gq/hoge.php?id=rzfc#http://diyp.gq/hoge.php?id=rzfc
+日照公共频道,http://live.rzw.com.cn/kzpd/sd/live.m3u8
+日照科教频道,http://live.rzw.com.cn/ggpd/sd/live.m3u8#http://live.rzw.com.cn/ggpd/sd/live.m3u8#@http://stream.rzw.com.cn/ggpd/sd/live.m3u8#@kdsvod://kk://host1/hoge.m3u8?ip=sdrztv&id=7&pwd=jsdecode
+日照科教,http://maomao.kandiantv.cn/hoge.php?id=rzkj#http://live.rzw.com.cn/ggpd/sd/live.m3u8?#http://youguan.gq/hoge.php?id=rzkj#http://youguan.gq/yangg/hoge.php?id=rzkj#http://live.rzw.com.cn/ggpd/sd/live.m3u8#http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd#http://124.222.238.146:320/hoge.php?id=rzkj#http://diyp.gq/hoge.php?id=rzkj
+日照导视,http://live.rzw.com.cn/fcpd/sd/live.m3u8?
+日照新闻综合,http://youguan.gq/yangg/hoge.php?id=rzxwzh#http://live.rzw.com.cn/xwzh/sd/live.m3u8#http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd#http://live.rzw.com.cn/xwzh/sd/live.m3u8#@http://stream.rzw.com.cn/xwzh/sd/live.m3u8#@kdsvod://kk://host1/hoge.m3u8?ip=sdrztv&id=5&pwd=jsdecode#http://124.222.238.146:320/hoge.php?id=rzxwzh#http://diyp.gq/hoge.php?id=rzxwzh#http://live.rzw.com.cn/xwzh/sd/live.m3u8#http://youguan.gq/hoge.php?id=rzxwzh
+日照导视频道,http://live.rzw.com.cn/fcpd/sd/live.m3u8#@http://stream.rzw.com.cn/fcpd/sd/live.m3u8#@kdsvod://kk://host1/hoge.m3u8?ip=sdrztv&id=16&pwd=jsdecode#http://live.rzw.com.cn/fcpd/sd/live.m3u8
 莒县综合,rtmp://alivealone.litenews.cn/159/0b1ee3da151a4d188a4e96ccda79b82f
 莒县二套,rtmp://alivealone.litenews.cn/159/6847a7cbdb044bb4bfc0b303cfca89b0
 莒县图文,rtmp://alivealone.litenews.cn/159/ded31222dba245348d7ea70b00f56f24
@@ -850,6 +1190,10 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 五莲综合,rtmp://alivealone.litenews.cn/299/4ca3fa99444649faaea2a3c4f54510e0
 五莲文化旅游,rtmp://alivealone.litenews.cn/299/88621c064ade45db9478010b15eed2ad
 泰安,#genre#
+泰安综合,http://223.99.8.99:8666/live/tatv0111.m3u8#http://www.lu1.cc/c/tv/php/qkxl.php?id=tazh
+泰安经济生活,http://223.99.8.99:8666/live/tatv222.m3u8#http://www.lu1.cc/c/tv/php/qkxl.php?id=tagg
+泰安交通广播,http://youguan.gq/ytradio.php?id=2295&type=shandong
+泰安新闻综合,rtmp://124.130.146.172/live/tatv0111?shandd
 东平综合,rtmp://alivealone.litenews.cn/187/8fccf62feb3c44c0aafbd751e656157b
 东平民生,rtmp://alivealone.litenews.cn/187/79c9250a48db4b77bf0e58cf9a06c06c
 岱岳电视台,rtmp://alivealone.litenews.cn/293/03338daee33e47f4810595f18507c52a
@@ -861,6 +1205,12 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 新泰综合,rtmp://alivealone.litenews.cn/59/047fc0ac5f804bfaaf8a490913d216fc
 新泰乡村党建,rtmp://alivealone.litenews.cn/59/ef9a5cf77b4d4c0492eb726f591397ca
 威海,#genre#
+威海公共,http://youguan.gq/iqilu.php?id=whgg#http://youguan.gq/yangg/iqilu.php?id=whgg
+威海交通广播,http://youguan.gq/yfm.php?id=848#http://youguan.gq/ytradio.php?id=1399&type=shandong
+威海新闻综合,http://youguan.gq/yangg/iqilu.php?id=whxwzh#http://youguan.gq/iqilu.php?id=whxwzh
+威海海洋,http://youguan.gq/yangg/iqilu.php?id=whhy
+威海新闻综合广播,http://youguan.gq/ytradio.php?id=994&type=shandong
+威海音乐广播,http://youguan.gq/ytradio.php?id=991&type=shandong
 威海新闻综合,rtmp://alivealone.litenews.cn/157/b2989d1a72e74797a77f75a87d58ca59
 威海都市生活,rtmp://alivealone.litenews.cn/157/a6e06357bb294d418f8f60d7e5ccc8c6
 威海海洋,rtmp://alivealone.litenews.cn/157/441e332a44ae46d880031391b36b3886
@@ -871,6 +1221,103 @@ CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
 文登TV1,rtmp://alivealone.litenews.cn/91/13cc6cb1119e4dc2a4d92969de419459
 文登TV2,rtmp://alivealone.litenews.cn/91/6aac1e7e4bb946bc9833ae1cbc13e67e
 吉林,#genre#
+吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=1bfea7231646317845.m3u8#http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987#http://stream1.jlntv.cn/dspd/playlist.m3u8#http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild#http://stream1.jlntv.cn/dspd/playlist.m3u8#@kdsvod://kk://host1/jltv.m3u8?id=jlds&pwd=jsdecode#@kdsvod://kk://host1/hoge.m3u8?ip=jltv&id=33&pwd=jsdecode#http://stream1.jlntv.cn/dspd/sd/live.m3u8?checkedby:iptvcat.com#http://stream1.jlntv.cn/dspd/sd/live.m3u8?checkedby:iptvcat.net#http://124.222.238.146:320/hoge.php?id=jlds#http://stream12.jlntv.cn:80/dspdhd/playlist.m3u8#http://youguan.gq/hoge.php?id=jlds#http://diyp.gq/hoge.php?id=jlds
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016#http://stream1.jlntv.cn/yspd/sd/live.m3u8#http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016#http://stream1.jlntv.cn/yspd/playlist.m3u8#http://youguan.gq/hoge.php?id=jlys#http://124.222.238.146:320/hoge.php?id=jlys#http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=2143f0bc1653990370#http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=fc8c5dbd1531576049#http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b68565164817101#http://diyp.gq/hoge.php?id=jlys#http://zb-iptv.gq/hoge.php?id=jlys
+吉林新闻综合,http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074#http://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1683944014-0-0-727c3c424b12e5c4484b0e7cecfef774
+吉林公共新闻,http://stream1.jlntv.cn/ggpd/playlist.m3u8#http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987#http://stream1.jlntv.cn/dspd/sd/live.m3u8#http://stream1.jlntv.cn/ggpd/playlist.m3u8#http://stream1.jlntv.cn/dspd/sd/live.m3u8#http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=b95938311531576098#http://stream1.jlntv.cn/ggpd/sd/live.m3u8?checkedby:iptvcat.com#http://stream1.jlntv.cn/ggpd/sd/live.m3u8?checkedby:iptvcat.net#http://124.222.238.146:320/hoge.php?id=jlggxw#http://stream1.jlntv.cn/ggpd/sd/live.m3u8?#http://diyp.gq/hoge.php?id=jlggxw#http://zb-iptv.gq/hoge.php?id=jlggxw#http://youguan.gq/hoge.php?id=jlggxw
+吉林公共,http://stream1.jlntv.cn/ggpd/sd/live.m3u8#http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild#http://stream1.jlntv.cn/ggpd/sd/live.m3u8#http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
+吉林乡村,http://stream12.jlntv.cn/xqpdhd/sd/live.m3u8#http://stream1.jlntv.cn/shpd/sd/live.m3u8#http://stream1.jlntv.cn/xcpd/sd/live.m3u8#http://stream1.jlntv.cn/xcpd/sd/live.m3u8?zjild#http://stream1.jlntv.cn/xcpd/playlist.m3u8#http://youguan.gq/hoge.php?id=jlxc#http://124.222.238.146:320/hoge.php?id=jlxc#http://zb-iptv.gq/hoge.php?id=jlxc
+吉林卫视(时移),http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=jilin&videoTVChannel=jilin&P2PChannelID=pd://cctv_p2p_hdjilin&tai=jilin&VideoName=jilin&channelID=jilin
+吉林7 (900p),http://stream1.jlntv.cn/fzpd/sd/live.m3u8
+吉林影视 (900p),http://stream1.jlntv.cn/yspd/sd/live.m3u8
+吉林卫视,http://stream4.jlntv.cn/test2/sd/live.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8#http://183.196.25.171:808/hls/47/index.m3u8#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225680/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225680/index.m3u8$高清720P#http://111.59.63.32:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0#http://117.14.55.102:18080/hls/42/index.m3u8#http://39.134.116.30/PLTV/88888888/224/3221225680/index.m3u8#http://stream1.jlntv.cn/jlws/sd/live.m3u8?_upt=934742a51670420917#http://stream1.jlntv.cn/jlws/sd/live.m3u8#http://124.222.238.146:320/hoge.php?id=jlws#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?$全网超清1080P#http://119.164.216.162:9901/tsfile/live/0116_1.m3u8#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?$源14#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8??$源10#http://stream1.jlntv.cn/fzpd/sd/live.m3u8?_upt=d815d5a21648241233#http://1.85.0.62:808/hls/48/index.m3u8#http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8#http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=jilin&videoTVChannel=jilin&P2PChannelID=pd://cctv_p2p_hdjilin&tai=jilin&VideoName=jilin&channelID=jilin#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?$超清1080P#http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8$宜春移动#http://39.135.138.58:18890/ysten-businessmobile/live/jilinstv/1.m3u8#http://222.71.221.186:9901/tsfile/live/0116_1.m3u8#http://120.84.96.87:808/hls/136/index.m3u8#https://cntv.dfkj.live/aishang.php?id=jlws#http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=d809e0d61680618574#http://61.148.223.18:8888/newlive/live/hls/35/live.m3u8#http://222.71.90.218:8888/newlive/live/hls/41/live.m3u8#http://39.134.136.132:6610/200000001898/460000089800010075/1.m3u8?IASHttpSessionId=OTT#http://39.135.138.60:18890/PLTV/88888888/224/3221225680/index.m3u8#http://39.134.136.161:6610/000000001000/5000000006000040013/index.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3$ITV#http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=563c6d5a1632076045#http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=86d8d0f91666124978#http://stream1.jlntv.cn/jlws/playlist.m3u8?_upt=79c211d21682276192#http://42.49.129.136:808/hls/39/index.m3u8#http://125.210.152.19:9120/live/hzgq-jlwsgq-h264.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225680/1653149097-1-1648951247.m3u8#http://221.2.36.34:8888/newlive/live/hls/35/live.m3u8#http://117.40.212.162:8888/newlive/live/hls/35/live.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225680/index.m3u8#http://222.240.82.92:9901/tsfile/live/0116_1.m3u8#http://221.0.78.198:1681/hls/10243/index.m3u8#http://39.134.136.161:6610/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3#http://39.134.136.161:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3#http://39.135.138.58:18890/PLTV/88888888/224/3221225680/165314909711648951247.m3u8#http://39.135.138.58:18890/TVOD/88888888/224/3221225690/index.m3u8#http://api.52tb.xyz/info?id=40&token=20230118wgbyoq#http://live.aptvapp.com/bestv.php?id=jlwshd8m/8000000#http://xjayrf.eatuo.com:9901/tsfile/live/1076_1.m3u8#http://stream1.jlntv.cn/jlws/playlist.m3u8#http://youguan.gq/hoge.php?id=jlws#http://cntv.sbs/live?id=jlws#http://api3.52tb.xyz/info?id=40&token=20221127jxwhhemby#http://api3.52tb.xyz/info?id=91&token=20221127jxwhhemby#http://api3.52tb.xyz/info?id=142&token=20221127jxwhhemby#http://api2.52tb.xyz/info?id=91&token=20230218qkyjia#http://api2.52tb.xyz/info?id=142&token=20230218qkyjia#http://api2.52tb.xyz/info?id=40&token=20230218qkyjia#http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8吉林卫视#http://113.207.84.199:8090/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8#http://tv.fanmingming.com/api/?id=jlws#http://39.134.136.161:6610/000000001000/5000000006000040013/index.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=3#http://113.207.84.197:8090/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
+吉林山村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074#http://stream1.jlntv.cn/xcpd/sd/live.m3u8?checkedby:iptvcat.com#http://stream1.jlntv.cn/xcpd/sd/live.m3u8?checkedby:iptvcat.net
+吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8#http://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1683944014-0-0-727c3c424b12e5c4484b0e7cecfef774#@http://stream2.jlntv.cn/jilin1/sd/live.m3u8#@kdsvod://kk://host1/jltv.m3u8?id=jljltv1&pwd=jsdecode#http://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1683944014-0-0-727c3c424b12e5c4484b0e7cecfef774
+吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020#http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild#http://stream1.jlntv.cn/shpd/sd/live.m3u8?checkedby:iptvcat.com#http://stream1.jlntv.cn/shpd/sd/live.m3u8?checkedby:iptvcat.net#http://stream1.jlntv.cn/shpd/playlist.m3u8#http://124.222.238.146:320/hoge.php?id=jlsh#http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020影视#http://diyp.gq/hoge.php?id=jlsh#http://zb-iptv.gq/hoge.php?id=jlsh#http://youguan.gq/hoge.php?id=jlsh
+吉林7频道,http://stream1.jlntv.cn/fzpd/sd/live.m3u8?zjild#http://stream1.jlntv.cn/fzpd/sd/live.m3u8?_upt=a24868a61531576122
+吉林影院,http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild#http://stream1.jlntv.cn/yspd/sd/live.m3u8?
+魅力吉林,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVjilinstv/1.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVjilinstv/1.m3u8#@http://39.135.140.227:6610/PLTV/88888888/224/3221226189/2/index.m3u8?fmt=ts2hls
+吉林都市频道,http://stream1.jlntv.cn/dspd/playlist.m3u8?_upt=a9a201ef1578416337#http://stream1.jlntv.cn/dspd/playlist.m3u8?_upt=9083525a1622452291#http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=c7fcab781648241089#http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=efbc9d991589955461
+吉林生活频道,http://stream1.jlntv.cn/shpd/playlist.m3u8?_upt=411141331578416402#http://stream1.jlntv.cn/shpd/playlist.m3u8?_upt=e5e101051622452239#http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=a76a29dc1648240672#http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=f82ac57a1589955541
+吉林东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8#http://youguan.gq/hoge.php?id=jldbxq#http://124.222.238.146:320/hoge.php?id=jldbxq#http://stream1.jlntv.cn/dbxq/sd/live.m3u8#http://stream1.jlntv.cn/dbxq/sd/live.m3u8?_upt=4f5323e41527972444#http://diyp.gq/hoge.php?id=jldbxq#http://zb-iptv.gq/hoge.php?id=jldbxq
+吉林综合,http://stream1.jlntv.cn/fzpd/playlist.m3u8#http://stream2.jlntv.cn/jilin1/playlist.m3u8
+吉林7 (900p) [Not 24/7],http://stream1.jlntv.cn/fzpd/sd/live.m3u8?checkedby:iptvcat.com#http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8#https://stream1.jlntv.cn/fzpd/sd/live.m3u8
+吉林综艺文化,http://youguan.gq/hoge.php?id=jlzywh#http://124.222.238.146:320/hoge.php?id=jlzywh#http://diyp.gq/hoge.php?id=jlzywh#http://zb-iptv.gq/hoge.php?id=jlzywh
+吉林卫视-4M540-百视通,http://39.134.136.138:6610/000000001000/5000000006000040013/index.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=3
+吉林卫视-4M576-易视腾,http://39.134.136.138:6610/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
+ahlakid.com - 吉林7 (900p) [Not 24/7],http://stream1.jlntv.cn/fzpd/sd/live.m3u8?checkedby:ahlakid.com
+ahlakid.com - 吉林山村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8?checkedby:ahlakid.com
+ahlakid.com - 吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?checkedby:ahlakid.com
+ahlakid.com - 吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8?checkedby:ahlakid.com
+ahlakid.com - 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?checkedby:ahlakid.com
+吉林卫视高清,http://stream4.jlntv.cn/jlwshd/playlist.m3u8#http://youguan.gq/hoge.php?id=jlwshd#https://live.goodiptv.club/api/cqyx.php?id=jilinHD#http://113.207.84.197:8090/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+吉林卫视高清1,http://stream12.jlntv.cn/wtcs/playlist.m3u8#http://124.222.238.146:320/hoge.php?id=jlwshd1#http://youguan.gq/hoge.php?id=jlwshd1
+吉林都市高清,http://stream12.jlntv.cn/dspdhd/playlist.m3u8#http://124.222.238.146:320/hoge.php?id=jldshd#http://youguan.gq/hoge.php?id=jldshd
+吉林东北戏曲高清,http://stream12.jlntv.cn/xqpdhd/playlist.m3u8#http://124.222.238.146:320/hoge.php?id=jldbxqhd#http://diyp.gq/hoge.php?id=jldbxqhd
+吉林卫视FHD,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?$超清1080P#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226729/10000100000000060000000006519579_0.smil#http://stream4.jlntv.cn/test2/sd/live.m3u8?_upt=3cd530451598656217#http://stream4.jlntv.cn/test2/sd/live.m3u8?_upt=4b32f6a11599110614
+吉林卫视-2,http://stream1.jlntv.cn/jlws/sd/live.m3u8?_upt=0425a6c31516699527
+吉林卫视[768*576],http://lcx-olt.8866.org:8181/tsfile/live/1122_1.m3u8#http://api2.52tb.xyz/info?id=142&token=20230331czbpek
+吉林影视QD,http://stream1.jlntv.cn/yspd/playlist.m3u8?_upt=3e22a1961580693273
+吉林家有购物,http://stream1.jlntv.cn/jygw/playlist.m3u8?_upt=274354bb1622452621#https://app1-stream-jytv1.huijiayou.cn/JYGW/LIVE.m3u8
+吉林东北戏曲 576,http://stream1.jlntv.cn/dbxq/sd/live.m3u8?_upt=4f5323e41527972444
+吉林·吉林乡村,http://stream1.jlntv.cn/shpd/sd/live.m3u8?
+吉林长春生活故事,http://ls.qingting.fm/live/5014/64k.m3u8
+吉林公共频道,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=3f1551c91589955638#http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=a1b7ff7f1648240867
+吉林电视7频道,http://stream1.jlntv.cn/fzpd/sd/live.m3u8?_upt=63b004571589955657
+吉林乡村频道,http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=a16305501648240980
+吉林综艺,http://122.138.218.254:50085/hls/25/index.m3u8
+吉林交通,http://ls.qingting.fm/live/4945/64k.m3u8
+吉林资讯,http://ls.qingting.fm/live/3978/64k.m3u8
+吉林旅游,http://ls.qingting.fm/live/20487/64k.m3u8
+吉林健康娱乐,http://ls.qingting.fm/live/4952/64k.m3u8
+吉林就爱,http://ls.qingting.fm/live/1831/64k.m3u8
+吉林教育,http://ls.qingting.fm/live/3980/64k.m3u8
+吉林长春经典音乐,http://ls.qingting.fm/live/4984/64k.m3u8
+吉林长春经济,http://ls.qingting.fm/live/5015/64k.m3u8
+吉林延广交通文艺,http://ls.qingting.fm/live/4889/64k.m3u8
+吉林长春新闻,https://ls.qingting.fm/live/5013/64k.m3u8
+吉林长春交通,http://ls.qingting.fm/live/4967/64k.m3u8
+吉林长春UFM880,http://ls.qingting.fm/live/4850/64k.m3u8
+吉林CC,http://ls.qingting.fm/live/5021975/64k.m3u8
+吉林,http://ls.qingting.fm/live/5022144/64k.m3u8
+吉林延边旅游生活,http://ls.qingting.fm/live/5022438/64k.m3u8
+吉林延吉交通之声,http://ls.qingting.fm/live/15318331/64k.m3u8
+吉林音乐之声,http://ls.qingting.fm/live/15318202/64k.m3u8
+吉林白山交通,http://ls.qingting.fm/live/5083/64k.m3u8
+吉林松原交通,http://ls.qingting.fm/live/20212256/64k.m3u8
+吉林辉南交通,http://ls.qingting.fm/live/20211566/64k.m3u8
+吉林辽源综合文艺,http://ls.qingting.fm/live/20211585/64k.m3u8
+吉林松原新闻综合,http://ls.qingting.fm/live/5079/64k.m3u8
+吉林松原大众生活,http://ls.qingting.fm/live/5082/64k.m3u8
+吉林新闻综合广播,http://youguan.gq/yfm.php?id=429#http://youguan.gq/ytradio.php?id=544&type=jilin#http://live.jlradio.net/live/am738/543210k/tzwj_main.m3u8
+吉林交通广播,http://youguan.gq/yfm.php?id=431#http://youguan.gq/ytradio.php?id=546&type=jilin#http://live.jlradio.net/live/fm1038/543210k/tzwj_main.m3u8
+吉林资讯广播,http://youguan.gq/yfm.php?id=432#http://live.jlradio.net/live/fm1001/543210k/tzwj_main.m3u8
+吉林旅游广播,http://youguan.gq/yfm.php?id=436#http://live.jlradio.net/live/fm1033/543210k/tzwj_main.m3u8
+吉林乡村广播,http://youguan.gq/yfm.php?id=430#http://youguan.gq/ytradio.php?id=547&type=jilin#http://live.jlradio.net/live/fm976/543210k/tzwj_main.m3u8
+吉林市新闻频率,http://youguan.gq/yfm.php?id=443
+吉林教育广播,http://youguan.gq/yfm.php?id=437#http://live.jlradio.net/live/fm963/543210k/tzwj_main.m3u8
+吉林经济广播,http://youguan.gq/yfm.php?id=433#http://youguan.gq/ytradio.php?id=545&type=jilin#http://live.jlradio.net/live/fm953/543210k/tzwj_main.m3u8
+吉林健康娱乐广播,http://youguan.gq/yfm.php?id=435#http://live.jlradio.net/live/fm1019/543210k/tzwj_main.m3u8
+吉林卫视-01,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?$1080P
+吉林·延边新闻综合 [Geo-blocked],http://stream2.jlntv.cn/jlyb/sd/live.m3u8
+吉林·松原新闻综合 [Geo-blocked],http://stream2.jlntv.cn/sytv/sd/live.m3u8
+吉林音乐广播,http://youguan.gq/yfm.php?id=434#http://live.jlradio.net/live/fm927/543210k/tzwj_main.m3u8
+吉林市音乐广播,http://youguan.gq/ytradio.php?id=1800&type=jilin
+吉林卫视HD,http://stream4.jlntv.cn/jlwshd/sd/live.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225680/index.m3u8
+吉林延边卫视,http://39.134.136.161:6610/000000001000/2000000003000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/1000000005000266008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/2000000003000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=3#http://39.134.136.161:6610/000000001000/1000000005000266008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=3
+ 吉林卫视,http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/0116_1.m3u8
+吉林卫视 (240p) [Not 24/7],https://stream4.jlntv.cn/test2/sd/live.m3u8
+吉林市新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jilin1/sd/live.m3u8
+吉林乡村 (900p) [Not 24/7],https://stream1.jlntv.cn/xcpd/sd/live.m3u8
+ 吉林东北戏曲,http://124.235.143.40/zqvk7vpj/channel/5bb74ed03a5d4b84ab76702ae10762ce/1.m3u8
+ 吉林都市,http://124.235.143.40/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+ 吉林乡村,http://124.235.143.40/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
+ 吉林生活,http://124.235.143.40/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+ 吉林影视,http://124.235.143.40/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+ 吉林综艺·文化,http://124.235.143.40/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8
+ 吉林公共·新闻,http://124.235.143.40/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+吉林卫视 HD,http://stream4.jlntv.cn/test2/sd/live.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8#http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 吉视轮播,http://jishiguotv.jishimedia.com:80/livejszx/mobile/jishimedia/index.m3u8
 吉视都市,http://58.245.106.39:9901/tsfile/live/1001_1.m3u8
 吉视影视,http://58.245.106.39:9901/tsfile/live/1000_1.m3u8
