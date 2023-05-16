@@ -8,7 +8,7 @@
 兵团卫视 576,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 新疆兵团综合,https://ls.qingting.fm/live/5022410/64k.m3u8
 新疆兵团之声,http://youguan.gq/yfm.php?id=1730
- 兵团卫视,http://youguan.gq/migu.php?id=btws
+兵团卫视,http://youguan.gq/migu.php?id=btws
 兵团卫视-5M540-百视通,http://39.134.136.138:6610/000000001000/5000000006000040020/index.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3
 兵团卫视[768*576],http://lcx-olt.8866.org:8181/tsfile/live/1126_1.m3u8
 兵团卫视[1047*576],http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8?
@@ -19,7 +19,7 @@
 兵团六师五家渠,http://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 新疆|兵团七师胡杨河新闻,https://klmyzb.rcsxzx.com/hls/qishi1.m3u8?zxinjd
 兵团卫视|普清,http://111.20.35.103:6610/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-tvg-id tvg-name tvg-logo group-title,兵团卫视,https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
+兵团卫视,https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
 河北,#genre#
 河北三佳购物,https://event.pull.hebtv.com/jishi/sanjiagouwu.m3u8
 河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11#https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8?#https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8#http://live3.plus.hebtv.com/hbdsx/hd/live.m3u8#http://183.196.25.171:808/hls/18/index.m3u8#http://183.196.25.171:808/hls/18/index.m3u8?#https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8?zhebd#rtp://239.254.200.19:6000#https://jwplay.hebyun.com.cn:443/live/hbdstv/1500k/tzwj_video.m3u8#http://183.196.25.171:808/hls/18/index.m3u8?$超清1080P#https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8#https://event.pull.hebtv.com/jishi/dushipindao.m3u8#http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11#http://event.pull.hebtv.com/jishi/dushipindao.m3u8#http://api2.52tb.xyz/info?id=481&token=20230218qkyjia
