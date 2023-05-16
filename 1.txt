@@ -1,3 +1,57 @@
+广西,#genre#
+广西·南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+广西卫视,http://39.134.116.30/PLTV/88888888/224/3221225731/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8#http://1.85.0.62:808/hls/53/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225731/index.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/guangxistv/1.m3u8#http://39.135.138.58:18890/TVOD/88888888/224/3221225731/index.m3u8#http://183.196.25.171:808/hls/46/index.m3u8#http://223.241.247.214:85//tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0#http://radius.8866.org:800/hls/53/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8#http://125.210.152.19:9120/live/hszx-gxtv-h264.m3u8#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/1.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225731/index.m3u8?/PLTV/.smil#http://223.151.51.27:85//tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0#http://61.130.72.18:8888/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0#http://lu1.cc/itv/php/as.php?id=gxws#http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=guangxi&videoTVChannel=guangxi&P2PChannelID=pd://cctv_p2p_hdguangxi&tai=guangxi&VideoName=guangxi&channelID=guangxi#http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls#http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8?fmt=ts2hls#http://111.40.196.35/PLTV/88888888/224/3221225518/index.m3u8#http://111.59.63.32:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://jiexi.bulisite.top/ysp.php?id=gxws#http://111.20.35.103:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=#http://39.134.136.138:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3#http://39.134.136.138:6610/000000001000/5000000006000040014/index.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=3#http://119.164.216.162:9901/tsfile/live/0113_1.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225731/index.m3u8#http://222.71.221.186:9901/tsfile/live/0113_1.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225731/index.m3u8#https://cntv.dfkj.live/bestv.php?id=gxwshd8m/8000000#https://cntv.dfkj.live/aishang.php?id=gxws#http://xtream-ie.com/1uZkGSqvpV/2Q2WVoLJkL/keyJ1cmwiOiJodHRwczovL2xpdmUuZ3hyYi5jb20uY24vdHYvZ3h0dmxpdmUwMy9pbmRleC5tM3U4IiwiaWQiOjE3MTZ9/fast#http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294201.m3u8#http://61.148.223.18:8888/newlive/live/hls/26/live.m3u8#http://221.2.36.34:8888/newlive/live/hls/26/live.m3u8#http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8#https://live.gxrb.com.cn/hls/a23/index.m3u8#http://39.134.136.132:6610/200000001898/460000089800010099/1.m3u8?IASHttpSessionId=OTT#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwczovL2xpdmUuZ3hyYi5jb20uY24vdHYvZ3h0dmxpdmUwMy9pbmRleC5tM3U4IiwiaWQiOjE4ODh9/fast#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwczovL2xpdmUuZ3hyYi5jb20uY24vdHYvZ3h0dmxpdmUwMy9pbmRleC5tM3U4IiwiaWQiOjE3MTZ9/fast#http://39.134.136.161:6610/000000001000/5000000006000040014/index.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=3$ITV#http://39.134.136.161:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3$ITV#http://42.49.129.136:808/hls/30/index.m3u8#http://39.134.136.205:6610/200000001898/460000089800010099/1.m3u8?IAS=#http://221.0.78.198:1681/hls/10239/index.m3u8#http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/index.m3u8#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/index.m3u8#http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8#http://39.134.136.132:6610/200000001898/460000089800010099/1.m3u8?IAS#http://39.134.136.161:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3#http://39.134.136.161:6610/000000001000/5000000011000031118/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3#http://39.134.136.205:6610/200000001898/460000089800010099/1.m3u8?IAS#http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8#http://xtream-ie.com/1uZkGSqvpV/2Q2WVoLJkL/keyJ1cmwiOiJodHRwczovL2xpdmUuZ3hyYi5jb20uY24vdHYvZ3h0dmxpdmUwMy9pbmRleC5tM3U4IiwiaWQiOjE4ODh9/fast#https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000/mnf.m3u8#https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000#https://live.v1.mk/api/sxg.php?id=gxws_4000#http://39.134.136.161:6610/000000001000/5000000011000031118/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3$ITV#http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls#http://58.205.220.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8#http://api3.52tb.xyz/info?id=45&token=20221127jxwhhemby#http://api3.52tb.xyz/info?id=96&token=20221127jxwhhemby#http://api3.52tb.xyz/info?id=147&token=20221127jxwhhemby#https://live.v1.mk/aishang/gxws#http://api2.52tb.xyz/info?id=96&token=20230218qkyjia#http://api2.52tb.xyz/info?id=147&token=20230218qkyjia#http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294203.m3u8#http://113.207.84.199:8090/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8#http://39.134.136.161:6610/000000001000/5000000006000040014/index.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=3
+魅力广西,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVguangxistv/1.m3u8#http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVguangxistv/1.m3u8#@http://39.135.140.227:6610/PLTV/88888888/224/3221226186/2/index.m3u8?fmt=ts2hls
+广西南宁经典,https://ls.qingting.fm/live/20769/64k.m3u8
+广西南宁交通,https://ls.qingting.fm/live/20767/64k.m3u8
+广西南宁动感,https://ls.qingting.fm/live/20771/64k.m3u8
+广西柳州综合,https://ls.qingting.fm/live/21043/64k.m3u8
+广西柳州交通,https://ls.qingting.fm/live/20571/64k.m3u8
+广西柳州汽车音乐,https://ls.qingting.fm/live/20555/64k.m3u8
+广西玉林综合城市,https://ls.qingting.fm/live/1762/64k.m3u8
+广西玉林音乐,https://ls.qingting.fm/live/1763/64k.m3u8
+广西梧州交通音乐,https://ls.qingting.fm/live/4599/64k.m3u8
+广西贺州综合,https://ls.qingting.fm/live/5043/64k.m3u8
+广西-玉林大容山莲花山顶,http://gcbsc.v.live.baishancdnx.cn/gc/drs01_1/index.m3u8
+ 广西卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225731/index.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1034_1.m3u8
+广西玉林真武阁,https://gc2ksc.v.kcdnvip.com/gc/cntv487-zbzg_1/index.m3u8?BR=md&region=shanghai
+广西玉林大容山,https://gcbdc.a.bdydns.com/gc/cntv495-zbzg_1/index.m3u8?contentid=2820180516001
+广西北海涠洲岛,https://gc2ksc.v.kcdnvip.com/gc/cntv481-zbzg_1/index.m3u8?BR=md&region=shanghai
+广西兴安灵渠,https://gc2ksc.v.kcdnvip.com/gc/cntv435-zbzg_1/index.m3u8?BR=md&region=shanghai
+广西都市,http://113.16.255.167:85//tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://gxdl-lhs.8866.org:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0#http://111.59.63.32:9901/tsfile/live/1005_1.m3u8#http://111.59.63.32:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://113.16.255.167:85//tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://gxdl-lhs.8866.org:85/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0#http://111.59.63.32:9901/tsfile/live/1006_1.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1015_1.m3u8
+广西玉林万亩茶园,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8
+广西卫视(时移),http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=guangxi&videoTVChannel=guangxi&P2PChannelID=pd://cctv_p2p_hdguangxi&tai=guangxi&VideoName=guangxi&channelID=guangxi
+广西都市[1920*1080],http://lcx-olt.8866.org:8181/tsfile/live/1035_1.m3u8
+广西影视[720*540],http://lcx-olt.8866.org:8181/tsfile/live/1202_1.m3u8
+广西影视频道HD,https://hlscdn.liangtv.cn/live/a84182dabc5147afbd3d90ddbb5a9404/d097f6c24c53463e897de496b32c7d2b.m3u8
+广西玉林大容山莲花山顶,http://gcksc.v.kcdnvip.com/gc/drs01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/drs01_1/index.m3u8
+广西大新,http://111.59.63.32:9901/tsfile/live/1001_1.m3u8?
+广西教育生活广播,http://youguan.gq/ytradio.php?id=586&type=guangxi
+广西对外广播,http://youguan.gq/ytradio.php?id=589&type=guangxi
+广西综艺旅游,http://111.59.63.32:9901/tsfile/live/1004_1.m3u8#@kdsvod://kk://host1/gxgg.m3u8?id=gxzy&pwd=jsdecode#http://111.59.63.32:9901/tsfile/live/1004_1.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1001_1.m3u8
+广西|广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+广西罗城综合,http://www.3jlc.cn:9100/lctvlive/lch.m3u8
+广西桂林两江四湖,https://gcbsc.v.live.baishancdnx.cn/gc/tms02_1/index.m3u8
+广西|广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
+广西卫视高清,http://113.207.84.197:8090/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8#http://113.207.84.197:8090/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
+广西桂林漓江景区,http://gcksc.v.kcdnvip.com/gc/gllj01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/gllj01_1/index.m3u8#http://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
+广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1036_1.m3u8
+广西卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000294203.m3u8
+广西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+广西私家车930,http://youguan.gq/yfm.php?id=302
+FM950广西音乐台,http://youguan.gq/yfm.php?id=301
+广西交通台,http://youguan.gq/yfm.php?id=304
+广西北部湾之声,http://youguan.gq/yfm.php?id=303
+广西交通广播,http://youguan.gq/ytradio.php?id=585&type=guangxi
+广西经济广播,http://youguan.gq/ytradio.php?id=587&type=guangxi
+广西文艺广播,http://youguan.gq/ytradio.php?id=590&type=guangxi
+ 广西都市,http://bhz0001.8866.org:8686/tsfile/live/1020_1.m3u8
+ 广西新闻,http://bhz0001.8866.org:8686/tsfile/live/1021_1.m3u8
+ 广西综艺旅游,http://bhz0001.8866.org:8686/tsfile/live/1019_1.m3u8
+ 广西影视,http://bhz0001.8866.org:8686/tsfile/live/1023_1.m3u8
+广西桂林遇龙河,https://gcbsc.v.live.baishancdnx.cn/gc/hlzycc_1/index.m3u8?contentid=2820180516001
+tvg-id tvg-name tvg-logo group-title,广西卫视,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000294203.m3u8
 青海,#genre#
 青海经济生活,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=dd27be2b1649420975
  青海综合频道,http://lmt.scqstv.com/live1/live1.m3u8
