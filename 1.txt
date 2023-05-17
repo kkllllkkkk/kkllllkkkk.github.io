@@ -1,3 +1,218 @@
+高清,#genre#
+
+高清,#genre#
+苏州综合(高清),http://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
+庆阳公共(高清),http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8?_upt=d1cbecfd1645027712
+超高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6201/index.m3u8
+假出租车高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6202/index.m3u8
+高清2,https://shayubf.com/20200214/uC3WIzjL/index.m3u8
+高清1,https://shayubf.com/20200215/MjF6hUEB/index.m3u8
+茶频道 高清,http://39.135.138.58:18890/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
+兰州生活经济高清,http://stream.lztv.tv/shjj/hd/live.m3u8
+兰州文旅频道高清,http://stream.lztv.tv/zyty/hd/live.m3u8
+都江堰高清 360,http://gctxyc.liveplay.myqcloud.com/gc/ipanda1000_1.flv
+上海卫视高清,http://117.14.55.102:18080/hls/43/index.m3u8
+河北卫视高清,http://117.14.55.102:18080/hls/45/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8#http://221.0.78.198:1681/hls/10242/index.m3u8#http://39.135.138.60:18890/TVOD/88888910/224/3221225732/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=hebeiSD
+多塞尔电视高清[1280*720][1280*720],http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6198/index.m3u8
+郁郁葱葱的高清[1280*720][1280*720],http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6261/index.m3u8
+无名高清台,http://221.0.78.198:1681/hls/10277/index.m3u8
+广东高清,http://221.0.78.198:1681/hls/10253/index.m3u8
+青海卫视高清,http://221.0.78.198:1681/hls/10252/index.m3u8#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=2dee6a651676210262#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=09d3dc5a1682244238
+湖南卫视高清,http://221.0.78.198:1681/hls/10233/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8#http://120.132.122.244:18081/hls/29/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=hunanHD
+山东少儿高清,http://221.0.78.198:1681/hls/10227/index.m3u8
+东南卫视高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8#http://117.169.120.140:8080/live/dongnanstv/.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225657/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
+CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5-高清,http://1.85.0.62:808/hls/503/index.m3u8
+CCTV-6-高清,http://1.85.0.62:808/hls/6/index.m3u8
+CCTV-8-高清,http://1.85.0.62:808/hls/8/index.m3u8
+CCTV-5高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-10高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-12高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-14高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
+CCTV-1高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8#https://live.v1.mk/api/fjgd.php?id=cctv1#http://39.134.193.112:6610/030000001000/CCTV-1-HD/index.m3u8?livemode=1
+CCTV-5+高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225706/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8#http://39.134.193.112:6610/030000001000/G_CCTV-5PLUS/index.m3u8?livemode=1
+CCTV-9高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
+浙江卫视高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8#http://youguan.gq/guoma.php?id=zjwshd#http://39.134.116.30:8080/PLTV/88888910/224/3221225744/index.m3u8#https://live.v1.mk/api/fjgd.php?id=zjws#https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD#http://39.134.193.112:6610/030000001000/ZJWS-HD/index.m3u8?livemode=1
+CCTV-15高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-17高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225908/index.m3u8#http://39.134.193.112:6610/030000001000/G_CCTV-17-HD/index.m3u8?livemode=1
+黑龙江卫视高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225736/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD#http://39.134.193.112:6610/030000001000/HLJWS-HD/index.m3u8?livemode=1
+上海纪实高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8#http://39.135.138.60:18890/TVOD/88888910/224/3221225654/index.m3u8
+CCTV-7高清2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-9高清2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-14高清2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV-5+高清2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+假計程車高清,http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6202/index.m3u8
+ahlakid.com - 靖江新闻綜合高清,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8?checkedby:ahlakid.com
+吉林卫视高清,http://stream4.jlntv.cn/jlwshd/playlist.m3u8#http://youguan.gq/hoge.php?id=jlwshd#https://live.goodiptv.club/api/cqyx.php?id=jilinHD
+吉林卫视高清1,http://stream12.jlntv.cn/wtcs/playlist.m3u8#http://124.222.238.146:320/hoge.php?id=jlwshd1#http://youguan.gq/hoge.php?id=jlwshd1
+吉林都市高清,http://stream12.jlntv.cn/dspdhd/playlist.m3u8#http://124.222.238.146:320/hoge.php?id=jldshd#http://youguan.gq/hoge.php?id=jldshd
+吉林东北戏曲高清,http://stream12.jlntv.cn/xqpdhd/playlist.m3u8#http://124.222.238.146:320/hoge.php?id=jldbxqhd#http://diyp.gq/hoge.php?id=jldbxqhd
+济南新闻综合高清,http://124.222.238.146:320/hoge.php?id=jnxwhd#http://youguan.gq/hoge.php?id=jnxwhd
+济南影视高清,http://124.222.238.146:320/hoge.php?id=jnyshd#http://diyp.gq/hoge.php?id=jnyshd#http://youguan.gq/hoge.php?id=jnyshd
+高清测试,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?blog.ntnas.top#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+山西卫视高清,http://221.0.78.198:1681/hls/10248/index.m3u8
+江苏卫视高清,http://221.0.78.198:1681/hls/10234/index.m3u8#http://youguan.gq/guoma.php?id=jswshd#https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD#http://39.134.193.112:6610/030000001000/G_JIANGSU-HD/index.m3u8?livemode=1
+湖北卫视高清,http://221.0.78.198:1681/hls/10229/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=hubeiSD
+四川卫视高清,http://221.0.78.198:1681/hls/10244/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
+甘肃卫视高清,http://117.14.55.102:18080/hls/29/index.m3u8
+天津卫视高清,http://117.14.55.102:18080/hls/19/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225698/index.m3u8#http://youguan.gq/guoma.php?id=tjwshd#https://live.v1.mk/api/fjgd.php?id=tjws#https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
+湖北卫视高清M,http://hls.ye23.vip/dl/migu2209.php?id=hubws
+ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+高清综艺,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_75_720P_t10/c52_lb_75_720P_t10.m3u8?key
+CCTV5-高清(2),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?blog.ntnas.top#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CHC高清电影,http://111.20.40.170/TVOD/88888893/224/3221226463/index.m3u8?/PLTV/.smil#http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8#http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8#http://222.132.191.125:9901/tsfile/live/1010_1.m3u8#http://111.20.40.170/TVOD/88888893/224/3221226463/index.m3u8#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8#http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8#p2p://generationnexxxt.com:19806/d05af36fe9dd4b648f417c6ea3d5aa4c#rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil#http://api2.52tb.xyz/info?id=221&token=20230218qkyjia#http://120.204.20.48/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/1300.m3u8#http://113.207.84.199:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8#http://api2.52tb.xyz/info?id=221&token=20230218jsyklh
+青海卫视 高清,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484$Source=官网
+广东卫视高清,http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8#https://live.v1.mk/api/fjgd.php?id=gdws#https://live.goodiptv.club/api/cqyx.php?id=guangdongHD#http://39.134.193.112:6610/030000001000/GDWS-HD/index.m3u8?livemode=1
+CCTV3高清,http://youguan.gq/guoma.php?id=cctv3hd
+东方卫视高清,http://youguan.gq/guoma.php?id=dfwshd#http://39.135.138.59:18890/TVOD/88888910/224/3221225658/index.m3u8#https://live.v1.mk/api/fjgd.php?id=dfws#https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD#http://39.134.193.112:6610/030000001000/DFWS-HD/index.m3u8?livemode=1
+安徽卫视高清,http://youguan.gq/guoma.php?id=ahwshd#http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8#https://live.v1.mk/api/cqyx.php?id=anhuiSD#http://media.hndyjyfw.gov.cn/live/jz-anhuiweishi-gq/live.m3u8#https://live.v1.mk/api/fjgd.php?id=ahws#https://live.goodiptv.club/api/cqyx.php?id=anhuiSD
+高清亮剑,http://106.53.212.251:80/daili/yy.php?id=1353392400
+鹿鼎记高清,http://106.53.212.251:80/daili/yy.php?id=28265277
+迪丽热巴 白丝高清,https://play3.laoyacdn.com/20221120/0s6WyQa1/index.m3u8
+|高清蓝光亮剑,http://maomao.kandiantv.cn/yy.php?id=1353392400
+鹿鼎记高清经典,http://maomao.kandiantv.cn/yy.php?id=28265277
+Кино 18岁以上高清,http://k46lwgcj.akciatv.ru/iptv/P5SADA44UBQWVR/18075/index.m3u8
+深圳卫视高清,http://39.134.116.30:8080/PLTV/88888910/224/3221225741/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225700/index.m3u8#https://live.v1.mk/api/fjgd.php?id=szws#https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD#http://39.134.193.112:6610/030000001000/SZWS-HD/index.m3u8?livemode=1
+上海纪实高清8M,http://39.135.138.59:18890/TVOD/88888910/224/3221225655/index.m3u8
+|高清蓝光亮剑[800*600],http://mmitv.top/pltv/yy.php?id=1353392400#http://youguan.gq/yy.php?id=1353392400#http://mayi-tv.ml/yy.php?id=1353392400
+鹿鼎记高清经典[800*600],http://mmitv.top/pltv/yy.php?id=28265277#http://youguan.gq/yy.php?id=28265277#http://mayi-tv.ml/yy.php?id=28265277
+北京纪实高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8
+红灯高清[1280*720][1280*720],http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/242/index.m3u8
+邪恶天使高清[1280*720][1280*720],http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6199/index.m3u8
+小亚洲高清[1280*720][1280*720],http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6230/index.m3u8
+MYLF电视高清[1280*720][1280*720],http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6236/index.m3u8
+泼妇高清[1280*720][1280*720],http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6265/index.m3u8
+韩国热舞高清,https://vdse.bdstatic.com//05650f9e8c93cd8456281bcd6903e6d9.mp4?#https://vdse.bdstatic.com//362368db35d8385afb0a9e47eaf4c487.mp4?
+ CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
+北京卫视高清,http://39.134.116.30:8080/PLTV/88888910/224/3221225673/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=beijingHD#http://39.134.193.112:6610/030000001000/BTV-1/index.m3u8?livemode=1
+辽宁卫视高清,http://39.134.116.30:8080/PLTV/88888910/224/3221225735/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
+高清舞曲,https://txmov2.a.kwimgs.com/upic/2022/03/25/20/BMjAyMjAzMjUyMDUyNTZfMjM0NDc1MTE5N183MDQ0NzkzMTQxOV8wXzM=_b_B383b34c7a7c97f97b5350f622d8da0a6.mp4?tag=1648554367-std-puqq96jiry167f7fd60758f88&clientCacheKey=3x3qtumzyu5rh6w_b.mp4&tt=b&di=79c43beb&bp=12681
+揭西高清,http://nsszds.f3322.net:8081/hls/39/index.m3u8
+靖江新闻綜合高清 (720p),http://58.222.151.43:1935/live/xwzhpc/HasBahCa.m3u8
+看花不是花{高清},https://alimov2.a.kwimgs.com/upic/2023/01/20/19/BMjAyMzAxMjAxOTU1NTdfOTU2MzA3MDg4Xzk0MTAyMDU3ODM3XzJfMw==_b_B1f0892e3e65467590dd31879d1991b0e.mp4?clientCacheKey=3xwqt7nphbwb7g4_b.mp4&tt=b&di=2471c4bc&bp=10000
+时间如流水{高清},https://txmov2.a.kwimgs.com/upic/2023/01/16/03/BMjAyMzAxMTYwMzM0MzhfOTU2MzA3MDg4XzkzNzExNDYxODQxXzJfMw==_b_B88dbbfce4aba9a5c5c73b2784f0f6ca0.mp4?clientCacheKey=3xa7umukmq4a8q2_b.mp4&tt=b&di=2471a291&bp=10000
+梦驼铃{高清},https://alimov2.a.kwimgs.com/upic/2022/11/29/15/BMjAyMjExMjkxNTU2NDZfOTU2MzA3MDg4Xzg5OTA4MTA0MDAxXzJfMw==_b_B209e0b00bbec69aa04d61fa975ab4ee1.mp4?clientCacheKey=3xgxji6wqz65qkk_b.mp4&tt=b&di=2471c3e1&bp=10000
+无奈的思绪{高清},https://alimov2.a.kwimgs.com/upic/2022/10/17/12/BMjAyMjEwMTcxMjU5NTRfOTU2MzA3MDg4Xzg2NjQyNTgyMDc5XzJfMw==_b_Bc10877a7c139f778be4376be935d4cfc.mp4?clientCacheKey=3x754tj5crrb4va_b.mp4&tt=b&di=2471083b&bp=10000
+慢慢爱{高清},https://alimov2.a.kwimgs.com/upic/2022/11/01/06/BMjAyMjExMDEwNjA0MjZfOTU2MzA3MDg4Xzg3NzA4MzEzMTA5XzJfMw==_b_B9beb2f9779a2c9ecaf0943c1b4fa5ba5.mp4?clientCacheKey=3x9rx5xjnx8hrpy_b.mp4&tt=b&di=2471a3a3&bp=10000
+我的心只为你等待{高清},https://txmov2.a.kwimgs.com/upic/2022/10/30/06/BMjAyMjEwMzAwNjExMjFfOTU2MzA3MDg4Xzg3NTU5MDYwNzY5XzJfMw==_b_B0ce6c31f82b909ee9c61dddb92de4c58.mp4?clientCacheKey=3xnubrhm9r2m3jc_b.mp4&tt=b&di=2471a3a3&bp=10000
+好兄弟好姑娘{高清},https://alimov2.a.kwimgs.com/upic/2022/11/05/05/BMjAyMjExMDUwNTI1MTZfOTU2MzA3MDg4Xzg3OTgxNzA2NjcxXzJfMw==_b_B575a546b0b5e3b0f293fd30f82b99749.mp4?clientCacheKey=3xuhikqp2yjphdg_b.mp4&tt=b&di=2471083b&bp=10000
+CCTV4中文国际高清,http://jylt.jdshipin.com:808/hls/104/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+CCTV11戏曲高清,http://jylt.jdshipin.com:808/hls/111/index.m3u8#https://live.v1.mk/api/cqyx.php?id=cctv11HD#https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+山东卫视高清,http://jylt.jdshipin.com:808/hls/132/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8#https://live.v1.mk/api/fjgd.php?id=sdws
+厦门卫视高清,http://jylt.jdshipin.com:808/hls/156/index.m3u8#https://live.v1.mk/api/fjgd.php?id=xm1
+福州1套高清,https://live.v1.mk/api/fjgd.php?id=fz1
+厦视-2高清,https://live.v1.mk/api/fjgd.php?id=xm2
+厦视-3高清,https://live.v1.mk/api/fjgd.php?id=xm3
+泉州1套高清,https://live.v1.mk/api/fjgd.php?id=qz1
+蜡笔小新高清24小时轮播,http://mayi-tv.ml/bili.php/?id=21500772#http://youguan.gq/bili.php/?id=21500772
+高清动画,http://mayi-tv.ml/bili.php/?id=4361390#http://youguan.gq/bili.php/?id=4361390
+正在播小新，高清国语柯南和蜡笔小新轮播,http://mayi-tv.ml/bili.php/?id=23000636#http://youguan.gq/bili.php/?id=23000636
+4K影视超高清,http://39.134.136.151:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1159120230327103012001425&channel-id=wasusyt&Contentid=6000000003000004748
+CCTV-7高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+江西卫视高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8#https://live.v1.mk/api/fjgd.php?id=jxws#https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
+重庆卫视高清,http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8#https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
+CCTV9纪录高清,https://live.v1.mk/api/cqyx.php?id=cctv9HD#https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV13新闻高清,https://live.v1.mk/api/cqyx.php?id=CCTVNewsHD#https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
+CCTV17农业农村高清,https://live.v1.mk/api/cqyx.php?id=cctv17HD#https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+CCTV10科教高清,https://live.v1.mk/api/cqyx.php?id=cctv10HD#https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+CCTV14少儿高清,https://live.v1.mk/api/cqyx.php?id=cctvseHD#https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
+CCTV5高清（备用）,http://39.134.136.132:6610/200000001898/460000089800010145/1.m3u8?IASHttpSessionId=OTT
+陶瓷高清 8M,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
+晋江高清,https://live.v1.mk/api/fjgd.php?id=jjtv
+贵州卫视高清,https://live.v1.mk/api/fjgd.php?id=gzws#https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
+金鹰卡通高清,https://live.v1.mk/api/fjgd.php?id=jykt
+足球高清,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000/mnf.m3u8#http://jiexi.bulisite.top/bestv.php?id=zqpd8m/8000000
+CHC高清电影FHD,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
+CCTV-4 中文国际 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204803.m3u8
+CCTV-5 体育 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000205103.m3u8
+CCTV-8 电视剧 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000203903.m3u8
+CCTV-10 科教 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000203503.m3u8
+CCTV-11 戏曲 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204103.m3u8
+CCTV-12 社会与法 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000202603.m3u8
+CCTV-13 新闻 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204603.m3u8
+CCTV-15 音乐 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000205003.m3u8
+CCTV-14 少儿 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204403.m3u8
+CCTV-16 奥林匹克 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012375003.m3u8
+CCTV-17 农业农村 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000204203.m3u8
+CCTV-怀旧剧场 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012511203.m3u8
+CCTV-风云足球 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012514203.m3u8
+CCTV-兵器科技 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513403.m3u8
+CCTV-央视台球 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513703.m3u8
+CCTV-电视指南 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012514003.m3u8
+广西卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000294203.m3u8
+贵州卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000293303.m3u8
+辽宁卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000281303.m3u8
+安徽卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000298003.m3u8
+湖北卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000294503.m3u8
+东方卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000292403.m3u8
+海南卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000291503.m3u8
+北京卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000272103.m3u8
+深圳卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000292203.m3u8
+黑龙江卫视 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000293903.m3u8
+CGTN-英语 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2001656803.m3u8
+CGTN-俄语 高清,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2010152603.m3u8
+DRG-12 入侵立即插入~霧島櫻高清,https://video.feimanzb.com:8091/20180401/DKO9THE12/650kb/hls/index.m3u8
+HD ABP-319 幹翻運動妹4砲！體育系?鈴村愛里有碼高清,http://video1.feimanzb.com:8091/20180210/PKH47ELG319/650kb/hls/index.m3u8
+HD ABP-601 毫無演技1對1肏4砲8 園田美櫻有碼高清,http://video1.feimanzb.com:8091/20180210/PBQ3JRH601/650kb/hls/index.m3u8
+IPZ-573 在丈夫面前被強幹 天海翼高清,https://video.feimanzb.com:8091/20180420/ZJ2OHET573/650kb/hls/index.m3u8
+足球高清 8M,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+高清 情景经典,http://youguan.gq/bili.php/?id=1127105#http://mayi-tv.ml/bili.php/?id=1127105
+高清港台经典电影[1280*720],http://youguan.gq/yy.php?id=1350998397#http://mayi-tv.ml/yy.php?id=1350998397
+ 高清大片,http://youguan.gq/migu.php?id=gqdp#http://mayi-tv.ml/migu.php?id=gqdp
+熊猫频道01高清,http://mayi-tv.ga:1125/m3u8.php?/migu/609158151/playlist.m3u8
+4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+tvg-id tvg-name tvg-logo group-title,湖南电影高清,http://v2.91kds.cn/b9/hntv.m3u8?id=hndy&auth=rinimabi
+CCTV1综合高清,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV3综艺高清,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+CCTV2财经高清,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV5P高清,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+CCTV5体育高清,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV6电影高清,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV7国防军事高清,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+CCTV8电视剧高清,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+CCTV12社会与法高清,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV15音乐高清,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+CCTV16奥林匹克高清,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+云南卫视高清,https://live.goodiptv.club/api/cqyx.php?id=yunnanSD
+海南卫视高清,https://live.goodiptv.club/api/cqyx.php?id=hainanSD
+广西卫视高清,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
+河南卫视高清,https://live.goodiptv.club/api/cqyx.php?id=henanHD
+金鹰卡通高清,https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
+北京纪实科教高清,https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
+快乐垂钓高清,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
+都市剧场高清,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+动漫秀场高清,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
+魅力足球高清,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+风云剧场高清,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
+求索纪录高清,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+兵器科技高清,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
+游戏风云高清,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
+怀旧剧场高清,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
+央视台球高清,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+风云足球高清,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+央视文化精品高清,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
+高尔夫网球高清,https://live.goodiptv.club/api/cqyx.php?id=golfHD
+早期教育高清,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
+重庆新闻高清,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
+重庆影视高清,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
+重庆社会与法高清,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
+重庆时尚生活高清,https://live.goodiptv.club/api/cqyx.php?id=cqssgwHD
+重庆文体娱乐高清,https://live.goodiptv.club/api/cqyx.php?id=cqwtylHD
+重庆新农村高清,https://live.goodiptv.club/api/cqyx.php?id=cqggncHD
+重庆少儿高清,https://live.goodiptv.club/api/cqyx.php?id=cqseHD
+重庆科教高清,https://live.goodiptv.club/api/cqyx.php?id=CQTVkejiaoHD
+爱看导视高清,https://live.goodiptv.club/api/cqyx.php?id=aikanHD
+重庆汽摩高清,https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
+重庆移动高清,https://live.goodiptv.club/api/cqyx.php?id=mryyHD
+东方财经高清,https://live.goodiptv.club/api/cqyx.php?id=dfcj
+湖南经视高清,http://v2.91kds.cn/b9/hntv.m3u8?id=hnjs&auth=rinimabi
+湖南都市高清,http://v2.91kds.cn/b9/hntv.m3u8?id=hnds&auth=rinimabi
+IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
+足球高清 8M,http://cntao.top/api/bestv.php?id=zqpd8m/8000000
+G导视高清,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=GHDdaoshi_7500
+CHC高清电影,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=CHCHD_7000
+香港有线高清603台,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=13
 🇨🇳央视,#genre#
 CCTV-14,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8#http://123.178.206.42:8000/hls/14/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8閿涳拷#http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8,#http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225639/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8锛�#http://39.135.138.60:18890/PLTV/88888910/224/3221225640/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8锛?#http://61.146.224.42:8088/hls/25/index.m3u8#http://39.135.138.59:18890/PLTV/88888888/224/3221225639/index.m3u8#http://103.95.24.37:880/CCTV-14.m3u8#http://119.39.128.18:88/hls/15/index.m3u8#http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8#http://cfss.cc/ds/cqyx/cctvseHD.m3u8#http://198.16.100.90:8278/cctv14/playlist.m3u8?tid=MA1A2502333425023334&ct=19225&tsum=c1ac4fbf128b149d27738f3315c5dfc1#http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8#http://api2.52tb.xyz/info?id=16&token=20230218zdxlqr
 CCTV-F,https://livefr.cgtn.com/200f/prog_index.m3u8
