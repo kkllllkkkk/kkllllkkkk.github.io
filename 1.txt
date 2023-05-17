@@ -6194,6 +6194,56 @@ channel v ,http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 陕西卫视,http://xcm13.f3322.net:4000/udp/239.93.0.176:5140
 青海卫视,http://xcm13.f3322.net:4000/udp/239.93.0.192:5140
 黑龙江卫视,http://xcm13.f3322.net:4000/udp/239.93.0.183:5140
+南京,#genre#
+南京北极阁,https://tysjtq.tianqi.cn/live/5107_b3d5a64457eb11e892905cb9018cf0d4.m3u8
+江苏南京鼓楼广场,https://gcbsc.v.live.baishancdnx.cn/gc/hkylxs01_1/index.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8#http://live.nbs.cn:80/channels/njtv/sbpd/500k.m3u8?#http://live.nbs.cn:80/channels/njtv/sbpd/500k.m3u8?$高清720P#http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8?#http://119.164.216.162:9901/tsfile/live/1001_1.m3u8?#http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8?checkedby:iptvcat.net#http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8?checkedby:iptvcat.com#http://live.nbs.cn:80/channels/njtv/sbpd/500k.m3u8?$全网高清720P#http://api.52tb.xyz/info?id=470&token=20221119bigs#http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8#@http://live.nbs.cn/channels/njtv/sbpd/flv:500k/live#http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8#rtsp://180.100.166.166:554/PLTV/88888888/224/3221225970/10000100000000060000000000000392_0.smil#http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8#http://live.nbs.cn:80/channels/njtv/sbpd/500k.m3u8?$720P#http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
+南京综合,http://live.nbs.cn:80/channels/njtv/xwzh/500k.m3u8?#http://live.nbs.cn:80/channels/njtv/xwzh/500k.m3u8?$高清720P#http://live.nbs.cn:80/channels/njtv/xwzh/500k.m3u8?$全网高清720P#http://live.nbs.cn:80/channels/njtv/xwzh/500k.m3u8?$720P
+南京玄武湖公园,http://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/xwh01_1/index.m3u8#https://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8?contentid=2820180516001#http://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/xwh01_1/index.m3u8
+江苏南京牛首山,http://gcksc.v.kcdnvip.com/gc/nss01_1/index.m3u8#http://gctxyc.liveplay.myqcloud.com/gc/nss01_1_md.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/nss01_1/index.m3u8#http://gcksc.v.kcdnvip.com/gc/nss01_1/index.m3u8#http://gcbsc.v.live.baishancdnx.cn/gc/nss01_1/index.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8$高清720P#http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?#http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8?#http://live.nbs.cn/channels/njtv/sepd/500k.m3u8#http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/sepd/500k.m3u8#http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8,未分类#http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
+南京眼,http://live4.nbs.cn/channels/njtv/jsj_njy/hd.m3u8
+南京南站北广场,http://live4.nbs.cn/channels/njtv/njbgc/hd.m3u8
+江苏南京MIX,https://ls.qingting.fm/live/20207738/64k.m3u8
+江苏南京经济,https://ls.qingting.fm/live/4964/64k.m3u8
+江苏南京城市,https://ls.qingting.fm/live/4961/64k.m3u8
+江苏南京活力,https://ls.qingting.fm/live/20500050/64k.m3u8
+江苏南京YOFM,https://ls.qingting.fm/live/20500026/64k.m3u8
+江苏南京音乐,https://ls.qingting.fm/live/4963/64k.m3u8
+南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8?#http://api.52tb.xyz/info?id=467&token=20221028cxyi#http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8#http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8#http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8#@http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8#@http://183.207.248.71/gitv/live1/G_NJJK/G_NJJK#@http://live.nbs.cn/channels/njtv/jkpd/flv:500k/live#http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8?zjiangsd#http://api2.52tb.xyz/info?id=467&token=20230218jsyklh
+南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8?#http://119.164.216.162:9901/tsfile/live/1005_1.m3u8?#http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8?checkedby:iptvcat.net#http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8?checkedby:iptvcat.com#http://api.52tb.xyz/info?id=468&token=20221028cxyi#http://api.52tb.xyz/info?id=468&token=20230118wgbyoq#http://live.nbs.cn/channels/njtv/shpd/500k.m3u8#http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/shpd/500k.m3u8#http://live.nbs.cn/channels/njtv/shpd/500k.m3u8?zjiangsd#http://api2.52tb.xyz/info?id=468&token=20230218qkyjia#http://api2.52tb.xyz/info?id=468&token=20230218jsyklh
+南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8?#http://api.52tb.xyz/info?id=471&token=20221119bigs#http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8#http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8#http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
+南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8?#http://119.164.216.162:9901/tsfile/live/1000_1.m3u8?#http://api.52tb.xyz/info?id=469&token=20221028cxyi#http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8?checkedby:iptvcat.com#http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8#@http://183.207.248.71/gitv/live1/G_NJYL/G_NJYL#@http://live.nbs.cn/channels/njtv/ylpd/flv:500k/live#http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8#http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8#http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd#http://api2.52tb.xyz/info?id=469&token=20230218qkyjia
+江苏|南京江宁交通出行,https://live.plus.3ch.net.cn/jk5/playlist.m3u8
+南京玄武湖公園,http://gctxyc.liveplay.myqcloud.com/gc/xwh01_1/index.m3u8
+江蘇南京牛首山,http://gctxyc.liveplay.myqcloud.com/gc/nss01_1/index.m3u8
+南京经济广播,http://youguan.gq/yfm.php?id=69
+南京活力广播,http://youguan.gq/yfm.php?id=2133#http://youguan.gq/ytradio.php?id=1175&type=jiangsu
+南京城市调频,http://youguan.gq/yfm.php?id=90
+南京玄武湖,https://gc2ksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8?BR=md&region=shanghai
+南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8#http://api.52tb.xyz/info?id=466&token=20221028cxyi#http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8#@http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8#http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8#http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8?zjiangsd#http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS5uYnMuY24vY2hhbm5lbHMvbmp0di94d3poL20zdTg6NTAway9saXZlLm0zdTgiLCJpZCI6ODUzfQ%3D%3D/fast#http://api2.52tb.xyz/info?id=466&token=20230218qkyjia
+ 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8?checkedby:ahlakid.com
+南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8?checkedby:ahlakid.com
+南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8?checkedby:ahlakid.com
+南京交通广播,http://youguan.gq/yfm.php?id=70#http://youguan.gq/ytradio.php?id=708&type=jiangsu
+南京新闻综合广播,http://youguan.gq/yfm.php?id=68#http://youguan.gq/ytradio.php?id=422&type=jiangsu
+南京体育广播,http://youguan.gq/yfm.php?id=88#http://youguan.gq/ytradio.php?id=424&type=jiangsu
+南京音乐广播,http://youguan.gq/ytradio.php?id=425&type=jiangsu#http://youguan.gq/yfm.php?id=71
+南京城市管理广播,http://youguan.gq/ytradio.php?id=426&type=jiangsu
+南京MIX,http://youguan.gq/ytradio.php?id=866&type=jiangsu
+南京信息 (720p),http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8#https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+南京教科 (720p) [Not 24/7],http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8#https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+南京信息频道,http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS5uYnMuY24vY2hhbm5lbHMvbmp0di94eHBkL20zdTg6NTAway9saXZlLm0zdTgiLCJpZCI6ODU1fQ%3D%3D/fast
+南京生活频道,http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS5uYnMuY24vY2hhbm5lbHMvbmp0di9zaHBkL20zdTg6NTAway9saXZlLm0zdTgiLCJpZCI6MTY2N30%3D/fast
+南京娱乐频道,http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS5uYnMuY24vY2hhbm5lbHMvbmp0di95bHBkL20zdTg6NTAway9saXZlLm0zdTgiLCJpZCI6ODU0fQ%3D%3D/fast
+南京科教频道,http://xtream-ie.com/a6jw3drNE9b/5hd7JMd1to/weyJ1cmwiOiJodHRwOi8vbGl2ZS5uYnMuY24vY2hhbm5lbHMvbmp0di9qa3BkL20zdTg6NTAway9saXZlLm0zdTgiLCJpZCI6MTY2OH0%3D/fast
+南京新闻HD,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8?checkedby:hlscat.com
+南京综合HD,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8?checkedby:hlscat.com
+南京十八 (720p),https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+南京娱乐 (720p),https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+南京少儿 (720p) [Not 24/7],https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+南京新闻综合 (720p),https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+南京生活 (720p),https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 东莞,#genre#
 
 湛江,#genre#
