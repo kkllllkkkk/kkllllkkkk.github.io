@@ -3756,11 +3756,11 @@ ahlakid.com - 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?checkedby:a
 吉视生活,http://58.245.106.39:9901/tsfile/live/1002_1.m3u8
 长影频道,http://58.245.106.39:9901/tsfile/live/1006_1.m3u8
 影视专区,#genre#
-橙子1台,http://pull-l3-cny.douyincdn.com/live/stream-112618jkftu28080221221240hdcztv12135837529.m3u8
-橙子2台,http://pull-l3-cny.douyincdn.com/live/stream-113356tvb1523868316660llgu2172583690.m3u8
-橙子3台,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240cz12135576521.m3u8
-橙子4台,http://pull-l3-cny.douyincdn.com/live/stream-112168tvb8080221221240llgu1213692836.m3u8
-橙子5台,http://pull-l3-cny.douyincdn.com/live/stream-113356tvb1623668312120llgu2172165780.m3u8
+橙子1台,http://pull-l3-cny.douyincdn.com/live/stream-112618jkftu21568457822588hdcztv12135837529.m3u8
+橙子2台,http://pull-l3-cny.douyincdn.com/live/stream-113356cztv21523868316660llgu2172583690.m3u8
+橙子3台,http://pull-l3-cny.douyincdn.com/live/stream-112618jkftu12214259177533hdcztv37525262013.m3u8
+橙子4台,http://pull-l3-cny.douyincdn.com/live/stream-113356cztv41523868316660llgu2172583690.m3u8
+橙子5台,http://pull-l3-cny.douyincdn.com/live/stream-369125bilivideo27167786453122hdcztv523037569999.m3u8
 橙子6台,http://pull-l3-cny.douyincdn.com/live/stream-113356tvb8080101313230llgu1212976930.m3u8
 橙子7台,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213wwmm9032156.m3u8
 橙子8台,http://pull-l3-cny.douyincdn.com/live/stream-112258llfea68080221221240hdbkhs12137296618.m3u8
