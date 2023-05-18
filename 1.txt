@@ -5696,12 +5696,25 @@ channel v ,http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 
 廊坊,#genre#
 
-廊坊,#genre#
-
-廊坊,#genre#
-
-廊坊,#genre#
-
+信阳,#genre#
+河南信阳交通,https://ls.qingting.fm/live/15318156/64k.m3u8
+FM99.6信阳交通广播,http://youguan.gq/ytradio.php?id=1017&type=henan
+洛阳,#genre#
+[BD]洛阳1,rtmp://jsylivealone.iqilu.com/linyi/linyi_tv01
+[BD]洛阳2,rtmp://jsylivealone.iqilu.com/linyi/linyi_tv02
+洛阳新闻综合,http://wshls.live.migucloud.com/live/3GWXF43U_C0/playlist.m3u8
+洛阳科教,http://wshls.live.migucloud.com/live/08095QP8_C0/playlist.m3u8
+洛阳文旅,http://wshls.live.migucloud.com/live/X5LAHM2S_C0/playlist.m3u8
+洛阳音乐广播,http://youguan.gq/yfm.php?id=493#http://youguan.gq/ytradio.php?id=1249&type=henan
+洛阳交通广播,http://youguan.gq/ytradio.php?id=1704&type=henan
+洛阳综合广播,http://youguan.gq/ytradio.php?id=1705&type=henan
+风起洛阳之阴阳界,https://cdn.zoubuting.com/20221026/2YSmmc1s/index.m3u8
+安阳,#genre#
+安阳交通广播,http://youguan.gq/ytradio.php?id=1021&type=henan
+安阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8#http://live.dxhmt.cn:9081/tv/10522-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8#@http://live.dxhmt.cn:9081/tv/10522-1.m3u8
+安阳婴儿,https://s1.zoubuting.com/20220620/CpmuD0Ah/index.m3u8
+安阳公共,http://live.dxhmt.cn:9080/18625858176/b53f118c3ffc4a5c82b6f14b8301fd17.m3u8
+河南|安阳科教,http://live.dxhmt.cn:9080/18625858176/f392f86c91c74101b1873bdf7f40b8bc.m3u8
 天映,#genre#
 天映经典,http://120.84.96.33:808/hls/85/index.m3u8#http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts#http://162.19.247.76:22222/live/tyjd/index.m3u8#p2p://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7#mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7#mitv://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6#http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 天映經典,http://120.84.96.89:808/hls/85/index.m3u8
