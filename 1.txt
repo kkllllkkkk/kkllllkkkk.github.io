@@ -378,6 +378,20 @@ TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIN
 7112,http://39.134.61.219/PLTV/88888888/224/3221227112/index.m3u8
 7120,http://39.134.61.219/PLTV/88888888/224/3221227120/index.m3u8
 晴天,#genre#
+港台電視31,http://stream.hkanime.live/raw/31.ts?token=tuOLMaUVxIXXQnzrL0D51A&expires=1728825166
+港台電視32,http://stream.hkanime.live/raw/32.ts?token=F0F_sloXQm5Q6tocKfnjbQ&expires=1728825166
+港台電視33,http://stream.hkanime.live/raw/33.ts?token=UrPGXYD9cATI4o0DVLU4Zw&expires=1728825166
+CGTN紀錄頻道,http://stream.hkanime.live/raw/34.ts?token=u5CLSMkt6TyU-poYjExX-A&expires=1728825166
+HOY TV,http://stream.hkanime.live/raw/77.ts?token=50OljphH4hv000hCRz0pQw&expires=1728825166
+HOY TV 資訊台,http://stream.hkanime.live/raw/78.ts?token=p5wQh9p-g-iMSLXcNP6IAQ&expires=1728825166
+香港國際財經台,http://stream.hkanime.live/raw/76.ts?token=gAiJcsEcNovAf2n1LIVjGg&expires=1728825166
+翡翠台,http://stream.hkanime.live/raw/81.ts?token=0_IyTIB_9EIniFcMGnRVEw&expires=1728825166
+J2台,http://stream.hkanime.live/raw/82.ts?token=eI-n2_yDlp1a5Duy8a0tcQ&expires=1728825166
+無綫新聞台,http://stream.hkanime.live/raw/83.ts?token=_xFiM2wKc9eRLlXIi7E_-A&expires=1728825166
+明珠台,http://stream.hkanime.live/raw/84.ts?token=-oCUkkkJmVVnwszuRUnhpA&expires=1728825166
+無綫財經·資訊台,http://stream.hkanime.live/raw/85.ts?token=ldZItpliBk-b9iVLQP4oNA&expires=1728825166
+ViuTV,http://stream.hkanime.live/raw/99.ts?token=WC5YJqJmq_km5Ms1n9eRzQ&expires=1728825166
+ViuTVSix,http://stream.hkanime.live/raw/96.ts?token=Buiv8epuqKaPTKMYMWoTBw&expires=1728825166
 中天新闻台,http://awei.beimua.com/iptv.php?id=43
 东森新闻台,http://awei.beimua.com/iptv.php?id=44
 中视新闻台,http://awei.beimua.com/iptv.php?id=46
