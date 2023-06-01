@@ -1,3 +1,65 @@
+百事通,#genre#
+CCTV1綜合,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV6电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV6电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV13新聞,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV13新聞,https://live-play.cctvnews.cctv.com:443/cctv/merge_cctv13.m3u8
+CCTV13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV17农村农业,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV4,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV7,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV8,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV9,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV10,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV11,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV12,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV13,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV14,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV16,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
+CCTV17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+緯來日本,rtmp://119.81.124.89:1935/sat/tv771
+緯來育樂,rtmp://119.81.124.89:1935/sat/tv701
+緯來體育,rtmp://119.81.124.89:1935/sat/tv721
+民視,rtmp://119.81.124.89:1935/sat/tv051
+台視,rtmp://119.81.124.89:1935/sat/tv071
+中視,rtmp://119.81.124.89:1935/sat/tv091
+華視,rtmp://119.81.124.89:1935/sat/tv111
+TVBS歡樂台,rtmp://119.81.124.89:1935/sat/tv421
+TVBS新聞台,rtmp://119.81.124.89:1935/sat/tv551
+東森財經新聞,rtmp://119.81.124.89:1935/sat/tv571
+ELEVEN1,rtmp://119.81.124.89:1935/sat/tv731
+ELEVEN2,rtmp://119.81.124.89:1935/sat/tv741
+MoMo綜合台,rtmp://119.81.124.89:1935/sat/tv761
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+Berita Satu,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+CNBC,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+Metro TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+Trans 7,https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+Trans TV,https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 辽宁移动2,#genre#
 6481,http://39.134.61.218/PLTV/88888888/224/3221226481/index.m3u8
 6475,http://39.134.61.218/PLTV/88888888/224/3221226475/index.m3u8
@@ -316,6 +378,16 @@
 7112,http://39.134.61.219/PLTV/88888888/224/3221227112/index.m3u8
 7120,http://39.134.61.219/PLTV/88888888/224/3221227120/index.m3u8
 晴天,#genre#
+中天新闻台,http://awei.beimua.com/iptv.php?id=43
+东森新闻台,http://awei.beimua.com/iptv.php?id=44
+中视新闻台,http://awei.beimua.com/iptv.php?id=46
+台视新闻台,http://awei.beimua.com/iptv.php?id=47
+三立新闻台,http://awei.beimua.com/iptv.php?id=48
+民视新闻台,http://awei.beimua.com/iptv.php?id=50
+华视新闻台,http://awei.beimua.com/iptv.php?id=51
+镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
+寰宇新闻台,http://awei.beimua.com/iptv.php?id=53
+TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
 民視新聞HD,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 中視新聞HD,http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 東森財經HD,http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
