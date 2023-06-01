@@ -378,6 +378,7 @@ TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIN
 7112,http://39.134.61.219/PLTV/88888888/224/3221227112/index.m3u8
 7120,http://39.134.61.219/PLTV/88888888/224/3221227120/index.m3u8
 晴天,#genre#
+NOW爆谷台,https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1685648337&rand=AkFozBnrHF&uuid=9b647b3816b2a66a&from=web&sign=d75ff9c405ade3b8f84a3b9f62ed85f6
 港台電視31,http://stream.hkanime.live/raw/31.ts?token=tuOLMaUVxIXXQnzrL0D51A&expires=1728825166
 港台電視32,http://stream.hkanime.live/raw/32.ts?token=F0F_sloXQm5Q6tocKfnjbQ&expires=1728825166
 港台電視33,http://stream.hkanime.live/raw/33.ts?token=UrPGXYD9cATI4o0DVLU4Zw&expires=1728825166
