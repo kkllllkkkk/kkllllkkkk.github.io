@@ -378,7 +378,7 @@ TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIN
 7112,http://39.134.61.219/PLTV/88888888/224/3221227112/index.m3u8
 7120,http://39.134.61.219/PLTV/88888888/224/3221227120/index.m3u8
 晴天,#genre#
-NOW爆谷台,https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1685648337&rand=AkFozBnrHF&uuid=9b647b3816b2a66a&from=web&sign=d75ff9c405ade3b8f84a3b9f62ed85f6
+NOW爆谷台,https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1685721460&rand=Xvznh2wYkk&uuid=9b647b3816b2a66a&from=web&sign=eb3daece8234b046d8de1f09f86b9cb7
 港台電視31,http://stream.hkanime.live/raw/31.ts?token=tuOLMaUVxIXXQnzrL0D51A&expires=1728825166
 港台電視32,http://stream.hkanime.live/raw/32.ts?token=F0F_sloXQm5Q6tocKfnjbQ&expires=1728825166
 港台電視33,http://stream.hkanime.live/raw/33.ts?token=UrPGXYD9cATI4o0DVLU4Zw&expires=1728825166
@@ -393,7 +393,6 @@ J2台,http://stream.hkanime.live/raw/82.ts?token=eI-n2_yDlp1a5Duy8a0tcQ&expires=
 無綫財經·資訊台,http://stream.hkanime.live/raw/85.ts?token=ldZItpliBk-b9iVLQP4oNA&expires=1728825166
 ViuTV,http://stream.hkanime.live/raw/99.ts?token=WC5YJqJmq_km5Ms1n9eRzQ&expires=1728825166
 ViuTVSix,http://stream.hkanime.live/raw/96.ts?token=Buiv8epuqKaPTKMYMWoTBw&expires=1728825166
-
 thai3,http://198.16.100.90:8278/tpbs_pat/playlist.m3u8?tid=MF9F9580758695807586&ct=19249&tsum=e2992a8627dbfd1cb4ac975efe0a195a
 itv 2,http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
 iNews 新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
