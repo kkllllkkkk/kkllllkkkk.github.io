@@ -377,6 +377,41 @@ TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIN
 7110,http://39.134.61.219/PLTV/88888888/224/3221227110/index.m3u8
 7112,http://39.134.61.219/PLTV/88888888/224/3221227112/index.m3u8
 7120,http://39.134.61.219/PLTV/88888888/224/3221227120/index.m3u8
+星视界港澳,#genre#
+凤凰卫视 中文台,
+凤凰卫视资讯台,https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1685725459&rand=XnQcDvbqAE&uuid=9b647b3816b2a66a&from=web&sign=e35d95a70c864c82169d90352b6930ec
+J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1685725498&rand=LU1NWbVkwq&uuid=9b647b3816b2a66a&from=web&sign=3b607f1693da52a17cd9d03a3192f92a
+TVB明珠台,https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1685725528&rand=QFCyq2Ledu&uuid=9b647b3816b2a66a&from=web&sign=15f925ad1f1299100a462f3d4101d40c
+ViuTV,https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1685725556&rand=5V1UdKguKA&uuid=9b647b3816b2a66a&from=web&sign=03cb0a5903bc36993db04a4ad62a1ad1
+TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1685725662&rand=HhnMELtfx7&uuid=9b647b3816b2a66a&from=web&sign=82c61f2600ee6869328633e68bfd7039
+有线财经资讯台,
+有线新闻台,
+现在财经台,
+凤凰卫视,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1685725792&rand=NJIi1t0Hfh&uuid=9b647b3816b2a66a&from=web&sign=3dd443e91f820722ae08242e71c69bc5
+澳洲莲花卫视,https://dispatch.ulivetv.net/v/live/cl7c8hsq3f0g.m3u8?stream_id=cl7c8hsq3f0g&timestamp=1685725853&rand=M2OONDGKzf&uuid=9b647b3816b2a66a&from=web&sign=6e9f5c4afb5adae90fd85a413cd295b1
+TVB无线新闻台,https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1685725888&rand=gmrqQmojrm&uuid=9b647b3816b2a66a&from=web&sign=45bad756d302d6e3c79846e1c9854c2b
+TVB无线财经体育资讯台,https://dispatch.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&timestamp=1685725912&rand=GSZrIZrqzA&uuid=9b647b3816b2a66a&from=web&sign=12282ffbe02fa5e44c33b8009745de88
+ViuTV6,https://dispatch.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&timestamp=1685725935&rand=habHmeoRcD&uuid=9b647b3816b2a66a&from=web&sign=72bf2a7231a2eaf214c0f2082927e486
+港台电视台31,https://dispatch.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&timestamp=1685725959&rand=mEsKEuWzSU&uuid=9b647b3816b2a66a&from=web&sign=c9ebaed4f8393e4155b570b620770fa5
+港台电视 32,https://dispatch.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&timestamp=1685725981&rand=sJTXt8UCCo&uuid=9b647b3816b2a66a&from=web&sign=8788709286f4cefb39424924703db6dd
+好电视,https://dispatch.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&timestamp=1685726018&rand=ygXUv0ctmT&uuid=9b647b3816b2a66a&from=web&sign=8675119481cff98b24b46ea4b00152fc
+香港国际财经台,https://dispatch.ulivetv.net/v/live/ccnrz68enhz4.m3u8?stream_id=ccnrz68enhz4&timestamp=1685726043&rand=WaXlTRlr03&uuid=9b647b3816b2a66a&from=web&sign=d2913951f2b60e1faaba6dee60cebbe1
+HOY 资讯台,https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1685726063&rand=2vu6ds8NIN&uuid=9b647b3816b2a66a&from=web&sign=1c1958af21ed4c2576cb0dc1829033ec
+澳洲资讯,https://dispatch.ulivetv.net/v/live/cfxt8hrg64lc.m3u8?stream_id=cfxt8hrg64lc&timestamp=1685726106&rand=n4bEx9AaxC&uuid=9b647b3816b2a66a&from=web&sign=c1709af1426877058ebb1367124f0953
+澳视澳门,https://dispatch.ulivetv.net/v/live/cfxt168it3gg.m3u8?stream_id=cfxt168it3gg&timestamp=1685726129&rand=UtddzdlSVy&uuid=9b647b3816b2a66a&from=web&sign=0b95e6f8585993799decea0fc83679e5
+有线18台,
+现在新闻台,https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1685726175&rand=lajorjPI7G&uuid=9b647b3816b2a66a&from=web&sign=4860fc70674f68e100ec6e84a4994d93
+TVB 经典台,https://dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0&timestamp=1685726217&rand=Z77ASf8P5J&uuid=9b647b3816b2a66a&from=web&sign=5a0e783c425111c23ad067caa551ba4d
+凤凰卫视 香港台,https://dispatch.ulivetv.net/v/live/cfxs8eqh503k.m3u8?stream_id=cfxs8eqh503k&timestamp=1685726244&rand=EQyZTsANKs&uuid=9b647b3816b2a66a&from=web&sign=75ff6fcd4b760d6e76b21d5c332ca874
+天映经典,https://dispatch.ulivetv.net/v/live/cg48ogf0pj28.m3u8?stream_id=cg48ogf0pj28&timestamp=1685726282&rand=ji2TNpiwKy&uuid=9b647b3816b2a66a&from=web&sign=d0ca0e5a407d5bae1d41ce55e1e20a4c
+天映频道HD,https://dispatch.ulivetv.net/v/live/cg4jy3qvi6kg.m3u8?stream_id=cg4jy3qvi6kg&timestamp=1685726303&rand=sek9BirTCJ&uuid=9b647b3816b2a66a&from=web&sign=b385b022f17b116a056ef38a8fd18fe8
+现在华剧台,https://dispatch.ulivetv.net/v/live/ciw8gb4fs8g0.m3u8?stream_id=ciw8gb4fs8g0&timestamp=1685726332&rand=5g555Ixr7T&uuid=9b647b3816b2a66a&from=web&sign=a3449fa4868af033ca19d6a3f1de4c35
+TVB华语剧台,https://dispatch.ulivetv.net/v/live/ciw8gobsylds.m3u8?stream_id=ciw8gobsylds&timestamp=1685726354&rand=RN0rCM1lj1&uuid=9b647b3816b2a66a&from=web&sign=af7d20026d98789db50c384c19764cff
+有线体育台,
+有线电影台,
+现在直播台,
+TVB星河台,https://dispatch.ulivetv.net/v/live/cl7c95iovqo0.m3u8?stream_id=cl7c95iovqo0&timestamp=1685726457&rand=lcAAsPcplJ&uuid=9b647b3816b2a66a&from=web&sign=726d3738bb439c16a0ef0a94ec9e97b7
+现在爆谷台,https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1685726478&rand=F6ZIZE0Th1&uuid=9b647b3816b2a66a&from=web&sign=a4310cf63e5d184598e6652beb0d0bf2
 星视界卫视,#genre#
 北京卫视,
 湖南卫视,https://dispatch.ulivetv.net/v/live/cgwvl62c4og0.m3u8?stream_id=cgwvl62c4og0&timestamp=1685722959&rand=EezlNiuHSc&uuid=9b647b3816b2a66a&from=web&sign=74ca4fd42c2c4a826008f0d3a3df03b5
