@@ -377,6 +377,27 @@ TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIN
 7110,http://39.134.61.219/PLTV/88888888/224/3221227110/index.m3u8
 7112,http://39.134.61.219/PLTV/88888888/224/3221227112/index.m3u8
 7120,http://39.134.61.219/PLTV/88888888/224/3221227120/index.m3u8
+星视界台湾综合,#genre#
+大爱二台,https://dispatch.ulivetv.net/v/live/cl7c83atb64g.m3u8?stream_id=cl7c83atb64g&timestamp=1685726843&rand=7b0Ui8IGSN&uuid=9b647b3816b2a66a&from=web&sign=16f616a9720060c271e278b1add2519c
+大爱一台,https://dispatch.ulivetv.net/v/live/cl7c7r2jpg3k.m3u8?stream_id=cl7c7r2jpg3k&timestamp=1685726951&rand=h7cgzhXKuA&uuid=9b647b3816b2a66a&from=web&sign=dcf4858e25f00a3e9a13565165a226a9
+中视高清,https://dispatch.ulivetv.net/v/live/cfm2qel2kn9c.m3u8?stream_id=cfm2qel2kn9c&timestamp=1685726971&rand=UpxMbRijLD&uuid=9b647b3816b2a66a&from=web&sign=abd7a97826ca722de30caea10c2fbac4
+公视,https://dispatch.ulivetv.net/v/live/cg0hhu6qlpz4.m3u8?stream_id=cg0hhu6qlpz4&timestamp=1685726997&rand=kcyqAgEUhn&uuid=9b647b3816b2a66a&from=web&sign=4826f1bb5dc8d6da7a87dcb348c7ea33
+公视3台,https://dispatch.ulivetv.net/v/live/cg0hro4vn54w.m3u8?stream_id=cg0hro4vn54w&timestamp=1685727026&rand=gO7cZl0qYz&uuid=9b647b3816b2a66a&from=web&sign=1a8dd3238d8903762a6bad8eba9ab799
+中天综合台,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1685727062&rand=DrnaEkDspY&uuid=9b647b3816b2a66a&from=web&sign=272619dacd3255bae360f6aec44279ac
+中天亚洲台,https://dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&timestamp=1685727111&rand=eZStdcwlgN&uuid=9b647b3816b2a66a&from=web&sign=f8880119974f378865d33ece3e7f9490
+东森超视HD,https://dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&timestamp=1685727134&rand=CpHDsc97qf&uuid=9b647b3816b2a66a&from=web&sign=882c6862dcf6f4f6d5979bac9c72f4e6
+靖天国际台,https://dispatch.ulivetv.net/v/live/cg16n9l4ol34.m3u8?stream_id=cg16n9l4ol34&timestamp=1685727186&rand=MdIrMCd4ja&uuid=9b647b3816b2a66a&from=web&sign=10fbbd58ef2c0042921640b64c304037
+亚洲TVBS,https://dispatch.ulivetv.net/v/live/cg4krcc4nzr4.m3u8?stream_id=cg4krcc4nzr4&timestamp=1685727211&rand=291wIhA85U&uuid=9b647b3816b2a66a&from=web&sign=699a0d26279c9866dbff577962c6d5e0
+八大综合台,https://dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&timestamp=1685727250&rand=sa51g7dmQa&uuid=9b647b3816b2a66a&from=web&sign=bc979755ecdcbdb2ff3786a2acb5af93
+客家电视台,https://dispatch.ulivetv.net/v/live/clectmxixadc.m3u8?stream_id=clectmxixadc&timestamp=1685727277&rand=jecmdk2aJe&uuid=9b647b3816b2a66a&from=web&sign=df805ee6675e956d78f7af2f8ddd76af
+东森综合台,https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1685727305&rand=D3RAr4G1OW&uuid=9b647b3816b2a66a&from=web&sign=9d7835a6a94a1c47b47d8155194c215d
+中视,https://dispatch.ulivetv.net/v/live/cl7c5tec5wow.m3u8?stream_id=cl7c5tec5wow&timestamp=1685727324&rand=FIK9nKy2XO&uuid=9b647b3816b2a66a&from=web&sign=cbbef0dd4965d4ad8d3bf8b5b57fc29e
+华视,https://dispatch.ulivetv.net/v/live/cl7c69hc4m2o.m3u8?stream_id=cl7c69hc4m2o&timestamp=1685727396&rand=mMYzDZDl6j&uuid=9b647b3816b2a66a&from=web&sign=54e56888cc0cdc0e3b808168385e19eb
+台视,https://dispatch.ulivetv.net/v/live/cl7c6o644t6o.m3u8?stream_id=cl7c6o644t6o&timestamp=1685727419&rand=QrQzNYsfGj&uuid=9b647b3816b2a66a&from=web&sign=91d2f421d584e5318b9113a55921e5d7
+搓来日本,https://dispatch.ulivetv.net/v/live/cl7c7d6a1j28.m3u8?stream_id=cl7c7d6a1j28&timestamp=1685727439&rand=DQ6GCjoqko&uuid=9b647b3816b2a66a&from=web&sign=b38acc0f211017e164be9fd510c2b54a
+纬来综合台,https://dispatch.ulivetv.net/v/live/cl7clh349vpc.m3u8?stream_id=cl7clh349vpc&timestamp=1685727461&rand=mAf6VTNSvA&uuid=9b647b3816b2a66a&from=web&sign=ab6546f4a43814b0652bda7cceb9597d
+八大第一台,https://dispatch.ulivetv.net/v/live/clijwtkn9eio.m3u8?stream_id=clijwtkn9eio&timestamp=1685727496&rand=DUlnbWMuTJ&uuid=9b647b3816b2a66a&from=web&sign=73f822b934923cce7aee71a49f54ca2b
+ELTA 综合,https://dispatch.ulivetv.net/v/live/cl7cqw6n9sqo.m3u8?stream_id=cl7cqw6n9sqo&timestamp=1685727522&rand=wtVbwgNx3C&uuid=9b647b3816b2a66a&from=web&sign=041c2bb21aa9b41eb1ddafe8eef5b5c1
 星视界港澳,#genre#
 凤凰卫视 中文台,
 凤凰卫视资讯台,https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1685725459&rand=XnQcDvbqAE&uuid=9b647b3816b2a66a&from=web&sign=e35d95a70c864c82169d90352b6930ec
