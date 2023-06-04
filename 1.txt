@@ -268,7 +268,7 @@ CHC家庭影院,http://live.aptvapp.com/sxg.php?id=jbtygqCHCjtyyH265_4000
 梓潼综合,http://live.aptvapp.com/sxg.php?id=ztgq_2000
 犍为新闻,http://live.aptvapp.com/sxg.php?id=qwxwzh_2000
 筠连,http://live.aptvapp.com/sxg.php?id=ylyt_2000
-山东地方IPTV4直播源#genre#
+山东地方IPTV4#genre#
 山东齐鲁,http://lu1.cc/itv/sdtv/sdtv.php?id=qlpd
 山东齐鲁,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 山东文旅,http://lu1.cc/itv/sdtv/sdtv.php?id=yspd
