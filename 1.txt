@@ -1,4 +1,7 @@
 老外频道未命名,#genre#
+星城经典台,https://cn-hljheb-dx-live-01.bilivideo.com/live-bvc/500189/live_47298021_1601001/index.m3u8
+星城电影台,https://cn-hljheb-dx-live-01.bilivideo.com/live-bvc/750422/live_14659392_8620418/index.m3u8
+星城动夫台,https://cn-hljheb-dx-live-01.bilivideo.com/live-bvc/382660/live_244139258_5651295/index.m3u8
 太空电影台,http://hplay.xyz/aqqtamco/vk3e30K4Yi/34922
 STAR电影台,http://hplay.xyz/aqqtamco/vk3e30K4Yi/34924
 索尼电影台1,http://hplay.xyz/aqqtamco/vk3e30K4Yi/34935
