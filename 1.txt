@@ -1646,7 +1646,6 @@ FX电影台,http://hplay.xyz/aqqtamco/vk3e30K4Yi/34975
 184_68,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 189_79,http://4gtv.mumi.rip:9877/189/4gtv-4gtv079/index.m3u8
 268_75,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
-
 奥点云未命名,#genre#
 南阳新闻,http://mmitv.top/test/ady.php?id=142
 乐清新闻,http://mmitv.top/test/ady.php?id=170
@@ -1947,7 +1946,6 @@ FX电影台,http://hplay.xyz/aqqtamco/vk3e30K4Yi/34975
 3217[2560x1440],http://mmitv.top/test/ady.php?id=3217
 3219[1920x1080],http://mmitv.top/test/ady.php?id=3219
 3227,http://mmitv.top/test/ady.php?id=3227
-
 百事通,#genre#
 CCTV1綜合,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -2442,9 +2440,13 @@ TVBS 欢乐台,https://dispatch.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?stream_id=c
 龙华电影台,https://dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&timestamp=1685728911&rand=iaf5CWG9ke&uuid=9b647b3816b2a66a&from=web&sign=64fb84e95004cd6fd3e7a811d7d5e414
 龙华洋片台,https://dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&timestamp=1685728869&rand=jjYcK7Z1TW&uuid=9b647b3816b2a66a&from=web&sign=621cf03d10838b137561857afa9f9142
 靖天电影台,
+美亚电影台,http://livestreaming.kozow.com/lemo.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80&type=m3u8
+美亚电影台,http://livestreaming.kozow.com/lemo.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80&type=m3u8
 美亚电影台,https://dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&timestamp=1685728849&rand=9594VseyZb&uuid=9b647b3816b2a66a&from=web&sign=217e607151c8dea04edfbd604e6f993c
 ELTA影视剧,https://dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&timestamp=1685728834&rand=gY7rkOVFoL&uuid=9b647b3816b2a66a&from=web&sign=33ab296e337e6f48802d9cc108c86e6e
 EYE 戏台,https://dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&timestamp=1685728818&rand=o4N2qar7yW&uuid=9b647b3816b2a66a&from=web&sign=87d9b19f01b8ad684e29024e953a3881
+星卫高清电影台,http://livestreaming.kozow.com/lemo.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a&type=m3u8
+星卫高清电影台,http://pull-l3-cny.douyincdn.com/live/3a64330e42ec4be715aab773f8fb45f8.m3u8
 星卫高清电影台,https://dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&timestamp=1685728804&rand=0cYBoZqizG&uuid=9b647b3816b2a66a&from=web&sign=1f4ac2831f2d5f5b6096ca29f2cdb7df
 星卫娱乐台,https://dispatch.ulivetv.net/v/live/cl7csf4rd2gw.m3u8?stream_id=cl7csf4rd2gw&timestamp=1685728771&rand=6huAbf9BZx&uuid=9b647b3816b2a66a&from=web&sign=9ec988218d52e58ecec8a7fe37495c16
 MTV Live HD 频道,
