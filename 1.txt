@@ -1,3 +1,5 @@
+p2p,#genre#
+CNN,P2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 地方台,#genre#
 上街电视台,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
 10182,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
