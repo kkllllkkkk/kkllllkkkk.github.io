@@ -3038,6 +3038,27 @@ TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIN
 7112,http://39.134.61.219/PLTV/88888888/224/3221227112/index.m3u8
 7120,http://39.134.61.219/PLTV/88888888/224/3221227120/index.m3u8
 晴天,#genre#
+港台電視31,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/31/index.m3u8?token=BITra1uNOxgWxfJrTdcJIQ&expires=1730091402
+港台電視32,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/32/index.m3u8?token=JyD_823VEdYx6xezbsmv_Q&expires=1730091402
+港台電視33,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/33/index.m3u8?token=kTIKDrea2oWa7e6cDCG1WQ&expires=1730091402
+CGTN紀錄頻道,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/34/index.m3u8?token=8epRuSdV3Ct9cpcZknWLHA&expires=1730091402
+HOY TV,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/77/index.m3u8?token=Ys1e2AjCjuvyxVSwg6wPyw&expires=1730091402
+HOY TV 資訊台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/78/index.m3u8?token=8eIInXn35oG9US0kJy5TWw&expires=1730091402
+香港國際財經台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/76/index.m3u8?token=XxJvX8Ga-RqanD8gXmJ5_g&expires=1730091402
+翡翠台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/81/index.m3u8?token=Qpb57JtgD-jOJ5GUQBAiGw&expires=1730091402
+J2台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/82/index.m3u8?token=cHRLDnNCdFg-a1wvE7gZPA&expires=1730091402
+無綫新聞台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/83/index.m3u8?token=k-PXqbzuvnPuJBWVwwmaCg&expires=1730091402
+明珠台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/84/index.m3u8?token=xvJ6A0q2LjQWg-ssao9jog&expires=1730091402
+無綫財經·資訊台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/85/index.m3u8?token=MmFFtHGxEvTUfLAkb1JQvA&expires=1730091402
+ViuTV,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/99/index.m3u8?token=0o0Q19bKF0o7HGUstLOqWw&expires=1730091402
+ViuTVSix,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/96/index.m3u8?token=ZVYUS_oe4F_yHvUm2jJ_Sg&expires=1730091402
+Viu,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/102/index.m3u8?token=V1LHwb34AATeHfJNivs_-w&expires=1730091402
+Now 新聞台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/332/index.m3u8?token=CGj1EocP-WdSrtRWuvMQ-Q&expires=1730091402
+Now Sports 精選,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/630/index.m3u8?token=EdKg_B_bVFXZv_kJQkKQqg&expires=1730091402
+Now Sports 1台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/631/index.m3u8?token=PLcajXgDee5QdeleaAtaZw&expires=1730091402
+SUPER FREE,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/001/index.m3u8?token=gdlLCb8SKoo9QGkw5_-vgA&expires=1730091402
+Hands Up Channel,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/100/index.m3u8?token=opCvktH3naJ4N_-cqUmQgQ&expires=1730091402
+美亞電影台,http://hkanime:hkanime@stream.hkdtmb.com/xxxx/201/index.m3u8?token=rm1iioG15Cjv1uzVufr4DQ&expires=1730091402
 TVB1[1920x1080],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
 TVB1[1920x1080],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 娱乐新闻台[1280x720],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
@@ -3390,38 +3411,6 @@ CCTV-4[1920x1072],http://198.16.100.90:8278/cctv4/playlist.m3u8?tid=MB9B92424417
 CCTV-8[1920x1080],http://198.16.100.90:8278/cctv8hd/playlist.m3u8?tid=MB9B2648043726480437&ct=19225&tsum=570c59d4ae344fe8968eeebf18261612
 CCTV-9[1920x1080],http://198.16.100.90:8278/cctv9hd/playlist.m3u8?tid=MB3B2175701421757014&ct=19225&tsum=a8e4eb20b41c000aaec59f1994e5884c
 CCTV-13[1920x1080],http://198.16.100.90:8278/cctv13/playlist.m3u8?tid=MEAE5893429158934291&ct=19225&tsum=7e437e531910f3c24213fd3661fcc983
-港台電視31,https://cdn.hkdtmb.com/hls_12h/31/index.m3u8?token=EpEa0BvJ0UTnWb953MBU3w&expires=1701127668
-港台電視32,https://cdn.hkdtmb.com/hls/32/index.m3u8?token=LYHSONiCdwXUPkWG3xek3A&expires=1701127703
-港台電視33,https://cdn.hkdtmb.com/hls/33/index.m3u8?token=J9By8pn9UpNoN4uC71LhqA&expires=1701127730
-CGTN紀錄頻道,https://cdn.hkdtmb.com/hls/34/index.m3u8?token=4Rt-mYgJ5qZ7SDI-yPSSLQ&expires=1701127755
-HOY TV,https://cdn.hkdtmb.com/hls_12h/77/index.m3u8?token=wITG0jG3rU_UAu1JFwl3oQ&expires=1701127827
-HOY TV 資訊台,https://cdn.hkdtmb.com/hls/78/index.m3u8?token=lb9-gqhrk_VxIMeGu6kAjQ&expires=1701127848
-香港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8?token=YZqGSxf-6B8489VSrm0p6w&expires=1701127800
-翡翠台,https://cdn.hkdtmb.com/hls_12h/81/index.m3u8?token=tbUlrcb8Dd3foWIktb-S4g&expires=1701127876
-J2台,https://cdn.hkdtmb.com/hls_12h/82/index.m3u8?token=Qwotn2IXJ5bmyhRFvmfwnA&expires=1701127905
-無綫新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8?token=-6pS2-NVv4DDAhvXNNcEQg&expires=1701127931
-明珠台,https://cdn.hkdtmb.com/hls_12h/84/index.m3u8?token=qQg00V6OjBeKDiOkrdpnRg&expires=1701127976
-明珠原生,https://cdn.hkdtmb.com/hls/84b/index.m3u8?token=Uikp0EikgJ_u_S1fc86gPw&expires=1701128014
-無綫財經·資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8?token=bK0u8H9B0sKCsr6b-4U7UQ&expires=1701128029
-ViuTV,https://cdn.hkdtmb.com/hls_12h/99/index.m3u8?token=IONHBtWJtOykn_25hCMr5Q&expires=1701128094
-ViuTVSix,https://cdn.hkdtmb.com/hls_12h/96/index.m3u8?token=HQNNYYz6Puep-heg8rQ7HQ&expires=1701128063
-Now 新聞台,https://cdn.hkdtmb.com/hls/332/index.m3u8?token=ad2EB63i0gqLSTRYd7eF7Q&expires=1701128118
-SUPER FREE,https://cdn.hkdtmb.com/hls/001/index.m3u8?token=0lohWgxgNNR9nVdlWxxELg&expires=1701128149
-Hands Up Channel,https://cdn.hkdtmb.com/hls/100/index.m3u8?token=OqWkRBIQU6oVjE735XIfDg&expires=1701128172
-港台電視31,http://stream.hkanime.live/hls/31/index.m3u8?token=g9aXCFUQBLFgLhvnVewK2w&expires=1729095580
-港台電視32,http://stream.hkanime.live/hls/32/index.m3u8?token=IqFTl0irbyiiAQxnX6hgqg&expires=1729095580
-港台電視33,http://stream.hkanime.live/hls/33/index.m3u8?token=SuKr1AfH0JjZrZEqo4sfDw&expires=1729095580
-CGTN紀錄頻道,http://stream.hkanime.live/hls/34/index.m3u8?token=ktVhufVvwDUfjkMLBElXJA&expires=1729095580
-香港國際財經台,http://stream.hkanime.live/hls/76/index.m3u8?token=scSgIvPjgfITfBNEIgwwvg&expires=1729095580
-HOY TV,http://stream.hkanime.live/hls/77/index.m3u8?token=j8_4LuplTcJ3sVQoeWs7aw&expires=1729095580
-HOY TV 資訊台,http://stream.hkanime.live/hls/78/index.m3u8?token=Xs0EBv-awtOdAQ8fjq-2Cg&expires=1729095580
-翡翠台,http://stream.hkanime.live/hls/81/index.m3u8?token=gpW2jrm4oLZEIEYEcaVBBQ&expires=1729095580
-J2台,http://stream.hkanime.live/hls/82/index.m3u8?token=uUu-kGtdBaTndgFXkfhl8w&expires=1729095580
-無綫新聞台,http://stream.hkanime.live/hls/83/index.m3u8?token=Pom65L7wXC14agrFA7v2GQ&expires=1729095580
-明珠台,http://stream.hkanime.live/hls/84/index.m3u8?token=tihIQbzFkh7ACO5nLqTIqg&expires=1729095580
-無綫財經·資訊台,http://stream.hkanime.live/hls/85/index.m3u8?token=5wY6cinxieA_eYTxTJyAxQ&expires=1729095580
-ViuTVSix,http://stream.hkanime.live/hls/96/index.m3u8?token=pGEHumbsT-WLImQst_rmuQ&expires=1729095580
-ViuTV,http://stream.hkanime.live/hls/99/index.m3u8?token=JIkZifUqF4C8Zd2LxDqZ9w&expires=1729095580
 凤凰资讯台,https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1684685854&rand=wTHmyAPecN&uuid=9b647b3816b2a66a&from=web&sign=4091b752814fd48ca8e905550918c236
 香港J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1684685911&rand=HbcNf27PoV&uuid=9b647b3816b2a66a&from=web&sign=12275fd8b08c76d8c7ba717a102fb137
 TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1684686199&rand=LzXweN0zRP&uuid=9b647b3816b2a66a&from=web&sign=1ac95866cfb9ee0035d0ccb91df0b795
