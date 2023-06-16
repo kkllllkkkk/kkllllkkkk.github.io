@@ -2011,6 +2011,17 @@ QVC[1280x720],https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 ヒストリーチャンネル[960x544],http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
 旅チャンネル[960x544],http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
 老外频道未命名,#genre#
+星城经典台,https://dwz.mk/v6kgy
+星城功夫台,https://dwz.mk/mpd4e
+星城香港台,https://dwz.mk/9u5xl
+星城澳门台,https://dwz.mk/lrch5
+星城台湾台,https://dwz.mk/pps4k
+星城武侠台,https://dwz.mk/ry82j
+星城喜剧台,https://dwz.mk/uny87
+星城影视台,https://dwz.mk/50rrm
+星城港片台,https://dwz.mk/wjh0l
+星城翡翠台,https://dwz.mk/gbso3
+星城卡通台,https://dwz.mk/hf79j
 星城香港台,https://d1--cn-gotcha101.bilivideo.com/live-bvc/944013/live_244139258_5651295_1500.m3u8?expires=1685850102&len=0&oi=1903485058&pt=html5&qn=0&trid=10031a8e4c03ce184d148440692c6f9ce5a5&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=b7350b45753052a40c9b8797424d38ed&sk=79c09e46e051f39c1771417de9b31d39&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=10&site=0f13c3455a045c49d0d268fd05dc73a9&order=1
 星城澳门台,https://d1--cn-gotcha101.bilivideo.com/live-bvc/578515/live_420351661_73320656_1500.m3u8?expires=1685850202&len=0&oi=1903485058&pt=html5&qn=0&trid=10032e9bc0e77ea744af82a4738a98a79565&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=c30314db6cc2620fb1d9d89f6640671e&sk=1304f646dfeb4df8b6e7ff33c167d3ad87b2a035213a12b2efcdf778dee61a04&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=10&site=17c1811a3657681d4fbc7e173935d3e8&order=1
 星城台湾台,https://d1--cn-gotcha101.bilivideo.com/live-bvc/776065/live_418919_7061973_1500.m3u8?expires=1685849965&len=0&oi=1903485058&pt=html5&qn=0&trid=1003b9793d2ce6f84f508c13b70514b63812&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=6a4772c3cd4448178641395406d41903&sk=c2fbe46f62ec24804e9e28fa57364032&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=10&site=68954f8e708bfff2603f993a4074484e&order=1
