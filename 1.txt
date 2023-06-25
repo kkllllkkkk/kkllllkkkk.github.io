@@ -1,622 +1,69 @@
 🌸港  澳 台5,#genre#
-CCTV4中文国际[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=156404
-TVB1[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153401
-TVB1[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153395
-TVB1[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153396
-TVB星河[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571186
-TVB星河[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941620
-TVB星河 HK[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153506
-TVBS新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571188
-TVBS亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571185
-TVBS亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153507
-TVBS亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941621
-TVBS新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941622
-TVBS亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=156402
-TVB千禧经典台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571197
-TVB娱乐新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153398
-TVB娱乐新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153504
-TVB千禧经典台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153503
-TVB1[1920x1080],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
-TVB1[1920x1080],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
-TVB1[1920x1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153396&extension=ts&play_token=qd42npLkoB
-TVB1[1920x1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153401&extension=ts&play_token=wxx9BccHxp
-TVBe[1280x720],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
-TVBe[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
-TVBS[1280x720],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156402&extension=ts&play_token=UEKTIim7lP
-TVBS[1920x1080],http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
-中天亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571212
-中天亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941638
-NowJelli紫金国际台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941630
-CCTV-4 中文国际[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941641
-Crime&Investigation[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571215
-Crime+Investigation[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941666
-TVB千禧经典台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571197
-TVB娱乐新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153398
-TVB娱乐新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153504
-TVB千禧经典台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153503
-Rock Entertainment[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941643
-CCTV4中文国际[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=156404
-Discovery Science[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571211
-Food Network Asia[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571179
-Curiosity Channel[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941657
-Paramount Nerwork[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941654
-中天亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571212
-凤凰中文台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=114695
-无线新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153399
-中天亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941638
-亚洲旅游台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941640
-卫视中文台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941624
-卫视电影台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941625
-Cartoon Network[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941673
-东森卫视HD[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=156394
-东森美洲HD[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=156397
-Discovery Asia[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571181
-BBC World News[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941693
-TV5 MONDE ASIE[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941683
-TVBS新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571188
-TVBS亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571185
-TVBS亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153507
-TVBS亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941621
-TVBS新闻台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941622
-TVBS亚洲台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=156402
-Animal Planet[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571227
-ABC Australia[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941682
-Arirang korea[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941614
-BBC lifestyle[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941668
-HBO Signature[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941645
-凤凰中文[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941626
-凤凰资讯[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941627
-翡翠台(b)[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941619
-TVB星河 HK[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153506
-Mewatch Ch 5[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941615
-Mewatch Ch 8[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941616
-Mewatch Ch U[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941617
-Nat Geo Wild[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683089
-HITS MOVIES[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571200
-Mewatch CNA[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941688
-HITS Movies[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941577
-Hits Movies[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941606
-CinemaWorld[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683146
-HITS Movies[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683163
-tvN MOVIES[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571261
-HBO Family[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941646
-LoveNature[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941663
-NatGeoWild[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941664
-tvN Movies[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683149
-翡翠台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571187
-爱奇艺[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571198
-小太阳[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571230
-TVB星河[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571186
-翡翠台[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153505
-TVB星河[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941620
-HUB娱家[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941634
-HUB都会[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941632
-Discovery[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571210
-Disney XD[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571209
-BBC earth[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941667
-Bloomberg[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941692
-Boomerang[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941674
-Dreamwork[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941656
-EURO NEWS[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941686
-KBS World[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941604
-NHK WORLD[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941610
-Nickedeon[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941671
-Boomerang[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683172
-Disney XD[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683171
-HBO Hits[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941647
-Lifetime[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941669
-SKY NEWS[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941684
-TravelXP[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941662
-TVB1 HK[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153396
-HISTORY[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571201
-Cbeebes[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941672
-Cinemax[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941659
-HISTORY[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941661
-Nick jr[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941670
-Nat Geo[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683086
-NatGeo[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941665
-TVBJ1[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153395
-TVB1[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153401
-CGTN[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571216
-HGTV[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571202
-HITS[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571252
-CGTN[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941691
-CNBC[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941689
-HITS[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941578
-HGTV[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683097
-HITS[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683145
-AXN[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571222
-CNA[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571251
-HBO[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571204
-ONE[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571193
-TLC[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571189
-tvN[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571260
-WWE[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571184
-CNN[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941690
-NBA[1920x1080],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941562
-FTV[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941677
-GEM[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941635
-Gem[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941608
-HBO[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941648
-NHK[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941611
-ONE[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941628
-Tvn[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941623
-NHK[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683183
-One[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683130
-tvN[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683148
-AXN[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683144
-DW[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941687
-DW[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683192
-FilmRise Forensic Files[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-France 24 French (720p)[1280x720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-France 24 English (1080p)[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-France24(1080p)[1920x1080],http://198.16.100.90:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
-CGTN Fran ais (Opt-2)[1280x720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-France 24 Arabic (720p)[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-France 24 Arabic (720p)[1280x720],http://81.94.196.205/tsstreamer/France24Arabic_HD.ts
-France 24 French (720p)[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-France 24 French[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-Fido TV (720p) [Not 24/7],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-BEIN SPORTS FRENCH 3 HD[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-BBC Arabic (720p)[1280x720],http://81.94.196.205/tsstreamer/France24Arabic_HD.ts
-DW Arabic (1080p)[1280x720],http://81.94.196.205/tsstreamer/France24Arabic_HD.ts
-Fox: Ostora Arabic 7[1280x720],http://81.94.196.205/tsstreamer/France24Arabic_HD.ts
-Fox: Ostora Arabic 9[1280x720],http://81.94.196.205/tsstreamer/France24Arabic_HD.ts
-FilmRise Free Movies[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-Canal 4 Mancha Centro[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-Bein Sports French HD1[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-French HD2[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-FRANCE 24 HD[1280x720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-France 24[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-France 24[1280x720],http://81.94.196.205/tsstreamer/France24Arabic_HD.ts
-France 24 ENG[1280x720],http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-Euronews French[1280x720],http://81.94.196.204/tsstreamer/France24_HD.ts
-CBSN[1920x1080],https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
-CBSN[1280x720],https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
-CBSN[1280x720],http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
-CBSN[1280x720],http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-CBSNHD[1280x720],http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
-CBSNews[1280x720],http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-CBSN Boston MA (720p)[1280x720],https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-CBSN Boston MA (720p)[1280x720],https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
-CBSN Denver[3413x1920],http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8
-BBC Earth[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941667
-BBC Earth[1920x1080],https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.world.news.ru.m3u8
-BBC NEWS[1920x1080],http://myott.top/stream/DT6QU63K5VX/85.m3u8
-BBC lifestyle[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941668
-BBC World News[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941693
-BBC World News[1280x720],https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-BBC World News[1920x1080],http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-BBC[1280x720],http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-BBC First[1920x1080],http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-BBC First[1280x720],http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-BBC Earth[1920x1080],http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-BBC Arabic[1280x720],https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-BBC 2[1280x720],http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
-BBC[1280x720],http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-BBC[1280x720],http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
-BBC[1280x720],http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
-BBC[1280x720],http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
-BBC[1280x720],http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-BBC[1280x720],http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
-央視新聞[1920x1080],https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-央視新聞[1920x1080],https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-央視新聞[1920x1080],http://cfss.cc/ds/bst.php?id=Cf-14
-CCTV-13新闻[1920x1080],https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV-13新闻[1280x720],https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV-13新闻[1920x1080],https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-中天新闻台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.flv
-中天新闻台,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-中天新闻台[1280x720],http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-中天新闻台,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-CNN[1280x720],http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-CNN[1280x720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
-CNN[1280x720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-CNN[1280x720],http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-CNN[1280x720],http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-CNN[1920x1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-东森LIVE,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
-东森LIVE[1920x1080],http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-东森新闻[1280x720],https://pull-l3-cny.douyincdn.com/live/YesLiveTV-366df6b1-563a-4aeb-a0cc-752cc70eec06.m3u8?
-东森新闻[1920x1080],http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
-东森新闻美洲台[1920x1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森新闻美洲[1920x1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森新闻美国[1920x1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
-Ch 8[1280x720],http://198.16.100.90:8278/Channel8HD/playlist.m3u8?tid=MCFC8998558189985581&ct=19254&tsum=a739b10e72ab016a8ec0a02af3d134c6
-Ch 5[1280x720],http://198.16.100.90:8278/Channel5HD/playlist.m3u8?tid=MEBE3941597439415974&ct=19254&tsum=2d8697a568834e4837cfc2d69575960f
-Ch U[1280x720],http://198.16.100.90:8278/ChannelU/playlist.m3u8?tid=MD9D1087746110877461&ct=19254&tsum=d1ab4d7db7f152794b54e196fd732330
-RTHK31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
-RTHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-RTHK31[1280x720],http://198.16.100.90:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
-RTHK32[1280x720],http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-RTHK32[1280x720],http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-VIUTV[1920x1080],http://r.jdshipin.com/vSJvl
-ViU 6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
-ViU 6[1920x1080],http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
-ViU 6[1920x1080],http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
-ViU 6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
-ViU 6[1920x1080],http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
-ViU 6[1920x1080],http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
-ViuTV[1920x1080],http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
-Viu TV[1920x1080],http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
-Viu TV[1920x1080],http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
-Viu TV[1920x1080],http://r.jdshipin.com/vSJvl
-VIUTV 6[1920x1080],http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
-明珠台[1280x720],http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-翡翠台[1920x1080],http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台[1280x720],http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-无线新闻台[1920x1080],http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-无线新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-民视第一台[1280x720],http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
-民视第一台[1280x720],http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-民视台湾[1920x1080],http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-民视台湾[1920x1080],http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-民视台湾[1920x1080],http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-民视台湾[1920x1080],http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-民视台湾[1920x1080],http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-中天亚洲[1280x720],http://162.19.247.76:22222/live/ztyz/index.m3u8
-中天亚洲[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941638
-中天亚洲[1280x720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=571212
-中天亚洲,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-中天亚洲[1280x720],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
-中天亚洲[1280x720],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
-非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新闻[1920x1080],http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新闻,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-年代新闻,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-年代新闻,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-年代新闻[1920x1080],http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新闻[1920x1080],http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新闻,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-探索亚洲台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-动物星球台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
-国家地理野生[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
-国家地理频道[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
-星卫电影台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.flv
-莲花电影台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.flv
-数位电影台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-6ea2b038f2ce633a65f0450895f6679e.flv
-卫视电影台[1024x576],http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.flv
-卫视西片台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-01a22d8d466a6ef38b80e2ce6cd323c0.flv
-美亚电影台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.flv
-龙华电影台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-7c4301f3ec1b9c970db0af9d1c07e66f.flv
-龙华戏剧台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.flv
-龙祥电影台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.flv
-好莱坞电影[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.flv
-天映电影台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-4480903e93e7bf6ddde637e903c423a0.flv
-东森电影台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.flv
-最爱电影台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.flv
-CatchPlay[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.flv
-CineWorld[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.flv
-HBO HD[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.flv
-HBO家庭影院[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.flv
-HBO原创电影[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.flv
-HBO强档影院[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.flv
-靖天欢乐台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.flv
-靖天映画台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.flv
-靖天娱乐台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.flv
-靖天电影台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.flv
-八大娱乐台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
-TVBS精彩台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS亚洲台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-TVBS综合台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
-TVB翡翠台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.flv
-TVB星河台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-d40c919171cfc73cf4de67fc381cbc3e.flv
-纬来日本台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.flv
-纬来体育台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.flv
-纬来娱乐台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.flv
-中天新闻台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.flv
-中天综合台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
-中天娱乐台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.flv
-八大娱乐台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.flv
-TVBS精彩台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.flv
-TVBS亚洲台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.flv
-TVBS综合台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.flv
-探索亚洲台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-8f0f5b53f8ad921929fc9ac8771cbd82.flv
-动物星球台[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.flv
-国家地理野生[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.flv
-国家地理频道[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.flv
-星卫电影台[1920x1080],http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
-V音乐台[785x576],http://pull-l3-cny.douyincdn.com/live/I8NmAJdx55508k02.flv
-TVB翡翠[1920x1080],http://pull-l3-cny.douyincdn.com/live/I8KKIHHHI5845884UUIOHHYHTV.flv
-TVB翡翠[1280x720],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=2
-TVB明珠[1280x720],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=3
-TVB星河[1280x720],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=4
-TVB J2[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=5
-无线新闻[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=13
-HOYTV[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=1
-无线财经[1280x720],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=14
-卫视中文[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=109
-星卫电影[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=112
-东森财经新闻[1920x1080],http://123.51.149.68:18515/0.m3u8
-RTHK[1920x1080],http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-翡翠台[1920x1080],http://113.117.74.15:8081/hls/67/index.m3u8
-NHK[1920x1080],http://123.51.149.68:18525/0.m3u8
-纬来综合[1920x1080],http://123.51.230.108:18540/.m3u8
-东风37[1920x1080],http://123.51.230.108:18560/.m3u8
-八大戏剧[1920x1080],http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-八大戏剧[1920x1080],http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-八大第一[1920x1080],http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-八大第一[1920x1080],http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大第一[1920x1080],http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-八大综合[1920x1080],http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-八大综合[1920x1080],http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-中天娱乐[1920x1080],http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-中天娱乐[1920x1080],http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-中天综合[1920x1080],http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-八大第一[1920x1080],http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-东森戏剧[1920x1080],http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-东森电影[1920x1080],http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-东森超视[1920x1080],http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-民视台湾[1920x1080],http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-HBO家庭[1920x1080],http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-HBO [1920x1080],http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-靖天国际[1280x720],http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-靖天国际[1280x720],http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-三立都会[1920x1080],http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
-TVBS[1920x1080],http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-纬来日本[1920x1080],http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
-星卫电影[1280x720],http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-环球电视台[1920x1080],http://zb.xzxwhcb.com:9999/hls/world.m3u8
-凤凰中文[1280x720],http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰资讯[1280x720],http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-NHK世界HD[1920x1080],http://123.51.230.108:18525/.m3u8
-中天娱乐台[1280x720],http://162.19.247.76:22222/live/ztyl/index.m3u8
-HBO1[1920x1080],http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-TVB翡翠[1920x1080],http://pull-l3-cny.douyincdn.com/live/I8KKIHHHI5845884UUIOHHYHTV.flv
-无线新闻[1920x1080],http://pull-l3-cny.douyincdn.com/live/78625566800365445000YHTV.flv
-台前新闻[1920x1080],http://tvpull.dxhmt.cn:9081/tv/10927-1.m3u8
-凤凰中文[1920x1080],http://www.372583307.top:4022/udp/233.50.200.191:5140
-凤凰资讯[1920x1080],http://www.372583307.top:4022/udp/233.50.200.192:5140
-明珠台[1920x1080],https://live.astradamy.com/tvbpearl/index.m3u8
-TVB翡翠台[1280x720],https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5127bae1-40d2-42b3-9b52-32f41ea4067a.m3u8
-TVB1[1920x1080],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
-TVB1[1920x1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153396&extension=ts&play_token=qd42npLkoB
-TVB1[1920x1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153401&extension=ts&play_token=wxx9BccHxp
-TVBe[1280x720],http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
-TVBe[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
-凤凰中文[1280x720],http://r.jdshipin.com/cCCzW
-凤凰中文[1280x720],http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰资讯[1280x720],http://r.jdshipin.com/0Rp07
-翡翠台[1280x720],http://r.jdshipin.com/62WM7
-翡翠台[1280x720],https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686312646&rand=hPJgZ3EFou&uuid=9b647b3816b2a66a&from=web&sign=d3f919309615a6398f9d278153ee5690
-明珠台[1280x720],https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686312605&rand=tO1JGrXmjL&uuid=9b647b3816b2a66a&from=web&sign=477fda8433634b8b2e3c3e9e64fc5c41
-明珠台[1280x720],http://tv365.me:80/0123466218/1078525645/62823
-TVB J2[1280x720],https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686312552&rand=bGny6hLVof&uuid=9b647b3816b2a66a&from=web&sign=0ebd922ca5dc14b159820b91ae9bb82e
-TVB J2[1920x1080],http://tv365.me:80/0123466218/1078525645/62826
-无线新闻[1280x720],https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686312720&rand=HIPVSHSf0B&uuid=9b647b3816b2a66a&from=web&sign=4859e57314ef365b4b28bcd602d53309
-无线新闻[1280x720],https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686276774&rand=8TEOYmNn7s&uuid=9b647b3816b2a66a&from=web&sign=7ac7590c5e773941963ee188ef367054
-无线新闻[1280x720],http://r.jdshipin.com/CkuBd
-无线新闻[1920x1080],http://tv365.me:80/0123466218/1078525645/62824
-ViuTV[1280x720],https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686312626&rand=1QvR1usN8y&uuid=9b647b3816b2a66a&from=web&sign=4b46e32e2feb6d5965f87b3ee47f3dbe
-ViuTV[1280x720],http://r.jdshipin.com/vSJvl
-ViuTV6[1280x720],https://dispatch.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&timestamp=1686312742&rand=Y7eXG3efQI&uuid=9b647b3816b2a66a&from=web&sign=86747a9fce37fbe07c36538292458eb2
-HOYTV[1280x720],http://51.89.21.73:40869
-HOYTV[1280x720],https://dispatch.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&timestamp=1686312768&rand=cidk3uU7zb&uuid=9b647b3816b2a66a&from=web&sign=9de9834fec7256066532c141b77b5dc8
-RTHK31[1280x720],http://tv365.me:80/0123466218/1078525645/62819
-RTHK32[1280x720],http://tv365.me:80/0123466218/1078525645/62818
-台视[1280x720],rtmp://219.80.97.77/sat/tv071
-台视[1280x720],rtmp://119.81.124.89/sat/tv071
-中视[1280x720],rtmp://219.80.97.77/sat/tv091
-中视[1280x720],rtmp://119.81.124.89/sat/tv091
-民视[1280x720],rtmp://219.80.97.77/sat/tv051
-民视[1280x720],rtmp://119.81.124.89/sat/tv051
-华视[1280x720],rtmp://219.80.97.77/sat/tv111
-华视[1280x720],rtmp://119.81.124.89/sat/tv111
-TVBS新闻[1280x720],rtmp://219.80.97.77/sat/tv551
-TVBS新闻[1280x720],rtmp://119.81.124.89/sat/tv551
-TVBS欢乐[1280x720],rtmp://219.80.97.77/sat/tv421
-TVBS欢乐[1280x720],rtmp://119.81.124.89/sat/tv421
-东森超视[1280x720],rtmp://219.80.97.77/sat/tv331
-东森超视[1280x720],rtmp://119.81.124.89/sat/tv331
-CNA News[1920x1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-纬来日本[1280x720],rtmp://219.80.97.77/sat/tv771
-纬来日本[1280x720],rtmp://119.81.124.89/sat/tv771
-纬来育乐[1280x720],rtmp://219.80.97.77/sat/tv701
-纬来育乐[1280x720],rtmp://119.81.124.89/sat/tv701
-纬来体育[1280x720],rtmp://219.80.97.77/sat/tv721
-纬来体育[1280x720],rtmp://119.81.124.89/sat/tv721
-东森电影[1920x1080],http://120.84.96.130:808/hls/32/index.m3u8
-东森电影[1920x1080],http://120.84.96.138:808/hls/32/index.m3u8
-东森洋片[1920x1080],http://120.84.96.130:808/hls/33/index.m3u8
-东森洋片[1920x1080],http://120.84.96.138:808/hls/33/index.m3u8
-龙祥时代[1920x1080],http://120.84.96.130:808/hls/35/index.m3u8
-龙祥时代[1920x1080],http://120.84.96.138:808/hls/35/index.m3u8
-好莱坞电影[1920x1080],http://120.84.96.130:808/hls/24/index.m3u8
-好莱坞电影[1920x1080],http://120.84.96.138:808/hls/24/index.m3u8
-星卫电影[1920x1080],https://dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&timestamp=1686313270&rand=eGwaHv2i0u&uuid=9b647b3816b2a66a&from=web&sign=935cd89a5b3583f05fdbaf834208f282
-美亚电影[1280x720],http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-MOMO综合[1280x720],rtmp://219.80.97.77/sat/tv761
-MOMO综合[1280x720],rtmp://119.81.124.89/sat/tv761
-ELEVEN 1[1280x720],rtmp://219.80.97.77/sat/tv731
-ELEVEN 1[1280x720],rtmp://119.81.124.89/sat/tv731
-ELEVEN 2[1280x720],rtmp://219.80.97.77/sat/tv741
-ELEVEN 2[1280x720],rtmp://119.81.124.89/sat/tv741
-翡翠台[1280x720],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=2
-明珠台[1280x720],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=3
-TVB J2[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=5
-TVB星河[1280x720],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=4
-无线新闻[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=13
-HoyTV[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=1
-星卫电影[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=112
-美亚电影[1280x720],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=113
-HBO Family[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=99
-CINEMAX电影[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=101
-好莱坞电影[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=100
-AXN电影[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=102
-纬来电影[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=103
-东森电影[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=104
-东森洋片[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=105
-东森戏剧[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=106
-龙祥电影[1920x1080],http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=108
-CCTV1[1920x1080],http://183.196.25.171:808/hls/1/index.m3u8
-CCTV2[1920x1080],http://183.196.25.171:808/hls/2/index.m3u8
-CCTV3[1920x1080],http://183.196.25.171:808/hls/75/index.m3u8
-CCTV4[1920x1080],http://183.196.25.171:808/hls/4/index.m3u8
-CCTV5[1920x1080],http://183.196.25.171:808/hls/78/index.m3u8
-CCTV6[1920x1080],http://183.196.25.171:808/hls/76/index.m3u8
-CCTV5+[1920x1080],http://183.196.25.171:808/hls/61/index.m3u8
-CCTV7[1920x1080],http://183.196.25.171:808/hls/7/index.m3u8
-CCTV8[1920x1080],http://183.196.25.171:808/hls/77/index.m3u8
-CCTV9[1920x1080],http://183.196.25.171:808/hls/9/index.m3u8
-CCTV10[1920x1080],http://183.196.25.171:808/hls/10/index.m3u8
-CCTV12[1920x1080],http://183.196.25.171:808/hls/12/index.m3u8
-CCTV13[1920x1080],http://183.196.25.171:808/hls/13/index.m3u8
-湖南卫视[1920x1080],http://113.117.74.10:8081/hls/42/index.m3u8
-浙江卫视[1920x1080],http://113.117.74.10:8081/hls/43/index.m3u8
-江苏卫视[1920x1080],http://113.117.74.10:8081/hls/44/index.m3u8
-北京卫视[1920x1080],http://113.117.74.10:8081/hls/45/index.m3u8
-深圳卫视[1920x1080],http://113.117.74.10:8081/hls/46/index.m3u8
-天津卫视[1920x1080],http://113.117.74.10:8081/hls/48/index.m3u8
-安徽卫视[1920x1080],http://113.117.74.10:8081/hls/49/index.m3u8
-湖北卫视[1920x1080],http://113.117.74.10:8081/hls/51/index.m3u8
-辽宁卫视[1920x1080],http://113.117.74.10:8081/hls/54/index.m3u8
-东南卫视[1920x1080],http://113.117.74.10:8081/hls/55/index.m3u8
-河北卫视[1920x1080],http://113.117.74.10:8081/hls/57/index.m3u8
-江西卫视[1920x1080],http://113.117.74.10:8081/hls/58/index.m3u8
-广西卫视[1920x1080],http://113.117.74.10:8081/hls/60/index.m3u8
-华丽翡翠台[1280x720],http://r.jdshipin.com/thuYX
-J2.备用[1280x720],http://r.jdshipin.com/ndGgS
-VIUTV[1280x720],http://r.jdshipin.com/vSJvl
-凤凰中文,http://www.372583307.top:4022/udp/233.50.200.191:5140
-凤凰资讯[1920x1080],http://www.372583307.top:4022/udp/233.50.200.192:5140
-翡翠台[1920x1080],http://r.jdshipin.com/qClQf
-明珠台[1920x1080],http://r.jdshipin.com/ZQ4kN
-台视[1280x720],http://162.19.247.76:22222/live/taishi/index.m3u8
-台视[1280x720],rtmp://219.80.97.77/sat/tv071
-台视[1280x720],rtmp://119.81.124.89/sat/tv071
-中视[1280x720],http://162.19.247.76:22222/live/zhongshi/index.m3u8
-中视[1280x720],rtmp://219.80.97.77/sat/tv091
-中视[1280x720],rtmp://119.81.124.89/sat/tv091
-民视[1280x720],rtmp://219.80.97.77/sat/tv051
-民视[1280x720],rtmp://119.81.124.89/sat/tv051
-华视[1280x720],http://162.19.247.76:22222/live/huashi/index.m3u8
-华视[1280x720],rtmp://219.80.97.77/sat/tv111
-华视[1280x720],rtmp://119.81.124.89/sat/tv111
-TVBS新闻[1280x720],rtmp://219.80.97.77/sat/tv551
-TVBS新闻[1280x720],rtmp://119.81.124.89/sat/tv551
-TVBS欢乐[1280x720],rtmp://219.80.97.77/sat/tv421
-TVBS欢乐[1280x720],rtmp://119.81.124.89/sat/tv421
-东森财经[1280x720],rtmp://219.80.97.77/sat/tv571
-东森财经[1280x720],rtmp://119.81.124.89/sat/tv571
-东森超视[1280x720],rtmp://219.80.97.77/sat/tv331
-东森超视[1280x720],rtmp://119.81.124.89/sat/tv331
-纬来日本[1280x720],rtmp://219.80.97.77/sat/tv771
-纬来日本[1280x720],rtmp://119.81.124.89/sat/tv771
-纬来育乐[1280x720],rtmp://219.80.97.77/sat/tv701
-纬来育乐[1280x720],rtmp://119.81.124.89/sat/tv701
-纬来体育[1280x720],rtmp://219.80.97.77/sat/tv721
-纬来体育[1280x720],rtmp://119.81.124.89/sat/tv721
-东森戏剧[1280x720],http://162.19.247.76:22222/live/dsxj/index.m3u8
-中天娱乐[1280x720],http://162.19.247.76:22222/live/ztyl/index.m3u8
-中天亚洲[1280x720],http://162.19.247.76:22222/live/ztyz/index.m3u8
-MoMo综合[1280x720],rtmp://219.80.97.77/sat/tv761
-MoMo综合[1280x720],rtmp://119.81.124.89/sat/tv761
-ELEVEN 1[1920x1080],http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN 1[1280x720],rtmp://219.80.97.77/sat/tv731
-ELEVEN 1[1280x720],rtmp://119.81.124.89/sat/tv731
-ELEVEN 2[1280x720],rtmp://219.80.97.77/sat/tv741
-ELEVEN 2[1280x720],rtmp://119.81.124.89/sat/tv741
-番薯台[1920x1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-大爱1台[1280x720],https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-大爱2台[1280x720],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-人间卫视[1280x720],http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-亚洲新闻[1920x1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-FOX新闻[1280x720],http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-台視新聞台[1920x1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞台[1920x1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞台[1280x720],http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
-台視新聞台[1280x720],rtmp://219.80.97.77/sat/tv071
-台視新聞台[1920x1080],http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-台視新聞台[1920x1080],http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-中視新聞台[1920x1080],http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-中視新聞台[1920x1080],http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-中視新聞台[1920x1080],http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-民視新聞台[1920x1080],http://123.51.230.108:18663/.m3u8
-民視新聞台[1920x1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞台[1920x1080],http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
-民視新聞台[1280x720],http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-民視新聞台[1280x720],http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-TVBS新聞台[1920x1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞台[1920x1080],http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-年代新聞[1920x1080],http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新聞[1920x1080],http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-中天新聞[1280x720],http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-中天新聞[1280x720],http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-中天新聞,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-東森新聞[1920x1080],http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-東森LIVE[1920x1080],http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-東森LIVE[1920x1080],http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-東森財經新聞[1920x1080],http://123.51.230.108:18515/.m3u8
-東森美洲[1920x1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-香港有線直播新聞台,https://api.leonardpark.dev/live/icable/110
-香港有線直播新聞台[1280x720],http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
-香港有線財經資訊[1280x720],http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
-鳳凰資訊台[1920x1080],http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-鳳凰中文台[1920x1080],http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-CNN全球新聞[1280x720],http://ip2121.com:8081/live/cnn/playlist.m3u8
-Fox News[1280x720],http://50.7.238.114:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-ABC News US[1280x720],http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-BBC World News[1280x720],http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-歐洲新聞,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-歐洲新聞,https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
-NHK新聞,http://123.51.230.108:18525/.m3u8
-NHK World[1280x720],https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
-DW德國之聲[1920x1080],http://185.236.229.31:9981/play/a068
-華麗台[1280x720],http://r.jdshipin.com/thuYX
-翡翠台[1280x720],http://r.jdshipin.com/62WM7
-翡翠台[1280x720],http://r.jdshipin.com/n90gt
-翡翠台[1280x720],http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-無線新聞台[1920x1080],http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-J2[1280x720],http://r.jdshipin.com/ndGgS
-香港衛視文旅台[1920x1080],http://107.151.203.111:2209/135/hk.php?id=hk6
-中視[1920x1080],http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
-中視[1280x720],http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
-華視[1920x1080],http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-民視[1920x1080],http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-民視,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
-民視第一台[1920x1080],http://61.221.81.93:8078/hls/40/80/ftv.m3u8
-民視第一台[1280x720],http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
-民視第一台,http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-民視台灣台[1920x1080],http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-民視台灣台[1920x1080],http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-中天綜合台[1920x1080],http://61.221.81.93:8078/hls/35/80/cti.m3u8
-中天綜合台[1920x1080],http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-中天綜合台[1920x1080],http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-中天娛樂台,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-中天娛樂台[1920x1080],http://50.7.238.114:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-中天亞洲台,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
-TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS歡樂台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-TVBS歡樂台[1920x1080],http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-TVBS亞洲台[1920x1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亞洲台[1920x1080],http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亞洲台[1920x1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-三立戲劇台,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
-八大第一台[1920x1080],http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
-八大第一台[1920x1080],http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大綜合台[1920x1080],http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
-八大綜合台,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-八大綜合台[1920x1080],http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-八大戲劇台[1920x1080],http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
-八大戲劇台[1920x1080],http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
-八大戲劇台,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-緯來日本台[1280x720],rtmp://219.80.97.77/sat/tv771
-緯來育樂台[1280x720],rtmp://219.80.97.77/sat/tv701
-龍華戲劇[1280x720],http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
-龍華戲劇[1280x720],http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
-龍華偶像[1280x720],http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
-東森綜合台[1920x1080],http://61.221.81.93:8078/hls/34/80/ebc.m3u8
-東森美洲衛視[1920x1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森戲劇台[1920x1080],http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
-東森超視[1280x720],rtmp://119.81.124.89/sat/tv331
-東森超視[1920x1080],http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-衛視中文台[1920x1080],http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
-寰宇娛樂TV[1280x720],http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
+1002[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1002
+1003,http://jiudu.hrbox.top/JJ.php?id=live1003
+动物星球,http://jiudu.hrbox.top/JJ.php?id=live1004
+TCL[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1005
+1007[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1007
+东森呦呦,http://jiudu.hrbox.top/JJ.php?id=live1008
+龙华戏剧,http://jiudu.hrbox.top/JJ.php?id=live1009
+龙华日韩,http://jiudu.hrbox.top/JJ.php?id=live1010
+纬来体育[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1011
+非凡商业,http://jiudu.hrbox.top/JJ.php?id=live1012
+非凡新闻,http://jiudu.hrbox.top/JJ.php?id=live1013
+东森新闻,http://jiudu.hrbox.top/JJ.php?id=live1014
+中天新闻[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1015
+三立新闻,http://jiudu.hrbox.top/JJ.php?id=live1016
+东森财经新闻,http://jiudu.hrbox.top/JJ.php?id=live1017
+TVBS欢乐台[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1018
+八大综合台[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1019
+三立都会台[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1020
+三立台湾台,http://jiudu.hrbox.top/JJ.php?id=live1021
+中天综合,http://jiudu.hrbox.top/JJ.php?id=live1022
+中天娱乐,http://jiudu.hrbox.top/JJ.php?id=live1023
+卫视中文台,http://jiudu.hrbox.top/JJ.php?id=live1024
+凤凰电影[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1025
+纬来日本,http://jiudu.hrbox.top/JJ.php?id=live1026
+NHK,http://jiudu.hrbox.top/JJ.php?id=live1027
+HBO,http://jiudu.hrbox.top/JJ.php?id=live1029
+CINEMAX,http://jiudu.hrbox.top/JJ.php?id=live1030
+卫视电影台HD[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1031
+翡翠黄金台，http://jiudu.hrbox.top/JJ.php?id=live1032
+厦门卫视,http://jiudu.hrbox.top/JJ.php?id=live1033
+CCTV4[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1034
+海峡卫视,http://jiudu.hrbox.top/JJ.php?id=live1035
+浙江卫视[720x576],http://jiudu.hrbox.top/JJ.php?id=live1036
+东方卫视,http://jiudu.hrbox.top/JJ.php?id=live1037
+湖南卫视[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1038
+1040[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1040
+东森综合[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1041
+东森戏剧,http://jiudu.hrbox.top/JJ.php?id=live1042
+八大第一台,http://jiudu.hrbox.top/JJ.php?id=live1043
+纬来综合[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1044
+纬来音乐,http://jiudu.hrbox.top/JJ.php?id=live1045
+台视,http://jiudu.hrbox.top/JJ.php?id=live1047
+中视,http://jiudu.hrbox.top/JJ.php?id=live1048
+华视CTS[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1049
+民视,http://jiudu.hrbox.top/JJ.php?id=live1050
+TVBS新闻台,http://jiudu.hrbox.top/JJ.php?id=live1051
+AXN,http://jiudu.hrbox.top/JJ.php?id=live1054
+八大戏剧台[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1057
+1060,http://jiudu.hrbox.top/JJ.php?id=live1060
+1063,http://jiudu.hrbox.top/JJ.php?id=live1063
+1066,http://jiudu.hrbox.top/JJ.php?id=live1066
+1069,http://jiudu.hrbox.top/JJ.php?id=live1069
+1072[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1072
+凤凰新闻[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1210
+凤凰卫视,http://jiudu.hrbox.top/JJ.php?id=live1213
+大爱台,http://jiudu.hrbox.top/JJ.php?id=live1216
+亚洲旅游台,http://jiudu.hrbox.top/JJ.php?id=live1219
+寰宇新闻台,http://jiudu.hrbox.top/JJ.php?id=live1222
+博斯运动1,http://jiudu.hrbox.top/JJ.php?id=live1225
+好消息TV[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1231
+龙华偶像,http://jiudu.hrbox.top/JJ.php?id=live1235
+1238,http://jiudu.hrbox.top/JJ.php?id=live1238
+一新闻,http://jiudu.hrbox.top/JJ.php?id=live1242
+龙华电影[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1245
+MOMO综合台[1920x1080],http://jiudu.hrbox.top/JJ.php?id=live1248
 🌸港  澳 台,#genre#
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 凤凰资讯,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=183
