@@ -1,1324 +1,257 @@
-安博,#genre# 
-翡翠台,http://dl.zapi.ml/ubpad.php?id=390
-翡翠台,http://dl.zapi.ml/ubpad.php?id=30
-TVB明珠,http://dl.zapi.ml/ubpad.php?id=391
-无线新闻,http://dl.zapi.ml/ubpad.php?id=394
-无线财经,http://dl.zapi.ml/ubpad.php?id=393
-有线新闻,http://dl.zapi.ml/ubpad.php?id=395
-NOW新闻,http://dl.zapi.ml/ubpad.php?id=396
-TVB J2,http://dl.zapi.ml/ubpad.php?id=392
-有线603HD,http://dl.zapi.ml/ubpad.php?id=398
-有线18,http://dl.zapi.ml/ubpad.php?id=44
-有线体育1,http://dl.zapi.ml/ubpad.php?id=401
-有线体育2,http://dl.zapi.ml/ubpad.php?id=356
-有线娱乐,http://dl.zapi.ml/ubpad.php?id=360
-有线电影,http://dl.zapi.ml/ubpad.php?id=354
-香港开电视,http://dl.zapi.ml/ubpad.php?id=17
-VIUTV,http://dl.zapi.ml/ubpad.php?id=72
-VIUTV6,http://dl.zapi.ml/ubpad.php?id=176
-NOW直播,http://dl.zapi.ml/ubpad.php?id=400
-RTHK31,http://dl.zapi.ml/ubpad.php?id=353
-RTHK32,http://dl.zapi.ml/ubpad.php?id=397
-TVB星河,http://dl.zapi.ml/ubpad.php?id=1079
-TVB经典,http://dl.zapi.ml/ubpad.php?id=1083
-TVB 华丽,http://dl.zapi.ml/ubpad.php?id=1084
-凤凰中文,http://dl.zapi.ml/ubpad.php?id=357
-凤凰资讯,http://dl.zapi.ml/ubpad.php?id=359
-凤凰资讯,http://dl.zapi.ml/ubpad.php?id=21
-凤凰香港,http://dl.zapi.ml/ubpad.php?id=358
-香港卫视,http://dl.zapi.ml/ubpad.php?id=399
-澳视澳门,http://dl.zapi.ml/ubpad.php?id=23
-澳门莲花,http://dl.zapi.ml/ubpad.php?id=70
-澳视葡语,http://dl.zapi.ml/ubpad.php?id=24
-澳门卫星,http://dl.zapi.ml/ubpad.php?id=29
-亚美卫视,http://dl.zapi.ml/ubpad.php?id=1001
-爆谷台,http://dl.zapi.ml/ubpad.php?id=152
-TVBS综合,http://dl.zapi.ml/ubpad.php?id=88
-TVBS综合,http://dl.zapi.ml/ubpad.php?id=16
-TVBS精采,http://dl.zapi.ml/ubpad.php?id=66
-TVBS欢乐,http://dl.zapi.ml/ubpad.php?id=40
-TVBS新闻,http://dl.zapi.ml/ubpad.php?id=2
-壹综合,http://dl.zapi.ml/ubpad.php?id=305
-壹新闻,http://dl.zapi.ml/ubpad.php?id=303
-三立iNEWS,http://dl.zapi.ml/ubpad.php?id=8
-三立LIVE新闻,http://dl.zapi.ml/ubpad.php?id=4
-三立综合,http://dl.zapi.ml/ubpad.php?id=315
-三立都会,http://dl.zapi.ml/ubpad.php?id=38
-三立台湾,http://dl.zapi.ml/ubpad.php?id=35
-三立戏剧,http://dl.zapi.ml/ubpad.php?id=64
-东森新闻,http://dl.zapi.ml/ubpad.php?id=9
-东森财经,http://dl.zapi.ml/ubpad.php?id=12
-东森超视,http://dl.zapi.ml/ubpad.php?id=80
-东森综合,http://dl.zapi.ml/ubpad.php?id=372
-东森电影,http://dl.zapi.ml/ubpad.php?id=350
-东森洋片,http://dl.zapi.ml/ubpad.php?id=1128
-东森戏剧,http://dl.zapi.ml/ubpad.php?id=321
-东森幼幼,http://dl.zapi.ml/ubpad.php?id=371
-东森购物1,http://dl.zapi.ml/ubpad.php?id=1155
-东森购物2,http://dl.zapi.ml/ubpad.php?id=1156
-寰宇综合,http://dl.zapi.ml/ubpad.php?id=190
-寰宇新闻,http://dl.zapi.ml/ubpad.php?id=304
-寰宇台湾,http://dl.zapi.ml/ubpad.php?id=87
-民视,http://dl.zapi.ml/ubpad.php?id=336
-民视新闻,http://dl.zapi.ml/ubpad.php?id=13
-民视第一,http://dl.zapi.ml/ubpad.php?id=34
-民视台湾,http://dl.zapi.ml/ubpad.php?id=36
-民视影剧,http://dl.zapi.ml/ubpad.php?id=1023
-民视综艺,http://dl.zapi.ml/ubpad.php?id=98
-民视旅游,http://dl.zapi.ml/ubpad.php?id=78
-华视,http://dl.zapi.ml/ubpad.php?id=32
-华视新闻,http://dl.zapi.ml/ubpad.php?id=6
-中视,http://dl.zapi.ml/ubpad.php?id=28
-中视新闻,http://dl.zapi.ml/ubpad.php?id=7
-中视经典,http://dl.zapi.ml/ubpad.php?id=185
-中视菁采,http://dl.zapi.ml/ubpad.php?id=74
-台视,http://dl.zapi.ml/ubpad.php?id=27
-台视新闻,http://dl.zapi.ml/ubpad.php?id=1
-台视财经,http://dl.zapi.ml/ubpad.php?id=300
-公视,http://dl.zapi.ml/ubpad.php?id=361
-公视戏剧,http://dl.zapi.ml/ubpad.php?id=69
-中天新闻,http://dl.zapi.ml/ubpad.php?id=3
-中天亚洲,http://dl.zapi.ml/ubpad.php?id=322
-中天综合1,http://dl.zapi.ml/ubpad.php?id=325
-中天综合2,http://dl.zapi.ml/ubpad.php?id=54
-中天娱乐,http://dl.zapi.ml/ubpad.php?id=324
-年代新闻,http://dl.zapi.ml/ubpad.php?id=236
-非凡新闻,http://dl.zapi.ml/ubpad.php?id=314
-非凡商业,http://dl.zapi.ml/ubpad.php?id=187
-中华财经,http://dl.zapi.ml/ubpad.php?id=317
-纬来日本,http://dl.zapi.ml/ubpad.php?id=337
-纬来日本,http://dl.zapi.ml/ubpad.php?id=46
-纬来育乐,http://dl.zapi.ml/ubpad.php?id=312
-纬来电影,http://dl.zapi.ml/ubpad.php?id=96
-纬来体育,http://dl.zapi.ml/ubpad.php?id=52
-纬来体育,http://dl.zapi.ml/ubpad.php?id=118
-八大综合,http://dl.zapi.ml/ubpad.php?id=90
-八大第一,http://dl.zapi.ml/ubpad.php?id=318
-八大精彩,http://dl.zapi.ml/ubpad.php?id=1024
-八大戏剧,http://dl.zapi.ml/ubpad.php?id=81
-八大戏剧,http://dl.zapi.ml/ubpad.php?id=81
-靖天国际,http://dl.zapi.ml/ubpad.php?id=345
-靖天综合,http://dl.zapi.ml/ubpad.php?id=308
-靖天育乐,http://dl.zapi.ml/ubpad.php?id=1029
-靖天日本,http://dl.zapi.ml/ubpad.php?id=108
-靖天欢乐,http://dl.zapi.ml/ubpad.php?id=51
-靖天资讯,http://dl.zapi.ml/ubpad.php?id=49
-靖天电影,http://dl.zapi.ml/ubpad.php?id=110
-靖天映画,http://dl.zapi.ml/ubpad.php?id=349
-靖天戏剧,http://dl.zapi.ml/ubpad.php?id=109
-靖天卡通,http://dl.zapi.ml/ubpad.php?id=344
-龙华日韩,http://dl.zapi.ml/ubpad.php?id=382
-龙华偶像,http://dl.zapi.ml/ubpad.php?id=347
-龙华经典,http://dl.zapi.ml/ubpad.php?id=364
-龙华戏剧,http://dl.zapi.ml/ubpad.php?id=365
-龙华电影,http://dl.zapi.ml/ubpad.php?id=311
-龙华动画,http://dl.zapi.ml/ubpad.php?id=366
-靖洋戏剧,http://dl.zapi.ml/ubpad.php?id=319
-靖洋卡通,http://dl.zapi.ml/ubpad.php?id=348
-JET综合,http://dl.zapi.ml/ubpad.php?id=41
-高点综合,http://dl.zapi.ml/ubpad.php?id=99
-世新综合,http://dl.zapi.ml/ubpad.php?id=95
-国兴卫视,http://dl.zapi.ml/ubpad.php?id=105
-国兴卫视,http://dl.zapi.ml/ubpad.php?id=65
-星卫娱乐,http://dl.zapi.ml/ubpad.php?id=89
-VTV4,http://dl.zapi.ml/ubpad.php?id=341
-韩国娱乐,http://dl.zapi.ml/ubpad.php?id=73
-猪哥亮歌厅秀,http://dl.zapi.ml/ubpad.php?id=75
-ELTA综合,http://dl.zapi.ml/ubpad.php?id=1137
-ELTA娱乐,http://dl.zapi.ml/ubpad.php?id=351
-达文西频道,http://dl.zapi.ml/ubpad.php?id=68
-幸福空间居家,http://dl.zapi.ml/ubpad.php?id=61
-Travel Channel,http://dl.zapi.ml/ubpad.php?id=63
-好消息1,http://dl.zapi.ml/ubpad.php?id=104
-好消息2,http://dl.zapi.ml/ubpad.php?id=363
-MTV,http://dl.zapi.ml/ubpad.php?id=106
-CLASSICA 古典乐,http://dl.zapi.ml/ubpad.php?id=1027
-希望电视,http://dl.zapi.ml/ubpad.php?id=67
-龙祥时代,http://dl.zapi.ml/ubpad.php?id=373
-民视影剧,http://dl.zapi.ml/ubpad.php?id=1023
-纬来电影,http://dl.zapi.ml/ubpad.php?id=96
-东森电影,http://dl.zapi.ml/ubpad.php?id=350
-东森洋片,http://dl.zapi.ml/ubpad.php?id=1128
-卫视电影,http://dl.zapi.ml/ubpad.php?id=93
-星卫电影,http://dl.zapi.ml/ubpad.php?id=496
-AXN,http://dl.zapi.ml/ubpad.php?id=103
-AXN亚洲,http://dl.zapi.ml/ubpad.php?id=1066
-光影欧洲,http://dl.zapi.ml/ubpad.php?id=1157
-华纳电影,http://dl.zapi.ml/ubpad.php?id=83
-美亚电影,http://dl.zapi.ml/ubpad.php?id=375
-天映经典,http://dl.zapi.ml/ubpad.php?id=328
-好莱坞电影,http://dl.zapi.ml/ubpad.php?id=37
-凤凰电影,http://dl.zapi.ml/ubpad.php?id=18
-卫视西片,http://dl.zapi.ml/ubpad.php?id=369
-金光布袋,http://dl.zapi.ml/ubpad.php?id=1060
-FOX,http://dl.zapi.ml/ubpad.php?id=384
-FOX CRIME,http://dl.zapi.ml/ubpad.php?id=386
-FOX ACTION,http://dl.zapi.ml/ubpad.php?id=385
-FOX Family,http://dl.zapi.ml/ubpad.php?id=383
-采昌影剧,http://dl.zapi.ml/ubpad.php?id=62
-影迷数位电影,http://dl.zapi.ml/ubpad.php?id=497
-CATCHPLAY电影,http://dl.zapi.ml/ubpad.php?id=362
-八大戏剧,http://dl.zapi.ml/ubpad.php?id=81
-公视戏剧,http://dl.zapi.ml/ubpad.php?id=69
-三立戏剧,http://dl.zapi.ml/ubpad.php?id=64
-龙华电影,http://dl.zapi.ml/ubpad.php?id=311
-龙华经典,http://dl.zapi.ml/ubpad.php?id=100
-龙华戏剧,http://dl.zapi.ml/ubpad.php?id=365
-靖洋戏剧,http://dl.zapi.ml/ubpad.php?id=319
-靖天电影,http://dl.zapi.ml/ubpad.php?id=110
-靖天戏剧,http://dl.zapi.ml/ubpad.php?id=109
-ELTA影剧,http://dl.zapi.ml/ubpad.php?id=500
-EYE戏剧,http://dl.zapi.ml/ubpad.php?id=191
-TVN MOVIE,http://dl.zapi.ml/ubpad.php?id=1082
-国家地理,http://dl.zapi.ml/ubpad.php?id=302
-国家野生,http://dl.zapi.ml/ubpad.php?id=1038
-探索EVE,http://dl.zapi.ml/ubpad.php?id=1036
-动物星球,http://dl.zapi.ml/ubpad.php?id=368
-AFN,http://dl.zapi.ml/ubpad.php?id=195
-爆笑频道,http://dl.zapi.ml/ubpad.php?id=85
-探索频道,http://dl.zapi.ml/ubpad.php?id=1035
-视纳华仁纪实,http://dl.zapi.ml/ubpad.php?id=91
-探索科学,http://dl.zapi.ml/ubpad.php?id=343
-探索亚洲,http://dl.zapi.ml/ubpad.php?id=306
-AFN,http://dl.zapi.ml/ubpad.php?id=307
-CI罪安侦查,http://dl.zapi.ml/ubpad.php?id=1159
-HISTORY H1,http://dl.zapi.ml/ubpad.php?id=116
-HISTORY H2,http://dl.zapi.ml/ubpad.php?id=1158
-BBC earth,http://dl.zapi.ml/ubpad.php?id=97
-亚洲旅游,http://dl.zapi.ml/ubpad.php?id=77
-民视旅游,http://dl.zapi.ml/ubpad.php?id=78
-TLC旅游生活,http://dl.zapi.ml/ubpad.php?id=102
-FoodNetwork,http://dl.zapi.ml/ubpad.php?id=294
-VOA美国之音,http://dl.zapi.ml/ubpad.php?id=495
-VOA卫视,http://dl.zapi.ml/ubpad.php?id=22
-半岛国际新闻,http://dl.zapi.ml/ubpad.php?id=494
-DW德国之声,http://dl.zapi.ml/ubpad.php?id=1059
-Bloomberg Europe,http://dl.zapi.ml/ubpad.php?id=370
-第1商业,http://dl.zapi.ml/ubpad.php?id=186
-美国唐人街台,http://dl.zapi.ml/ubpad.php?id=43
-爱放1,http://dl.zapi.ml/ubpad.php?id=1127
-爱放2,http://dl.zapi.ml/ubpad.php?id=299
-爱放3,http://dl.zapi.ml/ubpad.php?id=259
-MOMO亲子,http://dl.zapi.ml/ubpad.php?id=1126
-MOMO亲子台,http://dl.zapi.ml/ubpad.php?id=1149
-东森幼幼,http://dl.zapi.ml/ubpad.php?id=371
-CN卡通,http://dl.zapi.ml/ubpad.php?id=107
-Animax,http://dl.zapi.ml/ubpad.php?id=59
-曼迪日本,http://dl.zapi.ml/ubpad.php?id=316
-BabyFirst,http://dl.zapi.ml/ubpad.php?id=173
-靖洋卡通,http://dl.zapi.ml/ubpad.php?id=348
-龙华动画,http://dl.zapi.ml/ubpad.php?id=366
-靖天卡通,http://dl.zapi.ml/ubpad.php?id=344
-Nick儿童,http://dl.zapi.ml/ubpad.php?id=50
-Treehouse,http://dl.zapi.ml/ubpad.php?id=55
-Baby TV,http://dl.zapi.ml/ubpad.php?id=1129
-Nickelodeon europe,http://dl.zapi.ml/ubpad.php?id=56
-Nickj,http://dl.zapi.ml/ubpad.php?id=53
-Disney channel,http://dl.zapi.ml/ubpad.php?id=5
-Disney xd,http://dl.zapi.ml/ubpad.php?id=31
-Disney j,http://dl.zapi.ml/ubpad.php?id=47
-Boomerang,http://dl.zapi.ml/ubpad.php?id=57
-Universalkids,http://dl.zapi.ml/ubpad.php?id=58
-BBC CBeebies,http://dl.zapi.ml/ubpad.php?id=115
-Cartoon,http://dl.zapi.ml/ubpad.php?id=48
-嘉佳卡通,http://dl.zapi.ml/ubpad.php?id=291
-纬来体育,http://dl.zapi.ml/ubpad.php?id=52
-纬来体育,http://dl.zapi.ml/ubpad.php?id=118
-FOX 体育1,http://dl.zapi.ml/ubpad.php?id=1131
-FOX 体育2,http://dl.zapi.ml/ubpad.php?id=1132
-FOX 体育3,http://dl.zapi.ml/ubpad.php?id=376
-Eleven 体育1,http://dl.zapi.ml/ubpad.php?id=1133
-Eleven 体育2,http://dl.zapi.ml/ubpad.php?id=301
-Z频道,http://dl.zapi.ml/ubpad.php?id=1130
-皇马足球,http://dl.zapi.ml/ubpad.php?id=20
-博斯无限,http://dl.zapi.ml/ubpad.php?id=381
-博斯无限2,http://dl.zapi.ml/ubpad.php?id=426
-博斯网球,http://dl.zapi.ml/ubpad.php?id=498
-博斯高球1,http://dl.zapi.ml/ubpad.php?id=377
-博斯高球2,http://dl.zapi.ml/ubpad.php?id=378
-Sky 体育MainEvent,http://dl.zapi.ml/ubpad.php?id=177
-博斯魅力,http://dl.zapi.ml/ubpad.php?id=175
-博斯运动1,http://dl.zapi.ml/ubpad.php?id=379
-博斯运动2,http://dl.zapi.ml/ubpad.php?id=380
-卫视体育,http://dl.zapi.ml/ubpad.php?id=79
-TRACE 体育Stars,http://dl.zapi.ml/ubpad.php?id=1037
-智林体育,http://dl.zapi.ml/ubpad.php?id=82
-时尚运动X,http://dl.zapi.ml/ubpad.php?id=71
-ESPN News,http://dl.zapi.ml/ubpad.php?id=148
-FOX-Sports1,http://dl.zapi.ml/ubpad.php?id=151
-FOX-Sports2,http://dl.zapi.ml/ubpad.php?id=152
-NBC,http://dl.zapi.ml/ubpad.php?id=154
-NBC Golf,http://dl.zapi.ml/ubpad.php?id=155
-NBA TV,http://dl.zapi.ml/ubpad.php?id=153
-ESPN-HD,http://dl.zapi.ml/ubpad.php?id=147
-BT 体育ESPN,http://dl.zapi.ml/ubpad.php?id=168
-BT 体育1,http://dl.zapi.ml/ubpad.php?id=165
-BT 体育2,http://dl.zapi.ml/ubpad.php?id=166
-BT 体育3,http://dl.zapi.ml/ubpad.php?id=167
-Euro 体育1,http://dl.zapi.ml/ubpad.php?id=170
-Euro 体育2,http://dl.zapi.ml/ubpad.php?id=171
-Sky 体育Mix,http://dl.zapi.ml/ubpad.php?id=172
-Sky 体育Cricket,http://dl.zapi.ml/ubpad.php?id=179
-Sky 体育Golf,http://dl.zapi.ml/ubpad.php?id=180
-Sky 体育PremierLeague,http://dl.zapi.ml/ubpad.php?id=181
-Sky 体育F1,http://dl.zapi.ml/ubpad.php?id=182
-Sky 体育News,http://dl.zapi.ml/ubpad.php?id=183
-ELTA体育1,http://dl.zapi.ml/ubpad.php?id=192
-ELTA体育2,http://dl.zapi.ml/ubpad.php?id=193
-ELTA体育3,http://dl.zapi.ml/ubpad.php?id=194
-JP体育1,http://dl.zapi.ml/ubpad.php?id=129
-JP体育2,http://dl.zapi.ml/ubpad.php?id=130
-JP体育3,http://dl.zapi.ml/ubpad.php?id=131
-JP体育4,http://dl.zapi.ml/ubpad.php?id=132
-Astro 体育1,http://dl.zapi.ml/ubpad.php?id=444
-Astro 体育2,http://dl.zapi.ml/ubpad.php?id=445
-Astro 体育3,http://dl.zapi.ml/ubpad.php?id=446
-Astro 体育4,http://dl.zapi.ml/ubpad.php?id=447
-新时代多伦多,http://dl.zapi.ml/ubpad.php?id=1031
-新时代多伦多2,http://dl.zapi.ml/ubpad.php?id=1033
-新时代温哥华,http://dl.zapi.ml/ubpad.php?id=1032
-Astro Awani,http://dl.zapi.ml/ubpad.php?id=440
-天映频道,http://dl.zapi.ml/ubpad.php?id=441
-全佳,http://dl.zapi.ml/ubpad.php?id=427
-kix,http://dl.zapi.ml/ubpad.php?id=430
-Astro 欢喜,http://dl.zapi.ml/ubpad.php?id=432
-Astro suria,http://dl.zapi.ml/ubpad.php?id=434
-Astro 双星,http://dl.zapi.ml/ubpad.php?id=431
-Astro AEC,http://dl.zapi.ml/ubpad.php?id=433
-Astro 华丽,http://dl.zapi.ml/ubpad.php?id=429
-Channel 5,http://dl.zapi.ml/ubpad.php?id=449
-TV1,http://dl.zapi.ml/ubpad.php?id=435
-TV2,http://dl.zapi.ml/ubpad.php?id=436
-TV3,http://dl.zapi.ml/ubpad.php?id=437
-TV9,http://dl.zapi.ml/ubpad.php?id=438
-NTV7,http://dl.zapi.ml/ubpad.php?id=439
-TV8,http://dl.zapi.ml/ubpad.php?id=442
-Astro 小太阳,http://dl.zapi.ml/ubpad.php?id=443
-Astro AOD,http://dl.zapi.ml/ubpad.php?id=428
-Channel U,http://dl.zapi.ml/ubpad.php?id=448
-Astro Sp1,http://dl.zapi.ml/ubpad.php?id=444
-Astro Sp2,http://dl.zapi.ml/ubpad.php?id=445
-Astro Sp3,http://dl.zapi.ml/ubpad.php?id=446
-Astro Sp4,http://dl.zapi.ml/ubpad.php?id=447
-Channel8,http://dl.zapi.ml/ubpad.php?id=142
-Channel5,http://dl.zapi.ml/ubpad.php?id=141
-ARENA_HD,http://dl.zapi.ml/ubpad.php?id=1049
-AOD351,http://dl.zapi.ml/ubpad.php?id=1050
-AOD352,http://dl.zapi.ml/ubpad.php?id=450
-AOD353,http://dl.zapi.ml/ubpad.php?id=1067
-AOD354,http://dl.zapi.ml/ubpad.php?id=1068
-AOD355,http://dl.zapi.ml/ubpad.php?id=1069
-ASSP1_HD,http://dl.zapi.ml/ubpad.php?id=1070
-ASSP2_HD,http://dl.zapi.ml/ubpad.php?id=1071
-ASSP3_HD,http://dl.zapi.ml/ubpad.php?id=1072
-ASSP4_HD,http://dl.zapi.ml/ubpad.php?id=1074
-AEC,http://dl.zapi.ml/ubpad.php?id=1073
-AFN,http://dl.zapi.ml/ubpad.php?id=195
-Channel U,http://dl.zapi.ml/ubpad.php?id=1077
-Vasantham,http://dl.zapi.ml/ubpad.php?id=1078
-小太阳,http://dl.zapi.ml/ubpad.php?id=1080
-WWE,http://dl.zapi.ml/ubpad.php?id=1081
-TVN MOVIE,http://dl.zapi.ml/ubpad.php?id=1082
-双星,http://dl.zapi.ml/ubpad.php?id=1086
-Suria,http://dl.zapi.ml/ubpad.php?id=1076
-OKEY,http://dl.zapi.ml/ubpad.php?id=1075
-AWANI,http://dl.zapi.ml/ubpad.php?id=1151
-AXN,http://dl.zapi.ml/ubpad.php?id=1044
-BNC,http://dl.zapi.ml/ubpad.php?id=1045
-Thairath TV,http://dl.zapi.ml/ubpad.php?id=1139
-Channel 8,http://dl.zapi.ml/ubpad.php?id=1140
-DDTV,http://dl.zapi.ml/ubpad.php?id=1138
-Thai PBS,http://dl.zapi.ml/ubpad.php?id=1047
-NBT,http://dl.zapi.ml/ubpad.php?id=1048
-Karaoke,http://dl.zapi.ml/ubpad.php?id=1141
-Jakarta Globe,http://dl.zapi.ml/ubpad.php?id=1142
-CNN Indonesia,http://dl.zapi.ml/ubpad.php?id=1145
-InsanTV,http://dl.zapi.ml/ubpad.php?id=1143
-MetroTV,http://dl.zapi.ml/ubpad.php?id=1124
-ZeeNews,http://dl.zapi.ml/ubpad.php?id=465
-DD News,http://dl.zapi.ml/ubpad.php?id=463
-TEN1,http://dl.zapi.ml/ubpad.php?id=466
-TEN2,http://dl.zapi.ml/ubpad.php?id=467
-TEN3,http://dl.zapi.ml/ubpad.php?id=468
-And Pictures,http://dl.zapi.ml/ubpad.php?id=469
-Colors HD,http://dl.zapi.ml/ubpad.php?id=470
-NDTV,http://dl.zapi.ml/ubpad.php?id=471
-Zee Tamil,http://dl.zapi.ml/ubpad.php?id=472
-India TV,http://dl.zapi.ml/ubpad.php?id=473
-Sony Mix,http://dl.zapi.ml/ubpad.php?id=474
-Star Movies,http://dl.zapi.ml/ubpad.php?id=478
-Star Plus,http://dl.zapi.ml/ubpad.php?id=479
-Zee Marathi,http://dl.zapi.ml/ubpad.php?id=480
-Zee Studio,http://dl.zapi.ml/ubpad.php?id=481
-Zee TV,http://dl.zapi.ml/ubpad.php?id=482
-Zee Cinema,http://dl.zapi.ml/ubpad.php?id=484
-Zee Classic,http://dl.zapi.ml/ubpad.php?id=485
-Sony Sab,http://dl.zapi.ml/ubpad.php?id=475
-Sony,http://dl.zapi.ml/ubpad.php?id=483
-HBO,http://dl.zapi.ml/ubpad.php?id=464
-Sony Max,http://dl.zapi.ml/ubpad.php?id=477
-WWE,http://dl.zapi.ml/ubpad.php?id=1081
-NTV News24,http://dl.zapi.ml/ubpad.php?id=42
-BSテレビ东京,http://dl.zapi.ml/ubpad.php?id=243
-时代剧の专门家,http://dl.zapi.ml/ubpad.php?id=287
-テレビ朝日,http://dl.zapi.ml/ubpad.php?id=237
-SKY A,http://dl.zapi.ml/ubpad.php?id=247
-读卖テレビ,http://dl.zapi.ml/ubpad.php?id=198
-每日放送,http://dl.zapi.ml/ubpad.php?id=199
-サンテレビ,http://dl.zapi.ml/ubpad.php?id=238
-BSプレミアム,http://dl.zapi.ml/ubpad.php?id=239
-BS日テレ,http://dl.zapi.ml/ubpad.php?id=240
-BS朝日,http://dl.zapi.ml/ubpad.php?id=241
-GREEN,http://dl.zapi.ml/ubpad.php?id=245
-关西テレビ,http://dl.zapi.ml/ubpad.php?id=235
-BS-TBS,http://dl.zapi.ml/ubpad.php?id=242
-Golf Network,http://dl.zapi.ml/ubpad.php?id=249
-BS-FUJI,http://dl.zapi.ml/ubpad.php?id=244
-jsport1,http://dl.zapi.ml/ubpad.php?id=129
-jsport2,http://dl.zapi.ml/ubpad.php?id=130
-jsport3,http://dl.zapi.ml/ubpad.php?id=131
-jsport4,http://dl.zapi.ml/ubpad.php?id=132
-Japan Channel DX,http://dl.zapi.ml/ubpad.php?id=39
-GaoRa,http://dl.zapi.ml/ubpad.php?id=296
-NTV,http://dl.zapi.ml/ubpad.php?id=119
-NHKE,http://dl.zapi.ml/ubpad.php?id=120
-NHK-G,http://dl.zapi.ml/ubpad.php?id=121
-tvtokyo,http://dl.zapi.ml/ubpad.php?id=123
-TBS,http://dl.zapi.ml/ubpad.php?id=124
-大阪TV,http://dl.zapi.ml/ubpad.php?id=126
-ABC朝日,http://dl.zapi.ml/ubpad.php?id=127
-bs1,http://dl.zapi.ml/ubpad.php?id=128
-wowo1,http://dl.zapi.ml/ubpad.php?id=133
-wowo2,http://dl.zapi.ml/ubpad.php?id=134
-wowo3,http://dl.zapi.ml/ubpad.php?id=135
-STAR1,http://dl.zapi.ml/ubpad.php?id=136
-STAR2,http://dl.zapi.ml/ubpad.php?id=137
-STAR3,http://dl.zapi.ml/ubpad.php?id=138
-animax,http://dl.zapi.ml/ubpad.php?id=139
-Green,http://dl.zapi.ml/ubpad.php?id=140
-Discovery,http://dl.zapi.ml/ubpad.php?id=290
-Tokyo MX1,http://dl.zapi.ml/ubpad.php?id=33
-Tokyo MX2,http://dl.zapi.ml/ubpad.php?id=1148
-KIDS,http://dl.zapi.ml/ubpad.php?id=289
-卫星剧场,http://dl.zapi.ml/ubpad.php?id=298
-MUSIC JAPAN,http://dl.zapi.ml/ubpad.php?id=288
-TV,http://dl.zapi.ml/ubpad.php?id=1039
-KBS1,http://dl.zapi.ml/ubpad.php?id=174
-KBS2,http://dl.zapi.ml/ubpad.php?id=250
-MBC,http://dl.zapi.ml/ubpad.php?id=251
-SBS,http://dl.zapi.ml/ubpad.php?id=252
-SBS PLus,http://dl.zapi.ml/ubpad.php?id=262
-JTBC??,http://dl.zapi.ml/ubpad.php?id=268
-JTBC,http://dl.zapi.ml/ubpad.php?id=253
-OCN,http://dl.zapi.ml/ubpad.php?id=488
-CTS,http://dl.zapi.ml/ubpad.php?id=491
-Spotv,http://dl.zapi.ml/ubpad.php?id=266
-Spotv2,http://dl.zapi.ml/ubpad.php?id=267
-CBS,http://dl.zapi.ml/ubpad.php?id=493
-SBS??,http://dl.zapi.ml/ubpad.php?id=486
-OCNMOVIES,http://dl.zapi.ml/ubpad.php?id=1020
-Mnet,http://dl.zapi.ml/ubpad.php?id=1136
-MBCevery1,http://dl.zapi.ml/ubpad.php?id=476
-Tconvers,http://dl.zapi.ml/ubpad.php?id=1134
-KBS joy,http://dl.zapi.ml/ubpad.php?id=1154
-KBS Dram,http://dl.zapi.ml/ubpad.php?id=1062
-YTN Science,http://dl.zapi.ml/ubpad.php?id=1092
-EBS 2,http://dl.zapi.ml/ubpad.php?id=1093
-EBS Kids,http://dl.zapi.ml/ubpad.php?id=1094
-EBS English,http://dl.zapi.ml/ubpad.php?id=1095
-EBSPlus 1,http://dl.zapi.ml/ubpad.php?id=1096
-EBSPlus 2,http://dl.zapi.ml/ubpad.php?id=1097
-EBS1,http://dl.zapi.ml/ubpad.php?id=1098
-UBC SBS,http://dl.zapi.ml/ubpad.php?id=1099
-KTV,http://dl.zapi.ml/ubpad.php?id=1100
-SBS Star,http://dl.zapi.ml/ubpad.php?id=1101
-ESPN-News,http://dl.zapi.ml/ubpad.php?id=148
-FOX-Sports1,http://dl.zapi.ml/ubpad.php?id=151
-FOX-Sports2,http://dl.zapi.ml/ubpad.php?id=152
-NBC-HD,http://dl.zapi.ml/ubpad.php?id=154
-NBC-Golf,http://dl.zapi.ml/ubpad.php?id=155
-NBA-TV,http://dl.zapi.ml/ubpad.php?id=153
-ESPN-HD,http://dl.zapi.ml/ubpad.php?id=147
-BT Sport ESPN,http://dl.zapi.ml/ubpad.php?id=168
-BT Sport 2,http://dl.zapi.ml/ubpad.php?id=166
-BT Sport 3,http://dl.zapi.ml/ubpad.php?id=167
-BT Sport 1,http://dl.zapi.ml/ubpad.php?id=165
-CNN HD,http://dl.zapi.ml/ubpad.php?id=146
-FOX-HD,http://dl.zapi.ml/ubpad.php?id=149
-TBS HD,http://dl.zapi.ml/ubpad.php?id=156
-FOX-News,http://dl.zapi.ml/ubpad.php?id=150
-ABC HD,http://dl.zapi.ml/ubpad.php?id=143
-CBS HD,http://dl.zapi.ml/ubpad.php?id=144
-BET,http://dl.zapi.ml/ubpad.php?id=270
-HBO Signature,http://dl.zapi.ml/ubpad.php?id=272
-TNT,http://dl.zapi.ml/ubpad.php?id=284
-HGTV-HD,http://dl.zapi.ml/ubpad.php?id=274
-HISTORY,http://dl.zapi.ml/ubpad.php?id=275
-GOD TV,http://dl.zapi.ml/ubpad.php?id=276
-Big Ten Network,http://dl.zapi.ml/ubpad.php?id=278
-NESN,http://dl.zapi.ml/ubpad.php?id=281
-NFL RedZone,http://dl.zapi.ml/ubpad.php?id=280
-HBO Zone East,http://dl.zapi.ml/ubpad.php?id=273
-HBO East,http://dl.zapi.ml/ubpad.php?id=271
-HBO Comedy East,http://dl.zapi.ml/ubpad.php?id=269
-Box Nation,http://dl.zapi.ml/ubpad.php?id=277
-UFC Network,http://dl.zapi.ml/ubpad.php?id=283
-MTV,http://dl.zapi.ml/ubpad.php?id=286
-NAT-GEO,http://dl.zapi.ml/ubpad.php?id=285
-Sec Network,http://dl.zapi.ml/ubpad.php?id=279
-Tennis,http://dl.zapi.ml/ubpad.php?id=282
-CNBC,http://dl.zapi.ml/ubpad.php?id=145
-Bloomberg Television,http://dl.zapi.ml/ubpad.php?id=1058
-American Horrors,http://dl.zapi.ml/ubpad.php?id=1054
-30A TV,http://dl.zapi.ml/ubpad.php?id=1052
-Atlanta,http://dl.zapi.ml/ubpad.php?id=1055
-Panama City,http://dl.zapi.ml/ubpad.php?id=1056
-Pawleys Island,http://dl.zapi.ml/ubpad.php?id=1057
-Sky Sports MainEvent,http://dl.zapi.ml/ubpad.php?id=177
-Euro Sport 1,http://dl.zapi.ml/ubpad.php?id=170
-Euro Sport 2,http://dl.zapi.ml/ubpad.php?id=171
-Sky Sports Mix,http://dl.zapi.ml/ubpad.php?id=172
-Sky Sports Cricket,http://dl.zapi.ml/ubpad.php?id=179
-Sky Sports Golf,http://dl.zapi.ml/ubpad.php?id=180
-Sky Sports PremierLeague,http://dl.zapi.ml/ubpad.php?id=181
-Sky Sports F1,http://dl.zapi.ml/ubpad.php?id=182
-Sky Sports News,http://dl.zapi.ml/ubpad.php?id=183
-BBC News,http://dl.zapi.ml/ubpad.php?id=164
-Channel 4,http://dl.zapi.ml/ubpad.php?id=169
-BBC 1,http://dl.zapi.ml/ubpad.php?id=161
-BBC 2,http://dl.zapi.ml/ubpad.php?id=162
-BBC 4,http://dl.zapi.ml/ubpad.php?id=163
-ITV 4,http://dl.zapi.ml/ubpad.php?id=160
-ITV 3,http://dl.zapi.ml/ubpad.php?id=159
-ITV 1,http://dl.zapi.ml/ubpad.php?id=157
-ITV 2,http://dl.zapi.ml/ubpad.php?id=158
-IKIM TV,http://dl.zapi.ml/ubpad.php?id=1147
-CNN NEWS,http://dl.zapi.ml/ubpad.php?id=1102?
-FOX NEWS,http://dl.zapi.ml/ubpad.php?id=1103?
-ABC,http://dl.zapi.ml/ubpad.php?id=1216?
-NBC,http://dl.zapi.ml/ubpad.php?id=1217?
-FOX,http://dl.zapi.ml/ubpad.php?id=1218?
-CNBC,http://dl.zapi.ml/ubpad.php?id=1106?
-5 Start Max,http://dl.zapi.ml/ubpad.php?id=1174?
-Action Max,http://dl.zapi.ml/ubpad.php?id=1175?
-More Max,http://dl.zapi.ml/ubpad.php?id=1176?
-Hallmark Channle,http://dl.zapi.ml/ubpad.php?id=1177?
-Hallmark Drama,http://dl.zapi.ml/ubpad.php?id=1178?
-Hallmark Movie,http://dl.zapi.ml/ubpad.php?id=1179?
-TCM,http://dl.zapi.ml/ubpad.php?id=1179?
-Starz in Black,http://dl.zapi.ml/ubpad.php?id=1181?
-EPSN 1,http://dl.zapi.ml/ubpad.php?id=1182?
-EPSN 2,http://dl.zapi.ml/ubpad.php?id=1183?
-NBC Sport,http://dl.zapi.ml/ubpad.php?id=1184?
-NBA TV US,http://dl.zapi.ml/ubpad.php?id=1185?
-FOX Sport 1,http://dl.zapi.ml/ubpad.php?id=1186?
-FOX Sport 2,http://dl.zapi.ml/ubpad.php?id=1187?
-Tennis,http://dl.zapi.ml/ubpad.php?id=1188?
-NFL Network,http://dl.zapi.ml/ubpad.php?id=1189?
-GOLF,http://dl.zapi.ml/ubpad.php?id=1190?
-WWE,http://dl.zapi.ml/ubpad.php?id=1191?
-UFC PASS,http://dl.zapi.ml/ubpad.php?id=1192?
-Willow HD,http://dl.zapi.ml/ubpad.php?id=1193?
-NHL Network,http://dl.zapi.ml/ubpad.php?id=1194?
-Bein Sport,http://dl.zapi.ml/ubpad.php?id=1195?
-ESPN U,http://dl.zapi.ml/ubpad.php?id=1196?
-Discovery Channel,http://dl.zapi.ml/ubpad.php?id=1198?
-Motor Trend,http://dl.zapi.ml/ubpad.php?id=1199?
-National Geographic,http://dl.zapi.ml/ubpad.php?id=1200?
-Nat Geo Wild,http://dl.zapi.ml/ubpad.php?id=1201?
-Investi gation Discovery US ,http://dl.zapi.ml/ubpad.php?id=1201?
-Animal Planet,http://dl.zapi.ml/ubpad.php?id=1203?
-History,http://dl.zapi.ml/ubpad.php?id=1204?
-Smithsonian,http://dl.zapi.ml/ubpad.php?id=1205?
-TLC,http://dl.zapi.ml/ubpad.php?id=1206?
-Science,http://dl.zapi.ml/ubpad.php?id=1207?
-Disney,http://dl.zapi.ml/ubpad.php?id=1208?
-Disney XD,http://dl.zapi.ml/ubpad.php?id=1209?
-Disney Junior,http://dl.zapi.ml/ubpad.php?id=1210?
-Cartoon Network US,http://dl.zapi.ml/ubpad.php?id=1211?
-Nickelodeon US,http://dl.zapi.ml/ubpad.php?id=1212?
-Nick Junior,http://dl.zapi.ml/ubpad.php?id=1213?
-Boomerang,http://dl.zapi.ml/ubpad.php?id=1214?
-Universal Kids,http://dl.zapi.ml/ubpad.php?id=1215?
-CBS,http://dl.zapi.ml/ubpad.php?id=1219?
-CW,http://dl.zapi.ml/ubpad.php?id=1220?
-Comedy Central,http://dl.zapi.ml/ubpad.php?id=1223?
-TNT US,http://dl.zapi.ml/ubpad.php?id=1224?
-Bravo US,http://dl.zapi.ml/ubpad.php?id=1225?
-LifeTime US,http://dl.zapi.ml/ubpad.php?id=1226?
-A&E,http://dl.zapi.ml/ubpad.php?id=1227?
-AMC,http://dl.zapi.ml/ubpad.php?id=1228?
-WE TV,http://dl.zapi.ml/ubpad.php?id=1229?
-BET,http://dl.zapi.ml/ubpad.php?id=1231?
-LifeTimeMovie,http://dl.zapi.ml/ubpad.php?id=1232?
-VH-1,http://dl.zapi.ml/ubpad.php?id=1233?
-TBS,http://dl.zapi.ml/ubpad.php?id=1234?
-OWN US,http://dl.zapi.ml/ubpad.php?id=1235?
-GSN,http://dl.zapi.ml/ubpad.php?id=1236?
-HGTV US,http://dl.zapi.ml/ubpad.php?id=1237?
-Cooking Channel,http://dl.zapi.ml/ubpad.php?id=1238?
-MTV,http://dl.zapi.ml/ubpad.php?id=1239?
-FYI,http://dl.zapi.ml/ubpad.php?id=1240?
-BabyTV,http://dl.zapi.ml/ubpad.php?id=1241?
-TVB,http://dl.zapi.ml/ubpad.php?id=1242?
-TVB Drama,http://dl.zapi.ml/ubpad.php?id=1243?
-TVBJ1,http://dl.zapi.ml/ubpad.php?id=1244?
-TVBE,http://dl.zapi.ml/ubpad.php?id=1245?
-NOWTV,http://dl.zapi.ml/ubpad.php?id=1246?
-MSNBC,http://dl.zapi.ml/ubpad.php?id=1104?
-TheWeatherNation,http://dl.zapi.ml/ubpad.php?id=1105?
-Bloomberg,http://dl.zapi.ml/ubpad.php?id=1107?
-FOX Business,http://dl.zapi.ml/ubpad.php?id=1108?
-HBO comedy,http://dl.zapi.ml/ubpad.php?id=1109?
-HBO1 US,http://dl.zapi.ml/ubpad.php?id=1110?
-HBO2 US,http://dl.zapi.ml/ubpad.php?id=1111?
-HBO Signature,http://dl.zapi.ml/ubpad.php?id=1112?
-HBO Family,http://dl.zapi.ml/ubpad.php?id=1113?
-Show Time1,http://dl.zapi.ml/ubpad.php?id=1114?
-Show Time2,http://dl.zapi.ml/ubpad.php?id=1115?
-Show Case,http://dl.zapi.ml/ubpad.php?id=1116?
-Starz,http://dl.zapi.ml/ubpad.php?id=1117?
-Starz Comedy,http://dl.zapi.ml/ubpad.php?id=1118?
-Starz Edge,http://dl.zapi.ml/ubpad.php?id=1119?
-Starz Kids Family,http://dl.zapi.ml/ubpad.php?id=1120?
-Starz Encore,http://dl.zapi.ml/ubpad.php?id=1121?
-Starz Encore Westerns,http://dl.zapi.ml/ubpad.php?id=1122?
-Cinemax,http://dl.zapi.ml/ubpad.php?id=1123?
-CP24,http://dl.zapi.ml/ubpad.php?id=1247?
-The Weather,http://dl.zapi.ml/ubpad.php?id=1251?
-CBC,http://dl.zapi.ml/ubpad.php?id=1252?
-CTV,http://dl.zapi.ml/ubpad.php?id=1253?
-CTV2,http://dl.zapi.ml/ubpad.php?id=1257?
-CHCH,http://dl.zapi.ml/ubpad.php?id=1256?
-OMNI1,http://dl.zapi.ml/ubpad.php?id=1258?
-OMNI2,http://dl.zapi.ml/ubpad.php?id=1259?
-TVO,http://dl.zapi.ml/ubpad.php?id=1260?
-Discovery Canada,http://dl.zapi.ml/ubpad.php?id=1261?
-TLC Canada,http://dl.zapi.ml/ubpad.php?id=1262?
-Love Nature,http://dl.zapi.ml/ubpad.php?id=1263?
-Food Network,http://dl.zapi.ml/ubpad.php?id=1265?
-Cooking Channel,http://dl.zapi.ml/ubpad.php?id=1266?
-CTV comedy,http://dl.zapi.ml/ubpad.php?id=1267?
-CTV Sci-Fi,http://dl.zapi.ml/ubpad.php?id=1268?
-Crave1,http://dl.zapi.ml/ubpad.php?id=1269?
-Crave2,http://dl.zapi.ml/ubpad.php?id=1270?
-Crave3,http://dl.zapi.ml/ubpad.php?id=1271?
-Crave4,http://dl.zapi.ml/ubpad.php?id=1272?
-TSN1,http://dl.zapi.ml/ubpad.php?id=1273?
-TSN2,http://dl.zapi.ml/ubpad.php?id=1274?
-TSN 3,http://dl.zapi.ml/ubpad.php?id=1275?
-TSN 4,http://dl.zapi.ml/ubpad.php?id=1276?
-TSN 5,http://dl.zapi.ml/ubpad.php?id=1277?
-SNO,http://dl.zapi.ml/ubpad.php?id=1278?
-SN1,http://dl.zapi.ml/ubpad.php?id=1279?
-SNWL,http://dl.zapi.ml/ubpad.php?id=1280?
-SN360,http://dl.zapi.ml/ubpad.php?id=1281?
-NBA CA,http://dl.zapi.ml/ubpad.php?id=1282?
-TreeHouse,http://dl.zapi.ml/ubpad.php?id=1283?
-Teletoon,http://dl.zapi.ml/ubpad.php?id=1284?
-YTV,http://dl.zapi.ml/ubpad.php?id=1285?
-新时代FTV1,http://dl.zapi.ml/ubpad.php?id=1286?
-新时代FTV2,http://dl.zapi.ml/ubpad.php?id=1287?
-新时代,http://dl.zapi.ml/ubpad.php?id=1288?
-城市电视TTV,http://dl.zapi.ml/ubpad.php?id=1289?
-Global,http://dl.zapi.ml/ubpad.php?id=1254?
-CityTV,http://dl.zapi.ml/ubpad.php?id=1255?
-HGTV,http://dl.zapi.ml/ubpad.php?id=1264?
-Business,http://dl.zapi.ml/ubpad.php?id=1250?
-CTV News,http://dl.zapi.ml/ubpad.php?id=1249?
-CBC News,http://dl.zapi.ml/ubpad.php?id=1248?
-日本-NHK World,http://dl.zapi.ml/ubpad.php?id=117
-日本-NTV,http://dl.zapi.ml/ubpad.php?id=119
-日本-NHKE,http://dl.zapi.ml/ubpad.php?id=120
-日本-NHK-G,http://dl.zapi.ml/ubpad.php?id=121
-日本-tvtokyo,http://dl.zapi.ml/ubpad.php?id=123
-日本-TBS,http://dl.zapi.ml/ubpad.php?id=124
-日本-大阪TV,http://dl.zapi.ml/ubpad.php?id=126
-日本-ABC朝日,http://dl.zapi.ml/ubpad.php?id=127
-日本-bs1,http://dl.zapi.ml/ubpad.php?id=128
-日本-jsport1,http://dl.zapi.ml/ubpad.php?id=129
-日本-jsport2,http://dl.zapi.ml/ubpad.php?id=130
-日本-jsport3,http://dl.zapi.ml/ubpad.php?id=131
-日本-jsport4,http://dl.zapi.ml/ubpad.php?id=132
-日本-wowo1,http://dl.zapi.ml/ubpad.php?id=133
-日本-wowo2,http://dl.zapi.ml/ubpad.php?id=134
-日本-wowo3,http://dl.zapi.ml/ubpad.php?id=135
-日本-STAR1,http://dl.zapi.ml/ubpad.php?id=136
-日本-STAR2,http://dl.zapi.ml/ubpad.php?id=137
-日本-STAR3,http://dl.zapi.ml/ubpad.php?id=138
-日本-animax,http://dl.zapi.ml/ubpad.php?id=139
-日本-Green,http://dl.zapi.ml/ubpad.php?id=140
-日本-読売テレビ,http://dl.zapi.ml/ubpad.php?id=198
-日本-毎日放送,http://dl.zapi.ml/ubpad.php?id=199
-日本-関西テレビ,http://dl.zapi.ml/ubpad.php?id=235
-日本-テレビ朝日,http://dl.zapi.ml/ubpad.php?id=237
-日本-BSプレミアム,http://dl.zapi.ml/ubpad.php?id=238
-日本-BS日テレ,http://dl.zapi.ml/ubpad.php?id=240
-日本-BS朝日,http://dl.zapi.ml/ubpad.php?id=241
-日本-BS-TBS,http://dl.zapi.ml/ubpad.php?id=242
-日本-BSテレビ東京,http://dl.zapi.ml/ubpad.php?id=243
-日本-BS-FUJI,http://dl.zapi.ml/ubpad.php?id=244
-日本-GREEN,http://dl.zapi.ml/ubpad.php?id=245
-日本-SKY A,http://dl.zapi.ml/ubpad.php?id=247
-日本-Golf Network,http://dl.zapi.ml/ubpad.php?id=249
-日本-Tokyo MX1,http://dl.zapi.ml/ubpad.php?id=33
-日本-Japan Channel DX,http://dl.zapi.ml/ubpad.php?id=39
-日本-NTV News24,http://dl.zapi.ml/ubpad.php?id=42
-日本-時代劇の専門家,http://dl.zapi.ml/ubpad.php?id=287
-日本-MUSIC JAPAN,http://dl.zapi.ml/ubpad.php?id=288
-日本-KIDS,http://dl.zapi.ml/ubpad.php?id=289
-日本-Discovery,http://dl.zapi.ml/ubpad.php?id=290
-日本-衛星劇場,http://dl.zapi.ml/ubpad.php?id=298
-日本-Tokyo MX2,http://dl.zapi.ml/ubpad.php?id=1148
-?KBS2,http://live.yingtaotvapp.com/KBS2/index.m3u8
-KBS1,http://live.yingtaotvapp.com/KBS1/index.m3u8
-tvchosun,http://live.yingtaotvapp.com/74/index.m3u8
-sbsplus,http://live.yingtaotvapp.com/SBSplus/index.m3u8
-spotv,http://live.yingtaotvapp.com/SPOTV/index.m3u8
-spotv2,http://live.yingtaotvapp.com/SPOTV2/index.m3u8
-mbn,http://live.yingtaotvapp.com/MBN/index.m3u8
-ocn,http://live.yingtaotvapp.com/OCN/index.m3u8
-jtbc,http://live.yingtaotvapp.com/JTBC/index.m3u8
-sbs,http://live.yingtaotvapp.com/SBS/index.m3u8
-mbc,http://live.yingtaotvapp.com/MBC/index.m3u8
-tvn,http://live.yingtaotvapp.comN/index.m3u8
-ytn,http://live.yingtaotvapp.com/YTN/index.m3u8
-ocg,http://live.yingtaotvapp.com/124/index.m3u8
-discover,http://live.yingtaotvapp.com/Discovery/index.m3u8
-韩国TVN MOVIE,http://dl.zapi.ml/ubpad.php?id=1082
-韩国-YTN Science,http://dl.zapi.ml/ubpad.php?id=1092
-韩国-EBS 2,http://dl.zapi.ml/ubpad.php?id=1093
-韩国-EBS Kids,http://dl.zapi.ml/ubpad.php?id=1094
-韩国-EBS English,http://dl.zapi.ml/ubpad.php?id=1095
-韩国-EBSPlus 1,http://dl.zapi.ml/ubpad.php?id=1096
-韩国-EBSPlus 2,http://dl.zapi.ml/ubpad.php?id=1097
-韩国-EBS1,http://dl.zapi.ml/ubpad.php?id=1098
-韩国-UBC SBS,http://dl.zapi.ml/ubpad.php?id=1099
-韩国-KTV,http://dl.zapi.ml/ubpad.php?id=1100
-韩国-SBS Star,http://dl.zapi.ml/ubpad.php?id=1101
-韩国-YTN,http://dl.zapi.ml/ubpad.php?id=1061
-韩国-KBS Dram,http://dl.zapi.ml/ubpad.php?id=1062
-韩国-NGC,http://dl.zapi.ml/ubpad.php?id=1064
-韩国-??TV,http://dl.zapi.ml/ubpad.php?id=1065
-韩国-SBS??,http://dl.zapi.ml/ubpad.php?id=486
-韩国-SBS Sports,http://dl.zapi.ml/ubpad.php?id=487
-韩国-OCN,http://dl.zapi.ml/ubpad.php?id=488
-韩国-iNet,http://dl.zapi.ml/ubpad.php?id=490
-韩国-????,http://dl.zapi.ml/ubpad.php?id=492
-韩国-半島国際新聞,http://dl.zapi.ml/ubpad.php?id=494
-韩国-OCNMOVIES,http://dl.zapi.ml/ubpad.php?id=1020
-韩国-KBS joy,http://dl.zapi.ml/ubpad.php?id=1154
-韩国-Tconvers,http://dl.zapi.ml/ubpad.php?id=1134
-韩国-Mnet,http://dl.zapi.ml/ubpad.php?id=1136
-韩国-KBS2,http://dl.zapi.ml/ubpad.php?id=250
-韩国-KBS1,http://dl.zapi.ml/ubpad.php?id=174
-韩国-MBC,http://dl.zapi.ml/ubpad.php?id=251
-韩国-SBS,http://dl.zapi.ml/ubpad.php?id=252
-韩国-JTBC,http://dl.zapi.ml/ubpad.php?id=253
-韩国-SBS FUNE,http://dl.zapi.ml/ubpad.php?id=254
-韩国-SBS CNBC,http://dl.zapi.ml/ubpad.php?id=255
-韩国-CNTV,http://dl.zapi.ml/ubpad.php?id=256
-韩国-MBN,http://dl.zapi.ml/ubpad.php?id=257
-韩国-Channel A,http://dl.zapi.ml/ubpad.php?id=258
-韩国-MBC???,http://dl.zapi.ml/ubpad.php?id=261
-韩国-SBS PLus,http://dl.zapi.ml/ubpad.php?id=262
-韩国-KBSN???,http://dl.zapi.ml/ubpad.php?id=264
-韩国-MBC???+,http://dl.zapi.ml/ubpad.php?id=265
-韩国-Spotv,http://dl.zapi.ml/ubpad.php?id=266
-韩国-Spotv2,http://dl.zapi.ml/ubpad.php?id=267
-韩国-JTBC??,http://dl.zapi.ml/ubpad.php?id=268
-韩国-MBCevery1,http://dl.zapi.ml/ubpad.php?id=476
-?新马-双星,http://dl.zapi.ml/ubpad.php?id=1086
-新马CERIA,http://dl.zapi.ml/ubpad.php?id=1161
-新马AOD351,http://dl.zapi.ml/ubpad.php?id=1162
-新马AOD352,http://dl.zapi.ml/ubpad.php?id=1163
-新马AOD353,http://dl.zapi.ml/ubpad.php?id=1164
-新马AOD354,http://dl.zapi.ml/ubpad.php?id=1165
-新马AOD355,http://dl.zapi.ml/ubpad.php?id=1166
-新马WWE,http://dl.zapi.ml/ubpad.php?id=1167
-新马EGG,http://dl.zapi.ml/ubpad.php?id=1168
-新马OKTO,http://dl.zapi.ml/ubpad.php?id=1169
-新马BNC,http://dl.zapi.ml/ubpad.php?id=1171
-新马Arena,http://dl.zapi.ml/ubpad.php?id=1172
-新马CRICKET,http://dl.zapi.ml/ubpad.php?id=1173
-新马IKIM TV,http://dl.zapi.ml/ubpad.php?id=1147
-新马ASSP1_,http://dl.zapi.ml/ubpad.php?id=1070
-新马ASSP2_,http://dl.zapi.ml/ubpad.php?id=1071
-新马ASSP3_,http://dl.zapi.ml/ubpad.php?id=1072
-新马AEC,http://dl.zapi.ml/ubpad.php?id=1073
-新马ASSP4,http://dl.zapi.ml/ubpad.php?id=1074
-新马OKEY,http://dl.zapi.ml/ubpad.php?id=1075
-新马Suria,http://dl.zapi.ml/ubpad.php?id=1076
-新马Channel U,http://dl.zapi.ml/ubpad.php?id=1077
-新马Vasantham,http://dl.zapi.ml/ubpad.php?id=1078
-新马AXN,http://dl.zapi.ml/ubpad.php?id=1044
-新马ARENA,http://dl.zapi.ml/ubpad.php?id=1049
-新马-全佳,http://dl.zapi.ml/ubpad.php?id=427
-新马-AOD,http://dl.zapi.ml/ubpad.php?id=428
-新马-欢喜台,http://dl.zapi.ml/ubpad.php?id=432
-新马Astro AEC,http://dl.zapi.ml/ubpad.php?id=433
-新马Astro suria,http://dl.zapi.ml/ubpad.php?id=434
-新马TV1,http://dl.zapi.ml/ubpad.php?id=435
-新马TV2,http://dl.zapi.ml/ubpad.php?id=436
-新马TV3,http://dl.zapi.ml/ubpad.php?id=437
-新马TV9,http://dl.zapi.ml/ubpad.php?id=438
-新马NTV7 Awani,http://dl.zapi.ml/ubpad.php?id=439
-新马Astro Awani,http://dl.zapi.ml/ubpad.php?id=440
-新马-天映,http://dl.zapi.ml/ubpad.php?id=441
-新马TV8,http://dl.zapi.ml/ubpad.php?id=442
-新马Channel5,http://dl.zapi.ml/ubpad.php?id=141
-新马Channel8,http://dl.zapi.ml/ubpad.php?id=142
-新马AWANI,http://dl.zapi.ml/ubpad.php?id=1151
-?印尼-Karaoke,http://dl.zapi.ml/ubpad.php?id=1141
-印尼-Jakarta Globe,http://dl.zapi.ml/ubpad.php?id=1142
-印尼-InsanTV,http://dl.zapi.ml/ubpad.php?id=1143
-印尼-CNN Indonesia,http://dl.zapi.ml/ubpad.php?id=1145
-印尼-MetroTV,http://dl.zapi.ml/ubpad.php?id=1124
-?印度DD News,http://dl.zapi.ml/ubpad.php?id=463
-印度HBO,http://dl.zapi.ml/ubpad.php?id=464
-印度ZeeNews,http://dl.zapi.ml/ubpad.php?id=465
-印度TEN1,http://dl.zapi.ml/ubpad.php?id=466
-印度TEN2,http://dl.zapi.ml/ubpad.php?id=467
-印度TEN3,http://dl.zapi.ml/ubpad.php?id=468
-印度And Pictures,http://dl.zapi.ml/ubpad.php?id=469
-印度Colors,http://dl.zapi.ml/ubpad.php?id=470
-印度NDTV,http://dl.zapi.ml/ubpad.php?id=471
-印度Zee Tamil,http://dl.zapi.ml/ubpad.php?id=472
-印度India TV,http://dl.zapi.ml/ubpad.php?id=473
-印度Sony Mix,http://dl.zapi.ml/ubpad.php?id=474
-印度Sony Sab,http://dl.zapi.ml/ubpad.php?id=475
-印度Star Movies,http://dl.zapi.ml/ubpad.php?id=478
-印度Star Plus,http://dl.zapi.ml/ubpad.php?id=479
-印度Zee Marathi,http://dl.zapi.ml/ubpad.php?id=480
-印度Zee Studio,http://dl.zapi.ml/ubpad.php?id=481
-印度Zee TV,http://dl.zapi.ml/ubpad.php?id=482
-印度Sony,http://dl.zapi.ml/ubpad.php?id=483
-印度Zee Cinema,http://dl.zapi.ml/ubpad.php?id=484
-印度Zee Classic,http://dl.zapi.ml/ubpad.php?id=485
-印度Tv9 Bharatvarsh,http://dl.zapi.ml/ubpad.php?id=1125
-?泰国-Thai PBS,http://dl.zapi.ml/ubpad.php?id=1047
-泰国-NBT,http://dl.zapi.ml/ubpad.php?id=1048
-泰国-DDTV,http://dl.zapi.ml/ubpad.php?id=1138
-泰国-Thairath TV,http://dl.zapi.ml/ubpad.php?id=1139
-泰国-ChanneL8,http://dl.zapi.ml/ubpad.php?id=1140
-?越南-THHN,http://dl.zapi.ml/ubpad.php?id=1290
-越南-LA34,http://dl.zapi.ml/ubpad.php?id=1291
-越南-THGL,http://dl.zapi.ml/ubpad.php?id=1292
-越南-PTP,http://dl.zapi.ml/ubpad.php?id=1293
-越南-QRT,http://dl.zapi.ml/ubpad.php?id=1294
-越南-THBT,http://dl.zapi.ml/ubpad.php?id=1295
-越南-KonTumTV,http://dl.zapi.ml/ubpad.php?id=1296
-越南-BPTV1,http://dl.zapi.ml/ubpad.php?id=1297
-越南-BPTV2,http://dl.zapi.ml/ubpad.php?id=1298
-越南-VITV,http://dl.zapi.ml/ubpad.php?id=1299
-越南-ANTV,http://dl.zapi.ml/ubpad.php?id=1300
-越南-HBTV,http://dl.zapi.ml/ubpad.php?id=1302
-越南-KienGiangTV,http://dl.zapi.ml/ubpad.php?id=1309
-越南-KienGiangTV1,http://dl.zapi.ml/ubpad.php?id=1310
-越南-AnGiangTV,http://dl.zapi.ml/ubpad.php?id=1311
-越南-BenTreTV,http://dl.zapi.ml/ubpad.php?id=1313
-越南-BinhPhuocTV1,http://dl.zapi.ml/ubpad.php?id=1314
-越南-BinhPhuocTV2,http://dl.zapi.ml/ubpad.php?id=1315
-越南-Da Nang TV1,http://dl.zapi.ml/ubpad.php?id=1316
-越南-DakLakTV,http://dl.zapi.ml/ubpad.php?id=1317
-越南-KhanhHoaTV,http://dl.zapi.ml/ubpad.php?id=1318
-越南-PhuYenTV,http://dl.zapi.ml/ubpad.php?id=1323
-越南-QuangNamTV,http://dl.zapi.ml/ubpad.php?id=1324
-越南-LongAnTV,http://dl.zapi.ml/ubpad.php?id=1321
-越南-NhanDanTV,http://dl.zapi.ml/ubpad.php?id=1322
-泰国-Thai PBS,http://dl.zapi.ml/ubpad.php?id=1047
-?英國-BBC 1,http://dl.zapi.ml/ubpad.php?id=158
-英國-BBC Parliament,http://dl.zapi.ml/ubpad.php?id=159
-英國-BBC Entertainment,http://dl.zapi.ml/ubpad.php?id=160
-英國-BBC Alba,http://dl.zapi.ml/ubpad.php?id=161
-英國-BBC ALBA,http://dl.zapi.ml/ubpad.php?id=163
-英國-BBC News,http://dl.zapi.ml/ubpad.php?id=164
-英国-BBC 2,http://dl.zapi.ml/ubpad.php?id=157
-英国-BBC 1,http://dl.zapi.ml/ubpad.php?id=158
-BT Sport 1,http://dl.zapi.ml/ubpad.php?id=165
-BT Sport 2,http://dl.zapi.ml/ubpad.php?id=166
-BT Sport 3,http://dl.zapi.ml/ubpad.php?id=167
-BT Sport ESPN,http://dl.zapi.ml/ubpad.php?id=168
-英国-Channel 4,http://dl.zapi.ml/ubpad.php?id=169
-ESPN-U,http://dl.zapi.ml/ubpad.php?id=170
-Sky Sport 2,http://dl.zapi.ml/ubpad.php?id=171
-Sky Sports 1,http://dl.zapi.ml/ubpad.php?id=172
-車迷TV,http://dl.zapi.ml/ubpad.php?id=352
-体育MainEvent,http://dl.zapi.ml/ubpad.php?id=177
-Sky Sports Action,http://dl.zapi.ml/ubpad.php?id=178
-Sky Sports Cricket,http://dl.zapi.ml/ubpad.php?id=179
-Sky Sports Golf,http://dl.zapi.ml/ubpad.php?id=180
-Sky Sports PremierLeague,http://dl.zapi.ml/ubpad.php?id=181
-Sky Sports,http://dl.zapi.ml/ubpad.php?id=182
-Sky Sport 3,http://dl.zapi.ml/ubpad.php?id=183
-Medici Arts,http://dl.zapi.ml/ubpad.php?id=188
-CW LIVE,http://dl.zapi.ml/ubpad.php?id=420
-BBC lifestyle,http://dl.zapi.ml/ubpad.php?id=424
-Ginx csrortstv,http://dl.zapi.ml/ubpad.php?id=425
-體育-WWE,http://dl.zapi.ml/ubpad.php?id=1081
-FOX WILD CARA,http://dl.zapi.ml/ubpad.php?id=1083
-?美国5 Star Max,http://dl.zapi.ml/ubpad.php?id=1174
-美国Action Max,http://dl.zapi.ml/ubpad.php?id=1175
-美国MoreMax,http://dl.zapi.ml/ubpad.php?id=1176
-美国Hallmark Channel,http://dl.zapi.ml/ubpad.php?id=1177
-美国Hallmark Drama,http://dl.zapi.ml/ubpad.php?id=1178
-美国Hallmark Movie,http://dl.zapi.ml/ubpad.php?id=1179
-美国TCM,http://dl.zapi.ml/ubpad.php?id=1180
-美国Starz in Black,http://dl.zapi.ml/ubpad.php?id=1181
-美国ESPN 1,http://dl.zapi.ml/ubpad.php?id=1182
-美国ESPN 2,http://dl.zapi.ml/ubpad.php?id=1183
-美国NBC Sport,http://dl.zapi.ml/ubpad.php?id=1184
-美国NBA TV US,http://dl.zapi.ml/ubpad.php?id=1185
-美国Fox Sport 1,http://dl.zapi.ml/ubpad.php?id=1186
-美国Fox Sport 2,http://dl.zapi.ml/ubpad.php?id=1187
-美国Tennis,http://dl.zapi.ml/ubpad.php?id=1188
-美国NFL Network,http://dl.zapi.ml/ubpad.php?id=1189
-美国Golf,http://dl.zapi.ml/ubpad.php?id=1190
-美国WWE,http://dl.zapi.ml/ubpad.php?id=1191
-美国UFC PASS,http://dl.zapi.ml/ubpad.php?id=1192
-美国Willow,http://dl.zapi.ml/ubpad.php?id=1193
-美国NHL Network,http://dl.zapi.ml/ubpad.php?id=1194
-美国Bein Sports USA,http://dl.zapi.ml/ubpad.php?id=1195
-美国ESPN U,http://dl.zapi.ml/ubpad.php?id=1196
-美国Big Ten Network,http://dl.zapi.ml/ubpad.php?id=1197
-美国Discovery Channel,http://dl.zapi.ml/ubpad.php?id=1198
-美国Motor Trend,http://dl.zapi.ml/ubpad.php?id=1199
-美国National Geographic,http://dl.zapi.ml/ubpad.php?id=1200
-美国Nat Geo Wild,http://dl.zapi.ml/ubpad.php?id=1201
-美国Investigation Discovery US,http://dl.zapi.ml/ubpad.php?id=1202
-美国Animal Planet,http://dl.zapi.ml/ubpad.php?id=1203
-美国History,http://dl.zapi.ml/ubpad.php?id=1204
-美国SMITHSONIAN,http://dl.zapi.ml/ubpad.php?id=1205
-美国TLC,http://dl.zapi.ml/ubpad.php?id=1206
-美国Science,http://dl.zapi.ml/ubpad.php?id=1207
-美国Disney,http://dl.zapi.ml/ubpad.php?id=1208
-美国Disney XD,http://dl.zapi.ml/ubpad.php?id=1209
-美国Disney Junior,http://dl.zapi.ml/ubpad.php?id=1210
-美国Cartoon Network US,http://dl.zapi.ml/ubpad.php?id=1211
-美国Nickelodeon US,http://dl.zapi.ml/ubpad.php?id=1212
-美国Nick Junior,http://dl.zapi.ml/ubpad.php?id=1213
-美国Boomerang,http://dl.zapi.ml/ubpad.php?id=1214
-美国Universal Kids,http://dl.zapi.ml/ubpad.php?id=1215
-美国ABC,http://dl.zapi.ml/ubpad.php?id=1216
-美国NBC,http://dl.zapi.ml/ubpad.php?id=1217
-美国FOX,http://dl.zapi.ml/ubpad.php?id=1218
-美国CBS,http://dl.zapi.ml/ubpad.php?id=1219
-美国CW,http://dl.zapi.ml/ubpad.php?id=1220
-美国SYFY,http://dl.zapi.ml/ubpad.php?id=1221
-美国E!,http://dl.zapi.ml/ubpad.php?id=1222
-美国Comedy Central,http://dl.zapi.ml/ubpad.php?id=1223
-美国TNT US,http://dl.zapi.ml/ubpad.php?id=1224
-美国Bravo US,http://dl.zapi.ml/ubpad.php?id=1225
-美国LifeTime US,http://dl.zapi.ml/ubpad.php?id=1226
-美国Arts and Entertainment,http://dl.zapi.ml/ubpad.php?id=1227
-美国AMC,http://dl.zapi.ml/ubpad.php?id=1228
-美国WE TV,http://dl.zapi.ml/ubpad.php?id=1229
-美国USA Network,http://dl.zapi.ml/ubpad.php?id=1230
-美国BET,http://dl.zapi.ml/ubpad.php?id=1231
-美国Lifetime Movie Network,http://dl.zapi.ml/ubpad.php?id=1232
-美国VH-1,http://dl.zapi.ml/ubpad.php?id=1233
-美国TBS,http://dl.zapi.ml/ubpad.php?id=1234
-美国OWN US,http://dl.zapi.ml/ubpad.php?id=1235
-美国GSN,http://dl.zapi.ml/ubpad.php?id=1236
-美国HGTV US,http://dl.zapi.ml/ubpad.php?id=1237
-美国Cooking Channel,http://dl.zapi.ml/ubpad.php?id=1238
-美国MTV US,http://dl.zapi.ml/ubpad.php?id=1239
-美国FYI,http://dl.zapi.ml/ubpad.php?id=1240
-美国BabyTV,http://dl.zapi.ml/ubpad.php?id=1241
-美国TVB1,http://dl.zapi.ml/ubpad.php?id=1242
-美国TVB DRAMA,http://dl.zapi.ml/ubpad.php?id=1243
-美国TVBJ1,http://dl.zapi.ml/ubpad.php?id=1244
-美国TVBE,http://dl.zapi.ml/ubpad.php?id=1245
-美国NOWTV,http://dl.zapi.ml/ubpad.php?id=1246
-美国CNN USA,http://dl.zapi.ml/ubpad.php?id=1102
-美国MSNBC,http://dl.zapi.ml/ubpad.php?id=1104
-美国The Weather,http://dl.zapi.ml/ubpad.php?id=1105
-美国CNBC,http://dl.zapi.ml/ubpad.php?id=1106
-美国Bloomberg,http://dl.zapi.ml/ubpad.php?id=1107
-美国Fox Business,http://dl.zapi.ml/ubpad.php?id=1108
-美国HBO Comedy,http://dl.zapi.ml/ubpad.php?id=1109
-美国HBO1US,http://dl.zapi.ml/ubpad.php?id=1110
-美国HBO2US,http://dl.zapi.ml/ubpad.php?id=1111
-美国HBO Signature,http://dl.zapi.ml/ubpad.php?id=1112
-美国HBO Family,http://dl.zapi.ml/ubpad.php?id=1113
-美国ShowTime 1,http://dl.zapi.ml/ubpad.php?id=1114
-美国ShowTime 2,http://dl.zapi.ml/ubpad.php?id=1115
-美国ShowCase US,http://dl.zapi.ml/ubpad.php?id=1116
-美国Starz,http://dl.zapi.ml/ubpad.php?id=1117
-美国Starz Comedy,http://dl.zapi.ml/ubpad.php?id=1118
-美国Starz Edge,http://dl.zapi.ml/ubpad.php?id=1119
-美国Starz Kids Family,http://dl.zapi.ml/ubpad.php?id=1120
-美国Starz Encore,http://dl.zapi.ml/ubpad.php?id=1121
-美国Starz Encore Westerns,http://dl.zapi.ml/ubpad.php?id=1122
-美国Cinemax,http://dl.zapi.ml/ubpad.php?id=1123
-美国-30A TV,http://dl.zapi.ml/ubpad.php?id=1052
-美国-American Horrors,http://dl.zapi.ml/ubpad.php?id=1054
-美国-Atlanta,http://dl.zapi.ml/ubpad.php?id=1055
-美国-Panama City,http://dl.zapi.ml/ubpad.php?id=1056
-美国-Pawleys Island,http://dl.zapi.ml/ubpad.php?id=1057
-美国-HBO Comedy East,http://dl.zapi.ml/ubpad.php?id=269
-美国-BET,http://dl.zapi.ml/ubpad.php?id=270
-美国-HBO East,http://dl.zapi.ml/ubpad.php?id=271
-美国-HBO Signature,http://dl.zapi.ml/ubpad.php?id=272
-美国-HBO Zone East,http://dl.zapi.ml/ubpad.php?id=273
-美国-HGTV-,http://dl.zapi.ml/ubpad.php?id=274
-美国-HISTORY,http://dl.zapi.ml/ubpad.php?id=275
-美国-GOD TV,http://dl.zapi.ml/ubpad.php?id=276
-美国-Box Nation,http://dl.zapi.ml/ubpad.php?id=277
-美国-Big Ten Network,http://dl.zapi.ml/ubpad.php?id=278
-美国-Sec Network,http://dl.zapi.ml/ubpad.php?id=279
-美国-NFL RedZone,http://dl.zapi.ml/ubpad.php?id=280
-美国-NESN,http://dl.zapi.ml/ubpad.php?id=281
-美国-Tennis,http://dl.zapi.ml/ubpad.php?id=282
-美国-UFC Network,http://dl.zapi.ml/ubpad.php?id=283
-美国-TNT,http://dl.zapi.ml/ubpad.php?id=284
-美国-NAT-GEO,http://dl.zapi.ml/ubpad.php?id=285
-美国-MTV,http://dl.zapi.ml/ubpad.php?id=286
-?加拿大-CP 24 Canada,http://dl.zapi.ml/ubpad.php?id=1247
-加拿大-CBC News,http://dl.zapi.ml/ubpad.php?id=1248
-加拿大-CTV News,http://dl.zapi.ml/ubpad.php?id=1249
-加拿大-Business Network News,http://dl.zapi.ml/ubpad.php?id=1250
-加拿大-The Weather Network,http://dl.zapi.ml/ubpad.php?id=1251
-加拿大-CBC,http://dl.zapi.ml/ubpad.php?id=1252
-加拿大-CTV,http://dl.zapi.ml/ubpad.php?id=1253
-加拿大-Global,http://dl.zapi.ml/ubpad.php?id=1254
-加拿大-City,http://dl.zapi.ml/ubpad.php?id=1255
-加拿大-CHCH,http://dl.zapi.ml/ubpad.php?id=1256
-加拿大-CTV 2,http://dl.zapi.ml/ubpad.php?id=1257
-加拿大-OMNI 1,http://dl.zapi.ml/ubpad.php?id=1258
-加拿大-OMNI 2,http://dl.zapi.ml/ubpad.php?id=1259
-加拿大-TVO,http://dl.zapi.ml/ubpad.php?id=1260
-加拿大-Discovery Canada,http://dl.zapi.ml/ubpad.php?id=1261
-加拿大-TLC Canada,http://dl.zapi.ml/ubpad.php?id=1262
-加拿大-Love Nature,http://dl.zapi.ml/ubpad.php?id=1263
-加拿大-Food Network Cabada,http://dl.zapi.ml/ubpad.php?id=1265
-加拿大-Cooking Channel Canada,http://dl.zapi.ml/ubpad.php?id=1266
-加拿大-CTV Comedy,http://dl.zapi.ml/ubpad.php?id=1267
-加拿大-CTV Sci-Fi,http://dl.zapi.ml/ubpad.php?id=1268
-加拿大-Crave 1,http://dl.zapi.ml/ubpad.php?id=1269
-加拿大-Crave 2,http://dl.zapi.ml/ubpad.php?id=1270
-加拿大-Crave 3,http://dl.zapi.ml/ubpad.php?id=1271
-加拿大-Crave 4,http://dl.zapi.ml/ubpad.php?id=1272
-加拿大-TSN 2,http://dl.zapi.ml/ubpad.php?id=1274
-加拿大-TSN 1,http://dl.zapi.ml/ubpad.php?id=1273
-加拿大-TSN 3,http://dl.zapi.ml/ubpad.php?id=1275
-加拿大-TSN 4,http://dl.zapi.ml/ubpad.php?id=1276
-加拿大-TSN 5,http://dl.zapi.ml/ubpad.php?id=1277
-加拿大-SportNet ON,http://dl.zapi.ml/ubpad.php?id=1278
-加拿大-SportNet One,http://dl.zapi.ml/ubpad.php?id=1279
-加拿大-SportNet World,http://dl.zapi.ml/ubpad.php?id=1280
-加拿大-SportNet 360,http://dl.zapi.ml/ubpad.php?id=1281
-加拿大-NBA CA,http://dl.zapi.ml/ubpad.php?id=1282
-加拿大-TreeHouse,http://dl.zapi.ml/ubpad.php?id=1283
-加拿大-Teletoon,http://dl.zapi.ml/ubpad.php?id=1284
-加拿大-YTV,http://dl.zapi.ml/ubpad.php?id=1285
-加拿大-新时代东部,http://dl.zapi.ml/ubpad.php?id=1286
-加拿大-新时代西部,http://dl.zapi.ml/ubpad.php?id=1287
-加拿大-城市电视,http://dl.zapi.ml/ubpad.php?id=1289
-加拿大-新时代2,http://dl.zapi.ml/ubpad.php?id=1288
-CCTV1,http://dl.zapi.ml/ubpad.php?id=200
-CCTV2,http://dl.zapi.ml/ubpad.php?id=201
-CCTV3,http://dl.zapi.ml/ubpad.php?id=202
-CCTV4,http://dl.zapi.ml/ubpad.php?id=203
-CCTV5,http://dl.zapi.ml/ubpad.php?id=204
-CCTV5plus,http://dl.zapi.ml/ubpad.php?id=205
-CCTV6,http://dl.zapi.ml/ubpad.php?id=206
-CCTV7,http://dl.zapi.ml/ubpad.php?id=207
-CCTV8,http://dl.zapi.ml/ubpad.php?id=208
-CCTV9,http://dl.zapi.ml/ubpad.php?id=209
-CCTV10,http://dl.zapi.ml/ubpad.php?id=210
-CCTV11,http://dl.zapi.ml/ubpad.php?id=211
-CCTV12,http://dl.zapi.ml/ubpad.php?id=212
-CCTV13,http://dl.zapi.ml/ubpad.php?id=213
-CCTV14,http://dl.zapi.ml/ubpad.php?id=214
-CCTV15,http://dl.zapi.ml/ubpad.php?id=215
-厦门卫视,http://dl.zapi.ml/ubpad.php?id=216
-浙江卫视,http://dl.zapi.ml/ubpad.php?id=217
-江苏卫视,http://dl.zapi.ml/ubpad.php?id=218
-南方卫视,http://dl.zapi.ml/ubpad.php?id=219
-北京卫视,http://dl.zapi.ml/ubpad.php?id=220
-CCTVNEWS,http://dl.zapi.ml/ubpad.php?id=221
-CCTV娱乐,http://dl.zapi.ml/ubpad.php?id=222
-海峡卫视,http://dl.zapi.ml/ubpad.php?id=223
-东方卫视,http://dl.zapi.ml/ubpad.php?id=224
-河北卫视,http://dl.zapi.ml/ubpad.php?id=225
-湖南卫视,http://dl.zapi.ml/ubpad.php?id=226
-湖北卫视,http://dl.zapi.ml/ubpad.php?id=227
-东南卫视,http://dl.zapi.ml/ubpad.php?id=228
-辽宁卫视,http://dl.zapi.ml/ubpad.php?id=229
-深圳卫视,http://dl.zapi.ml/ubpad.php?id=230
-广东卫视,http://dl.zapi.ml/ubpad.php?id=231
-安徽卫视,http://dl.zapi.ml/ubpad.php?id=232
-四川卫视,http://dl.zapi.ml/ubpad.php?id=233
-山东卫视,http://dl.zapi.ml/ubpad.php?id=234
-广东珠江,http://dl.zapi.ml/ubpad.php?id=1034
-松视2,http://dl.zapi.ml/ubpad.php?id=403 
-松视3,http://dl.zapi.ml/ubpad.php?id=404 
-香蕉台,http://dl.zapi.ml/ubpad.php?id=408 
-潘朵拉完美,http://dl.zapi.ml/ubpad.php?id=410 
-潘朵拉粉红,http://dl.zapi.ml/ubpad.php?id=411 
-彩虹e台,http://dl.zapi.ml/ubpad.php?id=413 
-彩虹K,http://dl.zapi.ml/ubpad.php?id=406 
-极限电影,http://dl.zapi.ml/ubpad.php?id=405 
-一本道,http://dl.zapi.ml/ubpad.php?id=414 
-二本道,http://dl.zapi.ml/ubpad.php?id=415 
-东京热,http://dl.zapi.ml/ubpad.php?id=416 
-HOT,http://dl.zapi.ml/ubpad.php?id=407 
-happy,http://dl.zapi.ml/ubpad.php?id=412 
-惊艳台,http://dl.zapi.ml/ubpad.php?id=409 
-Erox HD,http://dl.zapi.ml/ubpad.php?id=456 
-Dorcel HD,http://dl.zapi.ml/ubpad.php?id=454 
-Babes TV HD,http://dl.zapi.ml/ubpad.php?id=458 
-Hustler HD,http://dl.zapi.ml/ubpad.php?id=451 
-SCT Classic,http://dl.zapi.ml/ubpad.php?id=462 
-Redlight HD,http://dl.zapi.ml/ubpad.php?id=452 
-SEX ATION HD,http://dl.zapi.ml/ubpad.php?id=459 
-Super One HD,http://dl.zapi.ml/ubpad.php?id=457 
-Prvate TV,http://dl.zapi.ml/ubpad.php?id=453 
-Passie,http://dl.zapi.ml/ubpad.php?id=461 
-Vivid Red HD,http://dl.zapi.ml/ubpad.php?id=455
-央视,#genre#
-CCTV-1 综合,http://dl.zapi.ml/histar.php?id=cctv1&proxy
-CCTV-2 财经,http://dl.zapi.ml/histar.php?id=cctv2&proxy
-CCTV-3 综艺,http://dl.zapi.ml/histar.php?id=cctv3&proxy
-CCTV-4 中文国际,http://dl.zapi.ml/histar.php?id=cctv4&proxy
-CCTV-5 体育,http://dl.zapi.ml/histar.php?id=cctv5&proxy
-CCTV-6 电影,http://dl.zapi.ml/histar.php?id=cctv6&proxy
-CCTV-7 国防军事,http://dl.zapi.ml/histar.php?id=cctv7&proxy
-CCTV-8 电视剧,http://dl.zapi.ml/histar.php?id=cctv8&proxy
-CCTV-9 纪录,http://dl.zapi.ml/histar.php?id=cctv9&proxy
-CCTV-10 科教,http://dl.zapi.ml/histar.php?id=cctv10&proxy
-CCTV-11 戏曲,http://dl.zapi.ml/histar.php?id=cctv11&proxy
-CCTV-12 社会与法,http://dl.zapi.ml/histar.php?id=cctv12&proxy
-CCTV-13 新闻,http://dl.zapi.ml/histar.php?id=cctv13&proxy
-CCTV-14 少儿,http://dl.zapi.ml/histar.php?id=cctv14&proxy
-CCTV-15 音乐,http://dl.zapi.ml/histar.php?id=cctv15&proxy
-CCTV-16 奥林匹克,http://dl.zapi.ml/histar.php?id=cctv16&proxy
-CCTV-17 农业农村,http://dl.zapi.ml/histar.php?id=cctv17&proxy
-CCTV-5+ 体育赛事,http://dl.zapi.ml/histar.php?id=cctv5plus&proxy
-卫视,#genre#
-北京卫视,http://dl.zapi.ml/histar.php?id=beijing&proxy
-湖南卫视,http://dl.zapi.ml/histar.php?id=hunan&proxy
-浙江卫视,http://dl.zapi.ml/histar.php?id=zhejiang&proxy
-东方卫视,http://dl.zapi.ml/histar.php?id=dongfang&proxy
-江苏卫视,http://dl.zapi.ml/histar.php?id=jiangsu&proxy
-重庆卫视,http://dl.zapi.ml/histar.php?id=chongqing&proxy
-东南卫视,http://dl.zapi.ml/histar.php?id=dongnan&proxy
-福建海峡卫视,http://dl.zapi.ml/histar.php?id=fujianhaixia&proxy
-甘肃卫视,http://dl.zapi.ml/histar.php?id=gansu&proxy
-广西卫视,http://dl.zapi.ml/histar.php?id=guangxi&proxy
-贵州卫视,http://dl.zapi.ml/histar.php?id=guizhou&proxy
-海南卫视,http://dl.zapi.ml/histar.php?id=hainan&proxy
-河北卫视,http://dl.zapi.ml/histar.php?id=hebei&proxy
-黑龙江卫视,http://dl.zapi.ml/histar.php?id=heilongjiang&proxy
-湖北卫视,http://dl.zapi.ml/histar.php?id=hubei&proxy
-江西卫视,http://dl.zapi.ml/histar.php?id=jiangxi&proxy
-吉林卫视,http://dl.zapi.ml/histar.php?id=jilin&proxy
-辽宁卫视,http://dl.zapi.ml/histar.php?id=liaoning&proxy
-南方卫视,http://dl.zapi.ml/histar.php?id=nanfang&proxy
-内蒙古卫视,http://dl.zapi.ml/histar.php?id=neimenggu&proxy
-宁夏卫视,http://dl.zapi.ml/histar.php?id=ningxia&proxy
-陕西卫视,http://dl.zapi.ml/histar.php?id=shaanxi&proxy
-山东卫视,http://dl.zapi.ml/histar.php?id=shandong&proxy
-山西卫视,http://dl.zapi.ml/histar.php?id=shanxi&proxy
-深圳卫视,http://dl.zapi.ml/histar.php?id=shenzhen&proxy
-四川卫视,http://dl.zapi.ml/histar.php?id=sichuan&proxy
-天津卫视,http://dl.zapi.ml/histar.php?id=tianjin&proxy
-厦门卫视,http://dl.zapi.ml/histar.php?id=xiamen&proxy
-新疆卫视,http://dl.zapi.ml/histar.php?id=xinjiang&proxy
-西藏卫视,http://dl.zapi.ml/histar.php?id=xizang&proxy
-云南卫视,http://dl.zapi.ml/histar.php?id=yunnan&proxy
-广东卫视,http://dl.zapi.ml/histar.php?id=guangdong&proxy
-安徽卫视,http://dl.zapi.ml/histar.php?id=anhui&proxy
-河南卫视,http://dl.zapi.ml/histar.php?id=henan&proxy
-青海卫视,http://dl.zapi.ml/histar.php?id=qinghai&proxy
-港澳,#genre#
-凤凰卫视 中文台,http://dl.zapi.ml/histar.php?id=phtv-cn&proxy
-凤凰卫视 资讯台,http://dl.zapi.ml/histar.php?id=phtv-info&proxy
-J2,http://dl.zapi.ml/histar.php?id=j2&proxy
-TVB 明珠台,http://dl.zapi.ml/histar.php?id=pearl&proxy
-ViuTV,http://dl.zapi.ml/histar.php?id=viutv&proxy
-TVB 翡翠台,http://dl.zapi.ml/histar.php?id=feicui&proxy
-Now 财经台,http://dl.zapi.ml/histar.php?id=now-finance&proxy
-凤凰卫视,http://dl.zapi.ml/histar.php?id=phtv&proxy
-澳门莲花卫视,http://dl.zapi.ml/histar.php?id=lotustv&proxy
-TVB 无线新闻台,http://dl.zapi.ml/histar.php?id=tvb-news&proxy
-TVB 无线财经体育资讯台,http://dl.zapi.ml/histar.php?id=tvb-finance&proxy
-ViuTV6,http://dl.zapi.ml/histar.php?id=viutv6&proxy
-港台电视 31,http://dl.zapi.ml/histar.php?id=rthk31&proxy
-港台电视 32,http://dl.zapi.ml/histar.php?id=rthk32&proxy
-HOY TV,http://dl.zapi.ml/histar.php?id=hoytv&proxy
-香港国际财经台,http://dl.zapi.ml/histar.php?id=hkibc&proxy
-HOY 资讯台,http://dl.zapi.ml/histar.php?id=hoy-info&proxy
-澳门资讯,http://dl.zapi.ml/histar.php?id=amzx&proxy
-澳视澳门,http://dl.zapi.ml/histar.php?id=asam&proxy
-Now 新闻台,http://dl.zapi.ml/histar.php?id=now-news&proxy
-TVB 经典台,http://dl.zapi.ml/histar.php?id=tvb-classic&proxy
-凤凰卫视 香港台,http://dl.zapi.ml/histar.php?id=phtv-hk&proxy
-天映经典,http://dl.zapi.ml/histar.php?id=cccm&proxy
-天映频道 HD,http://dl.zapi.ml/histar.php?id=celestial&proxy
-Now 华剧台,http://dl.zapi.ml/histar.php?id=now-hairun&proxy
-TVB 华语剧台,http://dl.zapi.ml/histar.php?id=tvb-drama&proxy
-TVB 星河台,http://dl.zapi.ml/histar.php?id=tvb-xinghe&proxy
-Now 爆谷台,http://dl.zapi.ml/histar.php?id=baogu-movies&proxy
-台湾综合,#genre#
-大爱二台,http://dl.zapi.ml/histar.php?id=daai2&proxy
-大爱一台,http://dl.zapi.ml/histar.php?id=daai1&proxy
-中视 HD,http://dl.zapi.ml/histar.php?id=ctv-hd&proxy
-公视,http://dl.zapi.ml/histar.php?id=pts&proxy
-公视3台,http://dl.zapi.ml/histar.php?id=pts3&proxy
-中天综合台,http://dl.zapi.ml/histar.php?id=ctitv36&proxy
-中天亚洲台,http://dl.zapi.ml/histar.php?id=cti-asia&proxy
-东森超视 HD,http://dl.zapi.ml/histar.php?id=ebc-supertv&proxy
-靖天国际台,http://dl.zapi.ml/histar.php?id=jtgj&proxy
-TVBS Asia,http://dl.zapi.ml/histar.php?id=tvbs-asia&proxy
-八大综合台,http://dl.zapi.ml/histar.php?id=gtv28&proxy
-客家电视台,http://dl.zapi.ml/histar.php?id=hakkatv&proxy
-东森综合台,http://dl.zapi.ml/histar.php?id=ebc-ettv&proxy
-中视,http://dl.zapi.ml/histar.php?id=ctv&proxy
-华视,http://dl.zapi.ml/histar.php?id=cts&proxy
-台视,http://dl.zapi.ml/histar.php?id=ttv&proxy
-纬来日本,http://dl.zapi.ml/histar.php?id=videoland-japan&proxy
-纬来综合台,http://dl.zapi.ml/histar.php?id=videoland&proxy
-八大第一台,http://dl.zapi.ml/histar.php?id=gtv27&proxy
-ELTA 综合,http://dl.zapi.ml/histar.php?id=elta-tv&proxy
-台湾新闻财经,#genre#
-TVBS 新闻台,http://dl.zapi.ml/histar.php?id=tvbs-news&proxy
-寰宇新闻台,http://dl.zapi.ml/histar.php?id=global-news&proxy
-华视新闻,http://dl.zapi.ml/histar.php?id=cts-news&proxy
-中天新闻,http://dl.zapi.ml/histar.php?id=cti-news&proxy
-镜新闻,http://dl.zapi.ml/histar.php?id=mnews&proxy
-壹新闻 HD,http://dl.zapi.ml/histar.php?id=nexttv&proxy
-靖天资讯台,http://dl.zapi.ml/histar.php?id=jtzx&proxy
-中视新闻,http://dl.zapi.ml/histar.php?id=ctv-news&proxy
-台视新闻,http://dl.zapi.ml/histar.php?id=ttv-news&proxy
-TVBS HD,http://dl.zapi.ml/histar.php?id=tvbs-hd&proxy
-东森财经新闻,http://dl.zapi.ml/histar.php?id=ebc-finance&proxy
-年代新闻,http://dl.zapi.ml/histar.php?id=era-news&proxy
-非凡新闻,http://dl.zapi.ml/histar.php?id=ustv-news&proxy
-东森新闻,http://dl.zapi.ml/histar.php?id=ebc-news&proxy
-台湾娱乐影视,#genre#
-TVBS 欢乐台,http://dl.zapi.ml/histar.php?id=tvbs-huanle&proxy
-中天娱乐台,http://dl.zapi.ml/histar.php?id=ctitv39&proxy
-八大娱乐台,http://dl.zapi.ml/histar.php?id=gtv86&proxy
-东森电影,http://dl.zapi.ml/histar.php?id=ebc-movie&proxy
-东森戏剧,http://dl.zapi.ml/histar.php?id=ebc-drama&proxy
-东森洋片,http://dl.zapi.ml/histar.php?id=ebc-emovie&proxy
-卫视中文台,http://dl.zapi.ml/histar.php?id=star-chinese-channel&proxy
-卫视电影台,http://dl.zapi.ml/histar.php?id=star-chinese-movies&proxy
-龙祥电影台,http://dl.zapi.ml/histar.php?id=lstime&proxy
-好莱坞电影台,http://dl.zapi.ml/histar.php?id=hollywood-tw&proxy
-八大戏剧台,http://dl.zapi.ml/histar.php?id=gtv41&proxy
-纬来戏剧台,http://dl.zapi.ml/histar.php?id=videoland-drama&proxy
-纬来电影台,http://dl.zapi.ml/histar.php?id=videoland-movie&proxy
-龙华电影台,http://dl.zapi.ml/histar.php?id=ltv-movies&proxy
-龙华洋片台,http://dl.zapi.ml/histar.php?id=ltv-yangpian&proxy
-靖天电影台,http://dl.zapi.ml/histar.php?id=jtdy&proxy
-美亚电影台,http://dl.zapi.ml/histar.php?id=meiah-movies&proxy
-ELTA 影剧,http://dl.zapi.ml/histar.php?id=elta-drama&proxy
-EYE 戏剧台,http://dl.zapi.ml/histar.php?id=eye-drama&proxy
-星卫HD电影台,http://dl.zapi.ml/histar.php?id=star-movies&proxy
-星卫娱乐台,http://dl.zapi.ml/histar.php?id=star-entetainment&proxy
-MTV Live HD 频道,http://dl.zapi.ml/histar.php?id=mtv&proxy
-国兴卫视,http://dl.zapi.ml/histar.php?id=gold-sun-tv&proxy
-新加坡马来西亚,#genre#
-Astro Awani,http://dl.zapi.ml/histar.php?id=astro-awani&proxy
-Astro Ceria,http://dl.zapi.ml/histar.php?id=astro-ceria&proxy
-Astro ONE,http://dl.zapi.ml/histar.php?id=astro-one&proxy
-Astro Prima,http://dl.zapi.ml/histar.php?id=astro-prima&proxy
-Astro Oasis,http://dl.zapi.ml/histar.php?id=astro-oasis&proxy
-Astro Warna,http://dl.zapi.ml/histar.php?id=astro-warna&proxy
-Astro Rania,http://dl.zapi.ml/histar.php?id=astro-rania&proxy
-Astro Aura,http://dl.zapi.ml/histar.php?id=astro-aura&proxy
-8TV,http://dl.zapi.ml/histar.php?id=8tv&proxy
-TV9,http://dl.zapi.ml/histar.php?id=tv9&proxy
-Astro Citra,http://dl.zapi.ml/histar.php?id=astro-citra&proxy
-Astro AEC,http://dl.zapi.ml/histar.php?id=astro-aec&proxy
-Astro 双星台,http://dl.zapi.ml/histar.php?id=astro-shuangxing&proxy
-Astro AOD HD,http://dl.zapi.ml/histar.php?id=astro-aod-hd&proxy
-Astro 欢喜台,http://dl.zapi.ml/histar.php?id=astro-huaheedai&proxy
-Astro AOD,http://dl.zapi.ml/histar.php?id=astro-aod&proxy
-Astro Arena HD,http://dl.zapi.ml/histar.php?id=astro-arena-hd&proxy
-Astro Arena 2,http://dl.zapi.ml/histar.php?id=astro-arena2&proxy
-Astro 爱奇艺,http://dl.zapi.ml/histar.php?id=astro-iqiyi&proxy
-Channel 5,http://dl.zapi.ml/histar.php?id=channel-5&proxy
-Channel U,http://dl.zapi.ml/histar.php?id=channel-u&proxy
-OKEY,http://dl.zapi.ml/histar.php?id=okey&proxy
-Astro 华丽台,http://dl.zapi.ml/histar.php?id=astro-wahlaitoi&proxy
-Channel 8,http://dl.zapi.ml/histar.php?id=channel8&proxy
-地方,#genre#
-第一财经,http://dl.zapi.ml/histar.php?id=yicai&proxy
-北京财经,http://dl.zapi.ml/histar.php?id=bjcj&proxy
-上海都市,http://dl.zapi.ml/histar.php?id=shds&proxy
-上海新闻,http://dl.zapi.ml/histar.php?id=shxw&proxy
-广东珠江,http://dl.zapi.ml/histar.php?id=gdzj&proxy
-湖南经视,http://dl.zapi.ml/histar.php?id=hnjs&proxy
-北京体育休闲,http://dl.zapi.ml/histar.php?id=bjtyxx&proxy
-五星体育,http://dl.zapi.ml/histar.php?id=wxty&proxy
-天津体育,http://dl.zapi.ml/histar.php?id=tjty&proxy
-辽宁体育,http://dl.zapi.ml/histar.php?id=lnty&proxy
-广东体育,http://dl.zapi.ml/histar.php?id=gdty&proxy
-河南梨园,http://dl.zapi.ml/histar.php?id=hnly&proxy
-体育,#genre#
-纬来体育,http://dl.zapi.ml/histar.php?id=videoland-sport&proxy
-ELEVEN体育-1,http://dl.zapi.ml/histar.php?id=eleven-sport1&proxy
-ELEVEN体育-2,http://dl.zapi.ml/histar.php?id=eleven-sport2&proxy
-博斯运动-1,http://dl.zapi.ml/histar.php?id=sportcast1&proxy
-博斯运动-2,http://dl.zapi.ml/histar.php?id=sportcast2&proxy
-博斯高球-1,http://dl.zapi.ml/histar.php?id=sportcast-golf1&proxy
-博斯高球-2,http://dl.zapi.ml/histar.php?id=sportcast-golf2&proxy
-博斯网球,http://dl.zapi.ml/histar.php?id=sportcast-tennis&proxy
-Sony Sports 1 HD,http://dl.zapi.ml/histar.php?id=super-sports1&proxy
-Sony Sports 2 HD,http://dl.zapi.ml/histar.php?id=super-sports2&proxy
-Sony Sports 3 HD,http://dl.zapi.ml/histar.php?id=super-sports3&proxy
-Sony Sports 4 HD,http://dl.zapi.ml/histar.php?id=super-sports4&proxy
-Eurosports-2,http://dl.zapi.ml/histar.php?id=super-sports5&proxy
-beIN Sports MAX,http://dl.zapi.ml/histar.php?id=bein-max&proxy
-SPOTV-2,http://dl.zapi.ml/histar.php?id=spotv2&proxy
-SPOTV,http://dl.zapi.ml/histar.php?id=spotv&proxy
-beIN Sports 2,http://dl.zapi.ml/histar.php?id=bein-sports2&proxy
-beIN Sports 1,http://dl.zapi.ml/histar.php?id=bein-sports1&proxy
-beIN Sports 3,http://dl.zapi.ml/histar.php?id=bein-sports3&proxy
-Eurosport HD,http://dl.zapi.ml/histar.php?id=eurosport-hd&proxy
-Eurosports-1,http://dl.zapi.ml/histar.php?id=eurosports-1&proxy
-博斯无限,http://dl.zapi.ml/histar.php?id=sportcast-wx&proxy
-ELTA体育-1,http://dl.zapi.ml/histar.php?id=elta-sport1&proxy
-ELTA体育-2,http://dl.zapi.ml/histar.php?id=elta-sport2&proxy
-ELTA体育-3,http://dl.zapi.ml/histar.php?id=elta-sport3&proxy
-少儿&动画,#genre#
-靖天卡通台,http://dl.zapi.ml/histar.php?id=jtkt&proxy
-Astro 小太阳,http://dl.zapi.ml/histar.php?id=astro-xty&proxy
-东森幼幼台,http://dl.zapi.ml/histar.php?id=ebc-yoyo&proxy
-MOMOTV,http://dl.zapi.ml/histar.php?id=momotv&proxy
-小尼克频道,http://dl.zapi.ml/histar.php?id=nick-jr&proxy
-MOMO亲子台,http://dl.zapi.ml/histar.php?id=momo-kids&proxy
-CN卡通,http://dl.zapi.ml/histar.php?id=cn-cartoon&proxy
-Boomerang HD,http://dl.zapi.ml/histar.php?id=boomerang-hd&proxy
-Animax卡通,http://dl.zapi.ml/histar.php?id=animax-cartoon&proxy
-尼克儿童频道,http://dl.zapi.ml/histar.php?id=nickelodeon&proxy
-人文自然,#genre#
-国家地理,http://dl.zapi.ml/histar.php?id=natgeo&proxy
-国家地理 野生频道,http://dl.zapi.ml/histar.php?id=natgeo-wild&proxy
-动物星球频道,http://dl.zapi.ml/histar.php?id=animal-planet&proxy
-探索频道,http://dl.zapi.ml/histar.php?id=discovery&proxy
-DMAX,http://dl.zapi.ml/histar.php?id=dmax&proxy
-探索科学频道,http://dl.zapi.ml/histar.php?id=discovery-sci&proxy
-探索亚洲频道,http://dl.zapi.ml/histar.php?id=discovery-asia&proxy
-History 频道,http://dl.zapi.ml/histar.php?id=history&proxy
-History-2 频道,http://dl.zapi.ml/histar.php?id=history-2&proxy
-TLC 旅游生活頻道,http://dl.zapi.ml/histar.php?id=tlc&proxy
-CI 罪案侦查频道,http://dl.zapi.ml/histar.php?id=ci&proxy
-亚洲旅游台,http://dl.zapi.ml/histar.php?id=asia-travel&proxy
-美食星球频道,http://dl.zapi.ml/histar.php?id=food-planet&proxy
-EYE 旅游台,http://dl.zapi.ml/histar.php?id=eye-travel&proxy
-欧美,#genre#
-ABC News,http://dl.zapi.ml/histar.php?id=abc-news&proxy
-Bloomberg,http://dl.zapi.ml/histar.php?id=bloomberg&proxy
-Fox News,http://dl.zapi.ml/histar.php?id=fox-news&proxy
-BBC World News,http://dl.zapi.ml/histar.php?id=bbc-world-news&proxy
-CNN,http://dl.zapi.ml/histar.php?id=cnn&proxy
-CBS News,http://dl.zapi.ml/histar.php?id=cbsn&proxy
-CNBC,http://dl.zapi.ml/histar.php?id=cnbc&proxy
+推一天测试,#genre#
+莲花卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/xzlhtv.php
+凤凰香港,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/fhtv.php?id=fhhk
+凤凰中文,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/fhtv.php?id=fhzw
+凤凰资讯,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/fhtv.php?id=fhzx
+Now星影台,http://live.mudu.tv/watch/YD2p6zAUh5JqVCJfu8TRnVeb1XRB2Gjq.flv
+Now爆谷台,http://live.mudu.tv/watch/UgH1Lmwj2d9funOvCpcetv2Rxap0QxVK.flv
+Now Sports英超,http://live.mudu.tv/watch/nSMWNEcKGnIXd2cNPw0ZgVIWTSYYxz9c.flv
+TVB功夫台,http://live.mudu.tv/watch/UzrBN4mtvzOhdNGm6Qy52REAN7VK1xl9.flv
+港版美亚,http://live.mudu.tv/watch/cdlYlcACWpKDCOMnuOgj9QOFrw1m4uhz.flv
+台視HD(1号失效),http://bad-ass.site/tw.php?id=live1047
+中視HD(1号失效),http://bad-ass.site/tw.php?id=live1048
+華視HD(1号失效),http://bad-ass.site/tw.php?id=live1049
+民視HD(1号失效),http://bad-ass.site/tw.php?id=live1050
+公視(1号失效),http://bad-ass.site/tw.php?id=live1201
+好消息頻道(1号失效),http://bad-ass.site/tw.php?id=live1231
+國家地理HD(1号失效),http://bad-ass.site/tw.php?id=live1003
+DISCOVERY(1号失效),http://bad-ass.site/tw.php?id=live1002
+旅遊生活(1号失效),http://bad-ass.site/tw.php?id=live1005
+動物星球(1号失效),http://bad-ass.site/tw.php?id=live1004
+亞洲旅遊(1号失效),http://bad-ass.site/tw.php?id=live1219
+Baby TV(1号失效),http://bad-ass.site/tw.php?id=live1007
+東森幼幼HD(1号失效),http://bad-ass.site/tw.php?id=live1008
+龍華卡通台(1号失效),http://bad-ass.site/tw.php?id=custom29
+八大綜合HD(1号失效),http://bad-ass.site/tw.php?id=live1019
+三立台灣HD(1号失效),http://bad-ass.site/tw.php?id=live1021
+三立都會HD(1号失效),http://bad-ass.site/tw.php?id=live1020
+衛視中文HD(1号失效),http://bad-ass.site/tw.php?id=live1024
+東森綜合HD(1号失效),http://bad-ass.site/tw.php?id=live1041
+超視HD(1号失效),http://bad-ass.site/tw.php?id=live1180
+中天綜合HD(1号失效),http://bad-ass.site/tw.php?id=live1022
+中天娛樂HD(1号失效),http://bad-ass.site/tw.php?id=live1023
+MUCH TV(1号失效),http://bad-ass.site/tw.php?id=live1189
+八大戲劇HD(1号失效),http://bad-ass.site/tw.php?id=live1057
+TVBS歡樂HD(1号失效),http://bad-ass.site/tw.php?id=live1018
+緯來戲劇(1号失效),http://bad-ass.site/tw.php?id=live1186
+龍華偶像劇(1号失效),http://bad-ass.site/tw.php?id=live1235
+緯來日本HD(1号失效),http://bad-ass.site/tw.php?id=live1026
+Taiwan Plus(1号失效),http://bad-ass.site/tw.php?id=live1238
+年代新聞(1号失效),http://bad-ass.site/tw.php?id=live1192
+東森新聞HD(1号失效),http://bad-ass.site/tw.php?id=live1014
+中天新聞HD(1号失效),http://bad-ass.site/tw.php?id=live1015
+三立新聞HD(1号失效),http://bad-ass.site/tw.php?id=live1016
+TVBS新聞HD(1号失效),http://bad-ass.site/tw.php?id=live1051
+TVBS HD(1号失效),http://bad-ass.site/tw.php?id=live1251
+非凡新聞(1号失效),http://bad-ass.site/tw.php?id=live1013
+非凡商業(1号失效),http://bad-ass.site/tw.php?id=live1012
+寰宇新聞(1号失效),http://bad-ass.site/tw.php?id=live1222
+壹新聞(1号失效),http://bad-ass.site/tw.php?id=live1242
+Bloomberg News(1号失效),http://bad-ass.site/tw.php?id=live1066
+衛視電影HD(1号失效),http://bad-ass.site/tw.php?id=live1031
+好萊塢電影HD(1号失效),http://bad-ass.site/tw.php?id=live1025
+緯來電影HD(1号失效),http://bad-ass.site/tw.php?id=live1183
+龍華電影台(1号失效),http://bad-ass.site/tw.php?id=live1245
+HBO(1号失效),http://bad-ass.site/tw.php?id=live1029
+AXN(1号失效),http://bad-ass.site/tw.php?id=live1054
+CINEMAX HD(1号失效),http://bad-ass.site/tw.php?id=live1030
+STAR MOVIES GOLD(1号失效),http://bad-ass.site/tw.php?id=live1032
+Star World(1号失效),http://bad-ass.site/tw.php?id=live1040
+緯來育樂HD(1号失效),http://bad-ass.site/tw.php?id=live1045
+博斯運動一(1号失效),http://bad-ass.site/tw.php?id=live1225
+momo 綜合台(1号失效),http://bad-ass.site/tw.php?id=live1248
+ELEVEN SPORTS 1 HD(1号失效),http://bad-ass.site/tw.php?id=live1069
+ELEVEN SPORTS 2 HD(1号失效),http://bad-ass.site/tw.php?id=live1072
+海峽衛視HD(1号失效),http://bad-ass.site/tw.php?id=live1035
+🍓能看就看,#genre#
+EYE戏剧台,https://dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&timestamp=1686304189&rand=uMAK02acjC&uuid=9b647b3816b2a66a&from=web&sign=517a829fbd8ea9707a557092b2922244
+ELTA影剧,https://dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&timestamp=1686304105&rand=1RGzVg40fW&uuid=9b647b3816b2a66a&from=web&sign=f2e99da95e4076a305d3e704ef317a2e
+好莱坞电影台,https://dispatch.ulivetv.net/v/live/cl7ck1qkwzpc.m3u8?stream_id=cl7ck1qkwzpc&timestamp=1686304002&rand=AoZ0X4Q9p7&uuid=9b647b3816b2a66a&from=web&sign=7f42afd512bcb0ae1c10cc0af31b3163
+龙华洋片,https://dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&timestamp=1686303773&rand=ut3AaofJoW&uuid=9b647b3816b2a66a&from=web&sign=4380f45f35db0aa6867dcddf7a06d52a
+星卫电影,https://dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&timestamp=1686278368&rand=lIatuoiS4x&uuid=9b647b3816b2a66a&from=web&sign=a54114988d9e6ad1b2ef645c9867fd76
+美亚电影,https://dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&timestamp=1686278294&rand=ppiaUwtYb6&uuid=9b647b3816b2a66a&from=web&sign=a548b682dfad0c7c7b27f2f26380a142
+纬来电影,https://dispatch.ulivetv.net/v/live/cl7cmdp021mo.m3u8?stream_id=cl7cmdp021mo&timestamp=1686278096&rand=FIfjQROmB7&uuid=9b647b3816b2a66a&from=web&sign=7c3b8dd2d41fdc92337151f676c58a94
+纬来戏剧,https://dispatch.ulivetv.net/v/live/cl7cm1w9tl1c.m3u8?stream_id=cl7cm1w9tl1c&timestamp=1686278136&rand=id8CNT4zSF&uuid=9b647b3816b2a66a&from=web&sign=a83b6d37b43ea2ec0e1168cf53f3a7d6
+龙翔电影,https://dispatch.ulivetv.net/v/live/cl7cjqrlyzeo.m3u8?stream_id=cl7cjqrlyzeo&timestamp=1686277921&rand=ypfB91FBfe&uuid=9b647b3816b2a66a&from=web&sign=a4e190dd5e203a1924d6ce7598d545f4
+卫视电影台,https://dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&timestamp=1686277857&rand=vtNgqwU4TR&uuid=9b647b3816b2a66a&from=web&sign=c114719fd45510664b98196ffb539bd8
+卫视中文台,https://dispatch.ulivetv.net/v/live/cl7ciyx4pznk.m3u8?stream_id=cl7ciyx4pznk&timestamp=1686303852&rand=Ws0nJVfXyP&uuid=9b647b3816b2a66a&from=web&sign=8fa56db04aad211d1b6e2f04f109e527
+东森洋片,https://dispatch.ulivetv.net/v/live/cl7cavg498sg.m3u8?stream_id=cl7cavg498sg&timestamp=1686277700&rand=Au8EGyltYQ&uuid=9b647b3816b2a66a&from=web&sign=ea213332a00c0e30fcc31b3218108e92
+东森戏剧,https://dispatch.ulivetv.net/v/live/cl7caihk7zr4.m3u8?stream_id=cl7caihk7zr4&timestamp=1686277603&rand=52Y3mTb5Mq&uuid=9b647b3816b2a66a&from=web&sign=3a7679de4e3f97239c4b0ecbd87d7452
+东森电影,https://dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&timestamp=1686277110&rand=yant2wbPRG&uuid=9b647b3816b2a66a&from=web&sign=29d2c4cd7c741d5a268eb80dd31a6ae7
+东森电影,https://dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&timestamp=1686303119&rand=8Q3K3OV9ls&uuid=9b647b3816b2a66a&from=web&sign=242b4f3b13e2c15cb27e5e23573f8a31
+东森超视,https://dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&timestamp=1686276983&rand=S9lUBe2KRs&uuid=9b647b3816b2a66a&from=web&sign=07e14d0c0e8def18e3caf50c8412ef92
+VUTV6,https://dispatch.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&timestamp=1686276898&rand=kH4lR59uG8&uuid=9b647b3816b2a66a&from=web&sign=a62779128185e5e83bdddf93329f0cde
+无线财经,https://dispatch.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&timestamp=1686276853&rand=1xBXJ7XCnx&uuid=9b647b3816b2a66a&from=web&sign=0f8e8d63dedcb39beaaf15fd026e6627
+无线新闻,https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686276774&rand=8TEOYmNn7s&uuid=9b647b3816b2a66a&from=web&sign=7ac7590c5e773941963ee188ef367054
+澳门莲花,https://dispatch.ulivetv.net/v/live/cl7c8hsq3f0g.m3u8?stream_id=cl7c8hsq3f0g&timestamp=1686276695&rand=hhTD3R8sUy&uuid=9b647b3816b2a66a&from=web&sign=1e0e9f5adb516bf4b7ce08da1b25510c
+凤凰卫视,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276351&rand=LJ9wX3x29g&uuid=9b647b3816b2a66a&from=web&sign=941de40e58692774205a9ced5f746313
+凤凰卫视,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276586&rand=IHtuwtns3K&uuid=9b647b3816b2a66a&from=web&sign=40d229eab7359f25230443b141fe878a
+翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686272589&rand=pj9N0CE1NQ&uuid=9b647b3816b2a66a&from=web&sign=252ae84528559cdc6a20b2650d802188
+凤凰咨询,https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1686272611&rand=L0EMwvvEsh&uuid=9b647b3816b2a66a&from=web&sign=aa283c67b0fc598ba2eb5ed7d31095dd
+TVB j2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686272799&rand=6dyXTNoJdG&uuid=9b647b3816b2a66a&from=web&sign=50cae9aee7b5e02e178c22e2becd0262
+ELTA影剧,https://dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&timestamp=1686304105&rand=1RGzVg40fW&uuid=9b647b3816b2a66a&from=web&sign=f2e99da95e4076a305d3e704ef317a2e
+Now爆谷台[1920x1080],https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1686313038&rand=iwGMA0hPaB&uuid=9b647b3816b2a66a&from=web&sign=9082127803e8812c2ae24752e37cf96e
+Now华剧[1280x720],https://dispatch.ulivetv.net/v/live/ciw8gb4fs8g0.m3u8?stream_id=ciw8gb4fs8g0&timestamp=1686312968&rand=DA7ZJLonp8&uuid=9b647b3816b2a66a&from=web&sign=d479bdce858b795371c7a60de870ea75
+Now财经[1280x720],https://dispatch.ulivetv.net/v/live/cnnrkvw6g98g.m3u8?stream_id=cnnrkvw6g98g&timestamp=1686312672&rand=0zuS38Je8f&uuid=9b647b3816b2a66a&from=web&sign=a8081b1d965930e4425d8744f6d74c72
+Viutv[1280x720],https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686312626&rand=1QvR1usN8y&uuid=9b647b3816b2a66a&from=web&sign=4b46e32e2feb6d5965f87b3ee47f3dbe
+Viutv6[1280x720],https://dispatch.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&timestamp=1686312742&rand=Y7eXG3efQI&uuid=9b647b3816b2a66a&from=web&sign=86747a9fce37fbe07c36538292458eb2
+明珠台[1280x720],https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686312605&rand=tO1JGrXmjL&uuid=9b647b3816b2a66a&from=web&sign=477fda8433634b8b2e3c3e9e64fc5c41
+无线新闻[1280x720],https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686312720&rand=HIPVSHSf0B&uuid=9b647b3816b2a66a&from=web&sign=4859e57314ef365b4b28bcd602d53309
+HOY资讯[1280x720],https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
+HOY TV[1280x720],https://dispatch.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&timestamp=1686312768&rand=cidk3uU7zb&uuid=9b647b3816b2a66a&from=web&sign=9de9834fec7256066532c141b77b5dc8
+香港J2[1280x720],https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686312552&rand=bGny6hLVof&uuid=9b647b3816b2a66a&from=web&sign=0ebd922ca5dc14b159820b91ae9bb82e
+TVB翡翠台[1280x720],https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686312646&rand=hPJgZ3EFou&uuid=9b647b3816b2a66a&from=web&sign=d3f919309615a6398f9d278153ee5690
+东森洋片[1920x1080],https://dispatch.ulivetv.net/v/live/cl7cavg498sg.m3u8?stream_id=cl7cavg498sg&timestamp=1686277700&rand=Au8EGyltYQ&uuid=9b647b3816b2a66a&from=web&sign=ea213332a00c0e30fcc31b3218108e92
+东森戏剧[1920x1080],https://dispatch.ulivetv.net/v/live/cl7caihk7zr4.m3u8?stream_id=cl7caihk7zr4&timestamp=1686277603&rand=52Y3mTb5Mq&uuid=9b647b3816b2a66a&from=web&sign=3a7679de4e3f97239c4b0ecbd87d7452
+东森电影[1920x1080],https://dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&timestamp=1686277110&rand=yant2wbPRG&uuid=9b647b3816b2a66a&from=web&sign=29d2c4cd7c741d5a268eb80dd31a6ae7
+东森电影[1920x1080],https://dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&timestamp=1686303119&rand=8Q3K3OV9ls&uuid=9b647b3816b2a66a&from=web&sign=242b4f3b13e2c15cb27e5e23573f8a31
+东森超视[1920x1080],https://dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&timestamp=1686276983&rand=S9lUBe2KRs&uuid=9b647b3816b2a66a&from=web&sign=07e14d0c0e8def18e3caf50c8412ef92
+VUTV6[1280x720],https://dispatch.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&timestamp=1686276898&rand=kH4lR59uG8&uuid=9b647b3816b2a66a&from=web&sign=a62779128185e5e83bdddf93329f0cde
+无线财经[1280x720],https://dispatch.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&timestamp=1686276853&rand=1xBXJ7XCnx&uuid=9b647b3816b2a66a&from=web&sign=0f8e8d63dedcb39beaaf15fd026e6627
+无线新闻[1280x720],https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686276774&rand=8TEOYmNn7s&uuid=9b647b3816b2a66a&from=web&sign=7ac7590c5e773941963ee188ef367054
+澳门莲花[1920x1080],https://dispatch.ulivetv.net/v/live/cl7c8hsq3f0g.m3u8?stream_id=cl7c8hsq3f0g&timestamp=1686276695&rand=hhTD3R8sUy&uuid=9b647b3816b2a66a&from=web&sign=1e0e9f5adb516bf4b7ce08da1b25510c
+翡翠台[1280x720],https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686272589&rand=pj9N0CE1NQ&uuid=9b647b3816b2a66a&from=web&sign=252ae84528559cdc6a20b2650d802188
+TVB j2[1280x720],https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686272799&rand=6dyXTNoJdG&uuid=9b647b3816b2a66a&from=web&sign=50cae9aee7b5e02e178c22e2becd0262
+星卫电影[1920x1080],https://dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&timestamp=1686313270&rand=eGwaHv2i0u&uuid=9b647b3816b2a66a&from=web&sign=935cd89a5b3583f05fdbaf834208f282
+东森综合[1920x1080],https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1686313315&rand=nHqiCNV70W&uuid=9b647b3816b2a66a&from=web&sign=5df001f7090ed2cbd6f0cef83de5da41
+港澳台,#genre#
+凤凰香港台1280x720p,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
+无线新聞台,http://pull-f5-spe.ixigua.com/live/xyzfhwzpthlzzszszzbvjlzjmnbzhjhyzyztvbwxxw.flv
+★TVB星河,http://pull-l3-cny.douyincdn.com/third/stream-d40c919171cfc73cf4de67fc381cbc3e.m3u8
+TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+卫视西片台,http://pull-l3-cny.douyincdn.com/third/stream-01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
+寰宇新闻台,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
+星卫电影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
+纬来戏剧台,http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.m3u8
+莲花电影台,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+BOO驚悚台,http://pull-l3-cny.douyincdn.com/third/stream-6ea2b038f2ce633a65f0450895f6679e.m3u8
+卫视电影台,http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
+美亚电影台,http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+龙华洋片台,http://pull-l3-cny.douyincdn.com/third/stream-7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
+好莱坞电影,http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
+湖南电影台,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.m3u8
+高清电影台,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
+龙祥电影台,http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.m3u8
+天映电影台,http://pull-l3-cny.douyincdn.com/third/stream-4480903e93e7bf6ddde637e903c423a0.m3u8
+东森洋片台,http://pull-l3-cny.douyincdn.com/third/stream-ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+东森电影台,http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
+CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+AXN电影台,http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
+HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO家庭影院,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+HBO原创电影,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
+HBO强档影院,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+探索频道HD,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
+动物星球HD,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
+卫视中文HD,http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.m3u8
+探索动力HD,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.m3u8
+探索科学HD,http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.m3u8
+东森幼幼HD,http://pull-l3-cny.douyincdn.com/third/stream-adb7cf254b46d42d58828f590a6137bf.m3u8
+纬来体育HD,http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.m3u8
+中天新闻台,http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8
+中天综合台,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天娱乐台,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.m3u8
+八大第一HD,http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
+八大戏剧HD,http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.m3u8
+八大综合HD,http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.m3u8
+KBS1 HD,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+KBS2 HD,http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+MBC HD,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+SBS HD,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
+NOW新闻台,http://pull-f5-spe.ixigua.com/live/xyzyvzozmfjyzzjzjzhjnowspzzlfzhztycxzfzzoztspzzmenowxw.flv
+HOY资询台,http://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbncvshhzszcvnjfncvbjzpeyzhxchzszzhzezzzyxxw.flv
+中天新聞,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_cti.flv
+中天新闻2台,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_cti2.flv
+经典奇幻台,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240089221fiyt1213aa98861537.m3u8
+凤凰香港台1280x720p,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
+HOY资讯,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-29751518-9645-429f-b569-6cbdfaeb01b8.m3u8
+TVBS,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+年代新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8?by=yeslivetv_com
+中天新闻,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_cti.flv
+中天新闻2台,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_cti2.flv
+东森新闻,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_ebc_news.flv
+三立新闻,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_set_live.flv
+寰宇新聞台,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_global_new.flv
+華視新聞,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_cts_new.flv
+TVBS新聞台,http://pull-f5-spe.ixigua.com/live/pa_chong_bo_tvbs_news.flv
+爱尔达体育3台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-919ddf6f-8916-45dc-bd0f-1de3d0126b0e.m3u8?by=28
+HBO电影,http://hplay.xyz/aqqtamco/vk3e30K4Yi/34901
+环球电影台,http://hplay.xyz/aqqtamco/vk3e30K4Yi/34871
+翡翠台,http://sc2022.stream-link.org/list.php?id=h002
+無綫新聞台,http://sc2022.stream-link.org/list.php?id=h004
+無綫財經·體育·資訊台,http://sc2022.stream-link.org/list.php?id=h005
+港台电视31,http://sc2022.stream-link.org/list.php?id=h006
+港台电视32,http://sc2022.stream-link.org/list.php?id=h007
+無綫新聞台,http://sc2022.stream-link.org/list.php?id=h008
+無綫財經·體育·資訊台,http://sc2022.stream-link.org/list.php?id=h009
+香港開電視,http://sc2022.stream-link.org/list.php?id=h010
+香港國際財經台,http://sc2022.stream-link.org/list.php?id=h011
+香港開電視資訊台,http://sc2022.stream-link.org/list.php?id=h012
+鳳凰衛視資訊台,http://sc2022.stream-link.org/list.php?id=h013
+鳳凰衛視中文台,http://sc2022.stream-link.org/list.php?id=h014
+鳳凰衛視香港台,http://sc2022.stream-link.org/list.php?id=h015
+澳門蓮花衛視,http://sc2022.stream-link.org/list.php?id=h016
+東森新聞,http://sc2022.stream-link.org/list.php?id=t001
+東森財經新聞,http://sc2022.stream-link.org/list.php?id=t002
+華視新聞,http://sc2022.stream-link.org/list.php?id=t004
+中視新聞,http://sc2022.stream-link.org/list.php?id=t005
+民視新聞,http://sc2022.stream-link.org/list.php?id=t006
+寰宇國際新聞,http://sc2022.stream-link.org/list.php?id=t007
+寰宇台灣新聞,http://sc2022.stream-link.org/list.php?id=t008
+三立財經新聞,http://sc2022.stream-link.org/list.php?id=t009
+三立新聞,http://sc2022.stream-link.org/list.php?id=t010
+三立新聞+,http://sc2022.stream-link.org/list.php?id=t011
+台視新聞,http://sc2022.stream-link.org/list.php?id=t012
+TVBS新聞,http://sc2022.stream-link.org/list.php?id=t013
+TVBS財經,http://sc2022.stream-link.org/list.php?id=t014
+中天亞洲台,http://sc2022.stream-link.org/list.php?id=t015
+TVBS亞洲台,http://sc2022.stream-link.org/list.php?id=t016
+民視HD,http://sc2022.stream-link.org/list.php?id=t017
+民視第一台,http://sc2022.stream-link.org/list.php?id=t018
+民視台灣台,http://sc2022.stream-link.org/list.php?id=t019
+民視綜藝台,http://sc2022.stream-link.org/list.php?id=t020
+民視旅遊台,http://sc2022.stream-link.org/list.php?id=t022
+三立台灣,http://sc2022.stream-link.org/list.php?id=t023
+三立都會,http://sc2022.stream-link.org/list.php?id=t024
+天才衝衝衝,http://sc2022.stream-link.org/list.php?id=t025
+東森yoyo,http://sc2022.stream-link.org/list.php?id=t026
+古龙影院,http://maomao.kandiantv.cn/m3u8.php?/migu/639528313
+星城功夫台,https://dwz.mk/mpd4e
+星城香港台,https://dwz.mk/9u5xl
+星城澳门台,https://dwz.mk/lrch5
+星城台湾台,https://dwz.mk/pps4k
+星城武侠台,https://dwz.mk/ry82j
+星城喜剧台,https://dwz.mk/uny87
+星城影视台,https://dwz.mk/50rrm
+星城港片台,https://dwz.mk/wjh0l
+星城翡翠台,https://dwz.mk/gbso3
+星城卡通台,https://dwz.mk/hf79j
+电影,http://159.75.85.63:35455/huya/11602058
+ 凤凰中文,http://sc2022.stream-link.org/list.php?id=h013
+凤凰资讯,http://sc2022.stream-link.org/list.php?id=h014
+凤凰香港,http://sc2022.stream-link.org/list.php?id=h015
+星影台,http://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&token=&uid=&abtimeshift=1685703388&appid=6fd0866dffd24341c680ed4a5417bdca&cid=775332bce1041e00c5f3984c64755073&cver=1160&cip=183.226.70.159&geo=CN.22.235.4&ostype=android&osver=12&vendor=HONOR&brand=HONOR&model=DIO-AN00&uuid=fbd3d65cfc4d1df8a3ffb998ead2df94&stm=1685703400&ltm=1685703401&netype=3&sand=1f7fe7d8&ckey=ODZiMzQ2ZTM4YjcwYjIxNTUxMDAzNmViOTYzOTBhODM%3D&sign=c31eea5ced1d78ed902f80f58af0350c&key=22c6ed34&authkey=YzMxZWVhNWNlZDFkNzhlZDkwMmY4MGY1OGFmMDM1MGM%3D&hc=&rc=&isAbtimeshift=0
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰中文,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰资讯,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+TVBS,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+TVBS,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-36151937-36b4-42fa-9991-6f017a31b62f.m3u8?by=yeslivetv_com
+年代新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8?by=yeslivetv_com
+东森新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8?by=yeslivetv_com
+凤凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
+凤凰中文 ,http://anren.live/HK/AQtR.m3u8ift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+翡翠台,http://113.117.74.15:8081/hls/67/index.m3u8
 🌸测试代理,#genre#
 CCTV1,http://mmitv.top/iptv/hotel.php?id=cctv1&user=6a646e5779676d717039475a6e4c
 CCTV2,http://mmitv.top/iptv/hotel.php?id=cctv2&user=6a646e5779676d717039475a6e4c
