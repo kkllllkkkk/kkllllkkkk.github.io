@@ -1,5 +1,6 @@
 金融直播间,#genre#
 七盈财经永安环球,https://live-pull-1b.talk-fun.com/live/0_Pjg-NjojTiJMJA/playlist.m3u8?wsSession=1c545e51ae19599013f06185-168819311086315&wsIPSercert=c63d790921aee50dc6e33414e7556fa3&wsMonitor=0
+七盈财经永安环球,https://live-pull-15.talk-fun.com/live/0_Pjg-NjojTiJMJA.m3u8
 推一天测试,#genre#
 莲花卫视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/xzlhtv.php
 凤凰香港,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/fhtv.php?id=fhhk
