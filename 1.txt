@@ -1,6 +1,13 @@
 金融直播间,#genre#
 七盈财经永安环球,https://live-pull-1b.talk-fun.com/live/0_Pjg-NjojTiJMJA/playlist.m3u8?wsSession=1c545e51ae19599013f06185-168819311086315&wsIPSercert=c63d790921aee50dc6e33414e7556fa3&wsMonitor=0
 七盈财经永安环球,https://live-pull-15.talk-fun.com/live/0_Pjg-NjojTiJMJA.m3u8
+🌸港澳台,#genre#
+Now星影台,http://live.mudu.tv/watch/mWEbQkV3lGEmL5sUjcGR5quoshOVmiP4.flv
+Now爆谷台,http://live.mudu.tv/watch/98N9aM8cF1X2tFqZw9vvh65S4cJ4OKq6.flv
+Now Sports英超,http://live.mudu.tv/watch/Tx4lhX7X6rKLn5GkT66818fE5TgTmnnr.flv
+港版美亚,http://live.mudu.tv/watch/xdQYxzjaa7rdjAZRg8tCwDjYnzmBBVza.flv
+TVB功夫台,http://live.mudu.tv/watch/G58myyA579Y91f2e1QFmfR4JYgSZLrNi.flv
+千禧经典台,http://live.mudu.tv/watch/XBF9AZlnmtFp5UJILoVUmbPfjJcKnwQI.flv
 🌸测试代理,#genre#
 CCTV9,http://mmitv.top/iptv/hotel.php?id=cctv9&user=6a646e5779676d717039475a6e4c
 CCTV1,http://mmitv.top/iptv/hotel.php?id=cctv1&user=6a646e5779676d717039475a6e4c
