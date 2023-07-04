@@ -399,6 +399,7 @@ sm3u89 hd,https://epg.pw/stream/8636d376fa7b71d6e508b963f9c7e9aa175f53c0d2da3209
 th bà rịa vũng tàu,https://epg.pw/stream/c59a8ec5f1f626cc2f6c6eb83a33d0db266bd52595a68c517472245ac2c4cb4d.m3u8
 th bà rịa vũng tàu,https://epg.pw/stream/9ca91e04d2114fe8bf42cec8cca64f474652a5b61d9d6464eaa927b7d0870c45.m3u8
 🌸测试代理,#genre#
+1905电影,http://aweitv.acloudtwei.cloud/1905.php
 CCTV9,http://mmitv.top/iptv/hotel.php?id=cctv9&user=6a646e5779676d717039475a6e4c
 CCTV1,http://mmitv.top/iptv/hotel.php?id=cctv1&user=6a646e5779676d717039475a6e4c
 CCTV2,http://mmitv.top/iptv/hotel.php?id=cctv2&user=6a646e5779676d717039475a6e4c
