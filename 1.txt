@@ -399,7 +399,6 @@ sm3u89 hd,https://epg.pw/stream/8636d376fa7b71d6e508b963f9c7e9aa175f53c0d2da3209
 th bà rịa vũng tàu,https://epg.pw/stream/c59a8ec5f1f626cc2f6c6eb83a33d0db266bd52595a68c517472245ac2c4cb4d.m3u8
 th bà rịa vũng tàu,https://epg.pw/stream/9ca91e04d2114fe8bf42cec8cca64f474652a5b61d9d6464eaa927b7d0870c45.m3u8
 🌸测试代理,#genre#
-1905电影,http://aweitv.acloudtwei.cloud/1905.php
 CCTV9,http://mmitv.top/iptv/hotel.php?id=cctv9&user=6a646e5779676d717039475a6e4c
 CCTV1,http://mmitv.top/iptv/hotel.php?id=cctv1&user=6a646e5779676d717039475a6e4c
 CCTV2,http://mmitv.top/iptv/hotel.php?id=cctv2&user=6a646e5779676d717039475a6e4c
@@ -620,12 +619,14 @@ IPTV高清院线,http://mmitv.top/iptv/hotel.php?id=iptvgqyx&user=6a646e5779676d
 内蒙古新闻综合,http://mmitv.top/iptv/hotel.php?id=nmgxwzh&user=6a646e5779676d717039475a6e4c
 内蒙古经济生活,http://mmitv.top/iptv/hotel.php?id=nmgjjsh&user=6a646e5779676d717039475a6e4c
 军旅剧场,http://mmitv.top/iptv/hotel.php?id=jljc&user=6a646e5779676d717039475a6e4c
+南国都市4K,http://mmitv.top/iptv/hotel.php?id=ngds-4k&user=6a646e5779676d717039475a6e4c
 四海钓鱼,http://mmitv.top/iptv/hotel.php?id=shdy&user=6a646e5779676d717039475a6e4c
 好莱坞电影,http://mmitv.top/iptv/hotel.php?id=hlwdy&user=6a646e5779676d717039475a6e4c
 山东齐鲁,http://mmitv.top/iptv/hotel.php?id=sdql&user=6a646e5779676d717039475a6e4c
 延边卫视,http://mmitv.top/iptv/hotel.php?id=ybws&user=6a646e5779676d717039475a6e4c
 揭西综合,http://mmitv.top/iptv/hotel.php?id=jiexzh&user=6a646e5779676d717039475a6e4c
 揭阳生活,http://mmitv.top/iptv/hotel.php?id=jysh&user=6a646e5779676d717039475a6e4c
+搞笑小视频,http://mmitv.top/iptv/hotel.php?id=gxxsp&user=6a646e5779676d717039475a6e4c
 春城新闻综合,http://mmitv.top/iptv/hotel.php?id=ccxwzh&user=6a646e5779676d717039475a6e4c
 春城民生,http://mmitv.top/iptv/hotel.php?id=ccms&user=6a646e5779676d717039475a6e4c
 汕尾新闻综合,http://mmitv.top/iptv/hotel.php?id=swxwzh&user=6a646e5779676d717039475a6e4c
@@ -649,15 +650,18 @@ IPTV高清院线,http://mmitv.top/iptv/hotel.php?id=iptvgqyx&user=6a646e5779676d
 第一财经,http://mmitv.top/iptv/hotel.php?id=dycj&user=6a646e5779676d717039475a6e4c
 糖豆广场舞,http://mmitv.top/iptv/hotel.php?id=tdgcw&user=6a646e5779676d717039475a6e4c
 老故事,http://mmitv.top/iptv/hotel.php?id=lgs&user=6a646e5779676d717039475a6e4c
+老电影,http://mmitv.top/iptv/hotel.php?id=ldy&user=6a646e5779676d717039475a6e4c
 肇庆综合,http://mmitv.top/iptv/hotel.php?id=zqzh&user=6a646e5779676d717039475a6e4c
 西藏卫视,http://mmitv.top/iptv/hotel.php?id=xzws&user=6a646e5779676d717039475a6e4c
 邢台城市生活,http://mmitv.top/iptv/hotel.php?id=xtcssh&user=6a646e5779676d717039475a6e4c
 邢台综合,http://mmitv.top/iptv/hotel.php?id=xtzh&user=6a646e5779676d717039475a6e4c
 CCTV4-美洲,http://mmitv.top/iptv/hotel.php?id=cctv4-mz&user=6a646e5779676d717039475a6e4c
 CCTV卫生健康,http://mmitv.top/iptv/hotel.php?id=cctvwsjk&user=6a646e5779676d717039475a6e4c
+CCTV戏曲,http://mmitv.top/iptv/hotel.php?id=cctvxq&user=6a646e5779676d717039475a6e4c
 CFC钓鱼,http://mmitv.top/iptv/hotel.php?id=cfcdy&user=6a646e5779676d717039475a6e4c
 CHC高清剧场,http://mmitv.top/iptv/hotel.php?id=chcgqjc&user=6a646e5779676d717039475a6e4c
 DBTV-1,http://mmitv.top/iptv/hotel.php?id=dbtv-1&user=6a646e5779676d717039475a6e4c
+PEL电竞,http://mmitv.top/iptv/hotel.php?id=peldj&user=6a646e5779676d717039475a6e4c
 TVB影视剧,http://mmitv.top/iptv/hotel.php?id=tvbysj&user=6a646e5779676d717039475a6e4c
 TVB财经体育资讯台,http://mmitv.top/iptv/hotel.php?id=tvbcjtyzxt&user=6a646e5779676d717039475a6e4c
 WXTV-1,http://mmitv.top/iptv/hotel.php?id=wxtv-1&user=6a646e5779676d717039475a6e4c
@@ -672,6 +676,7 @@ XMTV-1,http://mmitv.top/iptv/hotel.php?id=xmtv-1&user=6a646e5779676d717039475a6e
 云南娱乐,http://mmitv.top/iptv/hotel.php?id=ynyl&user=6a646e5779676d717039475a6e4c
 云南少儿,http://mmitv.top/iptv/hotel.php?id=ynse&user=6a646e5779676d717039475a6e4c
 北京文艺,http://mmitv.top/iptv/hotel.php?id=bjwy&user=6a646e5779676d717039475a6e4c
+北流综合,http://mmitv.top/iptv/hotel.php?id=blzh&user=6a646e5779676d717039475a6e4c
 古交1套,http://mmitv.top/iptv/hotel.php?id=gj-1&user=6a646e5779676d717039475a6e4c
 吉林东北戏曲,http://mmitv.top/iptv/hotel.php?id=jldbxq&user=6a646e5779676d717039475a6e4c
 吉林乡村,http://mmitv.top/iptv/hotel.php?id=jlxc&user=6a646e5779676d717039475a6e4c
@@ -707,6 +712,7 @@ XMTV-1,http://mmitv.top/iptv/hotel.php?id=xmtv-1&user=6a646e5779676d717039475a6e
 山西社会法治,http://mmitv.top/iptv/hotel.php?id=sxshfz&user=6a646e5779676d717039475a6e4c
 山西经济科技,http://mmitv.top/iptv/hotel.php?id=sxjjkj&user=6a646e5779676d717039475a6e4c
 崇左综合,http://mmitv.top/iptv/hotel.php?id=chongzzh&user=6a646e5779676d717039475a6e4c
+平南综合,http://mmitv.top/iptv/hotel.php?id=pnzh&user=6a646e5779676d717039475a6e4c
 广场舞,http://mmitv.top/iptv/hotel.php?id=gcw&user=6a646e5779676d717039475a6e4c
 广州法治,http://mmitv.top/iptv/hotel.php?id=gzfz&user=6a646e5779676d717039475a6e4c
 广平新闻,http://mmitv.top/iptv/hotel.php?id=gpxw&user=6a646e5779676d717039475a6e4c
@@ -741,6 +747,7 @@ XMTV-1,http://mmitv.top/iptv/hotel.php?id=xmtv-1&user=6a646e5779676d717039475a6e
 武汉科技生活,http://mmitv.top/iptv/hotel.php?id=whkjsh&user=6a646e5779676d717039475a6e4c
 民视影视剧,http://mmitv.top/iptv/hotel.php?id=msysj&user=6a646e5779676d717039475a6e4c
 求索生活,http://mmitv.top/iptv/hotel.php?id=qssh&user=6a646e5779676d717039475a6e4c
+求索纪录,http://mmitv.top/iptv/hotel.php?id=qsjl&user=6a646e5779676d717039475a6e4c
 汕头文旅体育,http://mmitv.top/iptv/hotel.php?id=stwlty&user=6a646e5779676d717039475a6e4c
 江苏体育休闲,http://mmitv.top/iptv/hotel.php?id=jstyxx&user=6a646e5779676d717039475a6e4c
 江苏公共新闻,http://mmitv.top/iptv/hotel.php?id=jsggxw&user=6a646e5779676d717039475a6e4c
@@ -789,8 +796,11 @@ XMTV-1,http://mmitv.top/iptv/hotel.php?id=xmtv-1&user=6a646e5779676d717039475a6e
 纪实科教,http://mmitv.top/iptv/hotel.php?id=jskj&user=6a646e5779676d717039475a6e4c
 胜利综合,http://mmitv.top/iptv/hotel.php?id=slzh&user=6a646e5779676d717039475a6e4c
 舞钢1套,http://mmitv.top/iptv/hotel.php?id=wg-1&user=6a646e5779676d717039475a6e4c
+茂名文化生活,http://mmitv.top/iptv/hotel.php?id=mmwhsh&user=6a646e5779676d717039475a6e4c
+茂名综合,http://mmitv.top/iptv/hotel.php?id=mmzh&user=6a646e5779676d717039475a6e4c
 衡水公共,http://mmitv.top/iptv/hotel.php?id=hsgg&user=6a646e5779676d717039475a6e4c
 衡水新闻综合,http://mmitv.top/iptv/hotel.php?id=hsxwzh&user=6a646e5779676d717039475a6e4c
+贵港公共,http://mmitv.top/iptv/hotel.php?id=gggg&user=6a646e5779676d717039475a6e4c
 车迷频道,http://mmitv.top/iptv/hotel.php?id=cmpd&user=6a646e5779676d717039475a6e4c
 辽宁公共,http://mmitv.top/iptv/hotel.php?id=lngg&user=6a646e5779676d717039475a6e4c
 辽宁经济,http://mmitv.top/iptv/hotel.php?id=lnjj&user=6a646e5779676d717039475a6e4c
