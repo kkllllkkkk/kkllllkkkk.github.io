@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-07-07 01:45:56
+# 创建时间：2023-07-07 01:56:11
 # 使用模版：V2RaySE 默认模版
-# 节点数量：234
+# 节点数量：233
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -153,7 +153,6 @@ proxies:
   - {"name":"🇺🇸美国【YouTube-由零開始】_101_1","type":"vmess","server":"cf-lt.sharecentre.online","port":80,"cipher":"auto","uuid":"5f751c6e-50b1-4797-ba8e-6ffe324a0bce","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"uk1.scproxy.top"}}}
   - {"name":"🇺🇸_US_美国_26","type":"vmess","server":"140.99.59.228","port":55512,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸_US_美国_27","type":"vmess","server":"140.99.148.53","port":47839,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇺🇸_US_美国->🇳🇱_NL_荷兰_4","type":"vmess","server":"156.225.67.79","port":40023,"cipher":"auto","uuid":"3fd637ad-46fe-4f85-a6e8-86b00bca1122","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸_US_美国_28","type":"vmess","server":"142.4.112.26","port":51091,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸_US_美国_29","type":"vmess","server":"142.4.112.150","port":44667,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸_US_美国_30","type":"vmess","server":"142.4.112.151","port":44667,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
@@ -393,7 +392,6 @@ proxy-groups:
       - 🇺🇸美国【YouTube-由零開始】_101_1
       - 🇺🇸_US_美国_26
       - 🇺🇸_US_美国_27
-      - 🇺🇸_US_美国->🇳🇱_NL_荷兰_4
       - 🇺🇸_US_美国_28
       - 🇺🇸_US_美国_29
       - 🇺🇸_US_美国_30
@@ -633,7 +631,6 @@ proxy-groups:
       - 🇺🇸美国【YouTube-由零開始】_101_1
       - 🇺🇸_US_美国_26
       - 🇺🇸_US_美国_27
-      - 🇺🇸_US_美国->🇳🇱_NL_荷兰_4
       - 🇺🇸_US_美国_28
       - 🇺🇸_US_美国_29
       - 🇺🇸_US_美国_30
@@ -873,7 +870,6 @@ proxy-groups:
       - 🇺🇸美国【YouTube-由零開始】_101_1
       - 🇺🇸_US_美国_26
       - 🇺🇸_US_美国_27
-      - 🇺🇸_US_美国->🇳🇱_NL_荷兰_4
       - 🇺🇸_US_美国_28
       - 🇺🇸_US_美国_29
       - 🇺🇸_US_美国_30
@@ -1112,7 +1108,6 @@ proxy-groups:
       - 🇺🇸美国【YouTube-由零開始】_101_1
       - 🇺🇸_US_美国_26
       - 🇺🇸_US_美国_27
-      - 🇺🇸_US_美国->🇳🇱_NL_荷兰_4
       - 🇺🇸_US_美国_28
       - 🇺🇸_US_美国_29
       - 🇺🇸_US_美国_30
@@ -1351,7 +1346,6 @@ proxy-groups:
       - 🇺🇸美国【YouTube-由零開始】_101_1
       - 🇺🇸_US_美国_26
       - 🇺🇸_US_美国_27
-      - 🇺🇸_US_美国->🇳🇱_NL_荷兰_4
       - 🇺🇸_US_美国_28
       - 🇺🇸_US_美国_29
       - 🇺🇸_US_美国_30
@@ -1590,7 +1584,6 @@ proxy-groups:
       - 🇺🇸美国【YouTube-由零開始】_101_1
       - 🇺🇸_US_美国_26
       - 🇺🇸_US_美国_27
-      - 🇺🇸_US_美国->🇳🇱_NL_荷兰_4
       - 🇺🇸_US_美国_28
       - 🇺🇸_US_美国_29
       - 🇺🇸_US_美国_30
@@ -1846,7 +1839,6 @@ proxy-groups:
       - 🇺🇸美国【YouTube-由零開始】_101_1
       - 🇺🇸_US_美国_26
       - 🇺🇸_US_美国_27
-      - 🇺🇸_US_美国->🇳🇱_NL_荷兰_4
       - 🇺🇸_US_美国_28
       - 🇺🇸_US_美国_29
       - 🇺🇸_US_美国_30
