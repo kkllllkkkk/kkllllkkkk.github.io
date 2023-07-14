@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-07-14 16:50:00
+# 创建时间：2023-07-14 17:00:29
 # 使用模版：V2RaySE 默认模版
-# 节点数量：374
+# 节点数量：373
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -103,7 +103,6 @@ proxies:
   - {"name":"hax美国_1","type":"vmess","server":"cf2.992688.xyz","port":8080,"cipher":"auto","uuid":"fda2c765-ed35-4e97-ba13-ed64b1c4c460","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"hax.vpn66.eu.org"}}}
   - {"name":"翻墙党fanqiangdang.com_29","type":"vmess","server":"fujimount02.linkzoones.xyz","port":30106,"cipher":"auto","uuid":"f9bc217c-6a23-398c-a963-c7f3b5f93943","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"jp02.tomoony.xyz","network":"tcp"}
   - {"name":"🇺🇸美国【YouTube-由零開始】_1","type":"vmess","server":"108.186.192.228","port":45502,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"🇺🇸美国【YouTube-由零開始】_5","type":"vmess","server":"162.159.250.183","port":2086,"cipher":"auto","uuid":"eb943c5b-ac55-46f9-8710-d0641c38ae9b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/qwer","headers":{"host":"uxx.vtcss.top"}}}
   - {"name":"翻墙党fanqiangdang.com_30","type":"vmess","server":"lion01.linkzoones.xyz","port":30201,"cipher":"auto","uuid":"f9bc217c-6a23-398c-a963-c7f3b5f93943","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sg01.tomoony.xyz","network":"tcp"}
   - {"name":"hax美国_2","type":"vmess","server":"cf3.992688.xyz","port":8080,"cipher":"auto","uuid":"fda2c765-ed35-4e97-ba13-ed64b1c4c460","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"hax.vpn66.eu.org"}}}
   - {"name":"「TG@wz2023jd」HK_2","type":"vmess","server":"bx.weizai2023.uk.eu.org","port":80,"cipher":"auto","uuid":"5f751c6e-50b1-4797-ba8e-6ffe324a0bce","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"hk-hytron.ilovescp.com"}}}
@@ -483,7 +482,6 @@ proxy-groups:
       - hax美国_1
       - 翻墙党fanqiangdang.com_29
       - 🇺🇸美国【YouTube-由零開始】_1
-      - 🇺🇸美国【YouTube-由零開始】_5
       - 翻墙党fanqiangdang.com_30
       - hax美国_2
       - 「TG@wz2023jd」HK_2
@@ -864,7 +862,6 @@ proxy-groups:
       - hax美国_1
       - 翻墙党fanqiangdang.com_29
       - 🇺🇸美国【YouTube-由零開始】_1
-      - 🇺🇸美国【YouTube-由零開始】_5
       - 翻墙党fanqiangdang.com_30
       - hax美国_2
       - 「TG@wz2023jd」HK_2
@@ -1245,7 +1242,6 @@ proxy-groups:
       - hax美国_1
       - 翻墙党fanqiangdang.com_29
       - 🇺🇸美国【YouTube-由零開始】_1
-      - 🇺🇸美国【YouTube-由零開始】_5
       - 翻墙党fanqiangdang.com_30
       - hax美国_2
       - 「TG@wz2023jd」HK_2
@@ -1625,7 +1621,6 @@ proxy-groups:
       - hax美国_1
       - 翻墙党fanqiangdang.com_29
       - 🇺🇸美国【YouTube-由零開始】_1
-      - 🇺🇸美国【YouTube-由零開始】_5
       - 翻墙党fanqiangdang.com_30
       - hax美国_2
       - 「TG@wz2023jd」HK_2
@@ -2005,7 +2000,6 @@ proxy-groups:
       - hax美国_1
       - 翻墙党fanqiangdang.com_29
       - 🇺🇸美国【YouTube-由零開始】_1
-      - 🇺🇸美国【YouTube-由零開始】_5
       - 翻墙党fanqiangdang.com_30
       - hax美国_2
       - 「TG@wz2023jd」HK_2
@@ -2385,7 +2379,6 @@ proxy-groups:
       - hax美国_1
       - 翻墙党fanqiangdang.com_29
       - 🇺🇸美国【YouTube-由零開始】_1
-      - 🇺🇸美国【YouTube-由零開始】_5
       - 翻墙党fanqiangdang.com_30
       - hax美国_2
       - 「TG@wz2023jd」HK_2
@@ -2782,7 +2775,6 @@ proxy-groups:
       - hax美国_1
       - 翻墙党fanqiangdang.com_29
       - 🇺🇸美国【YouTube-由零開始】_1
-      - 🇺🇸美国【YouTube-由零開始】_5
       - 翻墙党fanqiangdang.com_30
       - hax美国_2
       - 「TG@wz2023jd」HK_2
