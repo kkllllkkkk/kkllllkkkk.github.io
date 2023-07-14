@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-07-14 16:43:37
+# 创建时间：2023-07-14 16:50:00
 # 使用模版：V2RaySE 默认模版
-# 节点数量：375
+# 节点数量：374
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -173,7 +173,6 @@ proxies:
   - {"name":"US_youtube@资源分享师_238","type":"vmess","server":"cf-lt.sharecentre.online","port":80,"cipher":"auto","uuid":"5f751c6e-50b1-4797-ba8e-6ffe324a0bce","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"uk2.scproxy.top"}}}
   - {"name":"🇭🇰_HK_香港->🇳🇱_NL_荷兰","type":"vmess","server":"156.245.8.130","port":31920,"cipher":"auto","uuid":"bd249e37-7359-41ee-84a7-09e49e0ec5c4","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇨🇦_CA_加拿大->🇺🇸_US_美国_2","type":"vmess","server":"dongtaiwang2.com","port":443,"cipher":"auto","uuid":"012c4549-17d2-475e-b1c1-a3b19cf36622","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"2.freek1.xyz"}}}
-  - {"name":"🇨🇦加拿大【YouTube-由零開始】_2","type":"vmess","server":"dongtaiwang2.com","port":443,"cipher":"auto","uuid":"012c4549-17d2-475e-b1c1-a3b19cf36622","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"2.freek1.xyz"}}}
   - {"name":"🇺🇸美国【YouTube-由零開始】_76","type":"vmess","server":"104.17.92.130","port":8880,"cipher":"auto","uuid":"d7ca2363-81c2-43a0-f141-352815da3ac3","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/qwer","headers":{"host":"uxx.vtcss.top"}}}
   - {"name":"翻墙党fanqiangdang.com_32","type":"vmess","server":"23.224.202.86","port":57702,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇺🇸美国【YouTube-由零開始】_14","type":"vmess","server":"141.101.114.43","port":80,"cipher":"auto","uuid":"0e290c91-6202-4c80-b151-7f493756b4ed","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/qwer","headers":{"host":"uxx.vtcss.top"}}}
@@ -555,7 +554,6 @@ proxy-groups:
       - US_youtube@资源分享师_238
       - 🇭🇰_HK_香港->🇳🇱_NL_荷兰
       - 🇨🇦_CA_加拿大->🇺🇸_US_美国_2
-      - 🇨🇦加拿大【YouTube-由零開始】_2
       - 🇺🇸美国【YouTube-由零開始】_76
       - 翻墙党fanqiangdang.com_32
       - 🇺🇸美国【YouTube-由零開始】_14
@@ -937,7 +935,6 @@ proxy-groups:
       - US_youtube@资源分享师_238
       - 🇭🇰_HK_香港->🇳🇱_NL_荷兰
       - 🇨🇦_CA_加拿大->🇺🇸_US_美国_2
-      - 🇨🇦加拿大【YouTube-由零開始】_2
       - 🇺🇸美国【YouTube-由零開始】_76
       - 翻墙党fanqiangdang.com_32
       - 🇺🇸美国【YouTube-由零開始】_14
@@ -1319,7 +1316,6 @@ proxy-groups:
       - US_youtube@资源分享师_238
       - 🇭🇰_HK_香港->🇳🇱_NL_荷兰
       - 🇨🇦_CA_加拿大->🇺🇸_US_美国_2
-      - 🇨🇦加拿大【YouTube-由零開始】_2
       - 🇺🇸美国【YouTube-由零開始】_76
       - 翻墙党fanqiangdang.com_32
       - 🇺🇸美国【YouTube-由零開始】_14
@@ -1700,7 +1696,6 @@ proxy-groups:
       - US_youtube@资源分享师_238
       - 🇭🇰_HK_香港->🇳🇱_NL_荷兰
       - 🇨🇦_CA_加拿大->🇺🇸_US_美国_2
-      - 🇨🇦加拿大【YouTube-由零開始】_2
       - 🇺🇸美国【YouTube-由零開始】_76
       - 翻墙党fanqiangdang.com_32
       - 🇺🇸美国【YouTube-由零開始】_14
@@ -2081,7 +2076,6 @@ proxy-groups:
       - US_youtube@资源分享师_238
       - 🇭🇰_HK_香港->🇳🇱_NL_荷兰
       - 🇨🇦_CA_加拿大->🇺🇸_US_美国_2
-      - 🇨🇦加拿大【YouTube-由零開始】_2
       - 🇺🇸美国【YouTube-由零開始】_76
       - 翻墙党fanqiangdang.com_32
       - 🇺🇸美国【YouTube-由零開始】_14
@@ -2462,7 +2456,6 @@ proxy-groups:
       - US_youtube@资源分享师_238
       - 🇭🇰_HK_香港->🇳🇱_NL_荷兰
       - 🇨🇦_CA_加拿大->🇺🇸_US_美国_2
-      - 🇨🇦加拿大【YouTube-由零開始】_2
       - 🇺🇸美国【YouTube-由零開始】_76
       - 翻墙党fanqiangdang.com_32
       - 🇺🇸美国【YouTube-由零開始】_14
@@ -2860,7 +2853,6 @@ proxy-groups:
       - US_youtube@资源分享师_238
       - 🇭🇰_HK_香港->🇳🇱_NL_荷兰
       - 🇨🇦_CA_加拿大->🇺🇸_US_美国_2
-      - 🇨🇦加拿大【YouTube-由零開始】_2
       - 🇺🇸美国【YouTube-由零開始】_76
       - 翻墙党fanqiangdang.com_32
       - 🇺🇸美国【YouTube-由零開始】_14
