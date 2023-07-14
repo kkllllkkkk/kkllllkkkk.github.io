@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-07-14 16:15:37
+# 创建时间：2023-07-14 16:36:42
 # 使用模版：V2RaySE 默认模版
-# 节点数量：377
+# 节点数量：376
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -124,7 +124,6 @@ proxies:
   - {"name":"US_youtube@资源分享师_115","type":"vmess","server":"cf-lt.sharecentre.online","port":80,"cipher":"aes-128-gcm","uuid":"5f751c6e-50b1-4797-ba8e-6ffe324a0bce","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"ca.ilovescp.com"}}}
   - {"name":"hax美国_3","type":"vmess","server":"cf1.992688.xyz","port":8080,"cipher":"auto","uuid":"fda2c765-ed35-4e97-ba13-ed64b1c4c460","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"hax.vpn66.eu.org"}}}
   - {"name":"US_youtube@资源分享师_131","type":"vmess","server":"104.20.184.232","port":2086,"cipher":"auto","uuid":"eb943c5b-ac55-46f9-8710-d0641c38ae9b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/qwer","headers":{"host":"uxx.vtcss.top"}}}
-  - {"name":"🇺🇸美国【YouTube-由零開始】_3","type":"vmess","server":"104.24.190.107","port":8880,"cipher":"auto","uuid":"d7ca2363-81c2-43a0-f141-352815da3ac3","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/qwer","headers":{"host":"uxx.vtcss.top"}}}
   - {"name":"🇳🇱荷兰【YouTube-由零開始】_4_2","type":"vmess","server":"188.114.96.85","port":8880,"cipher":"auto","uuid":"d7ca2363-81c2-43a0-f141-352815da3ac3","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/qwer","headers":{"host":"uxx.vtcss.top"}}}
   - {"name":"US_youtube@资源分享师_107","type":"vmess","server":"108.186.192.228","port":45502,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"US_youtube@资源分享师_197","type":"vmess","server":"198.41.220.8","port":2086,"cipher":"auto","uuid":"dac9cf36-ff4c-4d90-d549-d39086e75088","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/qwer","headers":{"host":"ylks.vtcss.top"}}}
@@ -508,7 +507,6 @@ proxy-groups:
       - US_youtube@资源分享师_115
       - hax美国_3
       - US_youtube@资源分享师_131
-      - 🇺🇸美国【YouTube-由零開始】_3
       - 🇳🇱荷兰【YouTube-由零開始】_4_2
       - US_youtube@资源分享师_107
       - US_youtube@资源分享师_197
@@ -892,7 +890,6 @@ proxy-groups:
       - US_youtube@资源分享师_115
       - hax美国_3
       - US_youtube@资源分享师_131
-      - 🇺🇸美国【YouTube-由零開始】_3
       - 🇳🇱荷兰【YouTube-由零開始】_4_2
       - US_youtube@资源分享师_107
       - US_youtube@资源分享师_197
@@ -1276,7 +1273,6 @@ proxy-groups:
       - US_youtube@资源分享师_115
       - hax美国_3
       - US_youtube@资源分享师_131
-      - 🇺🇸美国【YouTube-由零開始】_3
       - 🇳🇱荷兰【YouTube-由零開始】_4_2
       - US_youtube@资源分享师_107
       - US_youtube@资源分享师_197
@@ -1659,7 +1655,6 @@ proxy-groups:
       - US_youtube@资源分享师_115
       - hax美国_3
       - US_youtube@资源分享师_131
-      - 🇺🇸美国【YouTube-由零開始】_3
       - 🇳🇱荷兰【YouTube-由零開始】_4_2
       - US_youtube@资源分享师_107
       - US_youtube@资源分享师_197
@@ -2042,7 +2037,6 @@ proxy-groups:
       - US_youtube@资源分享师_115
       - hax美国_3
       - US_youtube@资源分享师_131
-      - 🇺🇸美国【YouTube-由零開始】_3
       - 🇳🇱荷兰【YouTube-由零開始】_4_2
       - US_youtube@资源分享师_107
       - US_youtube@资源分享师_197
@@ -2425,7 +2419,6 @@ proxy-groups:
       - US_youtube@资源分享师_115
       - hax美国_3
       - US_youtube@资源分享师_131
-      - 🇺🇸美国【YouTube-由零開始】_3
       - 🇳🇱荷兰【YouTube-由零開始】_4_2
       - US_youtube@资源分享师_107
       - US_youtube@资源分享师_197
@@ -2825,7 +2818,6 @@ proxy-groups:
       - US_youtube@资源分享师_115
       - hax美国_3
       - US_youtube@资源分享师_131
-      - 🇺🇸美国【YouTube-由零開始】_3
       - 🇳🇱荷兰【YouTube-由零開始】_4_2
       - US_youtube@资源分享师_107
       - US_youtube@资源分享师_197
