@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-07-16 20:29:00
+# 创建时间：2023-07-16 20:35:00
 # 使用模版：V2RaySE 默认模版
-# 节点数量：589
+# 节点数量：588
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -67,7 +67,6 @@ proxies:
   - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"137.175.58.77","port":40071,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇫🇷_FR_法国->🇳🇱_NL_荷兰","type":"vmess","server":"156.249.18.36","port":48222,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"US_youtube@资源分享师_102_1","type":"vmess","server":"137.175.18.89","port":42002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸美国【YouTube-由零開始】_25","type":"vmess","server":"137.175.18.89","port":42002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"US_youtube@资源分享师_48","type":"vmess","server":"38.63.0.69","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1683955693848","headers":{"host":"www.19458162.xyz"}}}
   - {"name":"US_youtube@资源分享师_71","type":"vmess","server":"156.225.67.17","port":49901,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇫🇷法国【YouTube-由零開始】_1","type":"vmess","server":"156.249.18.36","port":48222,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -662,7 +661,6 @@ proxy-groups:
       - 🇺🇸_US_美国_2
       - 🇫🇷_FR_法国->🇳🇱_NL_荷兰
       - US_youtube@资源分享师_102_1
-      - 🇺🇸美国【YouTube-由零開始】_25
       - US_youtube@资源分享师_48
       - US_youtube@资源分享师_71
       - 🇫🇷法国【YouTube-由零開始】_1
@@ -1257,7 +1255,6 @@ proxy-groups:
       - 🇺🇸_US_美国_2
       - 🇫🇷_FR_法国->🇳🇱_NL_荷兰
       - US_youtube@资源分享师_102_1
-      - 🇺🇸美国【YouTube-由零開始】_25
       - US_youtube@资源分享师_48
       - US_youtube@资源分享师_71
       - 🇫🇷法国【YouTube-由零開始】_1
@@ -1852,7 +1849,6 @@ proxy-groups:
       - 🇺🇸_US_美国_2
       - 🇫🇷_FR_法国->🇳🇱_NL_荷兰
       - US_youtube@资源分享师_102_1
-      - 🇺🇸美国【YouTube-由零開始】_25
       - US_youtube@资源分享师_48
       - US_youtube@资源分享师_71
       - 🇫🇷法国【YouTube-由零開始】_1
@@ -2446,7 +2442,6 @@ proxy-groups:
       - 🇺🇸_US_美国_2
       - 🇫🇷_FR_法国->🇳🇱_NL_荷兰
       - US_youtube@资源分享师_102_1
-      - 🇺🇸美国【YouTube-由零開始】_25
       - US_youtube@资源分享师_48
       - US_youtube@资源分享师_71
       - 🇫🇷法国【YouTube-由零開始】_1
@@ -3040,7 +3035,6 @@ proxy-groups:
       - 🇺🇸_US_美国_2
       - 🇫🇷_FR_法国->🇳🇱_NL_荷兰
       - US_youtube@资源分享师_102_1
-      - 🇺🇸美国【YouTube-由零開始】_25
       - US_youtube@资源分享师_48
       - US_youtube@资源分享师_71
       - 🇫🇷法国【YouTube-由零開始】_1
@@ -3634,7 +3628,6 @@ proxy-groups:
       - 🇺🇸_US_美国_2
       - 🇫🇷_FR_法国->🇳🇱_NL_荷兰
       - US_youtube@资源分享师_102_1
-      - 🇺🇸美国【YouTube-由零開始】_25
       - US_youtube@资源分享师_48
       - US_youtube@资源分享师_71
       - 🇫🇷法国【YouTube-由零開始】_1
@@ -4245,7 +4238,6 @@ proxy-groups:
       - 🇺🇸_US_美国_2
       - 🇫🇷_FR_法国->🇳🇱_NL_荷兰
       - US_youtube@资源分享师_102_1
-      - 🇺🇸美国【YouTube-由零開始】_25
       - US_youtube@资源分享师_48
       - US_youtube@资源分享师_71
       - 🇫🇷法国【YouTube-由零開始】_1
