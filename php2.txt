@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-07-16 20:43:09
+# 创建时间：2023-07-16 20:47:41
 # 使用模版：V2RaySE 默认模版
-# 节点数量：228
+# 节点数量：227
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -109,7 +109,6 @@ proxies:
   - {"name":"韩国1_18","type":"vmess","server":"104.16.122.37","port":443,"cipher":"auto","uuid":"79691050-5798-42ce-a93c-1ad585983823","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/blue","headers":{"host":"kr.kapacloud.eu.org"}}}
   - {"name":"俄罗斯_13","type":"vmess","server":"172.67.145.179","port":80,"cipher":"auto","uuid":"79691050-5798-42ce-a93c-1ad585983823","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/blue","headers":{"host":"el.kapacloud.eu.org"}}}
   - {"name":"韩国1_19","type":"vmess","server":"104.24.6.177","port":443,"cipher":"auto","uuid":"79691050-5798-42ce-a93c-1ad585983823","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/blue","headers":{"host":"kr.kapacloud.eu.org"}}}
-  - {"name":"🇳🇱荷兰【YouTube-由零開始】_3","type":"vmess","server":"188.114.98.82","port":2082,"cipher":"auto","uuid":"f4c2c162-0fc4-4455-d862-2b24aebce347","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/qwer","headers":{"host":"uxx.vtcss.top"}}}
   - {"name":"US_youtube@资源分享师_144\r","type":"vless","server":"172.67.42.127","port":443,"uuid":"146edc71-e452-4553-ec30-8c7a5b5c8d9b","tls":true,"servername":"abc.vpneee.top","network":"ws","ws-opts":{"path":"/vpneee"}}
   - {"name":"韩国_17","type":"vmess","server":"190.93.247.228","port":80,"cipher":"auto","uuid":"79691050-5798-42ce-a93c-1ad585983823","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/blue","headers":{"host":"kr.kapacloud.eu.org"}}}
   - {"name":"俄罗斯1_13","type":"vmess","server":"190.93.246.49","port":443,"cipher":"auto","uuid":"79691050-5798-42ce-a93c-1ad585983823","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/blue","headers":{"host":"el.kapacloud.eu.org"}}}
@@ -343,7 +342,6 @@ proxy-groups:
       - 韩国1_18
       - 俄罗斯_13
       - 韩国1_19
-      - 🇳🇱荷兰【YouTube-由零開始】_3
       - "US_youtube@资源分享师_144\r"
       - 韩国_17
       - 俄罗斯1_13
@@ -577,7 +575,6 @@ proxy-groups:
       - 韩国1_18
       - 俄罗斯_13
       - 韩国1_19
-      - 🇳🇱荷兰【YouTube-由零開始】_3
       - "US_youtube@资源分享师_144\r"
       - 韩国_17
       - 俄罗斯1_13
@@ -811,7 +808,6 @@ proxy-groups:
       - 韩国1_18
       - 俄罗斯_13
       - 韩国1_19
-      - 🇳🇱荷兰【YouTube-由零開始】_3
       - "US_youtube@资源分享师_144\r"
       - 韩国_17
       - 俄罗斯1_13
@@ -1044,7 +1040,6 @@ proxy-groups:
       - 韩国1_18
       - 俄罗斯_13
       - 韩国1_19
-      - 🇳🇱荷兰【YouTube-由零開始】_3
       - "US_youtube@资源分享师_144\r"
       - 韩国_17
       - 俄罗斯1_13
@@ -1277,7 +1272,6 @@ proxy-groups:
       - 韩国1_18
       - 俄罗斯_13
       - 韩国1_19
-      - 🇳🇱荷兰【YouTube-由零開始】_3
       - "US_youtube@资源分享师_144\r"
       - 韩国_17
       - 俄罗斯1_13
@@ -1510,7 +1504,6 @@ proxy-groups:
       - 韩国1_18
       - 俄罗斯_13
       - 韩国1_19
-      - 🇳🇱荷兰【YouTube-由零開始】_3
       - "US_youtube@资源分享师_144\r"
       - 韩国_17
       - 俄罗斯1_13
@@ -1760,7 +1753,6 @@ proxy-groups:
       - 韩国1_18
       - 俄罗斯_13
       - 韩国1_19
-      - 🇳🇱荷兰【YouTube-由零開始】_3
       - "US_youtube@资源分享师_144\r"
       - 韩国_17
       - 俄罗斯1_13
