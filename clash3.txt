@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-07-17 03:58:48
+# 创建时间：2023-07-18 14:28:54
 # 使用模版：V2RaySE 默认模版
-# 节点数量：15
+# 节点数量：14
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,144 +21,137 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"replit-vmess_1","type":"vmess","server":"hasdhf.kkllllkkkk3.repl.co","port":443,"cipher":"auto","uuid":"eba739c5-f329-4812-8952-4f7243d0075a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/eba739c5-f329-4812-8952-4f7243d0075a-vm","headers":{"host":"hasdhf.kkllllkkkk3.repl.co"}}}
-  - {"name":"replit-vmess_2","type":"vmess","server":"vmvltrssso-nginx-pro.kkllllkkkk2.repl.co","port":443,"cipher":"auto","uuid":"0971ba02-9497-4d09-91c5-0ee2db888e54","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/0971ba02-9497-4d09-91c5-0ee2db888e54-vm","headers":{"host":"vmvltrssso-nginx-pro.kkllllkkkk2.repl.co"}}}
-  - {"name":"replit-vmess_3","type":"vmess","server":"Blank-Repl1.kkllllkkkk1.repl.co","port":443,"cipher":"auto","uuid":"88426273-96ac-4681-88f1-b751a7bdb7b0","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/88426273-96ac-4681-88f1-b751a7bdb7b0-vm","headers":{"host":"Blank-Repl1.kkllllkkkk1.repl.co"}}}
-  - {"name":"replit-vmess_4","type":"vmess","server":"qingfeng2.kkllllkkkk.repl.co","port":443,"cipher":"auto","uuid":"b242cbda-522a-4bb9-8250-1e7da7144045","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/b242cbda-522a-4bb9-8250-1e7da7144045-vm","headers":{"host":"qingfeng2.kkllllkkkk.repl.co"}}}
-  - {"name":"replit-vmess_5","type":"vmess","server":"jkhghj.kkllllkkkk4.repl.co","port":443,"cipher":"auto","uuid":"60825edc-83a3-4599-9d7a-d38b36630d54","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/60825edc-83a3-4599-9d7a-d38b36630d54-vm","headers":{"host":"jkhghj.kkllllkkkk4.repl.co"}}}
-  - {"name":"replit-vmess_6","type":"vmess","server":"cxvxcv.kkllllkkkk5.repl.co","port":443,"cipher":"auto","uuid":"54360475-623b-417a-985c-e69c914c21f8","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/54360475-623b-417a-985c-e69c914c21f8-vm","headers":{"host":"cxvxcv.kkllllkkkk5.repl.co"}}}
-  - {"name":"replit-vmess_7","type":"vmess","server":"ghjgh.kkllllkkkk6.repl.co","port":443,"cipher":"auto","uuid":"08be4095-db02-4148-badf-1575eb73cea2","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/08be4095-db02-4148-badf-1575eb73cea2-vm","headers":{"host":"ghjgh.kkllllkkkk6.repl.co"}}}
-  - {"name":"replit-vmess_8","type":"vmess","server":"hjjnb.kkllllkkkk7.repl.co","port":443,"cipher":"auto","uuid":"b28b62eb-9fee-4b01-956b-9c16ac039e12","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/b28b62eb-9fee-4b01-956b-9c16ac039e12-vm","headers":{"host":"hjjnb.kkllllkkkk7.repl.co"}}}
-  - {"name":"replit-vmess_9","type":"vmess","server":"sdasdgbg.kkllllkkkk8.repl.co","port":443,"cipher":"auto","uuid":"8c1e62e6-9e24-4284-b50f-de78cdc36483","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8c1e62e6-9e24-4284-b50f-de78cdc36483-vm","headers":{"host":"sdasdgbg.kkllllkkkk8.repl.co"}}}
-  - {"name":"replit-vmess_10","type":"vmess","server":"zxcvbg.kkllllkkkk9.repl.co","port":443,"cipher":"auto","uuid":"abee55b3-26d6-4928-9869-ad0189db37ab","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/abee55b3-26d6-4928-9869-ad0189db37ab-vm","headers":{"host":"zxcvbg.kkllllkkkk9.repl.co"}}}
-  - {"name":"replit-vmess_11","type":"vmess","server":"xddggh.kkllllkkkk10.repl.co","port":443,"cipher":"auto","uuid":"9cd041f6-0f2e-4d5c-8c16-0536a0ec35a1","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/9cd041f6-0f2e-4d5c-8c16-0536a0ec35a1-vm","headers":{"host":"xddggh.kkllllkkkk10.repl.co"}}}
-  - {"name":"replit-vmess_12","type":"vmess","server":"adsad.kkllllkkkk11.repl.co","port":443,"cipher":"auto","uuid":"69a1c244-36ac-43ba-9dfe-1728932bbabb","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/69a1c244-36ac-43ba-9dfe-1728932bbabb-vm","headers":{"host":"adsad.kkllllkkkk11.repl.co"}}}
-  - {"name":"replit-vmess_13","type":"vmess","server":"dgdfgfdh.kkllllkkkk12.repl.co","port":443,"cipher":"auto","uuid":"374ae7ba-1946-4d5e-b6b8-04d82fd1e712","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/374ae7ba-1946-4d5e-b6b8-04d82fd1e712-vm","headers":{"host":"dgdfgfdh.kkllllkkkk12.repl.co"}}}
-  - {"name":"replit-vmess_14","type":"vmess","server":"jdkjgf.kkllllkkkk13.repl.co","port":443,"cipher":"auto","uuid":"1425b270-acb2-45ef-b333-dd7c1cc3f5bb","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/1425b270-acb2-45ef-b333-dd7c1cc3f5bb-vm","headers":{"host":"jdkjgf.kkllllkkkk13.repl.co"}}}
-  - {"name":"kkllllkkkk7","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"b28b62eb-9fee-4b01-956b-9c16ac039e12","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/b28b62eb-9fee-4b01-956b-9c16ac039e12-vm","headers":{"host":"kkllllkkkk7.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk7","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"1535ac58-a54a-4071-87c8-1537e79612e6","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/1535ac58-a54a-4071-87c8-1537e79612e6-vm","headers":{"host":"kkllllkkkk7.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk1","type":"vmess","server":"Blank-Repl1.kkllllkkkk1.repl.co","port":443,"cipher":"auto","uuid":"4fc3b654-9c8d-4f2b-b2bd-c87f26f0de34","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/4fc3b654-9c8d-4f2b-b2bd-c87f26f0de34-vm","headers":{"host":"Blank-Repl1.kkllllkkkk1.repl.co"}}}
+  - {"name":"kkllllkkkk","type":"vmess","server":"qingfeng2.kkllllkkkk.repl.co","port":443,"cipher":"auto","uuid":"8d531e01-a8cc-40c7-9b85-0c9f238c37fb","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/8d531e01-a8cc-40c7-9b85-0c9f238c37fb-vm","headers":{"host":"qingfeng2.kkllllkkkk.repl.co"}}}
+  - {"name":"kkllllkkkk3","type":"vmess","server":"hasdhf.kkllllkkkk3.repl.co","port":443,"cipher":"auto","uuid":"eba739c5-f329-4812-8952-4f7243d0075a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/eba739c5-f329-4812-8952-4f7243d0075a-vm","headers":{"host":"hasdhf.kkllllkkkk3.repl.co"}}}
+  - {"name":"kkllllkkkk2","type":"vmess","server":"vmvltrssso-nginx-pro.kkllllkkkk2.repl.co","port":443,"cipher":"auto","uuid":"0971ba02-9497-4d09-91c5-0ee2db888e54","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/0971ba02-9497-4d09-91c5-0ee2db888e54-vm","headers":{"host":"vmvltrssso-nginx-pro.kkllllkkkk2.repl.co"}}}
+  - {"name":"kkllllkkkk4","type":"vmess","server":"jkhghj.kkllllkkkk4.repl.co","port":443,"cipher":"auto","uuid":"60825edc-83a3-4599-9d7a-d38b36630d54","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/60825edc-83a3-4599-9d7a-d38b36630d54-vm","headers":{"host":"jkhghj.kkllllkkkk4.repl.co"}}}
+  - {"name":"kkllllkkkk5","type":"vmess","server":"cxvxcv.kkllllkkkk5.repl.co","port":443,"cipher":"auto","uuid":"54360475-623b-417a-985c-e69c914c21f8","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/54360475-623b-417a-985c-e69c914c21f8-vm","headers":{"host":"cxvxcv.kkllllkkkk5.repl.co"}}}
+  - {"name":"kkllllkkkk6","type":"vmess","server":"ghjgh.kkllllkkkk6.repl.co","port":443,"cipher":"auto","uuid":"08be4095-db02-4148-badf-1575eb73cea2","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/08be4095-db02-4148-badf-1575eb73cea2-vm","headers":{"host":"ghjgh.kkllllkkkk6.repl.co"}}}
+  - {"name":"kkllllkkkk8","type":"vmess","server":"sdasdgbg.kkllllkkkk8.repl.co","port":443,"cipher":"auto","uuid":"8c1e62e6-9e24-4284-b50f-de78cdc36483","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/8c1e62e6-9e24-4284-b50f-de78cdc36483-vm","headers":{"host":"sdasdgbg.kkllllkkkk8.repl.co"}}}
+  - {"name":"kkllllkkkk9","type":"vmess","server":"zxcvbg.kkllllkkkk9.repl.co","port":443,"cipher":"auto","uuid":"abee55b3-26d6-4928-9869-ad0189db37ab","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/abee55b3-26d6-4928-9869-ad0189db37ab-vm","headers":{"host":"zxcvbg.kkllllkkkk9.repl.co"}}}
+  - {"name":"kkllllkkkk10","type":"vmess","server":"xddggh.kkllllkkkk10.repl.co","port":443,"cipher":"auto","uuid":"9cd041f6-0f2e-4d5c-8c16-0536a0ec35a1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/9cd041f6-0f2e-4d5c-8c16-0536a0ec35a1-vm","headers":{"host":"xddggh.kkllllkkkk10.repl.co"}}}
+  - {"name":"kkllllkkkk11","type":"vmess","server":"adsad.kkllllkkkk11.repl.co","port":443,"cipher":"auto","uuid":"69a1c244-36ac-43ba-9dfe-1728932bbabb","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/69a1c244-36ac-43ba-9dfe-1728932bbabb-vm","headers":{"host":"adsad.kkllllkkkk11.repl.co"}}}
+  - {"name":"kkllllkkkk12","type":"vmess","server":"dgdfgfdh.kkllllkkkk12.repl.co","port":443,"cipher":"auto","uuid":"374ae7ba-1946-4d5e-b6b8-04d82fd1e712","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/374ae7ba-1946-4d5e-b6b8-04d82fd1e712-vm","headers":{"host":"dgdfgfdh.kkllllkkkk12.repl.co"}}}
+  - {"name":"kkllllkkkk13","type":"vmess","server":"jdkjgf.kkllllkkkk13.repl.co","port":443,"cipher":"auto","uuid":"1425b270-acb2-45ef-b333-dd7c1cc3f5bb","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/1425b270-acb2-45ef-b333-dd7c1cc3f5bb-vm","headers":{"host":"jdkjgf.kkllllkkkk13.repl.co"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - replit-vmess_1
-      - replit-vmess_2
-      - replit-vmess_3
-      - replit-vmess_4
-      - replit-vmess_5
-      - replit-vmess_6
-      - replit-vmess_7
-      - replit-vmess_8
-      - replit-vmess_9
-      - replit-vmess_10
-      - replit-vmess_11
-      - replit-vmess_12
-      - replit-vmess_13
-      - replit-vmess_14
       - kkllllkkkk7
+      - kkllllkkkk1
+      - kkllllkkkk
+      - kkllllkkkk3
+      - kkllllkkkk2
+      - kkllllkkkk4
+      - kkllllkkkk5
+      - kkllllkkkk6
+      - kkllllkkkk8
+      - kkllllkkkk9
+      - kkllllkkkk10
+      - kkllllkkkk11
+      - kkllllkkkk12
+      - kkllllkkkk13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - replit-vmess_1
-      - replit-vmess_2
-      - replit-vmess_3
-      - replit-vmess_4
-      - replit-vmess_5
-      - replit-vmess_6
-      - replit-vmess_7
-      - replit-vmess_8
-      - replit-vmess_9
-      - replit-vmess_10
-      - replit-vmess_11
-      - replit-vmess_12
-      - replit-vmess_13
-      - replit-vmess_14
       - kkllllkkkk7
+      - kkllllkkkk1
+      - kkllllkkkk
+      - kkllllkkkk3
+      - kkllllkkkk2
+      - kkllllkkkk4
+      - kkllllkkkk5
+      - kkllllkkkk6
+      - kkllllkkkk8
+      - kkllllkkkk9
+      - kkllllkkkk10
+      - kkllllkkkk11
+      - kkllllkkkk12
+      - kkllllkkkk13
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - replit-vmess_1
-      - replit-vmess_2
-      - replit-vmess_3
-      - replit-vmess_4
-      - replit-vmess_5
-      - replit-vmess_6
-      - replit-vmess_7
-      - replit-vmess_8
-      - replit-vmess_9
-      - replit-vmess_10
-      - replit-vmess_11
-      - replit-vmess_12
-      - replit-vmess_13
-      - replit-vmess_14
       - kkllllkkkk7
+      - kkllllkkkk1
+      - kkllllkkkk
+      - kkllllkkkk3
+      - kkllllkkkk2
+      - kkllllkkkk4
+      - kkllllkkkk5
+      - kkllllkkkk6
+      - kkllllkkkk8
+      - kkllllkkkk9
+      - kkllllkkkk10
+      - kkllllkkkk11
+      - kkllllkkkk12
+      - kkllllkkkk13
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - replit-vmess_1
-      - replit-vmess_2
-      - replit-vmess_3
-      - replit-vmess_4
-      - replit-vmess_5
-      - replit-vmess_6
-      - replit-vmess_7
-      - replit-vmess_8
-      - replit-vmess_9
-      - replit-vmess_10
-      - replit-vmess_11
-      - replit-vmess_12
-      - replit-vmess_13
-      - replit-vmess_14
       - kkllllkkkk7
+      - kkllllkkkk1
+      - kkllllkkkk
+      - kkllllkkkk3
+      - kkllllkkkk2
+      - kkllllkkkk4
+      - kkllllkkkk5
+      - kkllllkkkk6
+      - kkllllkkkk8
+      - kkllllkkkk9
+      - kkllllkkkk10
+      - kkllllkkkk11
+      - kkllllkkkk12
+      - kkllllkkkk13
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - replit-vmess_1
-      - replit-vmess_2
-      - replit-vmess_3
-      - replit-vmess_4
-      - replit-vmess_5
-      - replit-vmess_6
-      - replit-vmess_7
-      - replit-vmess_8
-      - replit-vmess_9
-      - replit-vmess_10
-      - replit-vmess_11
-      - replit-vmess_12
-      - replit-vmess_13
-      - replit-vmess_14
       - kkllllkkkk7
+      - kkllllkkkk1
+      - kkllllkkkk
+      - kkllllkkkk3
+      - kkllllkkkk2
+      - kkllllkkkk4
+      - kkllllkkkk5
+      - kkllllkkkk6
+      - kkllllkkkk8
+      - kkllllkkkk9
+      - kkllllkkkk10
+      - kkllllkkkk11
+      - kkllllkkkk12
+      - kkllllkkkk13
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - replit-vmess_1
-      - replit-vmess_2
-      - replit-vmess_3
-      - replit-vmess_4
-      - replit-vmess_5
-      - replit-vmess_6
-      - replit-vmess_7
-      - replit-vmess_8
-      - replit-vmess_9
-      - replit-vmess_10
-      - replit-vmess_11
-      - replit-vmess_12
-      - replit-vmess_13
-      - replit-vmess_14
       - kkllllkkkk7
+      - kkllllkkkk1
+      - kkllllkkkk
+      - kkllllkkkk3
+      - kkllllkkkk2
+      - kkllllkkkk4
+      - kkllllkkkk5
+      - kkllllkkkk6
+      - kkllllkkkk8
+      - kkllllkkkk9
+      - kkllllkkkk10
+      - kkllllkkkk11
+      - kkllllkkkk12
+      - kkllllkkkk13
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -181,21 +174,20 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - replit-vmess_1
-      - replit-vmess_2
-      - replit-vmess_3
-      - replit-vmess_4
-      - replit-vmess_5
-      - replit-vmess_6
-      - replit-vmess_7
-      - replit-vmess_8
-      - replit-vmess_9
-      - replit-vmess_10
-      - replit-vmess_11
-      - replit-vmess_12
-      - replit-vmess_13
-      - replit-vmess_14
       - kkllllkkkk7
+      - kkllllkkkk1
+      - kkllllkkkk
+      - kkllllkkkk3
+      - kkllllkkkk2
+      - kkllllkkkk4
+      - kkllllkkkk5
+      - kkllllkkkk6
+      - kkllllkkkk8
+      - kkllllkkkk9
+      - kkllllkkkk10
+      - kkllllkkkk11
+      - kkllllkkkk12
+      - kkllllkkkk13
 
 rules:
 # 本地/局域网地址
