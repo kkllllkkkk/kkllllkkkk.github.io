@@ -1,10 +1,11 @@
 ####################################
 # 创建者：v2rayse.com
-# 客户端：Clash
-# 创建时间：2023-07-19 12:19:06
+# 客户端：Clash.Meta
+# 创建时间：2023-07-19 16:46:34
 # 使用模版：V2RaySE 默认模版
-# 节点数量：14
+# 节点数量：18
 ####################################
+# !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
 allow-lan: true
 log-level: info
@@ -35,6 +36,10 @@ proxies:
   - {"name":"kkllllkkkk11","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"69a1c244-36ac-43ba-9dfe-1728932bbabb","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/69a1c244-36ac-43ba-9dfe-1728932bbabb-vm","headers":{"host":"kkllllkkkk11.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk12","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"374ae7ba-1946-4d5e-b6b8-04d82fd1e712","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/374ae7ba-1946-4d5e-b6b8-04d82fd1e712-vm","headers":{"host":"kkllllkkkk12.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk13","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"1425b270-acb2-45ef-b333-dd7c1cc3f5bb","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/1425b270-acb2-45ef-b333-dd7c1cc3f5bb-vm","headers":{"host":"kkllllkkkk13.2224646559.workers.dev"}}}
+  - {"name":"jp","type":"vless","server":"jp.kkllllkkkk.link","port":443,"uuid":"2edc284c-7753-474a-9270-0ae9068d85a9","tls":true,"servername":"jp.kkllllkkkk.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"jp.kkllllkkkk.link"}},"client-fingerprint":"randomized"}
+  - {"name":"us.kkllllkkkk.link","type":"vless","server":"us.kkllllkkkk.link","port":443,"uuid":"2edc284c-7753-474a-9270-0ae9068d85a9","tls":true,"servername":"us.kkllllkkkk.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"us.kkllllkkkk.link"}},"client-fingerprint":"randomized"}
+  - {"name":"hk.kkllllkkkk.link","type":"vless","server":"hk.kkllllkkkk.link","port":443,"uuid":"2edc284c-7753-474a-9270-0ae9068d85a9","tls":true,"servername":"hk.kkllllkkkk.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.kkllllkkkk.link"}},"client-fingerprint":"randomized"}
+  - {"name":"sin.kkllllkkkk.link","type":"vless","server":"sin.kkllllkkkk.link","port":443,"uuid":"2edc284c-7753-474a-9270-0ae9068d85a9","tls":true,"servername":"sin.kkllllkkkk.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"sin.kkllllkkkk.link"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -55,6 +60,10 @@ proxy-groups:
       - kkllllkkkk11
       - kkllllkkkk12
       - kkllllkkkk13
+      - jp
+      - us.kkllllkkkk.link
+      - hk.kkllllkkkk.link
+      - sin.kkllllkkkk.link
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -75,6 +84,10 @@ proxy-groups:
       - kkllllkkkk11
       - kkllllkkkk12
       - kkllllkkkk13
+      - jp
+      - us.kkllllkkkk.link
+      - hk.kkllllkkkk.link
+      - sin.kkllllkkkk.link
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -95,6 +108,10 @@ proxy-groups:
       - kkllllkkkk11
       - kkllllkkkk12
       - kkllllkkkk13
+      - jp
+      - us.kkllllkkkk.link
+      - hk.kkllllkkkk.link
+      - sin.kkllllkkkk.link
   - name: 📲 电报信息
     type: select
     proxies:
@@ -114,6 +131,10 @@ proxy-groups:
       - kkllllkkkk11
       - kkllllkkkk12
       - kkllllkkkk13
+      - jp
+      - us.kkllllkkkk.link
+      - hk.kkllllkkkk.link
+      - sin.kkllllkkkk.link
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -133,6 +154,10 @@ proxy-groups:
       - kkllllkkkk11
       - kkllllkkkk12
       - kkllllkkkk13
+      - jp
+      - us.kkllllkkkk.link
+      - hk.kkllllkkkk.link
+      - sin.kkllllkkkk.link
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -152,6 +177,10 @@ proxy-groups:
       - kkllllkkkk11
       - kkllllkkkk12
       - kkllllkkkk13
+      - jp
+      - us.kkllllkkkk.link
+      - hk.kkllllkkkk.link
+      - sin.kkllllkkkk.link
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -188,6 +217,10 @@ proxy-groups:
       - kkllllkkkk11
       - kkllllkkkk12
       - kkllllkkkk13
+      - jp
+      - us.kkllllkkkk.link
+      - hk.kkllllkkkk.link
+      - sin.kkllllkkkk.link
 
 rules:
 # 本地/局域网地址
