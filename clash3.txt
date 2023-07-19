@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-07-19 16:46:34
+# 创建时间：2023-07-20 02:15:07
 # 使用模版：V2RaySE 默认模版
-# 节点数量：18
+# 节点数量：35
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -40,6 +40,23 @@ proxies:
   - {"name":"us.kkllllkkkk.link","type":"vless","server":"us.kkllllkkkk.link","port":443,"uuid":"2edc284c-7753-474a-9270-0ae9068d85a9","tls":true,"servername":"us.kkllllkkkk.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"us.kkllllkkkk.link"}},"client-fingerprint":"randomized"}
   - {"name":"hk.kkllllkkkk.link","type":"vless","server":"hk.kkllllkkkk.link","port":443,"uuid":"2edc284c-7753-474a-9270-0ae9068d85a9","tls":true,"servername":"hk.kkllllkkkk.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.kkllllkkkk.link"}},"client-fingerprint":"randomized"}
   - {"name":"sin.kkllllkkkk.link","type":"vless","server":"sin.kkllllkkkk.link","port":443,"uuid":"2edc284c-7753-474a-9270-0ae9068d85a9","tls":true,"servername":"sin.kkllllkkkk.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"sin.kkllllkkkk.link"}},"client-fingerprint":"randomized"}
+  - {"name":"kkllllkkkk14","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"46954ad7-6792-4712-b85c-5df14fd94db8","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/46954ad7-6792-4712-b85c-5df14fd94db8-vm","headers":{"host":"kkllllkkkk14.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk15","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"4839266a-e001-4ff0-b0cd-fc598e5f87d7","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/4839266a-e001-4ff0-b0cd-fc598e5f87d7-vm","headers":{"host":"kkllllkkkk15.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk16","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"a34490d5-3433-4a5b-afd7-241c1dc2a87d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/a34490d5-3433-4a5b-afd7-241c1dc2a87d-vm","headers":{"host":"kkllllkkkk16.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk17","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"bc4046f9-f964-4295-81fc-d210fa106362","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/bc4046f9-f964-4295-81fc-d210fa106362-vm","headers":{"host":"kkllllkkkk17.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk18","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"1c216431-6c3b-4bbe-8d9a-5fddb0528766","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/1c216431-6c3b-4bbe-8d9a-5fddb0528766-vm","headers":{"host":"kkllllkkkk18.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk19","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"9d006f28-3d90-4147-a921-96649f2e0948","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/9d006f28-3d90-4147-a921-96649f2e0948-vm","headers":{"host":"kkllllkkkk19.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk20","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"afeeda7d-cbf4-49e5-9641-b314244f8f85","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/afeeda7d-cbf4-49e5-9641-b314244f8f85-vm","headers":{"host":"kkllllkkkk20.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk21","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"3a5e18dc-0bc6-4c00-94e9-59f936ae421b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/3a5e18dc-0bc6-4c00-94e9-59f936ae421b-vm","headers":{"host":"kkllllkkkk21.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk22","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"d83de8d7-9b57-4b5c-9270-58a0c502ea71","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/d83de8d7-9b57-4b5c-9270-58a0c502ea71-vm","headers":{"host":"kkllllkkkk22.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk23","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"8af0e7fa-845e-459a-be30-e5fa2cf60e4d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/8af0e7fa-845e-459a-be30-e5fa2cf60e4d-vm","headers":{"host":"kkllllkkkk23.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk24","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"8a6b76a9-fdab-4d12-9276-e914dffc7679","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/8a6b76a9-fdab-4d12-9276-e914dffc7679-vm","headers":{"host":"kkllllkkkk24.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk25","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"8c707a6f-f714-452f-9ba4-cf43b7af8f69","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/8c707a6f-f714-452f-9ba4-cf43b7af8f69-vm","headers":{"host":"kkllllkkkk25.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk26","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"5b7a2ace-d5f1-4eb0-a283-a320fb7d4b18","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/5b7a2ace-d5f1-4eb0-a283-a320fb7d4b18-vm","headers":{"host":"kkllllkkkk26.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk27","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"679f2d75-5a51-4c4e-929e-77aaa21cd8a8","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/679f2d75-5a51-4c4e-929e-77aaa21cd8a8-vm","headers":{"host":"kkllllkkkk27.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk28","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"ad4a8a2e-c727-401d-bb06-78005aeb6941","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/ad4a8a2e-c727-401d-bb06-78005aeb6941-vm","headers":{"host":"kkllllkkkk28.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk29","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"b9b43193-174a-4bb1-9361-29c7acb5e015","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/b9b43193-174a-4bb1-9361-29c7acb5e015-vm","headers":{"host":"kkllllkkkk29.2224646559.workers.dev"}}}
+  - {"name":"kkllllkkkk30","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"3af8c189-c3ad-473c-8bd8-95def835c00e","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/3af8c189-c3ad-473c-8bd8-95def835c00e-vm","headers":{"host":"kkllllkkkk30.2224646559.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -64,6 +81,23 @@ proxy-groups:
       - us.kkllllkkkk.link
       - hk.kkllllkkkk.link
       - sin.kkllllkkkk.link
+      - kkllllkkkk14
+      - kkllllkkkk15
+      - kkllllkkkk16
+      - kkllllkkkk17
+      - kkllllkkkk18
+      - kkllllkkkk19
+      - kkllllkkkk20
+      - kkllllkkkk21
+      - kkllllkkkk22
+      - kkllllkkkk23
+      - kkllllkkkk24
+      - kkllllkkkk25
+      - kkllllkkkk26
+      - kkllllkkkk27
+      - kkllllkkkk28
+      - kkllllkkkk29
+      - kkllllkkkk30
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -88,6 +122,23 @@ proxy-groups:
       - us.kkllllkkkk.link
       - hk.kkllllkkkk.link
       - sin.kkllllkkkk.link
+      - kkllllkkkk14
+      - kkllllkkkk15
+      - kkllllkkkk16
+      - kkllllkkkk17
+      - kkllllkkkk18
+      - kkllllkkkk19
+      - kkllllkkkk20
+      - kkllllkkkk21
+      - kkllllkkkk22
+      - kkllllkkkk23
+      - kkllllkkkk24
+      - kkllllkkkk25
+      - kkllllkkkk26
+      - kkllllkkkk27
+      - kkllllkkkk28
+      - kkllllkkkk29
+      - kkllllkkkk30
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -112,6 +163,23 @@ proxy-groups:
       - us.kkllllkkkk.link
       - hk.kkllllkkkk.link
       - sin.kkllllkkkk.link
+      - kkllllkkkk14
+      - kkllllkkkk15
+      - kkllllkkkk16
+      - kkllllkkkk17
+      - kkllllkkkk18
+      - kkllllkkkk19
+      - kkllllkkkk20
+      - kkllllkkkk21
+      - kkllllkkkk22
+      - kkllllkkkk23
+      - kkllllkkkk24
+      - kkllllkkkk25
+      - kkllllkkkk26
+      - kkllllkkkk27
+      - kkllllkkkk28
+      - kkllllkkkk29
+      - kkllllkkkk30
   - name: 📲 电报信息
     type: select
     proxies:
@@ -135,6 +203,23 @@ proxy-groups:
       - us.kkllllkkkk.link
       - hk.kkllllkkkk.link
       - sin.kkllllkkkk.link
+      - kkllllkkkk14
+      - kkllllkkkk15
+      - kkllllkkkk16
+      - kkllllkkkk17
+      - kkllllkkkk18
+      - kkllllkkkk19
+      - kkllllkkkk20
+      - kkllllkkkk21
+      - kkllllkkkk22
+      - kkllllkkkk23
+      - kkllllkkkk24
+      - kkllllkkkk25
+      - kkllllkkkk26
+      - kkllllkkkk27
+      - kkllllkkkk28
+      - kkllllkkkk29
+      - kkllllkkkk30
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -158,6 +243,23 @@ proxy-groups:
       - us.kkllllkkkk.link
       - hk.kkllllkkkk.link
       - sin.kkllllkkkk.link
+      - kkllllkkkk14
+      - kkllllkkkk15
+      - kkllllkkkk16
+      - kkllllkkkk17
+      - kkllllkkkk18
+      - kkllllkkkk19
+      - kkllllkkkk20
+      - kkllllkkkk21
+      - kkllllkkkk22
+      - kkllllkkkk23
+      - kkllllkkkk24
+      - kkllllkkkk25
+      - kkllllkkkk26
+      - kkllllkkkk27
+      - kkllllkkkk28
+      - kkllllkkkk29
+      - kkllllkkkk30
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -181,6 +283,23 @@ proxy-groups:
       - us.kkllllkkkk.link
       - hk.kkllllkkkk.link
       - sin.kkllllkkkk.link
+      - kkllllkkkk14
+      - kkllllkkkk15
+      - kkllllkkkk16
+      - kkllllkkkk17
+      - kkllllkkkk18
+      - kkllllkkkk19
+      - kkllllkkkk20
+      - kkllllkkkk21
+      - kkllllkkkk22
+      - kkllllkkkk23
+      - kkllllkkkk24
+      - kkllllkkkk25
+      - kkllllkkkk26
+      - kkllllkkkk27
+      - kkllllkkkk28
+      - kkllllkkkk29
+      - kkllllkkkk30
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -221,6 +340,23 @@ proxy-groups:
       - us.kkllllkkkk.link
       - hk.kkllllkkkk.link
       - sin.kkllllkkkk.link
+      - kkllllkkkk14
+      - kkllllkkkk15
+      - kkllllkkkk16
+      - kkllllkkkk17
+      - kkllllkkkk18
+      - kkllllkkkk19
+      - kkllllkkkk20
+      - kkllllkkkk21
+      - kkllllkkkk22
+      - kkllllkkkk23
+      - kkllllkkkk24
+      - kkllllkkkk25
+      - kkllllkkkk26
+      - kkllllkkkk27
+      - kkllllkkkk28
+      - kkllllkkkk29
+      - kkllllkkkk30
 
 rules:
 # 本地/局域网地址
