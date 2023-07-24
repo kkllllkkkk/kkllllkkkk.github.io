@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-07-22 21:08:06
+# 创建时间：2023-07-24 19:10:56
 # 使用模版：V2RaySE 默认模版
-# 节点数量：100
+# 节点数量：113
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -22,6 +22,19 @@ dns:
     - tls://dns.google:853
 
 proxies:
+  - {"name":"80","type":"vless","server":"store.cloudflare.steamstatic.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"80.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"80.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052","type":"vless","server":"store.cloudflare.steamstatic.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2082","type":"vless","server":"store.cloudflare.steamstatic.com","port":2082,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2082.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2082.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2086","type":"vless","server":"store.cloudflare.steamstatic.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2086.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2086.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2095","type":"vless","server":"store.cloudflare.steamstatic.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2095.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2095.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"8080","type":"vless","server":"store.cloudflare.steamstatic.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"8080.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"8080.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"8880","type":"vless","server":"store.cloudflare.steamstatic.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"8880.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"8880.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"443","type":"vless","server":"store.cloudflare.steamstatic.com","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"443.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"443.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2053","type":"vless","server":"store.cloudflare.steamstatic.com","port":2053,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"2053.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2053.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2083","type":"vless","server":"store.cloudflare.steamstatic.com","port":2083,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"2083.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2083.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2087","type":"vless","server":"store.cloudflare.steamstatic.com","port":2087,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"2087.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2087.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2096","type":"vless","server":"store.cloudflare.steamstatic.com","port":2096,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"2096.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2096.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"8443","type":"vless","server":"store.cloudflare.steamstatic.com","port":8443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"8443.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"8443.qing1.link"}},"client-fingerprint":"randomized"}
   - {"name":"kkllllkkkk","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"8d531e01-a8cc-40c7-9b85-0c9f238c37fb","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/8d531e01-a8cc-40c7-9b85-0c9f238c37fb-vm","headers":{"host":"kkllllkkkk.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk1","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"4fc3b654-9c8d-4f2b-b2bd-c87f26f0de34","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/4fc3b654-9c8d-4f2b-b2bd-c87f26f0de34-vm","headers":{"host":"kkllllkkkk1.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk2","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"0971ba02-9497-4d09-91c5-0ee2db888e54","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/0971ba02-9497-4d09-91c5-0ee2db888e54-vm","headers":{"host":"kkllllkkkk2.2224646559.workers.dev"}}}
@@ -128,6 +141,19 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - '80'
+      - '2052'
+      - '2082'
+      - '2086'
+      - '2095'
+      - '8080'
+      - '8880'
+      - '443'
+      - '2053'
+      - '2083'
+      - '2087'
+      - '2096'
+      - '8443'
       - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
@@ -234,6 +260,19 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - '80'
+      - '2052'
+      - '2082'
+      - '2086'
+      - '2095'
+      - '8080'
+      - '8880'
+      - '443'
+      - '2053'
+      - '2083'
+      - '2087'
+      - '2096'
+      - '8443'
       - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
@@ -340,6 +379,19 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - '80'
+      - '2052'
+      - '2082'
+      - '2086'
+      - '2095'
+      - '8080'
+      - '8880'
+      - '443'
+      - '2053'
+      - '2083'
+      - '2087'
+      - '2096'
+      - '8443'
       - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
@@ -445,6 +497,19 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - '80'
+      - '2052'
+      - '2082'
+      - '2086'
+      - '2095'
+      - '8080'
+      - '8880'
+      - '443'
+      - '2053'
+      - '2083'
+      - '2087'
+      - '2096'
+      - '8443'
       - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
@@ -550,6 +615,19 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - '80'
+      - '2052'
+      - '2082'
+      - '2086'
+      - '2095'
+      - '8080'
+      - '8880'
+      - '443'
+      - '2053'
+      - '2083'
+      - '2087'
+      - '2096'
+      - '8443'
       - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
@@ -655,6 +733,19 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - '80'
+      - '2052'
+      - '2082'
+      - '2086'
+      - '2095'
+      - '8080'
+      - '8880'
+      - '443'
+      - '2053'
+      - '2083'
+      - '2087'
+      - '2096'
+      - '8443'
       - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
@@ -777,6 +868,19 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - '80'
+      - '2052'
+      - '2082'
+      - '2086'
+      - '2095'
+      - '8080'
+      - '8880'
+      - '443'
+      - '2053'
+      - '2083'
+      - '2087'
+      - '2096'
+      - '8443'
       - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
