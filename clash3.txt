@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-07-27 18:20:14
+# 创建时间：2023-07-28 14:17:07
 # 使用模版：V2RaySE 默认模版
-# 节点数量：100
+# 节点数量：96
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -22,7 +22,6 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"kkllllkkkk","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"8d531e01-a8cc-40c7-9b85-0c9f238c37fb","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/8d531e01-a8cc-40c7-9b85-0c9f238c37fb-vm","headers":{"host":"kkllllkkkk.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk1","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"4fc3b654-9c8d-4f2b-b2bd-c87f26f0de34","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/4fc3b654-9c8d-4f2b-b2bd-c87f26f0de34-vm","headers":{"host":"kkllllkkkk1.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk2","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"0971ba02-9497-4d09-91c5-0ee2db888e54","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/0971ba02-9497-4d09-91c5-0ee2db888e54-vm","headers":{"host":"kkllllkkkk2.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk3","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"eba739c5-f329-4812-8952-4f7243d0075a","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/eba739c5-f329-4812-8952-4f7243d0075a-vm","headers":{"host":"kkllllkkkk3.2224646559.workers.dev"}}}
@@ -118,17 +117,13 @@ proxies:
   - {"name":"kkllllkkkk93","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"7a601dc7-6caf-4c93-81cc-8b9c08c2e4cc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/7a601dc7-6caf-4c93-81cc-8b9c08c2e4cc-vm","headers":{"host":"kkllllkkkk93.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk94","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"88acc404-c6fe-4f2f-bcec-851e64a645cc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/88acc404-c6fe-4f2f-bcec-851e64a645cc-vm","headers":{"host":"kkllllkkkk94.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk95","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"08783acc-3512-47f3-843a-019f54f23cf3","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/08783acc-3512-47f3-843a-019f54f23cf3-vm","headers":{"host":"kkllllkkkk95.2224646559.workers.dev"}}}
-  - {"name":"usw","type":"vless","server":"icook.hk","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"usw-zcxp.onrender.com","network":"ws","ws-opts":{"path":"/","headers":{"host":"usw-zcxp.onrender.com"}},"client-fingerprint":"randomized"}
-  - {"name":"EU","type":"vless","server":"icook.hk","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"eu-d47q.onrender.com","network":"ws","ws-opts":{"path":"/","headers":{"host":"eu-d47q.onrender.com"}},"client-fingerprint":"randomized"}
-  - {"name":"USE","type":"vless","server":"icook.hk","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"use-5gqm.onrender.com","network":"ws","ws-opts":{"path":"/","headers":{"host":"use-5gqm.onrender.com"}},"client-fingerprint":"randomized"}
-  - {"name":"sg","type":"vless","server":"icook.hk","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"use-5gqm.onrender.com","network":"ws","ws-opts":{"path":"/","headers":{"host":"use-5gqm.onrender.com"}},"client-fingerprint":"randomized"}
+  - {"name":"usw","type":"vless","server":"cake-victorious-observation.glitch.me","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cake-victorious-observation.glitch.me","network":"ws","ws-opts":{"path":"/","headers":{"host":"cake-victorious-observation.glitch.me"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
       - kkllllkkkk3
@@ -225,16 +220,12 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
-      - EU
-      - USE
-      - sg
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
       - kkllllkkkk3
@@ -331,16 +322,12 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
-      - EU
-      - USE
-      - sg
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
       - kkllllkkkk3
@@ -437,15 +424,11 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
-      - EU
-      - USE
-      - sg
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
       - kkllllkkkk3
@@ -542,15 +525,11 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
-      - EU
-      - USE
-      - sg
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
       - kkllllkkkk3
@@ -647,15 +626,11 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
-      - EU
-      - USE
-      - sg
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
       - kkllllkkkk3
@@ -752,9 +727,6 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
-      - EU
-      - USE
-      - sg
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -777,7 +749,6 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - kkllllkkkk
       - kkllllkkkk1
       - kkllllkkkk2
       - kkllllkkkk3
@@ -874,9 +845,6 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
-      - EU
-      - USE
-      - sg
 
 rules:
 # 本地/局域网地址
