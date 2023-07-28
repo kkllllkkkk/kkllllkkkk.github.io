@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-07-28 14:17:07
+# 创建时间：2023-07-28 16:35:41
 # 使用模版：V2RaySE 默认模版
-# 节点数量：96
+# 节点数量：104
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -118,6 +118,14 @@ proxies:
   - {"name":"kkllllkkkk94","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"88acc404-c6fe-4f2f-bcec-851e64a645cc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/88acc404-c6fe-4f2f-bcec-851e64a645cc-vm","headers":{"host":"kkllllkkkk94.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk95","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"08783acc-3512-47f3-843a-019f54f23cf3","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/08783acc-3512-47f3-843a-019f54f23cf3-vm","headers":{"host":"kkllllkkkk95.2224646559.workers.dev"}}}
   - {"name":"usw","type":"vless","server":"cake-victorious-observation.glitch.me","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cake-victorious-observation.glitch.me","network":"ws","ws-opts":{"path":"/","headers":{"host":"cake-victorious-observation.glitch.me"}},"client-fingerprint":"randomized"}
+  - {"name":"80、8080、8880、2052、2082、2086、2095_1","type":"vless","server":"www.whoer.net","port":2052,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":false,"servername":"hkux.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hkux.kkllllkkkk95.workers.dev"}}}
+  - {"name":"443、8443、2053、2083、2087、2096_1","type":"vless","server":"www.whoer.net","port":443,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":true,"servername":"cf.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.qing1.link"}}}
+  - {"name":"80、8080、8880、2052、2082、2086、2095_2","type":"vless","server":"cdn.anycast.eu.org","port":2052,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":false,"servername":"hkux.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hkux.kkllllkkkk95.workers.dev"}}}
+  - {"name":"443、8443、2053、2083、2087、2096_2","type":"vless","server":"cdn.anycast.eu.org","port":443,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":true,"servername":"cf.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.qing1.link"}}}
+  - {"name":"80、8080、8880、2052、2082、2086、2095_3","type":"vless","server":"time.is","port":2052,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":false,"servername":"hkux.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hkux.kkllllkkkk95.workers.dev"}}}
+  - {"name":"443、8443、2053、2083、2087、2096_3","type":"vless","server":"time.is","port":443,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":true,"servername":"cf.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.qing1.link"}}}
+  - {"name":"80、8080、8880、2052、2082、2086、2095_4","type":"vless","server":"www.hugedomains.com","port":2052,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":false,"servername":"hkux.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hkux.kkllllkkkk95.workers.dev"}}}
+  - {"name":"443、8443、2053、2083、2087、2096_4","type":"vless","server":"www.hugedomains.com","port":443,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":true,"servername":"cf.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.qing1.link"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -220,6 +228,14 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
+      - 80、8080、8880、2052、2082、2086、2095_1
+      - 443、8443、2053、2083、2087、2096_1
+      - 80、8080、8880、2052、2082、2086、2095_2
+      - 443、8443、2053、2083、2087、2096_2
+      - 80、8080、8880、2052、2082、2086、2095_3
+      - 443、8443、2053、2083、2087、2096_3
+      - 80、8080、8880、2052、2082、2086、2095_4
+      - 443、8443、2053、2083、2087、2096_4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -322,6 +338,14 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
+      - 80、8080、8880、2052、2082、2086、2095_1
+      - 443、8443、2053、2083、2087、2096_1
+      - 80、8080、8880、2052、2082、2086、2095_2
+      - 443、8443、2053、2083、2087、2096_2
+      - 80、8080、8880、2052、2082、2086、2095_3
+      - 443、8443、2053、2083、2087、2096_3
+      - 80、8080、8880、2052、2082、2086、2095_4
+      - 443、8443、2053、2083、2087、2096_4
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -424,6 +448,14 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
+      - 80、8080、8880、2052、2082、2086、2095_1
+      - 443、8443、2053、2083、2087、2096_1
+      - 80、8080、8880、2052、2082、2086、2095_2
+      - 443、8443、2053、2083、2087、2096_2
+      - 80、8080、8880、2052、2082、2086、2095_3
+      - 443、8443、2053、2083、2087、2096_3
+      - 80、8080、8880、2052、2082、2086、2095_4
+      - 443、8443、2053、2083、2087、2096_4
   - name: 📲 电报信息
     type: select
     proxies:
@@ -525,6 +557,14 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
+      - 80、8080、8880、2052、2082、2086、2095_1
+      - 443、8443、2053、2083、2087、2096_1
+      - 80、8080、8880、2052、2082、2086、2095_2
+      - 443、8443、2053、2083、2087、2096_2
+      - 80、8080、8880、2052、2082、2086、2095_3
+      - 443、8443、2053、2083、2087、2096_3
+      - 80、8080、8880、2052、2082、2086、2095_4
+      - 443、8443、2053、2083、2087、2096_4
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -626,6 +666,14 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
+      - 80、8080、8880、2052、2082、2086、2095_1
+      - 443、8443、2053、2083、2087、2096_1
+      - 80、8080、8880、2052、2082、2086、2095_2
+      - 443、8443、2053、2083、2087、2096_2
+      - 80、8080、8880、2052、2082、2086、2095_3
+      - 443、8443、2053、2083、2087、2096_3
+      - 80、8080、8880、2052、2082、2086、2095_4
+      - 443、8443、2053、2083、2087、2096_4
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -727,6 +775,14 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
+      - 80、8080、8880、2052、2082、2086、2095_1
+      - 443、8443、2053、2083、2087、2096_1
+      - 80、8080、8880、2052、2082、2086、2095_2
+      - 443、8443、2053、2083、2087、2096_2
+      - 80、8080、8880、2052、2082、2086、2095_3
+      - 443、8443、2053、2083、2087、2096_3
+      - 80、8080、8880、2052、2082、2086、2095_4
+      - 443、8443、2053、2083、2087、2096_4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -845,6 +901,14 @@ proxy-groups:
       - kkllllkkkk94
       - kkllllkkkk95
       - usw
+      - 80、8080、8880、2052、2082、2086、2095_1
+      - 443、8443、2053、2083、2087、2096_1
+      - 80、8080、8880、2052、2082、2086、2095_2
+      - 443、8443、2053、2083、2087、2096_2
+      - 80、8080、8880、2052、2082、2086、2095_3
+      - 443、8443、2053、2083、2087、2096_3
+      - 80、8080、8880、2052、2082、2086、2095_4
+      - 443、8443、2053、2083、2087、2096_4
 
 rules:
 # 本地/局域网地址
