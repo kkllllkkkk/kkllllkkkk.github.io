@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-07-30 00:31:50
+# 创建时间：2023-08-01 19:20:30
 # 使用模版：V2RaySE 默认模版
-# 节点数量：635
+# 节点数量：695
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -23,7 +23,7 @@ dns:
 
 proxies:
   - {"name":"80_1","type":"vless","server":"store.cloudflare.steamstatic.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"80.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"80.qing1.link"}},"client-fingerprint":"randomized"}
-  - {"name":"2052","type":"vless","server":"store.cloudflare.steamstatic.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052_1","type":"vless","server":"store.cloudflare.steamstatic.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
   - {"name":"2082","type":"vless","server":"store.cloudflare.steamstatic.com","port":2082,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2082.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2082.qing1.link"}},"client-fingerprint":"randomized"}
   - {"name":"2086","type":"vless","server":"store.cloudflare.steamstatic.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2086.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2086.qing1.link"}},"client-fingerprint":"randomized"}
   - {"name":"2095","type":"vless","server":"store.cloudflare.steamstatic.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2095.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2095.qing1.link"}},"client-fingerprint":"randomized"}
@@ -657,6 +657,66 @@ proxies:
   - {"name":"80、8080、8880、2052、2082、2086、2095_3","type":"vless","server":"www.hugedomains.com","port":2052,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":false,"servername":"hkux.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hkux.kkllllkkkk95.workers.dev"}}}
   - {"name":"443、8443、2053、2083、2087、2096_4","type":"vless","server":"www.hugedomains.com","port":443,"uuid":"1776fc9a-8bef-4499-a776-f72a3bea5737","tls":true,"servername":"cf.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.qing1.link"}}}
   - {"name":"usw","type":"vless","server":"cake-victorious-observation.glitch.me","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cake-victorious-observation.glitch.me","network":"ws","ws-opts":{"path":"/","headers":{"host":"cake-victorious-observation.glitch.me"}},"client-fingerprint":"randomized"}
+  - {"name":"澳门TLS_1","type":"vless","server":"45.64.23.21","port":443,"uuid":"f1e45163-4a9e-475a-a33b-f097757e30fa","tls":true,"servername":"mo.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"mo.qing1.link"}}}
+  - {"name":"澳门TLS_2","type":"vless","server":"45.64.23.17","port":443,"uuid":"f1e45163-4a9e-475a-a33b-f097757e30fa","tls":true,"servername":"mo.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"mo.qing1.link"}}}
+  - {"name":"澳门TLS_3","type":"vless","server":"45.64.23.22","port":443,"uuid":"f1e45163-4a9e-475a-a33b-f097757e30fa","tls":true,"servername":"mo.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"mo.qing1.link"}}}
+  - {"name":"澳门TLS_4","type":"vless","server":"45.64.23.4","port":443,"uuid":"f1e45163-4a9e-475a-a33b-f097757e30fa","tls":true,"servername":"mo.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"mo.qing1.link"}}}
+  - {"name":"澳门TLS_5","type":"vless","server":"45.64.23.16","port":443,"uuid":"f1e45163-4a9e-475a-a33b-f097757e30fa","tls":true,"servername":"mo.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"mo.qing1.link"}}}
+  - {"name":"澳门TLS_6","type":"vless","server":"45.64.23.18","port":443,"uuid":"f1e45163-4a9e-475a-a33b-f097757e30fa","tls":true,"servername":"mo.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"mo.qing1.link"}}}
+  - {"name":"澳门TLS_7","type":"vless","server":"45.64.23.19","port":443,"uuid":"f1e45163-4a9e-475a-a33b-f097757e30fa","tls":true,"servername":"mo.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"mo.qing1.link"}}}
+  - {"name":"澳门TLS_8","type":"vless","server":"45.64.23.3","port":443,"uuid":"f1e45163-4a9e-475a-a33b-f097757e30fa","tls":true,"servername":"mo.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"mo.qing1.link"}}}
+  - {"name":"香港TLS_1","type":"vless","server":"34.150.64.87","port":443,"uuid":"3e2110e3-85b6-4bdb-a169-225730ce7350","tls":true,"servername":"hk.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"香港TLS_2","type":"vless","server":"20.187.89.16","port":443,"uuid":"3e2110e3-85b6-4bdb-a169-225730ce7350","tls":true,"servername":"hk.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"香港TLS_3","type":"vless","server":"43.154.74.39","port":443,"uuid":"3e2110e3-85b6-4bdb-a169-225730ce7350","tls":true,"servername":"hk.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"香港TLS_4","type":"vless","server":"43.198.131.99","port":443,"uuid":"3e2110e3-85b6-4bdb-a169-225730ce7350","tls":true,"servername":"hk.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"香港TLS_5","type":"vless","server":"18.162.40.255","port":443,"uuid":"3e2110e3-85b6-4bdb-a169-225730ce7350","tls":true,"servername":"hk.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"香港TLS_6","type":"vless","server":"45.78.20.185","port":443,"uuid":"3e2110e3-85b6-4bdb-a169-225730ce7350","tls":true,"servername":"hk.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"香港TLS_7","type":"vless","server":"125.227.91.176","port":443,"uuid":"3e2110e3-85b6-4bdb-a169-225730ce7350","tls":true,"servername":"hk.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"hk.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_1","type":"vless","server":"152.70.176.137","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_2","type":"vless","server":"152.70.164.38","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_3","type":"vless","server":"152.70.177.146","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_4","type":"vless","server":"152.70.183.192","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_5","type":"vless","server":"152.70.185.236","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_6","type":"vless","server":"152.70.95.186","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_7","type":"vless","server":"129.151.211.234","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_8","type":"vless","server":"129.151.194.143","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_9","type":"vless","server":"129.151.210.33","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_10","type":"vless","server":"129.151.217.193","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_11","type":"vless","server":"129.151.199.211","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_12","type":"vless","server":"129.151.210.63","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_13","type":"vless","server":"129.151.220.129","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_14","type":"vless","server":"129.151.212.90","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_15","type":"vless","server":"129.151.196.95","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_16","type":"vless","server":"129.151.203.5","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_17","type":"vless","server":"129.151.207.126","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_18","type":"vless","server":"129.151.196.31","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_19","type":"vless","server":"129.151.219.155","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_20","type":"vless","server":"129.151.211.172","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_21","type":"vless","server":"152.70.180.164","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_22","type":"vless","server":"152.70.160.57","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_23","type":"vless","server":"152.70.165.127","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_24","type":"vless","server":"152.70.165.226","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_25","type":"vless","server":"152.70.176.164","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_26","type":"vless","server":"152.70.161.116","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_27","type":"vless","server":"152.70.181.53","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_28","type":"vless","server":"152.70.184.149","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_29","type":"vless","server":"152.70.163.12","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_30","type":"vless","server":"152.70.173.89","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_31","type":"vless","server":"152.70.178.205","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_32","type":"vless","server":"152.70.163.83","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_33","type":"vless","server":"129.151.197.73","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_34","type":"vless","server":"129.151.210.18","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_35","type":"vless","server":"129.151.213.214","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_36","type":"vless","server":"129.151.221.48","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_37","type":"vless","server":"129.151.221.9","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_38","type":"vless","server":"129.151.196.15","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_39","type":"vless","server":"129.151.217.190","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_40","type":"vless","server":"129.151.217.153","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_41","type":"vless","server":"129.151.223.19","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_42","type":"vless","server":"129.151.195.236","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_43","type":"vless","server":"129.151.200.92","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052-clone_44","type":"vless","server":"138.3.244.88","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
+  - {"name":"2052_2","type":"vless","server":"152.70.170.182","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"2052.qing1.link","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"2052.qing1.link"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -664,7 +724,7 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - '80_1'
-      - '2052'
+      - '2052_1'
       - '2082'
       - '2086'
       - '2095'
@@ -1298,6 +1358,66 @@ proxy-groups:
       - 80、8080、8880、2052、2082、2086、2095_3
       - 443、8443、2053、2083、2087、2096_4
       - usw
+      - 澳门TLS_1
+      - 澳门TLS_2
+      - 澳门TLS_3
+      - 澳门TLS_4
+      - 澳门TLS_5
+      - 澳门TLS_6
+      - 澳门TLS_7
+      - 澳门TLS_8
+      - 香港TLS_1
+      - 香港TLS_2
+      - 香港TLS_3
+      - 香港TLS_4
+      - 香港TLS_5
+      - 香港TLS_6
+      - 香港TLS_7
+      - 2052-clone_1
+      - 2052-clone_2
+      - 2052-clone_3
+      - 2052-clone_4
+      - 2052-clone_5
+      - 2052-clone_6
+      - 2052-clone_7
+      - 2052-clone_8
+      - 2052-clone_9
+      - 2052-clone_10
+      - 2052-clone_11
+      - 2052-clone_12
+      - 2052-clone_13
+      - 2052-clone_14
+      - 2052-clone_15
+      - 2052-clone_16
+      - 2052-clone_17
+      - 2052-clone_18
+      - 2052-clone_19
+      - 2052-clone_20
+      - 2052-clone_21
+      - 2052-clone_22
+      - 2052-clone_23
+      - 2052-clone_24
+      - 2052-clone_25
+      - 2052-clone_26
+      - 2052-clone_27
+      - 2052-clone_28
+      - 2052-clone_29
+      - 2052-clone_30
+      - 2052-clone_31
+      - 2052-clone_32
+      - 2052-clone_33
+      - 2052-clone_34
+      - 2052-clone_35
+      - 2052-clone_36
+      - 2052-clone_37
+      - 2052-clone_38
+      - 2052-clone_39
+      - 2052-clone_40
+      - 2052-clone_41
+      - 2052-clone_42
+      - 2052-clone_43
+      - 2052-clone_44
+      - '2052_2'
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1305,7 +1425,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '80_1'
-      - '2052'
+      - '2052_1'
       - '2082'
       - '2086'
       - '2095'
@@ -1939,6 +2059,66 @@ proxy-groups:
       - 80、8080、8880、2052、2082、2086、2095_3
       - 443、8443、2053、2083、2087、2096_4
       - usw
+      - 澳门TLS_1
+      - 澳门TLS_2
+      - 澳门TLS_3
+      - 澳门TLS_4
+      - 澳门TLS_5
+      - 澳门TLS_6
+      - 澳门TLS_7
+      - 澳门TLS_8
+      - 香港TLS_1
+      - 香港TLS_2
+      - 香港TLS_3
+      - 香港TLS_4
+      - 香港TLS_5
+      - 香港TLS_6
+      - 香港TLS_7
+      - 2052-clone_1
+      - 2052-clone_2
+      - 2052-clone_3
+      - 2052-clone_4
+      - 2052-clone_5
+      - 2052-clone_6
+      - 2052-clone_7
+      - 2052-clone_8
+      - 2052-clone_9
+      - 2052-clone_10
+      - 2052-clone_11
+      - 2052-clone_12
+      - 2052-clone_13
+      - 2052-clone_14
+      - 2052-clone_15
+      - 2052-clone_16
+      - 2052-clone_17
+      - 2052-clone_18
+      - 2052-clone_19
+      - 2052-clone_20
+      - 2052-clone_21
+      - 2052-clone_22
+      - 2052-clone_23
+      - 2052-clone_24
+      - 2052-clone_25
+      - 2052-clone_26
+      - 2052-clone_27
+      - 2052-clone_28
+      - 2052-clone_29
+      - 2052-clone_30
+      - 2052-clone_31
+      - 2052-clone_32
+      - 2052-clone_33
+      - 2052-clone_34
+      - 2052-clone_35
+      - 2052-clone_36
+      - 2052-clone_37
+      - 2052-clone_38
+      - 2052-clone_39
+      - 2052-clone_40
+      - 2052-clone_41
+      - 2052-clone_42
+      - 2052-clone_43
+      - 2052-clone_44
+      - '2052_2'
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -1946,7 +2126,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - '80_1'
-      - '2052'
+      - '2052_1'
       - '2082'
       - '2086'
       - '2095'
@@ -2580,13 +2760,73 @@ proxy-groups:
       - 80、8080、8880、2052、2082、2086、2095_3
       - 443、8443、2053、2083、2087、2096_4
       - usw
+      - 澳门TLS_1
+      - 澳门TLS_2
+      - 澳门TLS_3
+      - 澳门TLS_4
+      - 澳门TLS_5
+      - 澳门TLS_6
+      - 澳门TLS_7
+      - 澳门TLS_8
+      - 香港TLS_1
+      - 香港TLS_2
+      - 香港TLS_3
+      - 香港TLS_4
+      - 香港TLS_5
+      - 香港TLS_6
+      - 香港TLS_7
+      - 2052-clone_1
+      - 2052-clone_2
+      - 2052-clone_3
+      - 2052-clone_4
+      - 2052-clone_5
+      - 2052-clone_6
+      - 2052-clone_7
+      - 2052-clone_8
+      - 2052-clone_9
+      - 2052-clone_10
+      - 2052-clone_11
+      - 2052-clone_12
+      - 2052-clone_13
+      - 2052-clone_14
+      - 2052-clone_15
+      - 2052-clone_16
+      - 2052-clone_17
+      - 2052-clone_18
+      - 2052-clone_19
+      - 2052-clone_20
+      - 2052-clone_21
+      - 2052-clone_22
+      - 2052-clone_23
+      - 2052-clone_24
+      - 2052-clone_25
+      - 2052-clone_26
+      - 2052-clone_27
+      - 2052-clone_28
+      - 2052-clone_29
+      - 2052-clone_30
+      - 2052-clone_31
+      - 2052-clone_32
+      - 2052-clone_33
+      - 2052-clone_34
+      - 2052-clone_35
+      - 2052-clone_36
+      - 2052-clone_37
+      - 2052-clone_38
+      - 2052-clone_39
+      - 2052-clone_40
+      - 2052-clone_41
+      - 2052-clone_42
+      - 2052-clone_43
+      - 2052-clone_44
+      - '2052_2'
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - '80_1'
-      - '2052'
+      - '2052_1'
       - '2082'
       - '2086'
       - '2095'
@@ -3220,13 +3460,73 @@ proxy-groups:
       - 80、8080、8880、2052、2082、2086、2095_3
       - 443、8443、2053、2083、2087、2096_4
       - usw
+      - 澳门TLS_1
+      - 澳门TLS_2
+      - 澳门TLS_3
+      - 澳门TLS_4
+      - 澳门TLS_5
+      - 澳门TLS_6
+      - 澳门TLS_7
+      - 澳门TLS_8
+      - 香港TLS_1
+      - 香港TLS_2
+      - 香港TLS_3
+      - 香港TLS_4
+      - 香港TLS_5
+      - 香港TLS_6
+      - 香港TLS_7
+      - 2052-clone_1
+      - 2052-clone_2
+      - 2052-clone_3
+      - 2052-clone_4
+      - 2052-clone_5
+      - 2052-clone_6
+      - 2052-clone_7
+      - 2052-clone_8
+      - 2052-clone_9
+      - 2052-clone_10
+      - 2052-clone_11
+      - 2052-clone_12
+      - 2052-clone_13
+      - 2052-clone_14
+      - 2052-clone_15
+      - 2052-clone_16
+      - 2052-clone_17
+      - 2052-clone_18
+      - 2052-clone_19
+      - 2052-clone_20
+      - 2052-clone_21
+      - 2052-clone_22
+      - 2052-clone_23
+      - 2052-clone_24
+      - 2052-clone_25
+      - 2052-clone_26
+      - 2052-clone_27
+      - 2052-clone_28
+      - 2052-clone_29
+      - 2052-clone_30
+      - 2052-clone_31
+      - 2052-clone_32
+      - 2052-clone_33
+      - 2052-clone_34
+      - 2052-clone_35
+      - 2052-clone_36
+      - 2052-clone_37
+      - 2052-clone_38
+      - 2052-clone_39
+      - 2052-clone_40
+      - 2052-clone_41
+      - 2052-clone_42
+      - 2052-clone_43
+      - 2052-clone_44
+      - '2052_2'
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - '80_1'
-      - '2052'
+      - '2052_1'
       - '2082'
       - '2086'
       - '2095'
@@ -3860,13 +4160,73 @@ proxy-groups:
       - 80、8080、8880、2052、2082、2086、2095_3
       - 443、8443、2053、2083、2087、2096_4
       - usw
+      - 澳门TLS_1
+      - 澳门TLS_2
+      - 澳门TLS_3
+      - 澳门TLS_4
+      - 澳门TLS_5
+      - 澳门TLS_6
+      - 澳门TLS_7
+      - 澳门TLS_8
+      - 香港TLS_1
+      - 香港TLS_2
+      - 香港TLS_3
+      - 香港TLS_4
+      - 香港TLS_5
+      - 香港TLS_6
+      - 香港TLS_7
+      - 2052-clone_1
+      - 2052-clone_2
+      - 2052-clone_3
+      - 2052-clone_4
+      - 2052-clone_5
+      - 2052-clone_6
+      - 2052-clone_7
+      - 2052-clone_8
+      - 2052-clone_9
+      - 2052-clone_10
+      - 2052-clone_11
+      - 2052-clone_12
+      - 2052-clone_13
+      - 2052-clone_14
+      - 2052-clone_15
+      - 2052-clone_16
+      - 2052-clone_17
+      - 2052-clone_18
+      - 2052-clone_19
+      - 2052-clone_20
+      - 2052-clone_21
+      - 2052-clone_22
+      - 2052-clone_23
+      - 2052-clone_24
+      - 2052-clone_25
+      - 2052-clone_26
+      - 2052-clone_27
+      - 2052-clone_28
+      - 2052-clone_29
+      - 2052-clone_30
+      - 2052-clone_31
+      - 2052-clone_32
+      - 2052-clone_33
+      - 2052-clone_34
+      - 2052-clone_35
+      - 2052-clone_36
+      - 2052-clone_37
+      - 2052-clone_38
+      - 2052-clone_39
+      - 2052-clone_40
+      - 2052-clone_41
+      - 2052-clone_42
+      - 2052-clone_43
+      - 2052-clone_44
+      - '2052_2'
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - '80_1'
-      - '2052'
+      - '2052_1'
       - '2082'
       - '2086'
       - '2095'
@@ -4500,6 +4860,66 @@ proxy-groups:
       - 80、8080、8880、2052、2082、2086、2095_3
       - 443、8443、2053、2083、2087、2096_4
       - usw
+      - 澳门TLS_1
+      - 澳门TLS_2
+      - 澳门TLS_3
+      - 澳门TLS_4
+      - 澳门TLS_5
+      - 澳门TLS_6
+      - 澳门TLS_7
+      - 澳门TLS_8
+      - 香港TLS_1
+      - 香港TLS_2
+      - 香港TLS_3
+      - 香港TLS_4
+      - 香港TLS_5
+      - 香港TLS_6
+      - 香港TLS_7
+      - 2052-clone_1
+      - 2052-clone_2
+      - 2052-clone_3
+      - 2052-clone_4
+      - 2052-clone_5
+      - 2052-clone_6
+      - 2052-clone_7
+      - 2052-clone_8
+      - 2052-clone_9
+      - 2052-clone_10
+      - 2052-clone_11
+      - 2052-clone_12
+      - 2052-clone_13
+      - 2052-clone_14
+      - 2052-clone_15
+      - 2052-clone_16
+      - 2052-clone_17
+      - 2052-clone_18
+      - 2052-clone_19
+      - 2052-clone_20
+      - 2052-clone_21
+      - 2052-clone_22
+      - 2052-clone_23
+      - 2052-clone_24
+      - 2052-clone_25
+      - 2052-clone_26
+      - 2052-clone_27
+      - 2052-clone_28
+      - 2052-clone_29
+      - 2052-clone_30
+      - 2052-clone_31
+      - 2052-clone_32
+      - 2052-clone_33
+      - 2052-clone_34
+      - 2052-clone_35
+      - 2052-clone_36
+      - 2052-clone_37
+      - 2052-clone_38
+      - 2052-clone_39
+      - 2052-clone_40
+      - 2052-clone_41
+      - 2052-clone_42
+      - 2052-clone_43
+      - 2052-clone_44
+      - '2052_2'
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -4523,7 +4943,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - '80_1'
-      - '2052'
+      - '2052_1'
       - '2082'
       - '2086'
       - '2095'
@@ -5157,6 +5577,66 @@ proxy-groups:
       - 80、8080、8880、2052、2082、2086、2095_3
       - 443、8443、2053、2083、2087、2096_4
       - usw
+      - 澳门TLS_1
+      - 澳门TLS_2
+      - 澳门TLS_3
+      - 澳门TLS_4
+      - 澳门TLS_5
+      - 澳门TLS_6
+      - 澳门TLS_7
+      - 澳门TLS_8
+      - 香港TLS_1
+      - 香港TLS_2
+      - 香港TLS_3
+      - 香港TLS_4
+      - 香港TLS_5
+      - 香港TLS_6
+      - 香港TLS_7
+      - 2052-clone_1
+      - 2052-clone_2
+      - 2052-clone_3
+      - 2052-clone_4
+      - 2052-clone_5
+      - 2052-clone_6
+      - 2052-clone_7
+      - 2052-clone_8
+      - 2052-clone_9
+      - 2052-clone_10
+      - 2052-clone_11
+      - 2052-clone_12
+      - 2052-clone_13
+      - 2052-clone_14
+      - 2052-clone_15
+      - 2052-clone_16
+      - 2052-clone_17
+      - 2052-clone_18
+      - 2052-clone_19
+      - 2052-clone_20
+      - 2052-clone_21
+      - 2052-clone_22
+      - 2052-clone_23
+      - 2052-clone_24
+      - 2052-clone_25
+      - 2052-clone_26
+      - 2052-clone_27
+      - 2052-clone_28
+      - 2052-clone_29
+      - 2052-clone_30
+      - 2052-clone_31
+      - 2052-clone_32
+      - 2052-clone_33
+      - 2052-clone_34
+      - 2052-clone_35
+      - 2052-clone_36
+      - 2052-clone_37
+      - 2052-clone_38
+      - 2052-clone_39
+      - 2052-clone_40
+      - 2052-clone_41
+      - 2052-clone_42
+      - 2052-clone_43
+      - 2052-clone_44
+      - '2052_2'
 
 rules:
 # 本地/局域网地址
