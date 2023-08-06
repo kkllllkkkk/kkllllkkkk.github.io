@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-08-05 19:25:17
+# 创建时间：2023-08-06 16:21:05
 # 使用模版：V2RaySE 默认模版
-# 节点数量：960
+# 节点数量：961
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -982,6 +982,7 @@ proxies:
   - {"name":"yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_3","type":"vless","server":"cdn-b100.xn--b6gac.eu.org","port":2052,"uuid":"7f037831-591d-4067-9c8c-39f07d12858a","tls":false,"servername":"yuming.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"yuming.kkllllkkkk95.workers.dev"}},"client-fingerprint":"random"}
   - {"name":"yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_4","type":"vless","server":"cdn-b100.xn--b6gac.eu.org","port":8880,"uuid":"7f037831-591d-4067-9c8c-39f07d12858a","tls":false,"servername":"yuming.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"yuming.kkllllkkkk95.workers.dev"}},"client-fingerprint":"random"}
   - {"name":"yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_5","type":"vless","server":"cdn-b100.xn--b6gac.eu.org","port":8080,"uuid":"7f037831-591d-4067-9c8c-39f07d12858a","tls":false,"servername":"yuming.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"yuming.kkllllkkkk95.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"netly","type":"vless","server":"au.netly.gg","port":26117,"uuid":"4f6d2497-53a7-4fab-aedc-1b4c4f43cea4","tls":false,"servername":"au.netly.gg","network":"ws","ws-opts":{"path":"/","headers":{"host":"au.netly.gg"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -1948,6 +1949,7 @@ proxy-groups:
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_3
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_4
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_5
+      - netly
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -2914,6 +2916,7 @@ proxy-groups:
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_3
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_4
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_5
+      - netly
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -3880,6 +3883,7 @@ proxy-groups:
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_3
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_4
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_5
+      - netly
   - name: 📲 电报信息
     type: select
     proxies:
@@ -4845,6 +4849,7 @@ proxy-groups:
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_3
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_4
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_5
+      - netly
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -5810,6 +5815,7 @@ proxy-groups:
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_3
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_4
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_5
+      - netly
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -6775,6 +6781,7 @@ proxy-groups:
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_3
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_4
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_5
+      - netly
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -7757,6 +7764,7 @@ proxy-groups:
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_3
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_4
       -   yuming.kkllllkkkk95.workers.dev-HTTP-cdn-b100.xn--b6gac.eu.org-EDtunnel_5
+      - netly
 
 rules:
 # 本地/局域网地址
