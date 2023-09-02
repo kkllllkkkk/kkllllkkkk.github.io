@@ -1,11 +1,10 @@
 ####################################
 # 创建者：v2rayse.com
-# 客户端：Clash.Meta
-# 创建时间：2023-09-02 18:20:06
+# 客户端：Clash
+# 创建时间：2023-09-02 18:20:50
 # 使用模版：V2RaySE 默认模版
-# 节点数量：97
+# 节点数量：95
 ####################################
-# !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
 allow-lan: true
 log-level: info
@@ -181,8 +180,6 @@ proxies:
   - {"name":"kkllllkkkk92","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"aac572db-3811-4c56-90e9-f27d481ae9fc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/aac572db-3811-4c56-90e9-f27d481ae9fc-vm","headers":{"host":"kkllllkkkk92.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk93","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"7a601dc7-6caf-4c93-81cc-8b9c08c2e4cc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/7a601dc7-6caf-4c93-81cc-8b9c08c2e4cc-vm","headers":{"host":"kkllllkkkk93.2224646559.workers.dev"}}}
   - {"name":"kkllllkkkk94","type":"vmess","server":"icook.hk","port":80,"cipher":"auto","uuid":"88acc404-c6fe-4f2f-bcec-851e64a645cc","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/88acc404-c6fe-4f2f-bcec-851e64a645cc-vm","headers":{"host":"kkllllkkkk94.2224646559.workers.dev"}}}
-  - {"name":"usw","type":"vless","server":"cake-victorious-observation.glitch.me","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cake-victorious-observation.glitch.me","network":"ws","ws-opts":{"path":"/","headers":{"host":"cake-victorious-observation.glitch.me"}},"client-fingerprint":"randomized"}
-  - {"name":"glitch","type":"vless","server":"icook.hk","port":80,"uuid":"bf6376fb-4792-4dfa-b3bf-82fad5d0eaa0","tls":false,"servername":"glitch.kkllllkkkk95.workers.dev","network":"ws","ws-opts":{"path":"/","headers":{"host":"glitch.kkllllkkkk95.workers.dev"}},"client-fingerprint":"randomized"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -284,8 +281,6 @@ proxy-groups:
       - kkllllkkkk92
       - kkllllkkkk93
       - kkllllkkkk94
-      - usw
-      - glitch
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -387,8 +382,6 @@ proxy-groups:
       - kkllllkkkk92
       - kkllllkkkk93
       - kkllllkkkk94
-      - usw
-      - glitch
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -490,8 +483,6 @@ proxy-groups:
       - kkllllkkkk92
       - kkllllkkkk93
       - kkllllkkkk94
-      - usw
-      - glitch
   - name: 📲 电报信息
     type: select
     proxies:
@@ -592,8 +583,6 @@ proxy-groups:
       - kkllllkkkk92
       - kkllllkkkk93
       - kkllllkkkk94
-      - usw
-      - glitch
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -694,8 +683,6 @@ proxy-groups:
       - kkllllkkkk92
       - kkllllkkkk93
       - kkllllkkkk94
-      - usw
-      - glitch
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -796,8 +783,6 @@ proxy-groups:
       - kkllllkkkk92
       - kkllllkkkk93
       - kkllllkkkk94
-      - usw
-      - glitch
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -915,8 +900,6 @@ proxy-groups:
       - kkllllkkkk92
       - kkllllkkkk93
       - kkllllkkkk94
-      - usw
-      - glitch
 
 rules:
 # 本地/局域网地址
