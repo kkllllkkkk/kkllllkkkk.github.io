@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-12-05 03:42:56
+# 创建时间：2023-12-24 19:37:32
 # 使用模版：V2RaySE 默认模版
-# 节点数量：5
+# 节点数量：6
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -86,74 +86,81 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"worker-empty-glitter-b358.kkllllkkkk.workers.dev","type":"vless","server":"jp.cloudflarest.link","port":2052,"uuid":"8899ed14-627f-4c7e-8832-ea1323507d12","tls":false,"servername":"worker-empty-glitter-b358.kkllllkkkk.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"worker-empty-glitter-b358.kkllllkkkk.workers.dev"}},"client-fingerprint":"randomized"}
-  - {"name":"worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"9a17356c-35ad-49af-aab8-e9275fa35ac4","tls":false,"servername":"worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev"}}}
-  - {"name":"worker-nameless-lake-7f24.kkllllkkkk2.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"308a4dfd-1ca0-45cb-b9fd-404dab04ba84","tls":false,"servername":"worker-nameless-lake-7f24.kkllllkkkk2.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"worker-nameless-lake-7f24.kkllllkkkk2.workers.dev"}}}
-  - {"name":"worker-empty-bonus-22a8.kkllllkkkk3.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"5de8edc8-b620-49da-9e5c-5dd693402bf3","tls":false,"servername":"worker-empty-bonus-22a8.kkllllkkkk3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"worker-empty-bonus-22a8.kkllllkkkk3.workers.dev"}}}
-  - {"name":"worker-green-lake-11c9.kkllllkkkk4.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"e9d925cf-5332-410a-9527-8c36b67ff4e3","tls":false,"servername":"worker-green-lake-11c9.kkllllkkkk4.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"worker-green-lake-11c9.kkllllkkkk4.workers.dev"}}}
+  - {"name":"worker-empty-glitter-b358.kkllllkkkk.workers.dev\r","type":"vless","server":"jp.cloudflarest.link","port":2052,"uuid":"8899ed14-627f-4c7e-8832-ea1323507d12","tls":false,"servername":"worker-empty-glitter-b358.kkllllkkkk.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048"},"client-fingerprint":"randomized"}
+  - {"name":"worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev\r","type":"vless","server":"www.visa.com","port":8880,"uuid":"9a17356c-35ad-49af-aab8-e9275fa35ac4","tls":false,"servername":"worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048"}}
+  - {"name":"worker-nameless-lake-7f24.kkllllkkkk2.workers.dev\r","type":"vless","server":"www.visa.com","port":8880,"uuid":"308a4dfd-1ca0-45cb-b9fd-404dab04ba84","tls":false,"servername":"worker-nameless-lake-7f24.kkllllkkkk2.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048"}}
+  - {"name":"worker-empty-bonus-22a8.kkllllkkkk3.workers.dev\r","type":"vless","server":"www.visa.com","port":8880,"uuid":"5de8edc8-b620-49da-9e5c-5dd693402bf3","tls":false,"servername":"worker-empty-bonus-22a8.kkllllkkkk3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048"}}
+  - {"name":"worker-green-lake-11c9.kkllllkkkk4.workers.dev\r","type":"vless","server":"www.visa.com","port":8880,"uuid":"e9d925cf-5332-410a-9527-8c36b67ff4e3","tls":false,"servername":"worker-green-lake-11c9.kkllllkkkk4.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048"}}
+  - {"name":"verus.a1440585422.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"a6b9501e-0376-492e-be09-feedc7633c42","tls":false,"servername":"verus.a1440585422.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"verus.a1440585422.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - worker-empty-glitter-b358.kkllllkkkk.workers.dev
-      - worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev
-      - worker-nameless-lake-7f24.kkllllkkkk2.workers.dev
-      - worker-empty-bonus-22a8.kkllllkkkk3.workers.dev
-      - worker-green-lake-11c9.kkllllkkkk4.workers.dev
+      - "worker-empty-glitter-b358.kkllllkkkk.workers.dev\r"
+      - "worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev\r"
+      - "worker-nameless-lake-7f24.kkllllkkkk2.workers.dev\r"
+      - "worker-empty-bonus-22a8.kkllllkkkk3.workers.dev\r"
+      - "worker-green-lake-11c9.kkllllkkkk4.workers.dev\r"
+      - verus.a1440585422.workers.dev
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - worker-empty-glitter-b358.kkllllkkkk.workers.dev
-      - worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev
-      - worker-nameless-lake-7f24.kkllllkkkk2.workers.dev
-      - worker-empty-bonus-22a8.kkllllkkkk3.workers.dev
-      - worker-green-lake-11c9.kkllllkkkk4.workers.dev
+      - "worker-empty-glitter-b358.kkllllkkkk.workers.dev\r"
+      - "worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev\r"
+      - "worker-nameless-lake-7f24.kkllllkkkk2.workers.dev\r"
+      - "worker-empty-bonus-22a8.kkllllkkkk3.workers.dev\r"
+      - "worker-green-lake-11c9.kkllllkkkk4.workers.dev\r"
+      - verus.a1440585422.workers.dev
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - worker-empty-glitter-b358.kkllllkkkk.workers.dev
-      - worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev
-      - worker-nameless-lake-7f24.kkllllkkkk2.workers.dev
-      - worker-empty-bonus-22a8.kkllllkkkk3.workers.dev
-      - worker-green-lake-11c9.kkllllkkkk4.workers.dev
+      - "worker-empty-glitter-b358.kkllllkkkk.workers.dev\r"
+      - "worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev\r"
+      - "worker-nameless-lake-7f24.kkllllkkkk2.workers.dev\r"
+      - "worker-empty-bonus-22a8.kkllllkkkk3.workers.dev\r"
+      - "worker-green-lake-11c9.kkllllkkkk4.workers.dev\r"
+      - verus.a1440585422.workers.dev
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - worker-empty-glitter-b358.kkllllkkkk.workers.dev
-      - worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev
-      - worker-nameless-lake-7f24.kkllllkkkk2.workers.dev
-      - worker-empty-bonus-22a8.kkllllkkkk3.workers.dev
-      - worker-green-lake-11c9.kkllllkkkk4.workers.dev
+      - "worker-empty-glitter-b358.kkllllkkkk.workers.dev\r"
+      - "worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev\r"
+      - "worker-nameless-lake-7f24.kkllllkkkk2.workers.dev\r"
+      - "worker-empty-bonus-22a8.kkllllkkkk3.workers.dev\r"
+      - "worker-green-lake-11c9.kkllllkkkk4.workers.dev\r"
+      - verus.a1440585422.workers.dev
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - worker-empty-glitter-b358.kkllllkkkk.workers.dev
-      - worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev
-      - worker-nameless-lake-7f24.kkllllkkkk2.workers.dev
-      - worker-empty-bonus-22a8.kkllllkkkk3.workers.dev
-      - worker-green-lake-11c9.kkllllkkkk4.workers.dev
+      - "worker-empty-glitter-b358.kkllllkkkk.workers.dev\r"
+      - "worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev\r"
+      - "worker-nameless-lake-7f24.kkllllkkkk2.workers.dev\r"
+      - "worker-empty-bonus-22a8.kkllllkkkk3.workers.dev\r"
+      - "worker-green-lake-11c9.kkllllkkkk4.workers.dev\r"
+      - verus.a1440585422.workers.dev
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - worker-empty-glitter-b358.kkllllkkkk.workers.dev
-      - worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev
-      - worker-nameless-lake-7f24.kkllllkkkk2.workers.dev
-      - worker-empty-bonus-22a8.kkllllkkkk3.workers.dev
-      - worker-green-lake-11c9.kkllllkkkk4.workers.dev
+      - "worker-empty-glitter-b358.kkllllkkkk.workers.dev\r"
+      - "worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev\r"
+      - "worker-nameless-lake-7f24.kkllllkkkk2.workers.dev\r"
+      - "worker-empty-bonus-22a8.kkllllkkkk3.workers.dev\r"
+      - "worker-green-lake-11c9.kkllllkkkk4.workers.dev\r"
+      - verus.a1440585422.workers.dev
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -176,11 +183,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - worker-empty-glitter-b358.kkllllkkkk.workers.dev
-      - worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev
-      - worker-nameless-lake-7f24.kkllllkkkk2.workers.dev
-      - worker-empty-bonus-22a8.kkllllkkkk3.workers.dev
-      - worker-green-lake-11c9.kkllllkkkk4.workers.dev
+      - "worker-empty-glitter-b358.kkllllkkkk.workers.dev\r"
+      - "worker-sparkling-flower-41a5.kkllllkkkk1.workers.dev\r"
+      - "worker-nameless-lake-7f24.kkllllkkkk2.workers.dev\r"
+      - "worker-empty-bonus-22a8.kkllllkkkk3.workers.dev\r"
+      - "worker-green-lake-11c9.kkllllkkkk4.workers.dev\r"
+      - verus.a1440585422.workers.dev
 
 rules:
 # 本地/局域网地址
