@@ -1,4 +1,3 @@
-
 {
   "server": "www.dtku46.xyz:18417",
   "auth": "dongtaiwang.com",
