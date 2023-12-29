@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2023-12-25 23:37:05
+# 创建时间：2023-12-29 16:31:06
 # 使用模版：V2RaySE 默认模版
-# 节点数量：14
+# 节点数量：27
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -100,6 +100,19 @@ proxies:
   - {"name":"v07.verus2007.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"201e72dd-8a43-4b07-960e-21d3ad5c0297","tls":false,"servername":"v07.verus2007.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v07.verus2007.workers.dev"}}}
   - {"name":"v06.verus2006.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"a11e7f19-01b9-4c41-9112-05034c89608d","tls":false,"servername":"v06.verus2006.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v06.verus2006.workers.dev"}}}
   - {"name":"v16.verus1006.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"3aba63f5-8e26-4cd0-a4ef-d5014c18fc96","tls":false,"servername":"v16.verus1006.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v16.verus1006.workers.dev"}}}
+  - {"name":"c3.verus1002-fad.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"26a44862-bd3a-41e1-b946-3fe1a84b02bb","tls":false,"servername":"c3.verus1002-fad.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"c3.verus1002-fad.workers.dev"}}}
+  - {"name":"c2.verus1002.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"d733540e-c254-4fa7-b288-d8316556ee4d","tls":false,"servername":"c2.verus1002.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"c2.verus1002.workers.dev"}}}
+  - {"name":"c1.1561871371.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"325e223b-963d-44f4-90e4-a635f80b23cf","tls":false,"servername":"c1.1561871371.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"c1.1561871371.workers.dev"}}}
+  - {"name":"c08.verus1001-9bd.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"2bde5b0f-6863-4a27-bc08-73053d1eab16","tls":false,"servername":"c08.verus1001-9bd.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"c08.verus1001-9bd.workers.dev"}}}
+  - {"name":"a1.verus1001-dc3.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"927da834-3414-4943-b492-06438d83e6a9","tls":false,"servername":"a1.verus1001-dc3.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"a1.verus1001-dc3.workers.dev"}}}
+  - {"name":"v1.1748003766.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"b3783452-ca10-4b02-a64f-b12e8859434d","tls":false,"servername":"v1.1748003766.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v1.1748003766.workers.dev"}}}
+  - {"name":"v11.verus2011.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"b5da8602-b31f-48a4-9be5-d6909f1bf111","tls":false,"servername":"v11.verus2011.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v11.verus2011.workers.dev"}}}
+  - {"name":"v14.verus200.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"5e2c5b5a-6548-4dbe-8d86-7b9e1b0ec136","tls":false,"servername":"v14.verus200.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v14.verus200.workers.dev"}}}
+  - {"name":"v13.verues200.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"187ad1fa-207b-4b90-8908-00220f81903f","tls":false,"servername":"v13.verues200.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v13.verues200.workers.dev"}}}
+  - {"name":"v12.916059985.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"bb6d8cbb-de0a-4a3f-9763-6f60145c23a9","tls":false,"servername":"v12.916059985.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v12.916059985.workers.dev"}}}
+  - {"name":"v11.wenjiaqi520-97c.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"1a5adc7a-f64a-4204-8f8c-3d0668bf6bd9","tls":false,"servername":"v11.wenjiaqi520-97c.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v11.wenjiaqi520-97c.workers.dev"}}}
+  - {"name":"v9.wenjiaqiouting.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"2102d2d1-0e91-4e01-945b-58c8851ad6d9","tls":false,"servername":"v9.wenjiaqiouting.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v9.wenjiaqiouting.workers.dev"}}}
+  - {"name":"v108.3052747197-234.workers.dev","type":"vless","server":"www.visa.com","port":8880,"uuid":"26845f01-3b08-4b9f-94c4-3cd0d420a8f0","tls":false,"servername":"v108.3052747197-234.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"v108.3052747197-234.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -120,6 +133,19 @@ proxy-groups:
       - v07.verus2007.workers.dev
       - v06.verus2006.workers.dev
       - v16.verus1006.workers.dev
+      - c3.verus1002-fad.workers.dev
+      - c2.verus1002.workers.dev
+      - c1.1561871371.workers.dev
+      - c08.verus1001-9bd.workers.dev
+      - a1.verus1001-dc3.workers.dev
+      - v1.1748003766.workers.dev
+      - v11.verus2011.workers.dev
+      - v14.verus200.workers.dev
+      - v13.verues200.workers.dev
+      - v12.916059985.workers.dev
+      - v11.wenjiaqi520-97c.workers.dev
+      - v9.wenjiaqiouting.workers.dev
+      - v108.3052747197-234.workers.dev
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -140,6 +166,19 @@ proxy-groups:
       - v07.verus2007.workers.dev
       - v06.verus2006.workers.dev
       - v16.verus1006.workers.dev
+      - c3.verus1002-fad.workers.dev
+      - c2.verus1002.workers.dev
+      - c1.1561871371.workers.dev
+      - c08.verus1001-9bd.workers.dev
+      - a1.verus1001-dc3.workers.dev
+      - v1.1748003766.workers.dev
+      - v11.verus2011.workers.dev
+      - v14.verus200.workers.dev
+      - v13.verues200.workers.dev
+      - v12.916059985.workers.dev
+      - v11.wenjiaqi520-97c.workers.dev
+      - v9.wenjiaqiouting.workers.dev
+      - v108.3052747197-234.workers.dev
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -160,6 +199,19 @@ proxy-groups:
       - v07.verus2007.workers.dev
       - v06.verus2006.workers.dev
       - v16.verus1006.workers.dev
+      - c3.verus1002-fad.workers.dev
+      - c2.verus1002.workers.dev
+      - c1.1561871371.workers.dev
+      - c08.verus1001-9bd.workers.dev
+      - a1.verus1001-dc3.workers.dev
+      - v1.1748003766.workers.dev
+      - v11.verus2011.workers.dev
+      - v14.verus200.workers.dev
+      - v13.verues200.workers.dev
+      - v12.916059985.workers.dev
+      - v11.wenjiaqi520-97c.workers.dev
+      - v9.wenjiaqiouting.workers.dev
+      - v108.3052747197-234.workers.dev
   - name: 📲 电报信息
     type: select
     proxies:
@@ -179,6 +231,19 @@ proxy-groups:
       - v07.verus2007.workers.dev
       - v06.verus2006.workers.dev
       - v16.verus1006.workers.dev
+      - c3.verus1002-fad.workers.dev
+      - c2.verus1002.workers.dev
+      - c1.1561871371.workers.dev
+      - c08.verus1001-9bd.workers.dev
+      - a1.verus1001-dc3.workers.dev
+      - v1.1748003766.workers.dev
+      - v11.verus2011.workers.dev
+      - v14.verus200.workers.dev
+      - v13.verues200.workers.dev
+      - v12.916059985.workers.dev
+      - v11.wenjiaqi520-97c.workers.dev
+      - v9.wenjiaqiouting.workers.dev
+      - v108.3052747197-234.workers.dev
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -198,6 +263,19 @@ proxy-groups:
       - v07.verus2007.workers.dev
       - v06.verus2006.workers.dev
       - v16.verus1006.workers.dev
+      - c3.verus1002-fad.workers.dev
+      - c2.verus1002.workers.dev
+      - c1.1561871371.workers.dev
+      - c08.verus1001-9bd.workers.dev
+      - a1.verus1001-dc3.workers.dev
+      - v1.1748003766.workers.dev
+      - v11.verus2011.workers.dev
+      - v14.verus200.workers.dev
+      - v13.verues200.workers.dev
+      - v12.916059985.workers.dev
+      - v11.wenjiaqi520-97c.workers.dev
+      - v9.wenjiaqiouting.workers.dev
+      - v108.3052747197-234.workers.dev
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -217,6 +295,19 @@ proxy-groups:
       - v07.verus2007.workers.dev
       - v06.verus2006.workers.dev
       - v16.verus1006.workers.dev
+      - c3.verus1002-fad.workers.dev
+      - c2.verus1002.workers.dev
+      - c1.1561871371.workers.dev
+      - c08.verus1001-9bd.workers.dev
+      - a1.verus1001-dc3.workers.dev
+      - v1.1748003766.workers.dev
+      - v11.verus2011.workers.dev
+      - v14.verus200.workers.dev
+      - v13.verues200.workers.dev
+      - v12.916059985.workers.dev
+      - v11.wenjiaqi520-97c.workers.dev
+      - v9.wenjiaqiouting.workers.dev
+      - v108.3052747197-234.workers.dev
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -253,6 +344,19 @@ proxy-groups:
       - v07.verus2007.workers.dev
       - v06.verus2006.workers.dev
       - v16.verus1006.workers.dev
+      - c3.verus1002-fad.workers.dev
+      - c2.verus1002.workers.dev
+      - c1.1561871371.workers.dev
+      - c08.verus1001-9bd.workers.dev
+      - a1.verus1001-dc3.workers.dev
+      - v1.1748003766.workers.dev
+      - v11.verus2011.workers.dev
+      - v14.verus200.workers.dev
+      - v13.verues200.workers.dev
+      - v12.916059985.workers.dev
+      - v11.wenjiaqi520-97c.workers.dev
+      - v9.wenjiaqiouting.workers.dev
+      - v108.3052747197-234.workers.dev
 
 rules:
 # 本地/局域网地址
