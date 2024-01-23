@@ -190,6 +190,12 @@
 156[1920x1080],http://113.9.162.143:88/hls/156/index.m3u8
 157[1920x1080],http://113.9.162.143:88/hls/157/index.m3u8
 155[1920x1080],http://113.9.162.143:88/hls/155/index.m3u8
+石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+
 江西赣云,#genre#
 都昌新闻综合,http://live02.jxtvcn.com.cn/live/ganyun_duchang.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
 庐山综合,http://live02.jxtvcn.com.cn/live/ganyun_lushan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
@@ -256,42 +262,6 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1735660799-0-0-d737b8c7fad391cc6187d35123baff28
 鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1735660799-0-0-6deee5ef6d55cce1a924b7c14a999a69
 广水新闻,http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1735660799-0-0-c7c7082aa48ecb78ed13d8a4a9b45acc
-Skip to content
-kkllllkkkk
-/
-kkllllkkkk.github.io
-
-Type / to search
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Breadcrumbskkllllkkkk.github.io
-/2.txt
-Go to file
-t
-Latest commit
-kkllllkkkk
-kkllllkkkk
-Update 2.txt
-32a2d14
- · 
-3 hours ago
-History
-Breadcrumbskkllllkkkk.github.io
-/2.txt
-File metadata and controls
-
-Code
-
-Blame
-3135 lines (3135 loc) · 170 KB
 荷兰阿姆斯特丹,#genre#
 236,http://dreamsat.icu:2103/solo093/fcMjQ2G/236
 243,http://dreamsat.icu:2103/solo093/fcMjQ2G/243
