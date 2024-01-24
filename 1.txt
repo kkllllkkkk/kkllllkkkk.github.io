@@ -24,6 +24,9 @@
 21[1024x576],http://113.9.162.143:88/hls/21/index.m3u8
 23[768x576],http://113.9.162.143:88/hls/23/index.m3u8
 24[768x576],http://113.9.162.143:88/hls/24/index.m3u8
+沧州-1,http://111.225.92.211:8800/hls/102/index.m3u8
+沧州-2,http://111.225.92.211:8800/hls/103/index.m3u8
+沧州-3,http://111.225.92.211:8800/hls/104/index.m3u8
 河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北经济,http://live.hyxrmt.com:85/live/xwpd.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
@@ -34,6 +37,7 @@
 河北影视,http://121.24.98.228:8090/hls/29/index.m3u8
 河北少儿科教,http://121.24.98.228:8090/hls/30/index.m3u8
 河北公共,http://121.24.98.228:8090/hls/31/index.m3u8
+河北杂技,http://121.19.134.245:808/tsfile/live/1006_1.m3u8?key=txiptv
 河北收视指南,http://121.24.98.205:8090/hls/44/index.m3u8
 邯郸新闻，http://123.182.215.114:8088/tsfile/live/1006_1.m3u8
 邯郸民生都市，http://123.182.215.114:8088/tsfile/live/1007_1.m3u8
@@ -210,7 +214,155 @@ BRTV体育休闲HD[1920*1080],http://114.250.193.103:8182/udp/239.3.1.97:8001
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-
+保定新闻综合,http://121.19.134.2:808/tsfile/live/1007_1.m3u8?key=txiptv
+保定公共频道,http://121.19.134.2:808/tsfile/live/1008_1.m3u8?key=txiptv
+保定生活健康,http://121.19.134.2:808/tsfile/live/1009_1.m3u8?key=txiptv
+高碑店-1,http://121.19.134.2:808/tsfile/live/1039_1.m3u8?key=txiptv
+邯郸新闻综合,http://121.19.134.2:808/tsfile/live/1040_1.m3u8?key=txiptv
+衡水综合,http://121.19.134.2:808/tsfile/live/1041_1.m3u8?key=txiptv
+快乐垂钓,http://121.19.134.2:808/tsfile/live/1042_1.m3u8?key=txiptv
+廊坊新闻,http://121.19.134.2:808/tsfile/live/1043_1.m3u8?key=txiptv
+秦皇岛-1,http://121.19.134.2:808/tsfile/live/1044_1.m3u8?key=txiptv
+唐山新闻综合,http://121.19.134.2:808/tsfile/live/1045_1.m3u8?key=txiptv
+张家口-1,http://121.19.134.2:808/tsfile/live/1046_1.m3u8?key=txiptv
+广州台 高清,http://222.217.243.197:8181/tsfile/live/0115_1.m3u8?key=txiptv
+佛山影视 高清,http://222.217.243.197:8181/tsfile/live/0139_1.m3u8?key=txiptv
+经典电影,http://222.217.243.197:8181/tsfile/live/0143_1.m3u8?key=txiptv
+广州影视 高清,http://222.217.243.197:8181/tsfile/live/0131_1.m3u8?key=txiptv
+珠江电影,http://222.217.243.197:8181/tsfile/live/1046_1.m3u8?key=txiptv
+动作电影,http://222.217.243.197:8181/tsfile/live/1047_1.m3u8?key=txiptv
+廉江公共,http://222.217.243.197:8181/tsfile/live/1048_1.m3u8?key=txiptv
+翡翠台,http://222.217.243.197:8181/tsfile/live/1049_1.m3u8?key=txiptv
+南方1,http://222.217.243.197:8181/tsfile/live/1050_1.m3u8?key=txiptv
+南方3,http://222.217.243.197:8181/tsfile/live/1051_1.m3u8?key=txiptv
+南方4,http://222.217.243.197:8181/tsfile/live/1052_1.m3u8?key=txiptv
+南方5,http://222.217.243.197:8181/tsfile/live/1053_1.m3u8?key=txiptv
+DTV1,http://222.217.243.197:8181/tsfile/live/1062_1.m3u8?key=txiptv
+DTV2,http://222.217.243.197:8181/tsfile/live/1063_1.m3u8?key=txiptv
+DTV3,http://222.217.243.197:8181/tsfile/live/1064_1.m3u8?key=txiptv
+DTV4,http://222.217.243.197:8181/tsfile/live/1065_1.m3u8?key=txiptv
+测试8,http://222.217.243.197:8181/tsfile/live/1066_1.m3u8?key=txiptv
+测试9,http://222.217.243.197:8181/tsfile/live/1067_1.m3u8?key=txiptv
+CCTV1-综合,http://222.217.243.197:8181/tsfile/live/0001_1.m3u8?key=txiptv
+预留2,http://222.217.243.197:8181/tsfile/live/1069_1.m3u8?key=txiptv
+本港台,http://222.217.243.197:8181/tsfile/live/1070_1.m3u8?key=txiptv
+测试5,http://222.217.243.197:8181/tsfile/live/1073_1.m3u8?key=txiptv
+测试6,http://222.217.243.197:8181/tsfile/live/1074_1.m3u8?key=txiptv
+测试7,http://222.217.243.197:8181/tsfile/live/1075_1.m3u8?key=txiptv
+广东卫视,http://222.217.243.197:8181/tsfile/live/0125_1.m3u8?key=txiptv
+凤凰资讯 高清,http://222.217.243.197:8181/tsfile/live/1000_1.m3u8?key=txiptv
+凤凰中文 高清,http://222.217.243.197:8181/tsfile/live/1001_1.m3u8?key=txiptv
+凤凰香港 高清,http://222.217.243.197:8181/tsfile/live/1002_1.m3u8?key=txiptv
+山东教育,http://121.19.134.215:808/tsfile/live/1033_1.m3u8?key=txiptv
+纪实人文高清,http://121.19.134.215:808/tsfile/live/1034_1.m3u8?key=txiptv
+CETV1,http://121.19.134.215:808/tsfile/live/1035_1.m3u8?key=txiptv
+BTV冬奥纪实高清,http://121.19.134.215:808/tsfile/live/1036_1.m3u8?key=txiptv
+金鹰纪实高清,http://121.19.134.215:808/tsfile/live/1037_1.m3u8?key=txiptv
+汕头文旅体育高清,http://211.97.63.3:801/hls/80/index.m3u8
+汕头综合高清,http://211.97.63.3:801/hls/81/index.m3u8
+汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
+粤TV-粤荟萃,http://116.23.176.91:88/hls/32/index.m3u8
+睛彩中原,http://123.14.88.218:8888/hls/29/index.m3u8
+都市频道,http://221.213.69.82:8888/tsfile/live/0128_1.m3u8?key=txiptv
+娱乐频道,http://221.213.69.82:8888/tsfile/live/0124_1.m3u8?key=txiptv
+公共频道,http://221.213.69.82:8888/tsfile/live/0127_1.m3u8?key=txiptv
+吉视都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8?key=txiptv
+吉视影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8?key=txiptv
+吉视生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8?key=txiptv
+吉视乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8?key=txiptv
+吉视公共新闻,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8?key=txiptv
+吉视综艺文化,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8?key=txiptv
+东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv
+吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8?key=txiptv
+长影频道,http://61.138.128.226:19901/tsfile/live/1010_1.m3u8?key=txiptv
+吉林市1,http://61.138.128.226:19901/tsfile/live/1011_1.m3u8?key=txiptv
+吉林市2,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8?key=txiptv
+吉林市3,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8?key=txiptv
+测试频道01,http://lhq-cctv.8866.org:18181/tsfile/live/1201_1.m3u8?key=txiptv
+测试频道02,http://lhq-cctv.8866.org:18181/tsfile/live/1202_1.m3u8?key=txiptv
+测试频道03,http://lhq-cctv.8866.org:18181/tsfile/live/1203_1.m3u8?key=txiptv
+测试频道04,http://lhq-cctv.8866.org:18181/tsfile/live/1204_1.m3u8?key=txiptv
+测试频道05,http://lhq-cctv.8866.org:18181/tsfile/live/1205_1.m3u8?key=txiptv
+测试频道06,http://lhq-cctv.8866.org:18181/tsfile/live/1206_1.m3u8?key=txiptv
+测试频道07,http://lhq-cctv.8866.org:18181/tsfile/live/1207_1.m3u8?key=txiptv
+测试频道08,http://lhq-cctv.8866.org:18181/tsfile/live/1208_1.m3u8?key=txiptv
+测试频道09,http://lhq-cctv.8866.org:18181/tsfile/live/1209_1.m3u8?key=txiptv
+测试频道10,http://lhq-cctv.8866.org:18181/tsfile/live/1210_1.m3u8?key=txiptv
+测试频道11,http://lhq-cctv.8866.org:18181/tsfile/live/1211_1.m3u8?key=txiptv
+测试频道12,http://lhq-cctv.8866.org:18181/tsfile/live/1212_1.m3u8?key=txiptv
+测试频道13,http://lhq-cctv.8866.org:18181/tsfile/live/1213_1.m3u8?key=txiptv
+测试频道14,http://lhq-cctv.8866.org:18181/tsfile/live/1214_1.m3u8?key=txiptv
+测试频道15,http://lhq-cctv.8866.org:18181/tsfile/live/1215_1.m3u8?key=txiptv
+测试频道16,http://lhq-cctv.8866.org:18181/tsfile/live/1216_1.m3u8?key=txiptv
+测试频道17,http://lhq-cctv.8866.org:18181/tsfile/live/1217_1.m3u8?key=txiptv
+测试频道18,http://lhq-cctv.8866.org:18181/tsfile/live/1218_1.m3u8?key=txiptv
+测试频道19,http://lhq-cctv.8866.org:18181/tsfile/live/1219_1.m3u8?key=txiptv
+测试频道20,http://lhq-cctv.8866.org:18181/tsfile/live/1220_1.m3u8?key=txiptv
+测试频道21,http://lhq-cctv.8866.org:18181/tsfile/live/1221_1.m3u8?key=txiptv
+测试频道22,http://lhq-cctv.8866.org:18181/tsfile/live/1222_1.m3u8?key=txiptv
+测试频道23,http://lhq-cctv.8866.org:18181/tsfile/live/1223_1.m3u8?key=txiptv
+测试频道24,http://lhq-cctv.8866.org:18181/tsfile/live/1224_1.m3u8?key=txiptv
+经典电影,http://lhq-cctv.8866.org:18181/tsfile/live/1067_1.m3u8?key=txiptv
+高清电影,http://lhq-cctv.8866.org:18181/tsfile/live/1060_1.m3u8?key=txiptv
+家庭影院 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1058_1.m3u8?key=txiptv
+动作电影 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1059_1.m3u8?key=txiptv
+4K电影 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1098_1.m3u8?key=txiptv
+南宁影视 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1085_1.m3u8?key=txiptv
+广西影视 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1033_1.m3u8?key=txiptv
+玉林公共 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1038_1.m3u8?key=txiptv
+玉林新闻 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1037_1.m3u8?key=txiptv
+南宁新闻 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1083_1.m3u8?key=txiptv
+广西新闻 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1034_1.m3u8?key=txiptv
+广西都市 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1032_1.m3u8?key=txiptv
+南宁公共 高清,http://lhq-cctv.8866.org:18181/tsfile/live/1084_1.m3u8?key=txiptv
+玉林娱乐,http://lhq-cctv.8866.org:18181/tsfile/live/1039_1.m3u8?key=txiptv
+玉林信息,http://lhq-cctv.8866.org:18181/tsfile/live/1040_1.m3u8?key=txiptv
+福建综合,http://110.81.206.138:50080/tsfile/live/23023_1.m3u8?key=txiptv
+福建公共,http://110.81.206.138:50080/tsfile/live/23024_1.m3u8?key=txiptv
+福建新闻,http://110.81.206.138:50080/tsfile/live/23025_1.m3u8?key=txiptv
+福建电视剧,http://110.81.206.138:50080/tsfile/live/23026_1.m3u8?key=txiptv
+福建旅游,http://110.81.206.138:50080/tsfile/live/23027_1.m3u8?key=txiptv
+福建经济生活,http://110.81.206.138:50080/tsfile/live/23028_1.m3u8?key=txiptv
+福建体育,http://110.81.206.138:50080/tsfile/live/23029_1.m3u8?key=txiptv
+福建少儿,http://110.81.206.138:50080/tsfile/live/23030_1.m3u8?key=txiptv
+福建教育,http://110.81.206.138:50080/tsfile/live/23031_1.m3u8?key=txiptv
+淘电影,http://123.118.60.109:9901/tsfile/live/1007_1.m3u8?key=txiptv
+淘精彩,http://123.118.60.109:9901/tsfile/live/1008_1.m3u8?key=txiptv
+密云电视,http://123.118.60.109:9901/tsfile/live/1009_1.m3u8?key=txiptv
+朝阳融媒,http://123.118.60.109:9901/tsfile/live/1010_1.m3u8?key=txiptv
+HNTV2-都市高清,http://123.13.247.98:7000/hls/77/index.m3u8
+HNTV3-民生,http://123.13.247.98:7000/hls/78/index.m3u8
+HNTV4-法治,http://123.13.247.98:7000/hls/79/index.m3u8
+HNTV5-电视剧高清,http://123.13.247.98:7000/hls/80/index.m3u8
+HNTV6-新闻,http://123.13.247.98:7000/hls/81/index.m3u8
+HNTV8-公共高清,http://123.13.247.98:7000/hls/83/index.m3u8
+HNTV9-新农村,http://123.13.247.98:7000/hls/84/index.m3u8
+广西综艺,http://171.108.239.45:8181/tsfile/live/1005_1.m3u8?key=txiptv
+广西国际,http://171.108.239.45:8181/tsfile/live/1018_1.m3u8?key=txiptv
+广西移动,http://171.108.239.45:8181/tsfile/live/1019_1.m3u8?key=txiptv
+中国气象,http://171.108.239.45:8181/tsfile/live/1027_1.m3u8?key=txiptv
+中国教育,http://171.108.239.45:8181/tsfile/live/1000_1.m3u8?key=txiptv
+TV星河(2）,http://171.108.239.45:8181/tsfile/live/1011_1.m3u8?key=txiptv
+中国新闻,http://171.108.239.45:8181/tsfile/live/1017_1.m3u8?key=txiptv
+中国纪实,http://171.108.239.45:8181/tsfile/live/1038_1.m3u8?key=txiptv
+TV星河,http://171.108.239.45:8181/tsfile/live/1012_1.m3u8?key=txiptv
+贵港新闻 HD,http://110.72.106.169:8088/tsfile/live/1008_1.m3u8?key=txiptv
+贵港科教,http://110.72.106.169:8088/tsfile/live/0002_1.m3u8?key=txiptv
+IPTV法治,http://110.72.106.169:8088/tsfile/live/0115_2.m3u8?key=txiptv
+IPTV相声小品,http://110.72.106.169:8088/tsfile/live/0117_2.m3u8?key=txiptv
+法治天地,http://110.72.106.169:8088/tsfile/live/0118_2.m3u8?key=txiptv
+IPTV热播剧场,http://110.72.106.169:8088/tsfile/live/1113_1.m3u8?key=txiptv
+全纪实,http://110.72.106.169:8088/tsfile/live/0120_2.m3u8?key=txiptv
+都市剧场,http://110.72.106.169:8088/tsfile/live/1004_1.m3u8?key=txiptv
+新动漫,http://110.72.106.169:8088/tsfile/live/1006_1.m3u8?key=txiptv
+金色学堂,http://110.72.106.169:8088/tsfile/live/1032_1.m3u8?key=txiptv
+IPTV3＋,http://110.72.106.169:8088/tsfile/live/0109_2.m3u8?key=txiptv
+IPTV5＋,http://110.72.106.169:8088/tsfile/live/1060_1.m3u8?key=txiptv
+IPTV6＋,http://110.72.106.169:8088/tsfile/live/1061_1.m3u8?key=txiptv
+IPTV8＋,http://110.72.106.169:8088/tsfile/live/1062_1.m3u8?key=txiptv
+IPTV5＋高清,http://110.72.106.169:8088/tsfile/live/1063_1.m3u8?key=txiptv
+经典电影,http://110.72.106.169:8088/tsfile/live/0112_2.m3u8?key=txiptv
+IPTV谍战剧场,http://110.72.106.169:8088/tsfile/live/1111_1.m3u8?key=txiptv
 江西赣云,#genre#
 都昌新闻综合,http://live02.jxtvcn.com.cn/live/ganyun_duchang.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
 庐山综合,http://live02.jxtvcn.com.cn/live/ganyun_lushan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
