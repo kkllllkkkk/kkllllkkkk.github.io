@@ -304,8 +304,8 @@ TLC旅游生活,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A59040822
 翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 黑龙江,#genre#
-CCTV-1,http://111.225.93.157:8800/hls/1/index.m3u8
-CCTV-2,http://111.225.93.157:8800/hls/2/index.m3u8
+CCTV-1,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-2100
+CCTV-2,https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100
 CCTV-3,http://111.225.93.157:8800/hls/3/index.m3u8
 CCTV-4,http://111.225.93.157:8800/hls/4/index.m3u8
 CCTV-5,http://111.225.93.157:8800/hls/5/index.m3u8
