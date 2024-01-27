@@ -13711,28 +13711,50 @@ http://39.134.136.198:6610/000000001000/1/index.m3u8?Contentid=64278936503354403
 http://www.lu1.cc/itv/huntv/hnxl.php?id=hngj
 #EXTINF:-1 group-title="🌸快乐·湖南",湖南卫视
 http://lu1.cc/itv/php/best.php?id=hunws#http://117.169.124.149:8080/live/HD-8000k-1080P-hunanstv/1.m3u8#http://117.169.124.149:8080/live/hunanstv/1.m3u8
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",湖南国际
+#EXTINF:-1 group-title="🌸快乐·湖南",湖南国际
 http://www.lu1.cc/itv/huntv/hnxl.php?id=hngj
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",湖南茶频道
+#EXTINF:-1 group-title="🌸快乐·湖南",湖南国际
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",湖南茶频道
 http://lu1.cc/a/play/php/best.php?id=cpd
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",快乐垂钓
+#EXTINF:-1 group-title="🌸快乐·湖南",湖南茶频道
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",快乐垂钓
 http://lu1.cc/itv/php/best.php?id=klcd
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",常德公共
+#EXTINF:-1 group-title="🌸快乐·湖南",快乐垂钓
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",常德公共
 http://lu1.cc/itv/huntv/cdxl1.php?id=ggpd
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",常德综合
+#EXTINF:-1 group-title="🌸快乐·湖南",常德公共
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",常德综合
 http://lu1.cc/itv/huntv/cdxl1.php?id=xwzh
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",湘潭新闻综合
+#EXTINF:-1 group-title="🌸快乐·湖南",常德综合
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",湘潭公共频道
+#EXTINF:-1 group-title="🌸快乐·湖南",湘潭新闻综合
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",湘潭公共频道
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",宜章新闻综合
+#EXTINF:-1 group-title="🌸快乐·湖南",湘潭公共频道
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",宜章新闻综合
 http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8?zhund
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",宜章新闻综合
+#EXTINF:-1 group-title="🌸快乐·湖南",宜章新闻综合
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",宜章新闻综合
 http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8?zhund
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",湘潭新闻综合
+#EXTINF:-1 group-title="🌸快乐·湖南",宜章新闻综合
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
-#EXTINF:-1 group-title="#http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8",湘潭公共频道
+#EXTINF:-1 group-title="🌸快乐·湖南",湘潭新闻综合
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+#EXTINF:-1 group-title="🌸快乐·湖南",湘潭公共频道
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="🌸快乐·湖南",湘潭公共频道
+http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
 #EXTINF:-1 group-title="🌸好客·山东",山东齐鲁
 http://lu1.cc/itv/sdtv/sdtv.php?id=qlpd
 #EXTINF:-1 group-title="🌸好客·山东",山东文旅
