@@ -1,23 +1,22 @@
 港澳台,#genre#
 美亚电影台,http://securelive.e-chinalife.com/live/T0oV4Gv72iyhqFREbgnuYcGK5VPVQzbL.m3u8
-美亚电影台,http://securelive.e-chinalife.com/live/BlHv4WDF7LhiGZqu00v1hrApI3jZASo8.m3u8
 TVB功夫台,http://securelive.e-chinalife.com/live/gdZT5WV3ANOeVatRfIHLZGP9jKPnLo7M.m3u8
 NOW紫金台,http://securelive.e-chinalife.com/live/X35yxa5uZ59rzDMt58mXJjIPWt12rtRX.m3u8
 NOW爆谷台,http://securelive.e-chinalife.com/live/w46uAbpI4y7zH6t8KV8Obt1J4Jwn9ld6.m3u8
 NOW星影台,http://securelive.e-chinalife.com/live/L8vhTVTJJEf81xYA6283ycoV8f9FipAW.m3u8
-😝凤凰中文,http://securelive.e-chinalife.com/live/9pijnXS6TNdVpOsnSilNBZFZWTeRBxmp.m3u8
-凤凰资讯,http://securelive.e-chinalife.com/live/dNEGHasH89j7n3RCK02U1oRjVaGsNGe4.m3u8
-凤凰香港，http://securelive.e-chinalife.com/live/ASw18oztTnE4zB3PZPN3tM5FpZW85Jfy.m3u8
-无线新闻台,http://securelive.e-chinalife.com/live/xZEaIldolA1gzpQTV5Y9YOPmXIiICtRG.m3u8
-无线财经台,http://securelive.e-chinalife.com/live/Ox9s9zNGZlog0DQzLdguDs194ABoJUJg.m3u8
-翡翠台,http://securelive.e-chinalife.com/live/U6HJbnotOeMYtFAWMQhjCtfWPWWVydnE.m3u8
-明珠台,http://securelive.e-chinalife.com/live/R2DV6elWMTke4GfxetrytxhxKTTVaEzc.m3u8
-TVB J2,http://securelive.e-chinalife.com/live/6aVORJsV9rm0atQFcUkS2FA5UMrS4Nyn.m3u8
-HOY资讯台,http://securelive.e-chinalife.com/live/wYvEfcCBYITsCNel2ij0uCKhLlbMisgn.m3u8
-国际财经台,http://securelive.e-chinalife.com/live/gFgQ88l8tE6SwmCLxUjOrnI0JWdETyhl.m3u8
-CN卡通频道,http://securelive.e-chinalife.com/live/8o9NUjNjZqA8YdkOvvGDEj3VJv7Vhxg5.m3u8
-有线娱乐,http://securelive.e-chinalife.com/live/L8vhTVTJJEf81xYA6283ycoV8f9FipAW.m3u8
-莲花卫视,http://securelive.e-chinalife.com/live/72MfeKtJ5LxdxGlXBnRV6uw0egBXPcA6.m3u8
+😝凤凰中文,http://securelive.e-chinalife.com/live/Bf3oQFSau512gdI78CRY2e3Fuor5oH4p.m3u8
+凤凰资讯,http://securelive.e-chinalife.com/live/obpzE3AeHwhGvHjrFikYq586aACA4uLD.m3u8
+凤凰香港，http://securelive.e-chinalife.com/live/PKC92Dcs3mFP3zRMhpbazKsEVgMga463.m3u8
+无线新闻台,http://securelive.e-chinalife.com/live/5RxweGn8EOjkMdjzK2NspyhrUKH3zmKO.m3u8
+无线财经台,http://securelive.e-chinalife.com/live/LQ0wEJtzA213ataen8I4L3cG06RXFsgV.m3u8
+翡翠台,http://securelive.e-chinalife.com/live/ExeTTQlDTvOUr0WO47DCFmC3BLaLlP2y.m3u8
+明珠台,http://securelive.e-chinalife.com/live/I9KgofCgMpJ56LJqMyPMmgCOCFi0K8i1.m3u8
+TVB J2,http://securelive.e-chinalife.com/live/JRwKcpV6UBiwr5Bw7iBpY9gjd8E2t9b5.m3u8
+HOY资讯台,http://securelive.e-chinalife.com/live/9lqwuiEtY0tZsWqz7myit31FdibfmBN8.m3u8
+国际财经台,http://securelive.e-chinalife.com/live/tvTqBEJwL47IKxXuFqm0snx9jTvvp9Gj.m3u8
+CN卡通频道,http://securelive.e-chinalife.com/live/g5EKexA9eacYpU1e3iyOorthEPMh20zF.m3u8
+有线娱乐,http://securelive.e-chinalife.com/live/AfCElpEG2KRIcwyaBmmxRLZgLq7xBzWm.m3u8
+莲花卫视,http://securelive.e-chinalife.com/live/78eOamCboYJJzVpwKmLHGHNgpSuFlsj1.m3u8
 有线18台,http://securelive.e-chinalife.com/live/o1WXocUGNDdKPsnCMW6Yu4YvZ6yfoKuW.m3u8
 HUY TV,http://securelive.e-chinalife.com/live/NDyLPaUxBZf5J1mG3dzeNo4zhFFVr7Ih.m3u8
 now新闻台,http://securelive.e-chinalife.com/live/tvVIpKqSKSMYUggB9WKnI6dYCHdIRN4N.m3u8
