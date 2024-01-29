@@ -1,4 +1,7 @@
 港澳台,#genre#
+TVB功夫台,http://securelive.e-chinalife.com/live/gdZT5WV3ANOeVatRfIHLZGP9jKPnLo7M.m3u8
+NOW紫金台,http://securelive.e-chinalife.com/live/X35yxa5uZ59rzDMt58mXJjIPWt12rtRX.m3u8
+NOW爆谷台,http://securelive.e-chinalife.com/live/w46uAbpI4y7zH6t8KV8Obt1J4Jwn9ld6.m3u8
 NOW星影台,http://securelive.e-chinalife.com/live/L8vhTVTJJEf81xYA6283ycoV8f9FipAW.m3u8
 😝凤凰中文,http://securelive.e-chinalife.com/live/9pijnXS6TNdVpOsnSilNBZFZWTeRBxmp.m3u8
 凤凰资讯,http://securelive.e-chinalife.com/live/dNEGHasH89j7n3RCK02U1oRjVaGsNGe4.m3u8
@@ -9,7 +12,21 @@ NOW星影台,http://securelive.e-chinalife.com/live/L8vhTVTJJEf81xYA6283ycoV8f9F
 明珠台,http://securelive.e-chinalife.com/live/R2DV6elWMTke4GfxetrytxhxKTTVaEzc.m3u8
 TVB J2,http://securelive.e-chinalife.com/live/6aVORJsV9rm0atQFcUkS2FA5UMrS4Nyn.m3u8
 HOY资讯台,http://securelive.e-chinalife.com/live/wYvEfcCBYITsCNel2ij0uCKhLlbMisgn.m3u8
-国际财经台,
+国际财经台,http://securelive.e-chinalife.com/live/gFgQ88l8tE6SwmCLxUjOrnI0JWdETyhl.m3u8
+CN卡通频道,http://securelive.e-chinalife.com/live/8o9NUjNjZqA8YdkOvvGDEj3VJv7Vhxg5.m3u8
+有线娱乐,http://securelive.e-chinalife.com/live/L8vhTVTJJEf81xYA6283ycoV8f9FipAW.m3u8
+莲花卫视,http://securelive.e-chinalife.com/live/72MfeKtJ5LxdxGlXBnRV6uw0egBXPcA6.m3u8
+有线18台,http://securelive.e-chinalife.com/live/o1WXocUGNDdKPsnCMW6Yu4YvZ6yfoKuW.m3u8
+HUY TV,http://securelive.e-chinalife.com/live/NDyLPaUxBZf5J1mG3dzeNo4zhFFVr7Ih.m3u8
+now新闻台,http://securelive.e-chinalife.com/live/tvVIpKqSKSMYUggB9WKnI6dYCHdIRN4N.m3u8
+now体育台,http://securelive.e-chinalife.com/live/QAO3RYwEv6DW6OsOoKZwHurk6ZuU9Q4h.m3u8
+now财经台,http://securelive.e-chinalife.com/live/o7qPCUKu89301UJNUro7lvWArwEaPEBO.m3u8
+now直播台,http://securelive.e-chinalife.com/live/kiy2UVT8yp9XXOUsFzo8Wp2G7Xk5nVOe.m3u8
+viuTV,http://securelive.e-chinalife.com/live/orEEqbyKEP8IYSFZ6Scs7fVg9LN3j3Lx.m3u8
+viuTV6,http://securelive.e-chinalife.com/live/p7Ak5xlhv0bNsvRmhe3gPG1EDUM698c8.m3u8
+RTHK31,http://securelive.e-chinalife.com/live/I4xjxbfOJSeRUFf0oAo1CDyoLsg7RiXo.m3u8
+RTHK32,http://securelive.e-chinalife.com/live/p30iWIlgbCWAiU7FvHjDY8tEROqvYStv.m3u8
+TVB星河台,
 RTHK32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
 RTHK31,http://198.16.100.90:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 凤凰卫视,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
