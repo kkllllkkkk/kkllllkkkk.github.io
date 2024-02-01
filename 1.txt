@@ -923,6 +923,8 @@ TV星河,http://171.108.239.45:8181/tsfile/live/1012_1.m3u8?key=txiptv
 淮阴综合频道,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8?zjiangsd
 淮阴影院频道,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8?zjiangsd
 江西赣云,#genre#
+江西赣州,http://live02.jxtvcn.com.cn/live/ganyun_yongxiu.m3u8?t=&token=1
+江西赣州,http://live02.jxtvcn.com.cn/live/ganyun_yongxiu.m3u8?t=&token=a
 都昌新闻综合,http://live02.jxtvcn.com.cn/live/ganyun_duchang.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
 庐山综合,http://live02.jxtvcn.com.cn/live/ganyun_lushan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
 彭泽综合,http://live02.jxtvcn.com.cn/live/ganyun_pengze.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
