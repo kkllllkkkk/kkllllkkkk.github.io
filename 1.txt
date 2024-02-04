@@ -660,6 +660,11 @@ CCTV第一剧场,https://qingfeng.x10.mx/aodytv.php?id=dyjc
 乳山生活,https://qingfeng.x10.mx/iqilu.php?id=whrssh
 文登TV1,https://qingfeng.x10.mx/iqilu.php?id=whwd1
 文登TV2,https://qingfeng.x10.mx/iqilu.php?id=whwd2
+怀柔电视台,https://qingfeng.x10.mx/kmtv.php?id=hrtv
+齐齐哈尔新闻综合,https://qingfeng.x10.mx/kmtv.php?id=qqhe1
+齐齐哈尔经济法治,https://qingfeng.x10.mx/kmtv.php?id=qqhe2
+格尔木新闻综合,https://qingfeng.x10.mx/kmtv.php?id=gemxwzh
+青海卫视,https://qingfeng.x10.mx/kmtv.php?id=qhws
 ?浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江钱江都市,http://ali-vl.cztv.com/channels/lantian/channel002/360p.m3u8
 浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
