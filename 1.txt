@@ -1,3 +1,6 @@
+期货直播间,#genre#
+https://zb.52t.wang/,https://v06.2g.design/live/StreamA.flv?auth_key=1707931032-0-0-0eb214f24cf939040a5795bf6c6aa8a5
+https://nb.52t.wang/,https://v06.2g.design/live/StreamA.flv?auth_key=1707931457-0-0-fd8433c1b45f6681f614a643901ace4e
 youtube,#genre#
 CCTV中文国际,http://101.36.97.105:80/youtube.php?id=yscctvzhongwenguoji&p=123456admin
 大爱,http://101.36.97.105:80/youtube.php?id=twdaai&p=123456admin
