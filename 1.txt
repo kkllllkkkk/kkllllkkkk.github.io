@@ -1,6 +1,7 @@
 期货直播间,#genre#
 https://zb.52t.wang/,https://v06.2g.design/live/StreamA.flv?auth_key=1708452369-0-0-93a12da337dea07049e9a96decd0685a
 https://nb.52t.wang/,https://v06.2g.design/live/StreamA.flv?auth_key=1708452369-0-0-93a12da337dea07049e9a96decd0685a
+智库期货直播https://www.zhikulive.com/pc/index.html,https://stream-nws.csslcloud.net/src/33E50E03A4FE9B9B9C33DC5901307461.flv
 youtube,#genre#
 CCTV中文国际,http://101.36.97.105:80/youtube.php?id=yscctvzhongwenguoji&p=123456admin
 大爱,http://101.36.97.105:80/youtube.php?id=twdaai&p=123456admin
