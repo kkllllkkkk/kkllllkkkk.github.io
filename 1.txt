@@ -1325,6 +1325,16 @@ CGTN,http://47.93.26.134:80/bestv.php?id=cgtn
 空中课堂高一,http://47.93.26.134:80/bestv.php?id=kzktg1
 空中课堂高二,http://47.93.26.134:80/bestv.php?id=kzktg2
 空中课堂高三,http://47.93.26.134:80/bestv.php?id=kzktg3
+北京卫视,http://47.93.26.134:80/btv8k.php?id=bjws
+北京文艺(无效),http://47.93.26.134:80/btv8k.php?id=bjwy
+纪实科教,http://47.93.26.134:80/btv8k.php?id=bjjskj
+体育休闲(无效),http://47.93.26.134:80/btv8k.php?id=bjtyxx
+北京影视,http://47.93.26.134:80/btv8k.php?id=bjys
+北京财*,http://47.93.26.134:80/btv8k.php?id=bjcj
+北京新闻,http://47.93.26.134:80/btv8k.php?id=bjxw
+北京生活,http://47.93.26.134:80/btv8k.php?id=bjsh
+北京卡酷,http://47.93.26.134:80/btv8k.php?id=bjkk
+BRTV8K,http://47.93.26.134:80/btv8k.php?id=brtv8k
 高清央视卫视,#genre#
 cccv4k-1080P,http://qingfeng.x10.mx/ysp-2.php?id=cctv4k
 cctv8k-1080P,http://qingfeng.x10.mx/ysp-2.php?id=cctv8k
