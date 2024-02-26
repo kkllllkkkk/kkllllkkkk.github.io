@@ -6416,18 +6416,12 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 🇨🇳央视,#genre#
 CCTV-3,http://103.95.24.37:880/cctv3.m3u8
 CCTV-3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
-CCTV-3,http://api2.52tb.xyz/info?id=4&token=20230218zdxlqr
 CCTV-5,http://103.95.24.37:880/CCTV-5.m3u8
 CCTV-5,http://221.213.43.82:8888/newlive/live/hls/6/live.m3u8
-CCTV-5,http://api2.52tb.xyz/info?id=6&token=20230218zdxlqr
 CCTV-6,http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
-CCTV-6,http://api2.52tb.xyz/info?id=8&token=20230218zdxlqr
-CCTV-6,http://219.140.56.34:3333/tsfile/live/1006_1.m3u8
 CCTV-4,http://111.20.35.103:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?
-CCTV-4,http://111.59.63.32:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14少儿,http://220.180.229.250:9901/tsfile/live/0014_1.m3u8
 CCTV-14少儿,http://111.20.35.103:6610/yinhe/2/ch00000090990000001019/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-CCTV-14少儿,http://111.59.63.32:9901/tsfile/live/1021_1.m3u8
 CCTV-14少儿,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV-1综合,http://221.2.36.34:8888/newlive/live/hls/2/live.m3u8
 CCTV-1综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
@@ -6449,7 +6443,6 @@ CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/8888888
 CCTV-13新聞,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV PLUS LD (360p),http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
 CCTV5+HD,http://103.95.24.37:880/cctv5p.m3u8
-CCTV-17,http://api2.52tb.xyz/info?id=19&token=20230218zdxlqr
 CCTV-1HD,http://111.20.35.103:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-1HD,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 CCTV-1HD,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -6473,11 +6466,9 @@ CCTV-8电视剧,http://111.20.35.103:6610/yinhe/2/ch00000090990000001869/index.m
 CCTV-8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-9纪录,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-CCTV-9纪录,http://111.59.63.32:9901/tsfile/live/1016_1.m3u8
 CCTV-9纪录,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9纪录,http://111.20.35.103:6610/yinhe/2/ch00000090990000001023/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-10科教,http://111.20.35.103:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-10科教,http://111.59.63.32:9901/tsfile/live/1017_1.m3u8
 CCTV-10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10科教,http://111.20.35.103:6610/yinhe/2/ch00000090990000001011/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-10科教,http://222.240.82.92:9901/tsfile/live/0010_1.m3u8
@@ -6485,7 +6476,6 @@ CCTV-16奥林匹克,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv16_1/
 CCTV-16奥林匹克,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16奥林匹克,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17农业农村,http://111.20.35.103:6610/yinhe/2/ch00000090990000001301/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-CCTV-17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 CCTV-8,http://103.95.24.37:880/CCTV-8.m3u8
 CCTV-8,http://221.213.43.82:8888/newlive/live/hls/10/live.m3u8
 CCTV-3综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -6493,7 +6483,6 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://221.2.36.34:8888/newlive/live/hls/7/live.m3u8
 CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+,http://api2.52tb.xyz/info?id=7&token=20230218zdxlqr
 CCTV-04中文國際,http://111.20.35.103:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-07國防軍事,http://111.20.35.103:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#rtmp://202.204.52.116:1935/livetv/cctv7hd
 CCTV3综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
@@ -6503,12 +6492,9 @@ CCTV-01综合,http://111.20.35.103:6610/yinhe/2/ch00000090990000001068/index.m3u
 CCTV-01综合,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-11戏曲,http://111.59.63.32:9901/tsfile/live/1018_1.m3u8
 CCTV-11戏曲,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
 CCTV-15,http://103.95.24.37:880/CCTV-15.m3u8
 CCTV-15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-CCTV-15,http://api2.52tb.xyz/info?id=17&token=20230218zdxlqr
-CCTV-16,http://api2.52tb.xyz/info?id=18&token=20230218zdxlqr
 CCTV-7,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV5-体育,http://113.135.194.13:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5 3M1080,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
@@ -6521,7 +6507,6 @@ CCTV 10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226
 CCTV 13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV 16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-2财经,http://39.134.24.162/PLTV/88888888/224/3221225831/index.m3u8?12M
-CCTV-2财经,http://111.59.63.32:9901/tsfile/live/1009_1.m3u8
 CCTV-2财经,http://111.20.35.103:6610/yinhe/2/ch00000090990000001021/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-2财经,http://111.20.35.103:6610/yinhe/2/ch00000090990000001840/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -6549,8 +6534,6 @@ CCTV9,http://223.95.111.98:5555/newlive/live/hls/9/live.m3u8
 CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV 4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV7-军农,http://223.241.247.214:85//tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-02财经,http://113.200.53.90:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-04国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?CCTV4
 CCTV-06电影,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
 CCTV-06电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8?
@@ -6561,10 +6544,8 @@ CCTV-13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-13新闻,http://222.240.82.92:9901/tsfile/live/0013_1.m3u8
 CCTV-13新闻,https://cctvwbcdks.v.kcdnvip.com/cctvwbcd/cdrmcctv13_1/index.m3u8?b=200-2100
 CCTV-13新闻,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-13新闻,http://111.59.63.32:9901/tsfile/live/1020_1.m3u8
 CCTV-13新闻,http://221.2.36.34:8888/newlive/live/hls/15/live.m3u8
 CCTV-15音乐,http://39.134.24.161/PLTV/88888888/224/3221225636/index.m3u8
-CCTV-15音乐,http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
 CCTV12社会与法,http://117.40.212.162:8888/newlive/live/hls/14/live.m3u8
 CCTV14少儿,http://117.40.212.162:8888/newlive/live/hls/16/live.m3u8
 CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
