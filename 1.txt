@@ -146,7 +146,6 @@ ASTV亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u
 龙祥时代,https://edge1.laotv.la/live/Longxiang/sc-gaFECQ/v0_index.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
