@@ -3607,6 +3607,8 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 七仙岭温泉国家森林公园,https://gctxyc.liveplay.myqcloud.com/gc/cntv549-zbzg_1/index.m3u8
 海南热带雨林国家公园五指山片区,https://gctxyc.liveplay.myqcloud.com/gc/hkts08_1/index.m3u8
 白沙原生态茶园小镇,https://gctxyc.liveplay.myqcloud.com/gc/cntv548-zbzg_1/index.m3u8
+美国加利福尼亚圣地亚哥,#genre#
+
 美国加利福尼亚旧金山,#genre#
 209,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
 214,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
