@@ -1,7 +1,25 @@
-期货直播间,#genre#
-https://zb.52t.wang/,https://v06.2g.design/live/StreamA.flv?auth_key=1708452369-0-0-93a12da337dea07049e9a96decd0685a
-https://nb.52t.wang/,https://v06.2g.design/live/StreamA.flv?auth_key=1708452369-0-0-93a12da337dea07049e9a96decd0685a
-智库期货直播https://www.zhikulive.com/pc/index.html,https://stream-nws.csslcloud.net/src/33E50E03A4FE9B9B9C33DC5901307461.flv
+云南静态源,#genre#
+云南卫视http://dbiptv.sn.chinamobile.com ... 21225751/index.m3u8
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+云南国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
+福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
+麻栗坡,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+麻栗坡台,http://m3u8.channel.wsrtv.com.cn ... nel18/playlist.m3u8
+丘北新闻综合,http://m3u8.channel.wsrtv.com.cn ... nel14/playlist.m3u8
+文山市电视台,http://m3u8.channel.wsrtv.com.cn ... nel17/playlist.m3u8
+文山州公共,http://m3u8.channel.wsrtv.com.cn ... nnel8/playlist.m3u8
+文山综合,http://m3u8.channel.wsrtv.com.cn ... nnel7/playlist.m3u8
+文山综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+西双版纳1,http://file.xsbnrtv.cn/vms/video ... nnel1/playlist.m3u8
+西双版纳2,http://file.xsbnrtv.cn/vms/video ... nnel3/playlist.m3u8
+砚山频道,http://m3u8.channel.wsrtv.com.cn ... nel16/playlist.m3u8
+镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
+红河县综合,http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv?zyund
+红河州-1新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
 北京联通组播,#genre#
 CCTV1,http://111.193.236.11:4022/udp/239.3.1.1:8000
 CCTV2,http://111.193.236.11:4022/udp/239.3.1.2:8004
