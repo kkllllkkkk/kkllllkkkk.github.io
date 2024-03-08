@@ -3793,6 +3793,9 @@ CGTN俄语,http://qingfeng.x10.mx/yangshipin.php?name=CGTN俄语
 无锡都市资讯,http://qingfeng.hppro1.hpnu.cn/wx.php?id=wxtv3
 无锡生活,http://qingfeng.hppro1.hpnu.cn/wx.php?id=wxtv4
 无锡经济,http://qingfeng.hppro1.hpnu.cn/wx.php?id=wxtv5
+泰州-1,http://stream1.mytaizhou.net/xwzhnew/playlist.m3u8
+泰州-2,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
+泰州-3,http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 厦门1,http://qingfeng.hppro1.hpnu.cn/xm.php?id=xmws
 厦门2,http://qingfeng.hppro1.hpnu.cn/xm.php?id=xm1
 厦门3,http://qingfeng.hppro1.hpnu.cn/xm.php?id=xm2
