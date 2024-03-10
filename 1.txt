@@ -5773,6 +5773,14 @@ CGTN俄语,http://qingfeng.x10.mx/yangshipin.php?name=CGTN俄语
 四川卫视,http://qingfeng.x10.mx/yangshipin.php?name=四川卫视
 新疆卫视,http://qingfeng.x10.mx/yangshipin.php?name=新疆卫视
 海南卫视,http://qingfeng.x10.mx/yangshipin.php?name=海南卫视
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1710092422&k=95bc32dda169040baf767e1a8f9a4894
+河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1710092761&k=10f05ce502c5294b3fed2ad58df5a07e
+河北农民频道,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1710092922&k=32af3d6e3143a10e800caaea3cf293ae
+河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1710093044&k=2229d23cd4dfb8e90ccb530056122f39
+河北影视剧,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1710093091&k=36d029824aa398232171ca5ae92197e0
+河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1710093135&k=c400e4fb7a05c633c1c3f43ec30076cd
+河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1710093171&k=831e09e1f0370948d9d9ed1288b7504c
+河北三佳购物,https://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=1710093203&k=e59ba62d8bc8f7fae121d708951d8cff
 北京卫视,http://qingfeng.hppro1.hpnu.cn/btv8k.php?id=bjws
 纪实科教,http://qingfeng.hppro1.hpnu.cn/btv8k.php?id=bjjskj
 北京影视,http://qingfeng.hppro1.hpnu.cn/btv8k.php?id=bjys
