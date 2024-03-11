@@ -3802,24 +3802,6 @@ BTV冬奥纪实高清,http://111.193.236.11:4022/udp/239.3.1.243:8000
 4K超清,http://111.193.236.11:4022/udp/239.3.1.249:8001
 淘电影高清,http://111.193.236.11:4022/udp/239.3.1.250:8001
 大健康高清,http://111.193.236.11:4022/udp/239.3.1.251:8001
-央视投屏代理源,#genre#
-CCTV1,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv1
-CCTV2,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv2
-CCTV3,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv3
-CCTV4,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv4
-CCTV5,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv5
-CCTV6,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv6
-CCTV7,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv7
-CCTV8,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv8
-CCTV9,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv9
-CCTV10,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv10
-CCTV11,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv11
-CCTV12,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv12
-CCTV13,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv13
-CCTV14,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv14
-CCTV15,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv15
-CCTV16,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv16
-CCTV17,http://qingfeng.hppro1.hpnu.cn/toup.php?id=cctv17
 山东移动,#genre#
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
@@ -5328,7 +5310,6 @@ WION,http://43.224.33.165:8500/live.m3u8?c=107
 ABP Majha,http://43.224.33.165:8500/live.m3u8?c=108
 IndiaTV,http://43.224.33.165:8500/live.m3u8?c=109
 TV9 Marathi,http://43.224.33.165:8500/live.m3u8?c=110
-
 奥点云,#genre#
 铜陵公共,http://51938.hlsplay.aodianyun.com/tv_radio_51938/tv_channel_3457.m3u8?auth_key=4855259927-0-0-41ab8b5a0886447775bb9e4d2811c725&extra_key=cI8hTnpR8WFcQqIM0SRymtxVCFrQ-FCBLa9uFZMpSqrwP1crI5sY1CSmQMfbpmMRFPmMFYlVYDndRAztcPZ1v9QL0CTddubz4DwT7DS0h1_XkzBleYy6Lgb-ih5Au5cAEQgpV-MJiFB3Oyge-lrj-KZmR4nVwNtzVgHVLOWNS50
 铜陵科技,http://51938.hlsplay.aodianyun.com/tv_radio_51938/tv_channel_3456.m3u8?auth_key=4855259682-0-0-a046aba59253554ac5a705b29d38ec53&extra_key=tgTYeJPFoKl6L2oTJzsVhQB57DXYbDqezEb8MskHVg14rXrg_Xu2v9FmDv83PaGm58WAe7SOIEPle3rp17WiJ4YDMG5Pbwja9tzrw0b174UxcfHXuK3SJ0AHdj4goCprj3tB4lmgacn2ACJU72OxUMtqJH__oQnMSYuOC2rOrOE
