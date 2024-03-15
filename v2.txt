@@ -335,6 +335,8 @@ hy2://de521ccd-0b3b-4616-a04f-c06cc4b3b077@b26.ntbq.dynu.net:8886/?sni=b26.ntbq.
 hy2://de521ccd-0b3b-4616-a04f-c06cc4b3b077@b37.ntbq.dynu.net:8886/?sni=b37.ntbq.dynu.net#TW-%E6%9D%BF%E6%A1%A53-7%28HY2%29
 hy2://de521ccd-0b3b-4616-a04f-c06cc4b3b077@ty16.twty.dynu.net:8882/?sni=ty16.twty.dynu.net#TW-%E6%A1%83%E5%9B%AD1-6%28HY2%29
 hy2://de521ccd-0b3b-4616-a04f-c06cc4b3b077@ty17.twty.dynu.net:8991/?sni=ty17.twty.dynu.net#TW-%E6%A1%83%E5%9B%AD1-7%28HY2%29
+hy2://a4fe8358-b8d1-4ad2-bb07-391efb675ec2@54.168.247.161:443/?insecure=1&sni=www.baidu.com#%E5%B0%8F%E6%97%A5%E6%9C%AC%F0%9F%87%AF%F0%9F%87%B502
+hy2://a4fe8358-b8d1-4ad2-bb07-391efb675ec2@176.97.210.253:443/?insecure=1&sni=www.microsoft.com#%E8%8D%B7%E5%85%B0%F0%9F%87%B3%F0%9F%87%B102
 hysteria://www2.dtku48.xyz:22334?upmbps=50&downmbps=80&auth=dongtaiwang.com&mport=22334&insecure=1&alpn=h3#Taiwan%20hy%206
 hysteria2://28d90acf-082a-43d6-b61c-5dd66b52fb3b@208.87.243.191:443/?insecure=1&sni=www.microsoft.com#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A499.3%20GB
 hysteria2://28d90acf-082a-43d6-b61c-5dd66b52fb3b@208.87.243.191:443/?insecure=1&sni=www.microsoft.com#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2024-04-09
