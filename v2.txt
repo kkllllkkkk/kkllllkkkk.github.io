@@ -349,6 +349,10 @@ hysteria2://28d90acf-082a-43d6-b61c-5dd66b52fb3b@94.177.131.58:443/?insecure=1&s
 hysteria2://28d90acf-082a-43d6-b61c-5dd66b52fb3b@205.178.183.164:443/?insecure=1&sni=www.microsoft.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1
 hysteria2://28d90acf-082a-43d6-b61c-5dd66b52fb3b@176.97.210.253:443/?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0
 hysteria2://28d90acf-082a-43d6-b61c-5dd66b52fb3b@51.158.30.254:443/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20Hy2
+sn://config?eNp9kDFqwzAUhlXIlFMYzbGJlcZWOxVyhUBG82y_uAZHMdJzgigZcojsGbuWDl16iF4kd6hkZ_AUBA_08396H2KMsVik0dydLzlh7MkFf5OPaRDwFow57nXJXwO-lIt5nG7zMC1EET6_uAGYFOEyRym2izIHiXzmKYP6gNozZOMkoiPZqLSqixTSuJG1e02uJqUUfUxQeWqNDVYadrfr7-3ns5_fwdsGVLWCOpPDE9QY1_WW7oIK8ga9JukOZ0N4X6Jghw9cXLFWBotO4x134WlYYduefLeGUNcg-PTkP-cyFltvsjgZ2Z3P_2XAag0
+hy2://22958e49-562b-4cce-9d1b-13d9b907029f@hk1.xiaoliyu.cyou:28400/?insecure=1#%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0
+hy2://22958e49-562b-4cce-9d1b-13d9b907029f@au1.xiaoliyu.cyou:32454/?insecure=1#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%F0%9F%87%A6%F0%9F%87%BA01
+hy2://22958e49-562b-4cce-9d1b-13d9b907029f@kr1.xiaoliyu.cyou:26746/?insecure=1#%E6%B3%A1%E8%8F%9C%E5%9B%BD%F0%9F%87%B0%F0%9F%87%B701
 hy2://dongtaiwang.com@51.159.77.153:33390?insecure=1&sni=bing.com#France%20hy2%207
 hysteria://51.158.54.46:55396?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=youku.com&alpn=h3#France%20hy%200
 hysteria://173.234.25.52:48919?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#United%20States%20hy%201
