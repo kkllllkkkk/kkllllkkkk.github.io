@@ -7226,6 +7226,15 @@ BRTV8K,http://qingfeng.hppro1.hpnu.cn/btv8k.php?id=brtv8k
 九江新闻综合,http://111.31.107.123/1.v.smtcdns.net/live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8?t=&token=1
 九江公共,http://111.31.107.123/1.v.smtcdns.net/live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8?t=&token=1
 九江教育,http://111.31.107.123/1.v.smtcdns.net/live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8?t=&token=1
+贵州卫视,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzws
+贵州公共,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzgg
+贵州影视,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzwy
+贵州生活,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzsh
+贵州法制,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzfz
+贵州科教,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzkj
+贵州经济,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzjj
+贵州家有购物,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzjygw
+贵州移动,http://qingfeng.hppro1.hpnu.cn/gztv.php?id=gzyd
 北京_怀柔,http://qingfeng.hppro1.hpnu.cn/Tianma.php?id=bjhr
 广东_广州综合,http://qingfeng.hppro1.hpnu.cn/Tianma.php?id=gzzh
 广东_广州新闻,http://qingfeng.hppro1.hpnu.cn/Tianma.php?id=gzxw
