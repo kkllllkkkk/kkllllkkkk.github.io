@@ -1,3 +1,10 @@
+trojan://a2db6566-32c7-4e6e-89d7-b258ff55959f@b24.ntbq.dynu.net:3271/?type=tcp&security=tls&sni=b24.ntbq.dynu.net&allowInsecure=1&fp=chrome#%E4%B8%AD%E5%9B%BD%20-%20%E5%8F%B0%E6%B9%BE%20-%20Chunghwa%20Telecom%20Co.%2C%20Ltd.%20-%203
+trojan://645f0af0-dec8-48db-862f-82b6346408b4@b12.ntbq.dynu.net:9755/?type=tcp&security=tls&sni=b12.ntbq.dynu.net&allowInsecure=1&fp=chrome#%E4%B8%AD%E5%9B%BD%20-%20%E5%8F%B0%E6%B9%BE%20-%20Chunghwa%20Telecom%20Co.%2C%20Ltd.%20-%2010
+trojan://8258210b-4b61-4d96-be4f-4e6be911a6e7@ty12t.twty.dynu.net:18912/?type=tcp&security=tls&sni=ty12t.twty.dynu.net&allowInsecure=1&fp=chrome#%E4%B8%AD%E5%9B%BD%20-%20%E5%8F%B0%E6%B9%BE%20-%20Chunghwa%20Telecom%20Co.%2C%20Ltd.%20-%2011
+trojan://645f0af0-dec8-48db-862f-82b6346408b4@ty12t.twty.dynu.net:18912/?type=tcp&security=tls&sni=ty12t.twty.dynu.net&allowInsecure=1&fp=chrome#%E4%B8%AD%E5%9B%BD%20-%20%E5%8F%B0%E6%B9%BE%20-%20Chunghwa%20Telecom%20Co.%2C%20Ltd.%20-%205
+trojan://8258210b-4b61-4d96-be4f-4e6be911a6e7@b12.ntbq.dynu.net:9755/?type=tcp&security=tls&sni=b12.ntbq.dynu.net&allowInsecure=1&fp=chrome#%E4%B8%AD%E5%9B%BD%20-%20%E5%8F%B0%E6%B9%BE%20-%20Chunghwa%20Telecom%20Co.%2C%20Ltd.%20-%2012
+trojan://a2db6566-32c7-4e6e-89d7-b258ff55959f@ty12t.twty.dynu.net:18912/?type=tcp&security=tls&sni=ty12t.twty.dynu.net&allowInsecure=1&fp=chrome#%E4%B8%AD%E5%9B%BD%20-%20%E5%8F%B0%E6%B9%BE%20-%20Chunghwa%20Telecom%20Co.%2C%20Ltd.%20-%206
+trojan://645f0af0-dec8-48db-862f-82b6346408b4@b22.ntbq.dynu.net:19489/?type=tcp&security=tls&sni=b22.ntbq.dynu.net&allowInsecure=1&fp=chrome#%E4%B8%AD%E5%9B%BD%20-%20%E5%8F%B0%E6%B9%BE%20-%20Chunghwa%20Telecom%20Co.%2C%20Ltd.%20-%207
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.137.230:7307#%F0%9F%87%BA%F0%9F%87%B8US_7307%20%40WangCai_8
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.105:3306#%F0%9F%87%BA%F0%9F%87%B8US_3306%20%40WangCai_8
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.230:5004#%F0%9F%87%BA%F0%9F%87%B8US_5004%20%40WangCai_8
