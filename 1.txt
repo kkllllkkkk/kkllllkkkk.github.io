@@ -7629,6 +7629,16 @@ CGTN俄语,http://qingfeng.x10.mx/yangshipin.php?name=CGTN俄语
 四川卫视,http://qingfeng.x10.mx/yangshipin.php?name=四川卫视
 新疆卫视,http://qingfeng.x10.mx/yangshipin.php?name=新疆卫视
 海南卫视,http://qingfeng.x10.mx/yangshipin.php?name=海南卫视
+浙江卫视,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjws
+浙江钱江,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjqj
+浙江经济生活,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjjjsh
+浙江教科影视,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjjkys
+浙江民生休闲,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjmsxx
+浙江新闻,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjxw
+浙江少儿,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjse
+浙江国际,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjgj
+浙江好易购,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjhyg
+浙江之江纪录,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjzjjl
 汕头综合HD1,https://stqznews.top/tv/live/stzhhd.php 
 汕头经济HD1,https://stqznews.top/tv/live/stjjhd.php
 汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8?key=txiptv&playlive=1&authid=0
