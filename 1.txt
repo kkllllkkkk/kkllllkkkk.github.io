@@ -7394,6 +7394,11 @@ CGTN俄语,http://qingfeng.x10.mx/yangshipin.php?name=CGTN俄语
 四川卫视,http://qingfeng.x10.mx/yangshipin.php?name=四川卫视
 新疆卫视,http://qingfeng.x10.mx/yangshipin.php?name=新疆卫视
 海南卫视,http://qingfeng.x10.mx/yangshipin.php?name=海南卫视
+汕头综合HD1,https://stqznews.top/tv/live/stzhhd.php 
+汕头经济HD1,https://stqznews.top/tv/live/stjjhd.php
+汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8?key=txiptv&playlive=1&authid=0
+汕头二台,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0
+汕头三台,http://183.237.246.14:9931/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://qingfeng.hppro1.hpnu.cn/gd.php?id=gdws
 广东珠江,http://qingfeng.hppro1.hpnu.cn/gd.php?id=gdzj
 广东新闻,http://qingfeng.hppro1.hpnu.cn/gd.php?id=gdxw
