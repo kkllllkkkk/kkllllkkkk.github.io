@@ -7629,6 +7629,7 @@ CGTN俄语,http://qingfeng.x10.mx/yangshipin.php?name=CGTN俄语
 四川卫视,http://qingfeng.x10.mx/yangshipin.php?name=四川卫视
 新疆卫视,http://qingfeng.x10.mx/yangshipin.php?name=新疆卫视
 海南卫视,http://qingfeng.x10.mx/yangshipin.php?name=海南卫视
+柯桥新闻综合PHP,http://qingfeng.hppro1.hpnu.cn/keqiao.php
 浙江卫视,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjws
 浙江钱江,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjqj
 浙江经济生活,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjjjsh
