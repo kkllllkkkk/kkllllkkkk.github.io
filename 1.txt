@@ -8316,6 +8316,9 @@ CCTV第一剧场,http://qingfeng.hppro1.hpnu.cn/aodytv.php?id=dyjc
 南昌7,http://qingfeng.hppro1.hpnu.cn/nanchang.php?id=7
 南昌8,http://qingfeng.hppro1.hpnu.cn/nanchang.php?id=8
 南昌9,http://qingfeng.hppro1.hpnu.cn/nanchang.php?id=9
+桂林新闻综合https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=33&appscheme=gdmm-zaiguilin
+桂林科教旅游https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=35&appscheme=gdmm-zaiguilin
+桂林公共https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=34&appscheme=gdmm-zaiguilin
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8
 通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
