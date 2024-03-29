@@ -7630,6 +7630,9 @@ CGTN俄语,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=CGTN俄语
 新疆卫视,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=新疆卫视
 海南卫视,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=海南卫视
 柯桥新闻综合PHP,http://qingfeng.hppro1.hpnu.cn/keqiao.php
+桂林新闻综合,http://qingfeng.hppro1.hpnu.cn/gl.php?id=xwzh
+桂林公共,http://qingfeng.hppro1.hpnu.cn/gl.php?id=glgg
+桂林科教旅游,http://qingfeng.hppro1.hpnu.cn/gl.php?id=glkj
 浙江卫视,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjws
 浙江钱江,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjqj
 浙江经济生活,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjjjsh
