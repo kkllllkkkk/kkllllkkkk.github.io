@@ -7692,6 +7692,11 @@ CGTN俄语,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=CGTN俄语
 四川卫视,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=四川卫视
 新疆卫视,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=新疆卫视
 海南卫视,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=海南卫视
+娄底综合,http://qingfeng.hppro1.hpnu.cn/lu.php?id=ldzh
+湖南卫视,http://qingfeng.hppro1.hpnu.cn/lu.php?id=hnws
+CCTV13,http://qingfeng.hppro1.hpnu.cn/lu.php?id=cctv13
+CCTV5,http://qingfeng.hppro1.hpnu.cn/lu.php?id=cctv5
+CCTV1,http://qingfeng.hppro1.hpnu.cn/lu.php?id=cctv1
 柯桥新闻综合PHP,http://qingfeng.hppro1.hpnu.cn/keqiao.php
 桂林新闻综合,http://qingfeng.hppro1.hpnu.cn/gl.php?id=xwzh
 桂林公共,http://qingfeng.hppro1.hpnu.cn/gl.php?id=glgg
