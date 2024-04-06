@@ -1,7 +1,7 @@
 期货直播间,#genre#
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/0_Pjg-NjojTiJMJA.m3u8
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-15.talk-fun.com/live/0_Pjg-NjojTiJMJA.m3u8
-新湖南云,#genre
+新湖南云,#genre#
 桂阳新闻综合,http://qingfeng.hppro1.hpnu.cn/新湖南云.php?id=7
 邵东电视台,http://qingfeng.hppro1.hpnu.cn/新湖南云.php?id=13
 中方县电视台,http://qingfeng.hppro1.hpnu.cn/新湖南云.php?id=18
