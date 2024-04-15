@@ -9366,6 +9366,12 @@ CGTN俄语,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=CGTN俄语
 影视频道,https://live.ahsx.ahtv.cn/live/ystv.m3u8?txSecret=04f4df21c1acbe136972606ec0e0b820&txTime=6955487F
 综艺体育,https://live.ahsx.ahtv.cn/live/zytytv.m3u8?txSecret=60b1fa7f6d8558da8445c5315a16eca9&txTime=6955487F
 国际频道,https://live.ahsx.ahtv.cn/live/gjtv.m3u8?txSecret=a01a318e234cbd28375d91ed3d145637&txTime=6955487F
+东方卫视,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=dfws
+上海新闻综合,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=shxwzh
+上海都市,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=shds
+第1财*,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=dycj
+上海纪实人文,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=jsrw
+哈哈炫动,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=hhxd
 安徽卫视,http://qingfeng.hppro1.hpnu.cn/anhuishiting.php?id=szws
 经济生活,http://qingfeng.hppro1.hpnu.cn/anhuishiting.php?id=ahsh
 公共频道,http://qingfeng.hppro1.hpnu.cn/anhuishiting.php?id=ahgg
