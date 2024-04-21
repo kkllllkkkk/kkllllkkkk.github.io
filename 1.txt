@@ -16984,13 +16984,6 @@ CGTN俄语,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=CGTN俄语
 四川卫视,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=四川卫视
 新疆卫视,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=新疆卫视
 海南卫视,http://qingfeng.hppro1.hpnu.cn/yangshipin.php?name=海南卫视
-安徽卫视,https://live.ahsx.ahtv.cn/live/ahtv.m3u8?txSecret=a069b18fac6cd605568d3733d24e5613&txTime=6955487F
-经济生活,https://live.ahsx.ahtv.cn/live/jjshtv.m3u8?txSecret=4f0326a07141810dd8772716d3dcc27b&txTime=6955487F
-公共频道,https://live.ahsx.ahtv.cn/live/ggtv.m3u8?txSecret=1ba104a5183796c21ef53d4029e8153a&txTime=6955487F
-农业科教,https://live.ahsx.ahtv.cn/live/nykjtv.m3u8?txSecret=acb52e311eb9b41d3bd39947e03e3de2&txTime=6955487F
-影视频道,https://live.ahsx.ahtv.cn/live/ystv.m3u8?txSecret=04f4df21c1acbe136972606ec0e0b820&txTime=6955487F
-综艺体育,https://live.ahsx.ahtv.cn/live/zytytv.m3u8?txSecret=60b1fa7f6d8558da8445c5315a16eca9&txTime=6955487F
-国际频道,https://live.ahsx.ahtv.cn/live/gjtv.m3u8?txSecret=a01a318e234cbd28375d91ed3d145637&txTime=6955487F
 东方卫视,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=dfws
 上海新闻综合,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=shxwzh
 上海都市,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=shds
@@ -17049,11 +17042,6 @@ CCTV1,http://qingfeng.hppro1.hpnu.cn/lu.php?id=cctv1
 浙江国际,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjgj
 浙江好易购,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjhyg
 浙江之江纪录,http://qingfeng.hppro1.hpnu.cn/zhejiang.php?id=zjzjjl
-汕头综合HD1,https://stqznews.top/tv/live/stzhhd.php 
-汕头经济HD1,https://stqznews.top/tv/live/stjjhd.php
-汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8?key=txiptv&playlive=1&authid=0
-汕头二台,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0
-汕头三台,http://183.237.246.14:9931/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://qingfeng.hppro1.hpnu.cn/gd.php?id=gdws
 广东珠江,http://qingfeng.hppro1.hpnu.cn/gd.php?id=gdzj
 广东新闻,http://qingfeng.hppro1.hpnu.cn/gd.php?id=gdxw
@@ -17118,9 +17106,6 @@ CCTV1,http://qingfeng.hppro1.hpnu.cn/lu.php?id=cctv1
 邯郸科技教育频道,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8
 邯郸电视台公共频道,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
 邯郸电视台新闻综合频道,http://live.hd.hdbs.cn/video/s10001-2021hdxwzh/index.m3u8
-沧州三套影视娱乐,http://czlive.czgd.tv:8091/live/czst_czstzm.m3u8
-沧州一套新闻综合,http://czlive.czgd.tv:8091/live/czyt_czytzm.m3u8
-沧州二套公共频道,http://czlive.czgd.tv:8091/live/czet_czetzm.m3u8
 石家庄娱乐频道,http://pluslive1.sjzntv.cn/yule/HD2/live.m3u8
 石家庄生活频道,http://pluslive1.sjzntv.cn/shenghuo/HD3/live.m3u8
 石家庄都市频道,http://pluslive1.sjzntv.cn/shenghuo/HD3/live.m3u8
