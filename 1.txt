@@ -1,6 +1,6 @@
 期货直播间,#genre#
-期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/0_Pjg-NjojTiJMJA.m3u8
-期货之家http://www.niuxiansheng.xyz/,https://live-pull-15.talk-fun.com/live/0_Pjg-NjojTiJMJA.m3u8
+期货之家http://www.niuxiansheng.xyz/,https://live-lpull-15.talk-fun.com/live/0_PDQ_PDYjTiJMJA.m3u8
+期货之家http://www.niuxiansheng.xyz/,https://live-lpull-15.talk-fun.com/live/0_PDQ_PDYjTiJMJA.m3u8
 【BesTV测试】,#genre#
 CCTV-1综合,http://123.6.102.32:11789/770.php?id=cctv1hd8m/8000000.m3u8
 CCTV-2财经,http://123.6.102.32:11789/770.php?id=cctv2hd8m/8000000.m3u8
