@@ -19182,7 +19182,7 @@ CGTN俄语,http://qingfeng.hppro1.hpnu.cn/ysp切片1.php?id=cgtnr&cdn=tx
 新疆卫视,http://qingfeng.hppro1.hpnu.cn/ysp切片1.php?id=xjws&cdn=tx
 海南卫视,http://qingfeng.hppro1.hpnu.cn/ysp切片1.php?id=hinws&cdn=tx
 兵团卫视,http://qingfeng.hppro1.hpnu.cn/ysp切片1.php?id=btws&cdn=tx
-黑龙江,#genre#
+YSP静态,#genre#
 CCTV1,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 CCTV3,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
@@ -19249,6 +19249,7 @@ CGTN俄语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2
 新疆卫视,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
 海南卫视,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
 兵团卫视,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022606701.m3u8
+黑龙江,#genre#
 cccv-4k,http://qingfeng.hppro1.hpnu.cn/ysp切片.php?id=cctv4k
 cccv-8k,http://qingfeng.hppro1.hpnu.cn/ysp切片.php?id=cctv8k
 cccv1,http://qingfeng.hppro1.hpnu.cn/ysp切片.php?id=cctv1
