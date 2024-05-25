@@ -18751,7 +18751,24 @@ CGTN俄语,http://tvbox.netsite.cc/proxy/619133474/619133474.m3u8
 浙江卫视,http://tvbox.netsite.cc/proxy/1076829733/1076829733.m3u8
 山东卫视,http://tvbox.netsite.cc/proxy/1400078770/1400078770.m3u8
 河北卫视,http://tvbox.netsite.cc/proxy/1385861493/1385861493.m3u8
-内蒙古卫视,http://tvbox.netsite.cc/proxy/1149350272/1149350272.m3u8                                                                                                          补下卫视
+内蒙古卫视,http://tvbox.netsite.cc/proxy/1149350272/1149350272.m3u8
+江苏城市,http://dp.sxtv.top:88/2b/migu.php?id=jscs
+江苏综艺,http://dp.sxtv.top:88/2b/migu.php?id=jszy
+江苏影视,http://dp.sxtv.top:88/2b/migu.php?id=jsys
+江苏公共新闻,http://dp.sxtv.top:88/2b/migu.php?id=jsggxw
+江苏国际,http://dp.sxtv.top:88/2b/migu.php?id=jsgj
+江苏教育,http://dp.sxtv.top:88/2b/migu.php?id=jsjy
+江苏体育休闲,http://dp.sxtv.top:88/2b/migu.php?id=jstyxx
+优漫卡通,http://dp.sxtv.top:88/2b/migu.php?id=ymkt
+南京新闻综合,http://dp.sxtv.top:88/2b/migu.php?id=njxwzh
+南京教科,http://dp.sxtv.top:88/2b/migu.php?id=njkj
+南京十八,http://dp.sxtv.top:88/2b/migu.php?id=njsb
+淮安新闻综合,http://dp.sxtv.top:88/2b/migu.php?id=haxwzh
+连云港新闻综合,http://dp.sxtv.top:88/2b/migu.php?id=lygxwzh
+苏州新闻综合,http://dp.sxtv.top:88/2b/migu.php?id=szxwzh
+泰州新闻综合,http://dp.sxtv.top:88/2b/migu.php?id=tzxwzh
+宿迁新闻综合,http://dp.sxtv.top:88/2b/migu.php?id=sqxwzh
+徐州新闻综合,http://dp.sxtv.top:88/2b/migu.php?id=xzxwzh
 湖南经视,http://qingfeng.hppro1.hpnu.cn/湖南某果tv代理.php?id=hnjs  
 湖南娱乐,http://qingfeng.hppro1.hpnu.cn/湖南某果tv代理.php?id=hnyl  
 湖南电影,http://qingfeng.hppro1.hpnu.cn/湖南某果tv代理.php?id=hndy  
