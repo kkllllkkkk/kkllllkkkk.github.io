@@ -19149,6 +19149,15 @@ CGTN俄语,http://tvbox.netsite.cc/proxy/619133474/619133474.m3u8
 湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
+陕西卫视,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=sxws
+农林卫视,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=nlws
+陕西新闻资讯,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=sxxwzx
+陕西都市青春,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=sxdsqc
+陕西生活,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=sxsh
+陕西公共,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=sxgg
+陕西乐家购物,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=ljgw
+陕西体育休闲,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=sxtyxx
+陕西移动,http://qingfeng.hppro1.hpnu.cn/陕西.php?id=sxyd
 东方卫视,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=dfws
 上海新闻综合,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=shxwzh
 上海都市,http://qingfeng.hppro1.hpnu.cn/上海代理.php?id=shds
