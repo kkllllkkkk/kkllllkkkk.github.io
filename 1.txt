@@ -19239,6 +19239,13 @@ B站番剧,http://222.211.73.100:15833/jsyd/jsyd.php?id=lunbo15
 邳州综艺,http://222.211.73.100:15833/jsyd/jsyd.php?id=邳pzzy
 赣榆新闻综合,http://222.211.73.100:15833/jsyd/jsyd.php?id=gyxwzh
 江苏仪化电视,http://222.211.73.100:15833/jsyd/jsyd.php?id=lunbo01
+佛山综合,http://qingfeng.hppro1.hpnu.cn/佛山.php?id=fszh
+佛山影视,http://qingfeng.hppro1.hpnu.cn/佛山.php?id=fsys
+佛山公共,http://qingfeng.hppro1.hpnu.cn/佛山.php?id=fsgg
+佛山南海,http://qingfeng.hppro1.hpnu.cn/佛山.php?id=fsnh
+佛山顺德,http://qingfeng.hppro1.hpnu.cn/佛山.php?id=fssd
+佛山高明,http://qingfeng.hppro1.hpnu.cn/佛山.php?id=fsgm
+佛山三水,http://qingfeng.hppro1.hpnu.cn/佛山.php?id=fsss
 澳视澳门.720,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 澳视卫星.720,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 澳门体育.720,http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
