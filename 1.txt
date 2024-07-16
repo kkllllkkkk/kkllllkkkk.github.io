@@ -1,329 +1,229 @@
 期货直播间,#genre#
 期货之家http://www.niuxiansheng.xyz/,https://live-lpull-15.talk-fun.com/live/0_PDQ_PDYjTiJMJA.m3u8
 期货之家http://www.niuxiansheng.xyz/,https://live-lpull-15.talk-fun.com/live/0_PDQ_PDYjTiJMJA.m3u8
-油管直播源,#genre#
-中天新闻,http://gofuxkyourself.online:2086/live.m3u8?c=2
-中天新聞2台,http://gofuxkyourself.online:2086/live.m3u8?c=3
-中天新聞,http://gofuxkyourself.online:2086/live.m3u8?c=4
-民視新聞,http://gofuxkyourself.online:2086/live.m3u8?c=5
-TVBS新聞,http://gofuxkyourself.online:2086/live.m3u8?c=6
-寰宇新闻,http://gofuxkyourself.online:2086/live.m3u8?c=7
-寰宇新聞台灣台,http://gofuxkyourself.online:2086/live.m3u8?c=8
-東森財經,http://gofuxkyourself.online:2086/live.m3u8?c=9
-華視新聞,http://gofuxkyourself.online:2086/live.m3u8?c=10
-台視新聞,http://gofuxkyourself.online:2086/live.m3u8?c=11
-台視新聞,http://gofuxkyourself.online:2086/live.m3u8?c=12
-中視新聞,http://gofuxkyourself.online:2086/live.m3u8?c=13
-公視新聞,http://gofuxkyourself.online:2086/live.m3u8?c=14
-鏡新聞mnews,http://gofuxkyourself.online:2086/live.m3u8?c=15
-TaiwanPlus,http://gofuxkyourself.online:2086/live.m3u8?c=16
-大愛一臺,http://gofuxkyourself.online:2086/live.m3u8?c=17
-Euronews English,http://gofuxkyourself.online:2086/live.m3u8?c=18
-三立新聞,http://gofuxkyourself.online:2086/live.m3u8?c=19
-三立+,http://gofuxkyourself.online:2086/live.m3u8?c=20
-GB News,http://gofuxkyourself.online:2086/live.m3u8?c=21
-公視,http://gofuxkyourself.online:2086/live.m3u8?c=22
-東森購物2,http://gofuxkyourself.online:2086/live.m3u8?c=23
-東森購物1,http://gofuxkyourself.online:2086/live.m3u8?c=24
-中天亞洲,http://gofuxkyourself.online:2086/live.m3u8?c=25
-豬哥會社,http://gofuxkyourself.online:2086/live.m3u8?c=26
-東森購物3,http://gofuxkyourself.online:2086/live.m3u8?c=27
-MOMO購物1,http://gofuxkyourself.online:2086/live.m3u8?c=28
-MOMO購物2,http://gofuxkyourself.online:2086/live.m3u8?c=29
-國會頻道１,http://gofuxkyourself.online:2086/live.m3u8?c=30
-國會頻道2,http://gofuxkyourself.online:2086/live.m3u8?c=31
-台灣地震監視,http://gofuxkyourself.online:2086/live.m3u8?c=32
-中視經典綜藝,http://gofuxkyourself.online:2086/live.m3u8?c=33
-三立新聞,http://gofuxkyourself.online:2086/live.m3u8?c=34
-三立+,http://gofuxkyourself.online:2086/live.m3u8?c=35
-DW德國之聲,http://gofuxkyourself.online:2086/live.m3u8?c=36
-TRTWORLD,http://gofuxkyourself.online:2086/live.m3u8?c=37
-Bloomberg Financial,http://gofuxkyourself.online:2086/live.m3u8?c=38
-Al Jazeera,http://gofuxkyourself.online:2086/live.m3u8?c=39
-Bloomberg Quicktake,http://gofuxkyourself.online:2086/live.m3u8?c=40
-Euronews English,http://gofuxkyourself.online:2086/live.m3u8?c=41
-United Nations,http://gofuxkyourself.online:2086/live.m3u8?c=42
-CANAL 24,http://gofuxkyourself.online:2086/live.m3u8?c=43
-Channels,http://gofuxkyourself.online:2086/live.m3u8?c=44
-TaiwanPlus,http://gofuxkyourself.online:2086/live.m3u8?c=45
-NASA TV,http://gofuxkyourself.online:2086/live.m3u8?c=46
-NASA Live,http://gofuxkyourself.online:2086/live.m3u8?c=47
-動物世界,http://gofuxkyourself.online:2086/live.m3u8?c=48
-Leigha Marina,http://gofuxkyourself.online:2086/live.m3u8?c=49
-桃九郎Z,http://gofuxkyourself.online:2086/live.m3u8?c=50
-Spidey,http://gofuxkyourself.online:2086/live.m3u8?c=51
-Bluey,http://gofuxkyourself.online:2086/live.m3u8?c=52
-Disney Junior,http://gofuxkyourself.online:2086/live.m3u8?c=53
-Hits Radio,http://gofuxkyourself.online:2086/live.m3u8?c=54
-Unbelievable Beauty,http://gofuxkyourself.online:2086/live.m3u8?c=55
-Relaxing Jazz Piano,http://gofuxkyourself.online:2086/live.m3u8?c=56
-輕鬆音樂,http://gofuxkyourself.online:2086/live.m3u8?c=57
-One World Radio,http://gofuxkyourself.online:2086/live.m3u8?c=58
-8FM,http://gofuxkyourself.online:2086/live.m3u8?c=59
-Lofi Hip Hop,http://gofuxkyourself.online:2086/live.m3u8?c=60
-華語經典,http://gofuxkyourself.online:2086/live.m3u8?c=61
-自然の音,http://gofuxkyourself.online:2086/live.m3u8?c=62
-4K Nature,http://gofuxkyourself.online:2086/live.m3u8?c=63
-Coffee Jazz,http://gofuxkyourself.online:2086/live.m3u8?c=64
-Space Ambient,http://gofuxkyourself.online:2086/live.m3u8?c=65
-Rolling Cam Venice,http://gofuxkyourself.online:2086/live.m3u8?c=66
-大愛一臺,http://gofuxkyourself.online:2086/live.m3u8?c=67
-大愛二臺,http://gofuxkyourself.online:2086/live.m3u8?c=68
-Baroque Live Music,http://gofuxkyourself.online:2086/live.m3u8?c=69
-Good Life Radio,http://gofuxkyourself.online:2086/live.m3u8?c=70
-Rainy Jazz,http://gofuxkyourself.online:2086/live.m3u8?c=71
-Sleeping Music,http://gofuxkyourself.online:2086/live.m3u8?c=72
-Relaxing Piano Collection,http://gofuxkyourself.online:2086/live.m3u8?c=73
-華藏電視,http://gofuxkyourself.online:2086/live.m3u8?c=74
-音樂電台,http://gofuxkyourself.online:2086/live.m3u8?c=75
-Global Prayer,http://gofuxkyourself.online:2086/live.m3u8?c=76
-正德電視,http://gofuxkyourself.online:2086/live.m3u8?c=77
-SupremeMasterTV,http://gofuxkyourself.online:2086/live.m3u8?c=78
-鳥鳴音樂,http://gofuxkyourself.online:2086/live.m3u8?c=79
-CCTV4,http://gofuxkyourself.online:2086/live.m3u8?c=80
-JapaNews24,http://gofuxkyourself.online:2086/live.m3u8?c=81
-KANSAI News24,http://gofuxkyourself.online:2086/live.m3u8?c=82
-メ～テレNEWS,http://gofuxkyourself.online:2086/live.m3u8?c=83
-広島ニュース,http://gofuxkyourself.online:2086/live.m3u8?c=84
-TBS NEWS,http://gofuxkyourself.online:2086/live.m3u8?c=85
-HTB北海道,http://gofuxkyourself.online:2086/live.m3u8?c=86
-YTN2,http://gofuxkyourself.online:2086/live.m3u8?c=87
-YTN,http://gofuxkyourself.online:2086/live.m3u8?c=88
-THE K-POP,http://gofuxkyourself.online:2086/live.m3u8?c=89
-한국경제,http://gofuxkyourself.online:2086/live.m3u8?c=90
-매일경제TV,http://gofuxkyourself.online:2086/live.m3u8?c=91
-YTN dmb,http://gofuxkyourself.online:2086/live.m3u8?c=92
-YTN 사이언스,http://gofuxkyourself.online:2086/live.m3u8?c=93
-Arirang TV,http://gofuxkyourself.online:2086/live.m3u8?c=94
-MTN,http://gofuxkyourself.online:2086/live.m3u8?c=95
-토마토TV,http://gofuxkyourself.online:2086/live.m3u8?c=96
-이데일리TV,http://gofuxkyourself.online:2086/live.m3u8?c=97
-ABC News,http://gofuxkyourself.online:2086/live.m3u8?c=98
-FOX Weather,http://gofuxkyourself.online:2086/live.m3u8?c=99
-GB News,http://gofuxkyourself.online:2086/live.m3u8?c=100
-Euronews français,http://gofuxkyourself.online:2086/live.m3u8?c=101
-CNA 24,http://gofuxkyourself.online:2086/live.m3u8?c=102
-Astro AWANI,http://gofuxkyourself.online:2086/live.m3u8?c=103
-DZRH TV,http://gofuxkyourself.online:2086/live.m3u8?c=104
-UNTV,http://gofuxkyourself.online:2086/live.m3u8?c=105
-tvOne,http://gofuxkyourself.online:2086/live.m3u8?c=106
-WION,http://gofuxkyourself.online:2086/live.m3u8?c=107
-ABP Majha,http://gofuxkyourself.online:2086/live.m3u8?c=108
-IndiaTV,http://gofuxkyourself.online:2086/live.m3u8?c=109
-TV9 Marathi,http://gofuxkyourself.online:2086/live.m3u8?c=110
-四季直播源,#genre#
-民視第一台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8
-民視台灣台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
-民視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
-大愛電視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/209/4gtv-live007/index.m3u8
-中視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
-中視經典台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/124/4gtv-4gtv080/index.m3u8
-華視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
-三立綜合台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
-客家電視台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/107/4gtv-4gtv043/index.m3u8
-八大綜藝台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
-中視菁采台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/123/4gtv-4gtv064/index.m3u8
-TVBS精采台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/227/4gtv-4gtv067/index.m3u8
-愛爾達娛樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
-靖天綜合台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
-靖天日本台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
-新唐人亞太台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
-ARIRANG阿里郎頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/189/4gtv-4gtv079/index.m3u8
-Global Trekker,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/252/4gtv-live112/index.m3u8
-原住民族電視台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/273/4gtv-live014/index.m3u8
-Smart知識台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
-東森購物四台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8
-LiveABC互動英語頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/188/4gtv-live030/index.m3u8
-達文西頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8
-ELTV生活英語台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/106/litv-longturn20/index.m3u8
-Nick Jr. 兒童頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8
-尼克兒童頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/185/4gtv-live105/index.m3u8
-DreamWorks 夢工廠動畫,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8
-靖天卡通台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
-靖洋卡通Nice Bingo,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
-i-Fun動漫台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
-龍華卡通台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
-MOMO親子台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8
-東森購物一台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8
-鏡電視新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
-東森新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
-華視新聞,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
-民視新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
-三立新聞iNEWS,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
-TVBS新聞,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
-東森財經新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
-中視新聞,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
-中天新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
-Bloomberg TV,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/283/4gtv-live059/index.m3u8
-寰宇新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
-寰宇新聞台灣台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8
-SBN全球財經台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/224/4gtv-live060/index.m3u8
-寰宇財經台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/281/litv-longturn23/index.m3u8
-TVBS,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
-東森購物二台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8
-民視綜藝台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
-豬哥亮歌廳秀,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8
-靖天育樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
-KLT-靖天國際台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8
-Nice TV 靖天歡樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8
-靖天資訊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
-TVBS歡樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
-ROCK Entertainment,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/275/4gtv-live080/index.m3u8
-Lifetime 娛樂頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/217/4gtv-live029/index.m3u8
-電影原聲台CMusic,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
-TRACE Urban,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/78/4gtv-4gtv082/index.m3u8
-MTV Live HD 音樂頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
-Mezzo Live HD,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/79/4gtv-4gtv083/index.m3u8
-CLASSICA 古典樂,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/80/4gtv-4gtv059/index.m3u8
-東森購物三台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8
-博斯高球台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8
-博斯高球二台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/298/litv-longturn06/index.m3u8
-博斯運動一台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8
-博斯無限台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8
-博斯網球台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8
-博斯運動二台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
-博斯魅力台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
-TRACE Sport Stars,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
-智林體育台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/58/4gtv-4gtv101/index.m3u8
-時尚運動X,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
-車迷TV,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/160/4gtv-live201/index.m3u8
-GINX Esports TV,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/179/4gtv-4gtv053/index.m3u8
-TechStorm,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/181/4gtv-live109/index.m3u8
-Pet Club TV,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/182/4gtv-live110/index.m3u8
-民視旅遊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
-滾動力rollor,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
-亞洲旅遊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
-fun探索娛樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/274/4gtv-live011/index.m3u8
-幸福空間居家台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/168/4gtv-live206/index.m3u8
-Love Nature,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/139/4gtv-live208/index.m3u8
-History 歷史頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
-Globetrotter 環遊旅行家,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3u8
-愛爾達生活旅遊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
-LUXE TV Channel,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
-TV5MONDE STYLE HD 生活時尚,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/178/4gtv-live122/index.m3u8
-龍華偶像台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
-公視戲劇,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/7/4gtv-4gtv042/index.m3u8
-民視影劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
-龍華戲劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
-HITS頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/186/4gtv-live620/index.m3u8
-龍華日韓台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
-八大精彩台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/172/4gtv-4gtv034/index.m3u8
-霹靂布袋戲,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
-靖天戲劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
-靖洋戲劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
-CI 罪案偵查頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/215/4gtv-live027/index.m3u8
-視納華仁紀實頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/38/4gtv-4gtv013/index.m3u8
-影迷數位紀實台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
-金光布袋戲,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/236/4gtv-live144/index.m3u8
-ROCK Action,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
-采昌影劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
-靖天映畫,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
-靖天電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
-龍華電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
-影迷數位電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
-amc電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
-CinemaWorld,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
-My Cinema Europe HD 我的歐洲電影,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/176/4gtv-live157/index.m3u8
-好消息2台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/8/litv-ftv17/index.m3u8
-好消息,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/9/litv-ftv16/index.m3u8
-大愛二台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8
-人間衛視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/210/4gtv-live008/index.m3u8
-FRANCE24 英文台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/316/4gtv-live146/index.m3u8
-半島國際新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/85/litv-ftv10/index.m3u8
-VOA美國之音,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
-CNBC Asia 財經台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/235/4gtv-live130/index.m3u8
-DW德國之聲,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
-鳳梨直擊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/93/4gtv-4gtv035/index.m3u8
-香蕉直擊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/94/4gtv-4gtv038/index.m3u8
-番茄直擊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/289/4gtv-live301/index.m3u8
-芭樂直擊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/290/4gtv-live302/index.m3u8
-國會頻道1,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/170/4gtv-4gtv084/index.m3u8
-國會頻道2,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/171/4gtv-4gtv085/index.m3u8
-TVBS綜藝台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
-TVBS台劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
-經典電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8
-經典卡通台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
-兒童卡通台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/269/4gtv-live009/index.m3u8
-精選動漫台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
-戲劇免費看 1台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
-戲劇免費看 2台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
-電影免費看 2台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
-超人力霸王整套看,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
-花系列 經典劇場,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/279/4gtv-live016/index.m3u8
-台湾酒店源,#genre#
-台視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1047
-中視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1048
-華視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1049
-民視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1050
-公視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1201
-人間衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1198
-大愛電視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1216
-好消息GOOD TV,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1669
-Trace Sport Stars,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1003
-DISCOVERY,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1002
-旅遊生活,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1005
-動物星球,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1004
-亞洲旅遊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1219
-MOMO親子台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1007
-東森幼幼HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1008
-龍華卡通台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1670
-緯來綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1044
-八大第一HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1043
-八大綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1019
-三立台灣HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1021
-三立都會HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1020
-韓國娛樂台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1024
-東森綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1041
-超視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1180
-中天綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1022
-中天娛樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1023
-東風衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1195
-MUCH TV,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1189
-東森戲劇HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1042
-八大戲劇HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1057
-TVBS歡樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1018
-緯來戲劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1186
-龍華戲劇台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1671
-龍華日韓劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1672
-龍華偶像劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1673
-緯來日本HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1026
-Taiwan Plus,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1674
-年代新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1192
-東森新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1014
-中天新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1675
-民視新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1204
-三立新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1016
-TVBS新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1052
-TVBS HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668
-非凡新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1013
-非凡商業HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1012
-東森財經HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1017
-寰宇新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1222
-壹新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1676
-Bloomberg News,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1066
-NHK世界HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1027
-鏡電視新聞台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1031
-好萊塢電影HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1025
-緯來電影HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1183
-龍華電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1677
-HBO,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1029
-AXN,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1054
-CINEMAX HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1030
-AMC 電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1032
-寵物頻道,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1040
-緯來育樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1045
-緯來體育HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1011
-博斯運動一,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1678
-momo綜合台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1225
-DAZN 1,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1069
-DAZN 2,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1072
-廈門衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1033
-CCTV4-中央衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1034
-海峽衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1035
-浙江衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1036
-東方衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1037
-湖南衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1038
-鳯凰衛視資訊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1666
+【GD测试】,#genre#
+CCTV-1 综合,http://10000.win14.eu.org:18975/api/010.php?id=cctv1.m3u8
+CCTV-2 财经,http://10000.win14.eu.org:18975/api/010.php?id=cctv2.m3u8
+CCTV-3 综艺,http://10000.win14.eu.org:18975/api/010.php?id=cctv3.m3u8
+CCTV-4 中文国际,http://10000.win14.eu.org:18975/api/010.php?id=cctv4.m3u8
+CCTV-5 体育,http://10000.win14.eu.org:18975/api/010.php?id=cctv5.m3u8
+CCTV-5+体育赛事,http://10000.win14.eu.org:18975/api/010.php?id=cctv5p.m3u8
+CCTV-6 电影,http://10000.win14.eu.org:18975/api/010.php?id=cctv6.m3u8
+CCTV-7 国防军事,http://10000.win14.eu.org:18975/api/010.php?id=cctv7.m3u8
+CCTV-8 电视剧,http://10000.win14.eu.org:18975/api/010.php?id=cctv8.m3u8
+CCTV-9 纪录,http://10000.win14.eu.org:18975/api/010.php?id=cctv9.m3u8
+CCTV-10 科教,http://10000.win14.eu.org:18975/api/010.php?id=cctv10.m3u8
+CCTV-11 戏曲,http://10000.win14.eu.org:18975/api/010.php?id=cctv11.m3u8
+CCTV-12 社会与法,http://10000.win14.eu.org:18975/api/010.php?id=cctv12.m3u8
+CCTV-13 新闻,http://10000.win14.eu.org:18975/api/010.php?id=cctv13.m3u8
+CCTV-14 少儿,http://10000.win14.eu.org:18975/api/010.php?id=cctv14.m3u8
+CCTV-15 音乐,http://10000.win14.eu.org:18975/api/010.php?id=cctv15.m3u8
+CCTV-16 奥林匹克,http://10000.win14.eu.org:18975/api/010.php?id=cctv16.m3u8
+CCTV-17 农业农村,http://10000.win14.eu.org:18975/api/010.php?id=cctv17.m3u8
+广州综合,http://10000.win14.eu.org:18975/api/020.php?pd=zonghe
+广州新闻,http://10000.win14.eu.org:18975/api/020.php?pd=xinwen
+广州法治,http://10000.win14.eu.org:18975/api/020.php?pd=fazhi
+广州竞赛,http://10000.win14.eu.org:18975/api/020.php?pd=jingsai
+广州影视,http://10000.win14.eu.org:18975/api/020.php?pd=yingshi
+南国都市[4K],http://10000.win14.eu.org:18975/api/020.php?pd=nanguo
+东莞新闻,http://10000.win14.eu.org:18975/api/020.php?pd=dgxw
+东莞生活,http://10000.win14.eu.org:18975/api/020.php?pd=dgsh
+佛山综合,http://10000.win14.eu.org:18975/api/0757.php?id=fszh
+佛山影视,http://10000.win14.eu.org:18975/api/0757.php?id=fsys
+佛山公共,http://10000.win14.eu.org:18975/api/0757.php?id=fsgg
+佛山南海,http://10000.win14.eu.org:18975/api/0757.php?id=fsnh
+佛山顺德,http://10000.win14.eu.org:18975/api/0757.php?id=fssd
+佛山高明,http://10000.win14.eu.org:18975/api/0757.php?id=fsgm
+佛山三水,http://10000.win14.eu.org:18975/api/0757.php?id=fsss
+CCTV-1 综合,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-1-CQ.m3u8
+CCTV-2 财经,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-2-CQ.m3u8
+CCTV-3 综艺,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-3-CQ.m3u8
+CCTV-4 中文国际,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-4-CQ.m3u8
+CCTV-5 体育,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-5-CQ.m3u8
+CCTV-5+体育赛事,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-5PLUS-CQ.m3u8
+CCTV-6 电影,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-6-CQ.m3u8
+CCTV-7 国防军事,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-7-CQ.m3u8
+CCTV-8 电视剧,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-8-CQ.m3u8
+CCTV-9 纪录,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-9-CQ.m3u8
+CCTV-10 科教,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-10-CQ.m3u8
+CCTV-11 戏曲,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-11-CQ.m3u8
+CCTV-12 社会与法,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-12-CQ.m3u8
+CCTV-13 新闻,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-13-CQ.m3u8
+CCTV-14 少儿,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-14-CQ.m3u8
+CCTV-15 音乐,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-15-CQ.m3u8
+CCTV-16 奥林匹克,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-16-CQ.m3u8
+CCTV-17 农业农村,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-17-CQ.m3u8
+CGTN,http://10000.win14.eu.org:18975/api/020.php?id=G_CCTV-NEWS.m3u8
+CGTN俄语,http://10000.win14.eu.org:18975/api/020.php?id=G_CGTN-PYCCNN.m3u8
+CGTN西语,http://10000.win14.eu.org:18975/api/020.php?id=G_CGTN-ESPANOL.m3u8
+CGTN法语,http://10000.win14.eu.org:18975/api/020.php?id=G_CGTN-FRANCAIS.m3u8
+CGTN阿语,http://10000.win14.eu.org:18975/api/020.php?id=G_CGTN_A.m3u8
+湖南卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_HUNAN-CQ.m3u8
+浙江卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_ZHEJIANG-CQ.m3u8
+江苏卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_JIANGSU-CQ.m3u8
+北京卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_BEIJING-CQ.m3u8
+东方卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_DONGFANG-CQ.m3u8
+深圳卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_SHENZHEN-CQ.m3u8
+广东卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_GUANGDONG-CQ.m3u8
+天津卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_TIANJIN-CQ.m3u8
+辽宁卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_LIAONING-CQ.m3u8
+山东卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_SHANDONG-CQ.m3u8
+吉林卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_JILIN-CQ.m3u8
+黑龙江卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_HEILONGJIANG-CQ.m3u8
+安徽卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_ANHUI-CQ.m3u8
+湖北卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_HUBEI-CQ.m3u8
+河北卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_HEBEI-CQ.m3u8
+河南卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_HENAN-CQ.m3u8
+四川卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_SICHUAN-CQ.m3u8
+重庆卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_CHONGQING-CQ.m3u8
+广西卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_GUANGXI-HQ.m3u8
+江西卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_JIANGXI-CQ.m3u8
+云南卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_YUNNAN-CQ.m3u8
+甘肃卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_GANSU-HQ.m3u8
+陕西卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_SHANXI-HQ.m3u8
+贵州卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_GUIZHOU-CQ.m3u8
+宁夏卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_NINGXIA.m3u8
+青海卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_QINGHAI.m3u8
+西藏卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_XIZANG.m3u8
+新疆卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_XINJIANG.m3u8
+延边卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_YANBIAN.m3u8
+东南卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_DONGNAN-CQ.m3u8
+厦门卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_XIAMEN.m3u8
+海南卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_HAINAN-HQ.m3u8
+三沙卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_SANSHA-HQ.m3u8
+农林卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_NONGLIN.m3u8
+康巴卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_KANGBA.m3u8
+安多卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_ANDUO.m3u8
+兵团卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_BINGTUAN.m3u8
+内蒙古卫视,http://10000.win14.eu.org:18975/api/020.php?id=G_NEIMENGGU.m3u8
+北京纪实,http://10000.win14.eu.org:18975/api/020.php?id=G_BEIJINGJS-CQ.m3u8
+上海纪实,http://10000.win14.eu.org:18975/api/020.php?id=G_SHANGHAIJS-HD.m3u8
+徐闻综合,http://10000.win14.eu.org:18975/api/020.php?id=zanjiang01.m3u8
+女性时尚,http://10000.win14.eu.org:18975/api/020.php?id=G_NVXINGSS-CQ.m3u8
+CETV-1,http://10000.win14.eu.org:18975/api/020.php?id=G_CETV-1-HQ.m3u8
+CETV-2,http://10000.win14.eu.org:18975/api/020.php?id=G_CETV-2.m3u8
+CETV-3,http://10000.win14.eu.org:18975/api/020.php?id=G_CETV-3.m3u8
+CETV-4,http://10000.win14.eu.org:18975/api/020.php?id=G_CETV-4.m3u8
+早期教育,http://10000.win14.eu.org:18975/api/020.php?id=G_CETV-ZQJY-CQ.m3u8
+山东教育,http://10000.win14.eu.org:18975/api/020.php?id=G_SDETV.m3u8
+老故事,http://10000.win14.eu.org:18975/api/020.php?id=G_LAOGUSHI.m3u8
+发现之旅,http://10000.win14.eu.org:18975/api/020.php?id=G_FAXIANZL.m3u8
+天元围棋,http://10000.win14.eu.org:18975/api/020.php?id=G_TIANYUANWQ.m3u8
+国学频道,http://10000.win14.eu.org:18975/api/020.php?id=G_GUOXUE.m3u8
+中华美食,http://10000.win14.eu.org:18975/api/020.php?id=G_ZHONGHUAMS.m3u8
+家庭理财,http://10000.win14.eu.org:18975/api/020.php?id=G_JIATINGLC.m3u8
+金鹰卡通,http://10000.win14.eu.org:18975/api/020.php?id=G_JINYING.m3u8
+卡酷少儿,http://10000.win14.eu.org:18975/api/020.php?id=G_KAKU.m3u8
+炫动卡通,http://10000.win14.eu.org:18975/api/020.php?id=G_XUANDONG.m3u8
+优漫卡通,http://10000.win14.eu.org:18975/api/020.php?id=G_YOUMAN.m3u8
+嘉佳卡通,http://10000.win14.eu.org:18975/api/020.php?id=G_JIAJIA.m3u8
+袋鼠动物园,http://10000.win14.eu.org:18975/api/020.php?id=G_ZOO-101.m3u8
+长颈鹿动物园,http://10000.win14.eu.org:18975/api/020.php?id=G_ZOO-201.m3u8
+火烈鸟动物园,http://10000.win14.eu.org:18975/api/020.php?id=G_ZOO-401.m3u8
+老虎动物园,http://10000.win14.eu.org:18975/api/020.php?id=G_ZOO-501.m3u8
+黑熊动物园,http://10000.win14.eu.org:18975/api/020.php?id=G_ZOO-601.m3u8
+狮子动物园,http://10000.win14.eu.org:18975/api/020.php?id=G_ZOO-901.m3u8
+【GZYX测试】,#genre#
+CCTV-1 综合,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv1.m3u8
+CCTV-2 财经,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv2.m3u8
+CCTV-3 综艺,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv3.m3u8
+CCTV-4 中文国际,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv4.m3u8
+CCTV-5 体育,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv5.m3u8
+CCTV-5+体育赛事,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv5p.m3u8
+CCTV-6 电影,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv6.m3u8
+CCTV-7 国防军事,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv7.m3u8
+CCTV-8 电视剧,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv8.m3u8
+CCTV-9 纪录,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv9.m3u8
+CCTV-10 科教,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv10.m3u8
+CCTV-11 戏曲,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv11.m3u8
+CCTV-12 社会与法,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv12.m3u8
+CCTV-13 新闻,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv13.m3u8
+CCTV-14 少儿,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv14.m3u8
+CCTV-15 音乐,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv15.m3u8
+CCTV-16 奥林匹克,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv16.m3u8
+CCTV-17 农业农村,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cctv17.m3u8
+CETV-1,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cetv1.m3u8
+CGTN,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cgtn.m3u8.m3u8
+CCTV风云音乐,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=fyyy.m3u8
+CCTV风云剧场,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=fyjc.m3u8
+CCTV风云足球,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=fyzq.m3u8
+CCTV央视台球,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=ystq.m3u8
+CCTV高尔夫网球,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gef.m3u8
+CCTV兵器科技,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=bqkj.m3u8
+CCTV怀旧剧场,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=hjjc.m3u8
+CCTV女性时尚,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=nxss.m3u8
+CCTV发现之旅,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=fxzl.m3u8
+CCTV世界地理,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=sjdl.m3u8
+CCTV卫生健康,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=wsjk.m3u8
+CCTV央视文化精品,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=yswhjp.m3u8
+CCTV第一剧场,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=dyjc.m3u8
+CCTV老故事,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=lgs.m3u8
+CCTV中学生,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=zxs.m3u8
+CETV-1,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cetv1.m3u8
+CHC家庭影院,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=chcjt.m3u8
+CHC动作电影,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=chcdz.m3u8
+CHC影迷电影,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=chcym.m3u8
+经典重温,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=jdcw.m3u8
+纪实科教,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=bjkj.m3u8
+魅力足球,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=mlzq.m3u8
+法治天地,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=fztd.m3u8
+金色学堂,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=jsxt.m3u8
+天元围棋,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=tywq.m3u8
+东方财*,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=dfcj.m3u8
+都市剧场,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=dsjc.m3u8
+动漫秀场,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=dmxc.m3u8
+游戏风云,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=yxfy.m3u8
+劲爆体育,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=jbty.m3u8
+niao-1,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=fhzx.m3u8
+niao-2,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=fhzw.m3u8
+湖南卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=hnws.m3u8
+浙江卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=zjws.m3u8
+江苏卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=jsws.m3u8
+北京卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=bjws.m3u8
+东方卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=dfws.m3u8
+广东卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gdws.m3u8
+深圳卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=szws.m3u8
+甘肃卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gsws.m3u8
+广西卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gxws.m3u8
+海南卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=hainws.m3u8
+河北卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=hbws.m3u8
+河南卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=henws.m3u8
+安徽卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=ahws.m3u8
+湖北卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=hbws.m3u8
+吉林卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=jlws.m3u8
+江西卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=jxws.m3u8
+辽宁卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=lnws.m3u8
+宁夏卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=nxws.m3u8
+青海卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=qhws.m3u8
+山东卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=sdws.m3u8
+陕西卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=sxws.m3u8
+四川卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=scws.m3u8
+天津卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=tjws.m3u8
+西藏卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=xzws.m3u8
+新疆卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=xjws.m3u8
+云南卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=ynws.m3u8
+兵团卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=btws.m3u8
+重庆卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=cqws.m3u8
+黑龙江卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=hljws.m3u8
+内蒙古卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=nmgws.m3u8
+贵州卫视,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gzws.m3u8
+贵阳2,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gy2.m3u8
+贵阳3,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gy2.m3u8
+贵州公共,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gzgg.m3u8
+贵州3,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gz3.m3u8
+贵州4,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gz4.m3u8
+贵州5,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gz5.m3u8
+贵州6,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gz6.m3u8
+贵州7,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gz7.m3u8
+卡酷少儿,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=kkse.m3u8
+嘉佳卡通,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gdjjkt.m3u8
+金鹰卡通,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=jykt.m3u8
+汽摩频道,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=qmpd.m3u8
+国学频道,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=gxpd.m3u8
+书画频道,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=shpd.m3u8
+中国交通,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=zgjt.m3u8
+中国气象,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=zgtq.m3u8
+乐游,http://10000.win14.eu.org:18975/api/gzyx_0851.php?id=ly.m3u8
 ITV代理源,#genre#
 CCTV1,http://qingfeng.hppro1.hpnu.cn/itv.php?id=6000000003000023702&cdn=wasusyt
 CCTV1,http://qingfeng.hppro1.hpnu.cn/itv.php?id=6000000001000029752&cdn=wasusyt
