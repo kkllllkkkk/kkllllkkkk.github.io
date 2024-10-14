@@ -2,550 +2,550 @@
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
 央视频直播源,#genre#
- CCTV 1,http://111.67.206.48:5000/ysp/cctv1
- CCTV 2,http://111.67.206.48:5000/ysp/cctv2
- CCTV 3,http://111.67.206.48:5000/ysp/cctv3
- CCTV 4,http://111.67.206.48:5000/ysp/cctv4
- CCTV 5,http://111.67.206.48:5000/ysp/cctv5
- CCTV 5+,http://111.67.206.48:5000/ysp/cctv5p
- CCTV 6,http://111.67.206.48:5000/ysp/cctv6
- CCTV 7,http://111.67.206.48:5000/ysp/cctv7
- CCTV 8,http://111.67.206.48:5000/ysp/cctv8
- CCTV 9,http://111.67.206.48:5000/ysp/cctv9
- CCTV 10,http://111.67.206.48:5000/ysp/cctv10
- CCTV 11,http://111.67.206.48:5000/ysp/cctv11
- CCTV 12,http://111.67.206.48:5000/ysp/cctv12
- CCTV 13,http://111.67.206.48:5000/ysp/cctv13
- CCTV 14,http://111.67.206.48:5000/ysp/cctv14
- CCTV 15,http://111.67.206.48:5000/ysp/cctv15
- CCTV 16,http://111.67.206.48:5000/ysp/cctv16
- CCTV 17,http://111.67.206.48:5000/ysp/cctv17
- CCTV 4K,http://111.67.206.48:5000/ysp/cctv4k
- CCTV 8K,http://111.67.206.48:5000/ysp/cctv8k
- CCTV 兵器科技,http://111.67.206.48:5000/ysp/cctv-bingqikeji
- CCTV 怀旧剧场,http://111.67.206.48:5000/ysp/cctv-huaijiujuchang
- CCTV 第一剧场,http://111.67.206.48:5000/ysp/cctv-diyijuchang
- CCTV 风云剧场,http://111.67.206.48:5000/ysp/cctv-fengyunjuchang
- CCTV 风云音乐,http://111.67.206.48:5000/ysp/cctv-fengyunyinyue
- CCTV 风云足球,http://111.67.206.48:5000/ysp/cctv-fengyunzuqiu
- CCTV 央视台球,http://111.67.206.48:5000/ysp/cctv-yangshitaiqiu
- CCTV 高尔夫网球,http://111.67.206.48:5000/ysp/cctv-gaoerfuwangqiu
- CCTV 世界地理,http://111.67.206.48:5000/ysp/cctv-shijiedili
- CCTV 女性时尚,http://111.67.206.48:5000/ysp/cctv-nvxingshishang
- CCTV 卫生健康,http://111.67.206.48:5000/ysp/cctv-weishengjiankang
- CCTV 央视文化精品,http://111.67.206.48:5000/ysp/cctv-wenhuajingpin
- CCTV 电视指南,http://111.67.206.48:5000/ysp/cctv-dianshizhinan
- CGTN,http://111.67.206.48:5000/ysp/cgtn
- CGTN 法语,http://111.67.206.48:5000/ysp/cgtn-french
- CGTN 俄语,http://111.67.206.48:5000/ysp/cgtn-russian
- CGTN 阿拉伯语,http://111.67.206.48:5000/ysp/cgtn-arabic
- CGTN 西班牙语,http://111.67.206.48:5000/ysp/cgtn-spanish
- CGTN 外语纪录,http://111.67.206.48:5000/ysp/cgtn-documentary
- 中国教育电视台 1,http://111.67.206.48:5000/ysp/cetv1
- 北京卫视,http://111.67.206.48:5000/ysp/beijing
- 江苏卫视,http://111.67.206.48:5000/ysp/jiangsu
- 东方卫视,http://111.67.206.48:5000/ysp/dongfang
- 浙江卫视,http://111.67.206.48:5000/ysp/zhejiang
- 湖南卫视,http://111.67.206.48:5000/ysp/hunan
- 湖北卫视,http://111.67.206.48:5000/ysp/hubei
- 天津卫视,http://111.67.206.48:5000/ysp/tianjin
- 广东卫视,http://111.67.206.48:5000/ysp/guangdong
- 广西卫视,http://111.67.206.48:5000/ysp/guangxi
- 黑龙江卫视,http://111.67.206.48:5000/ysp/heilongjiang
- 海南卫视,http://111.67.206.48:5000/ysp/hainan
- 重庆卫视,http://111.67.206.48:5000/ysp/chongqing
- 深圳卫视,http://111.67.206.48:5000/ysp/shenzhen
- 四川卫视,http://111.67.206.48:5000/ysp/sichuan
- 河南卫视,http://111.67.206.48:5000/ysp/henan
- 东南卫视,http://111.67.206.48:5000/ysp/dongnan
- 贵州卫视,http://111.67.206.48:5000/ysp/guizhou
- 江西卫视,http://111.67.206.48:5000/ysp/jiangxi
- 辽宁卫视,http://111.67.206.48:5000/ysp/liaoning
- 安徽卫视,http://111.67.206.48:5000/ysp/anhui
- 河北卫视,http://111.67.206.48:5000/ysp/hebei
- 山东卫视,http://111.67.206.48:5000/ysp/shandong
- 新疆卫视,http://111.67.206.48:5000/ysp/xinjiang
- 兵团卫视,http://111.67.206.48:5000/ysp/bingtuan
+ CCTV 1,http://103.146.51.181:35455/ysp/cctv1
+ CCTV 2,http://103.146.51.181:35455/ysp/cctv2
+ CCTV 3,http://103.146.51.181:35455/ysp/cctv3
+ CCTV 4,http://103.146.51.181:35455/ysp/cctv4
+ CCTV 5,http://103.146.51.181:35455/ysp/cctv5
+ CCTV 5+,http://103.146.51.181:35455/ysp/cctv5p
+ CCTV 6,http://103.146.51.181:35455/ysp/cctv6
+ CCTV 7,http://103.146.51.181:35455/ysp/cctv7
+ CCTV 8,http://103.146.51.181:35455/ysp/cctv8
+ CCTV 9,http://103.146.51.181:35455/ysp/cctv9
+ CCTV 10,http://103.146.51.181:35455/ysp/cctv10
+ CCTV 11,http://103.146.51.181:35455/ysp/cctv11
+ CCTV 12,http://103.146.51.181:35455/ysp/cctv12
+ CCTV 13,http://103.146.51.181:35455/ysp/cctv13
+ CCTV 14,http://103.146.51.181:35455/ysp/cctv14
+ CCTV 15,http://103.146.51.181:35455/ysp/cctv15
+ CCTV 16,http://103.146.51.181:35455/ysp/cctv16
+ CCTV 17,http://103.146.51.181:35455/ysp/cctv17
+ CCTV 4K,http://103.146.51.181:35455/ysp/cctv4k
+ CCTV 8K,http://103.146.51.181:35455/ysp/cctv8k
+ CCTV 兵器科技,http://103.146.51.181:35455/ysp/cctv-bingqikeji
+ CCTV 怀旧剧场,http://103.146.51.181:35455/ysp/cctv-huaijiujuchang
+ CCTV 第一剧场,http://103.146.51.181:35455/ysp/cctv-diyijuchang
+ CCTV 风云剧场,http://103.146.51.181:35455/ysp/cctv-fengyunjuchang
+ CCTV 风云音乐,http://103.146.51.181:35455/ysp/cctv-fengyunyinyue
+ CCTV 风云足球,http://103.146.51.181:35455/ysp/cctv-fengyunzuqiu
+ CCTV 央视台球,http://103.146.51.181:35455/ysp/cctv-yangshitaiqiu
+ CCTV 高尔夫网球,http://103.146.51.181:35455/ysp/cctv-gaoerfuwangqiu
+ CCTV 世界地理,http://103.146.51.181:35455/ysp/cctv-shijiedili
+ CCTV 女性时尚,http://103.146.51.181:35455/ysp/cctv-nvxingshishang
+ CCTV 卫生健康,http://103.146.51.181:35455/ysp/cctv-weishengjiankang
+ CCTV 央视文化精品,http://103.146.51.181:35455/ysp/cctv-wenhuajingpin
+ CCTV 电视指南,http://103.146.51.181:35455/ysp/cctv-dianshizhinan
+ CGTN,http://103.146.51.181:35455/ysp/cgtn
+ CGTN 法语,http://103.146.51.181:35455/ysp/cgtn-french
+ CGTN 俄语,http://103.146.51.181:35455/ysp/cgtn-russian
+ CGTN 阿拉伯语,http://103.146.51.181:35455/ysp/cgtn-arabic
+ CGTN 西班牙语,http://103.146.51.181:35455/ysp/cgtn-spanish
+ CGTN 外语纪录,http://103.146.51.181:35455/ysp/cgtn-documentary
+ 中国教育电视台 1,http://103.146.51.181:35455/ysp/cetv1
+ 北京卫视,http://103.146.51.181:35455/ysp/beijing
+ 江苏卫视,http://103.146.51.181:35455/ysp/jiangsu
+ 东方卫视,http://103.146.51.181:35455/ysp/dongfang
+ 浙江卫视,http://103.146.51.181:35455/ysp/zhejiang
+ 湖南卫视,http://103.146.51.181:35455/ysp/hunan
+ 湖北卫视,http://103.146.51.181:35455/ysp/hubei
+ 天津卫视,http://103.146.51.181:35455/ysp/tianjin
+ 广东卫视,http://103.146.51.181:35455/ysp/guangdong
+ 广西卫视,http://103.146.51.181:35455/ysp/guangxi
+ 黑龙江卫视,http://103.146.51.181:35455/ysp/heilongjiang
+ 海南卫视,http://103.146.51.181:35455/ysp/hainan
+ 重庆卫视,http://103.146.51.181:35455/ysp/chongqing
+ 深圳卫视,http://103.146.51.181:35455/ysp/shenzhen
+ 四川卫视,http://103.146.51.181:35455/ysp/sichuan
+ 河南卫视,http://103.146.51.181:35455/ysp/henan
+ 东南卫视,http://103.146.51.181:35455/ysp/dongnan
+ 贵州卫视,http://103.146.51.181:35455/ysp/guizhou
+ 江西卫视,http://103.146.51.181:35455/ysp/jiangxi
+ 辽宁卫视,http://103.146.51.181:35455/ysp/liaoning
+ 安徽卫视,http://103.146.51.181:35455/ysp/anhui
+ 河北卫视,http://103.146.51.181:35455/ysp/hebei
+ 山东卫视,http://103.146.51.181:35455/ysp/shandong
+ 新疆卫视,http://103.146.51.181:35455/ysp/xinjiang
+ 兵团卫视,http://103.146.51.181:35455/ysp/bingtuan
 江苏移动魔百盒 TPTV proxy,#genre#
- CCTV 1,http://111.67.206.48:5000/tptv/G_CCTV-1-AVS-4K264?type=proxy
- CCTV 2,http://111.67.206.48:5000/tptv/G_CCTV-2-HD-265-8M?type=proxy
- CCTV 3,http://111.67.206.48:5000/tptv/G_CCTV-3-AVS-4K264?type=proxy
- CCTV 4,http://111.67.206.48:5000/tptv/G_CCTV-4-HD-265-8M?type=proxy
- CCTV 5,http://111.67.206.48:5000/tptv/G_CCTV-5-AVS-4K264?type=proxy
- CCTV 5+,http://111.67.206.48:5000/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
- CCTV 6,http://111.67.206.48:5000/tptv/G_CCTV-6-AVS-4K264?type=proxy
- CCTV 7,http://111.67.206.48:5000/tptv/G_CCTV-7-HD-265-8M?type=proxy
- CCTV 8,http://111.67.206.48:5000/tptv/G_CCTV-8-AVS-4K264?type=proxy
- CCTV 9,http://111.67.206.48:5000/tptv/G_CCTV-9-HD-265-8M?type=proxy
- CCTV 10,http://111.67.206.48:5000/tptv/G_CCTV-10-HD-265-8M?type=proxy
- CCTV 11,http://111.67.206.48:5000/tptv/H265-5500k-1080P-cctv11?type=proxy
- CCTV 12,http://111.67.206.48:5000/tptv/G_CCTV-12-HD-265-8M?type=proxy
- CCTV 13,http://111.67.206.48:5000/tptv/G_CCTV-13-HQ?type=proxy
- CCTV 14,http://111.67.206.48:5000/tptv/G_CCTV-14-CQ?type=proxy
- CCTV 15,http://111.67.206.48:5000/tptv/H265-5500k-1080P-cctv15?type=proxy
- CCTV 16,http://111.67.206.48:5000/tptv/G_CCTV-16-CQ?type=proxy
- CCTV 16 4K,http://111.67.206.48:5000/tptv/G_CCTV-16-4K?type=proxy
- CCTV 17,http://111.67.206.48:5000/tptv/G_CCTV-17-CQ?type=proxy
- CCTV 4K,http://111.67.206.48:5000/tptv/G_CCTV-4K-HD?type=proxy
- CCTV 世界地理,http://111.67.206.48:5000/tptv/G_SHIJIEDL-CQ?type=proxy
- CCTV 风云剧场,http://111.67.206.48:5000/tptv/G_FENGYUNJC-CQ?type=proxy
- CCTV 风云足球,http://111.67.206.48:5000/tptv/G_FENGSHANGZQ-CQ?type=proxy
- CCTV 风云音乐,http://111.67.206.48:5000/tptv/G_FENGYUNYY-CQ?type=proxy
- CCTV 兵器科技,http://111.67.206.48:5000/tptv/G_BINGQIKJ-CQ?type=proxy
- CCTV 央视台球,http://111.67.206.48:5000/tptv/G_TAIQIU-CQ?type=proxy
- CCTV 高尔夫网球,http://111.67.206.48:5000/tptv/G_CCTV-GOLF-CQ?type=proxy
- CCTV 女性时尚,http://111.67.206.48:5000/tptv/G_NVXINGSS-CQ?type=proxy
- CCTV 电视指南,http://111.67.206.48:5000/tptv/G_DIANSHIZN-CQ?type=proxy
- CCTV 第一剧场,http://111.67.206.48:5000/tptv/G_DIYIJC-CQ?type=proxy
- CCTV 怀旧剧场,http://111.67.206.48:5000/tptv/G_HUAIJIUJC-CQ?type=proxy
- CCTV 央视文化精品,http://111.67.206.48:5000/tptv/G_CCTV-WENHUA-CQ?type=proxy
- CETV 早期教育,http://111.67.206.48:5000/tptv/G_CETV-ZQJY-CQ?type=proxy
- 江苏卫视,http://111.67.206.48:5000/tptv/G_JIANGSU-HD-265-8M?type=proxy
- 东方卫视,http://111.67.206.48:5000/tptv/G_DONGFANG-HD-265-8M?type=proxy
- 北京卫视,http://111.67.206.48:5000/tptv/G_BEIJING-HD-265-8M?type=proxy
- 广东卫视,http://111.67.206.48:5000/tptv/G_GUANGDONG-HD-265-8M?type=proxy
- 山东卫视,http://111.67.206.48:5000/tptv/G_SHANDONG-HD-265-8M?type=proxy
- 深圳卫视,http://111.67.206.48:5000/tptv/G_SHENZHEN-HD-265-8M?type=proxy
- 湖北卫视,http://111.67.206.48:5000/tptv/G_HUBEI-HD-265-8M?type=proxy
- 湖南卫视,http://111.67.206.48:5000/tptv/G_HUNAN-HD-265-8M?type=proxy
- 浙江卫视,http://111.67.206.48:5000/tptv/G_ZHEJIANG-HD-265-8M?type=proxy
- 黑龙江卫视,http://111.67.206.48:5000/tptv/G_HEILONGJIANG-HD-265-8M?type=proxy
- 天津卫视,http://111.67.206.48:5000/tptv/G_TIANJIN-HD-265-8M?type=proxy
- 安徽卫视,http://111.67.206.48:5000/tptv/G_ANHUI-HD-265-8M?type=proxy
- 辽宁卫视,http://111.67.206.48:5000/tptv/G_LIAONING-HD-265-8M?type=proxy
- 东南卫视,http://111.67.206.48:5000/tptv/H265-5500k-1080P-dongnanstv?type=proxy
- 吉林卫视,http://111.67.206.48:5000/tptv/G_JILIN-CQ?type=proxy
- 四川卫视,http://111.67.206.48:5000/tptv/G_SICHUAN-CQ?type=proxy
- 江西卫视,http://111.67.206.48:5000/tptv/G_JIANGXI-CQ?type=proxy
- 河北卫视,http://111.67.206.48:5000/tptv/G_HEBEI-CQ?type=proxy
- 河南卫视,http://111.67.206.48:5000/tptv/G_HENAN-CQ?type=proxy
- 贵州卫视,http://111.67.206.48:5000/tptv/G_GUIZHOU-CQ?type=proxy
- 重庆卫视,http://111.67.206.48:5000/tptv/G_CHONGQING-CQ?type=proxy
- 云南卫视,http://111.67.206.48:5000/tptv/G_YUNNAN-HQ?type=proxy
- 三沙卫视,http://111.67.206.48:5000/tptv/G_SANSHA-HQ?type=proxy
- 海南卫视,http://111.67.206.48:5000/tptv/HD-8000k-1080P-lvyoustv?type=proxy
- 上海纪实人文,http://111.67.206.48:5000/tptv/H265-5500k-1080P-shanghaijishi?type=proxy
- 北京纪实科教,http://111.67.206.48:5000/tptv/HD-8000k-1080P-beijingjishi?type=proxy
- 凤凰卫视中文,http://111.67.206.48:5000/tptv/HD-10000k-1080P-fhchinese5s?type=proxy
- 凤凰卫视资讯,http://111.67.206.48:5000/tptv/HD-10000k-1080P-fhzixun5s?type=proxy
- 凤凰卫视香港,http://111.67.206.48:5000/tptv/HD-10000k-1080P-fhhongkong5s?type=proxy
- 纯享 4K,http://111.67.206.48:5000/tptv/HD-20M-2160P-chunxiang4k?type=proxy
- 高清臻享睛彩篮球,http://111.67.206.48:5000/tptv/miguaoyun01-AVS-4K01?type=proxy
- 睛彩篮球,http://111.67.206.48:5000/tptv/HD-8000k-1080P-miguaoyun1?type=proxy
- 高清臻享睛彩竞技,http://111.67.206.48:5000/tptv/miguaoyun1-AVS?type=proxy
- 睛彩竞技,http://111.67.206.48:5000/tptv/HD-8000k-1080P-miguaoyun2?type=proxy
- 睛彩青少,http://111.67.206.48:5000/tptv/HD-8000k-1080P-quanminrl?type=proxy
- 黑莓电影,http://111.67.206.48:5000/tptv/HD-8000k-1080P-Supermovie?type=proxy
- NewTV 炫舞未来,http://111.67.206.48:5000/tptv/HD-4000k-1080P-xwwl?type=proxy
- 南京新闻综合频道,http://111.67.206.48:5000/tptv/G_NJXW?type=proxy
- 南京影视频道,http://111.67.206.48:5000/tptv/G_NJYS?type=proxy
- 南京少儿频道,http://111.67.206.48:5000/tptv/G_NJSE?type=proxy
- 南京生活频道,http://111.67.206.48:5000/tptv/G_NJSH?type=proxy
- 南京信息频道,http://111.67.206.48:5000/tptv/G_NJXX?type=proxy
- 南京娱乐频道,http://111.67.206.48:5000/tptv/G_NJYL?type=proxy
- 南京教科频道,http://111.67.206.48:5000/tptv/G_NJJK?type=proxy
- 南京十八频道,http://111.67.206.48:5000/tptv/G_NJSB?type=proxy
- 徐州新闻综合,http://111.67.206.48:5000/tptv/xzxwzh?type=proxy
- 徐州经济生活,http://111.67.206.48:5000/tptv/xzjjsh?type=proxy
- 徐州文艺影视,http://111.67.206.48:5000/tptv/xzwyys?type=proxy
- 徐州公共,http://111.67.206.48:5000/tptv/xzgg?type=proxy
- 徐州新沂3套,http://111.67.206.48:5000/tptv/G_XZXYTV-3?type=proxy
- 徐州沛县新闻综合,http://111.67.206.48:5000/tptv/xzpxxwzh?type=proxy
- 徐州沛县综艺,http://111.67.206.48:5000/tptv/xzpxzy?type=proxy
- 徐州沛县生活,http://111.67.206.48:5000/tptv/xzpxsh?type=proxy
- 常州新闻,http://111.67.206.48:5000/tptv/jsczxinwen?type=proxy
- 常州都市,http://111.67.206.48:5000/tptv/jsczdushi?type=proxy
- 常州生活,http://111.67.206.48:5000/tptv/jsczshenghuo?type=proxy
- 常州公共,http://111.67.206.48:5000/tptv/jsczgonggong?type=proxy
- 睢宁综合,http://111.67.206.48:5000/tptv/xzsnzh?type=proxy
- 睢宁资讯,http://111.67.206.48:5000/tptv/xzsnzx?type=proxy
- 睢宁生活,http://111.67.206.48:5000/tptv/xzsnshjy?type=proxy
- 睢宁三农,http://111.67.206.48:5000/tptv/xzsnsn?type=proxy
- 南通一套,http://111.67.206.48:5000/tptv/jsntyitao?type=proxy
- 南通二套,http://111.67.206.48:5000/tptv/jsntertao?type=proxy
- 公共崇川,http://111.67.206.48:5000/tptv/jsntsantao?type=proxy
- 镇江一套,http://111.67.206.48:5000/tptv/G_ZHENJIANGTV-1?type=proxy
- 镇江二套,http://111.67.206.48:5000/tptv/G_ZHENJIANGTV-2?type=proxy
- 镇江三套,http://111.67.206.48:5000/tptv/G_ZHENJIANGTV-3?type=proxy
- 宿迁综合,http://111.67.206.48:5000/tptv/G_SQZH?type=proxy
- 宿迁公共,http://111.67.206.48:5000/tptv/G_SQGG?type=proxy
- 邳州综合,http://111.67.206.48:5000/tptv/pzzonghe?type=proxy
- 邳州综艺,http://111.67.206.48:5000/tptv/pzzongyi?type=proxy
- 赣榆新闻综合,http://111.67.206.48:5000/tptv/HD-2500k-1080P-ganyutv?type=proxy
- 江苏仪化电视,http://111.67.206.48:5000/tptv/HD-4000k-1080P-jsyihua?type=proxy
- 猎冰,http://111.67.206.48:5000/tptv/cos-liebing?type=proxy
- 永安梦,http://111.67.206.48:5000/tptv/cos-yonganmeng?type=proxy
- 漫长的季节,http://111.67.206.48:5000/tptv/manchangdjj?type=proxy
- 梦中的那片海,http://111.67.206.48:5000/tptv/mengzhongdnph?type=proxy
- 繁花,http://111.67.206.48:5000/tptv/fanhua?type=proxy
- 庆余年,http://111.67.206.48:5000/tptv/zhifouzf?type=proxy
- 百姓生活,http://111.67.206.48:5000/tptv/baixingsh?type=proxy
- 黑土无言,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-htwy?type=proxy
- 问心,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-wenxin?type=proxy
- 父辈的荣耀,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-fbdry?type=proxy
- 繁城之下,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-fczx?type=proxy
- 小日子,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-xiaorizi?type=proxy
- 谢谢你温暖我,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-xxnwnw?type=proxy
- 当你沉睡时,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-dncss?type=proxy
- 梨园经典荟萃,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-lyjdhc?type=proxy
- 影视剧场,http://111.67.206.48:5000/tptv/GITV-JS-1?type=proxy
- 第一院线,http://111.67.206.48:5000/tptv/GITV-JS-2?type=proxy
- 居家健身,http://111.67.206.48:5000/tptv/GITV-JS-4?type=proxy
- 电视剧,http://111.67.206.48:5000/tptv/GITV-JS-6?type=proxy
- 二更视频,http://111.67.206.48:5000/tptv/GITV-JS-7?type=proxy
- 德凯奥特曼,http://111.67.206.48:5000/tptv/GITV-JS-9?type=proxy
- 熊出没,http://111.67.206.48:5000/tptv/GITV-JS-10?type=proxy
- 超级飞侠,http://111.67.206.48:5000/tptv/GITV-JS-11?type=proxy
- 小猪佩奇,http://111.67.206.48:5000/tptv/GITV-JS-12?type=proxy
- 汪汪队立大功,http://111.67.206.48:5000/tptv/GITV-JS-13?type=proxy
- 高分电影,http://111.67.206.48:5000/tptv/GITV-JS-14?type=proxy
- 乡村爱情,http://111.67.206.48:5000/tptv/GITV-JS-15?type=proxy
- 热门综艺,http://111.67.206.48:5000/tptv/GITV-JS-16?type=proxy
- 美食美味,http://111.67.206.48:5000/tptv/GITV-JS-17?type=proxy
- 自然风景,http://111.67.206.48:5000/tptv/GITV-JS-18?type=proxy
- 动物世界,http://111.67.206.48:5000/tptv/GITV-JS-19?type=proxy
- 书籍解读,http://111.67.206.48:5000/tptv/GITV-JS-20?type=proxy
- 亲子玩具,http://111.67.206.48:5000/tptv/GITV-JS-21?type=proxy
- 广场舞,http://111.67.206.48:5000/tptv/GITV-JS-22?type=proxy
- 戏曲音乐,http://111.67.206.48:5000/tptv/GITV-JS-23?type=proxy
- 相声联欢,http://111.67.206.48:5000/tptv/GITV-JS-24?type=proxy
- 动漫星空,http://111.67.206.48:5000/tptv/GITV-JS-25?type=proxy
- 楚乔传,http://111.67.206.48:5000/tptv/GITV-JS-26?type=proxy
- 完美的她,http://111.67.206.48:5000/tptv/GITV-JS-27?type=proxy
- 哈尔滨一九四四,http://111.67.206.48:5000/tptv/GITV-JS-28?type=proxy
- 军事之旅,http://111.67.206.48:5000/tptv/GITV-JS-29?type=proxy
- 科幻世界,http://111.67.206.48:5000/tptv/GITV-JS-30?type=proxy
- 儿童天地,http://111.67.206.48:5000/tptv/GITV-JS-31?type=proxy
- 纪录片,http://111.67.206.48:5000/tptv/GITV-JS-32?type=proxy
- 音乐心情,http://111.67.206.48:5000/tptv/GITV-JS-33?type=proxy
- 掼蛋频道,http://111.67.206.48:5000/tptv/GITV-JS-34?type=proxy
- 体坛同期声,http://111.67.206.48:5000/tptv/GITV-JS-35?type=proxy
- 臻享推荐,http://111.67.206.48:5000/tptv/GITV-JS-36?type=proxy
- 怀旧MTV,http://111.67.206.48:5000/tptv/GITV-JS-37?type=proxy
- 南来北往,http://111.67.206.48:5000/tptv/GITV-JS-39?type=proxy
- 狗剩快跑,http://111.67.206.48:5000/tptv/GITV-JS-40?type=proxy
- 狂飙,http://111.67.206.48:5000/tptv/GITV-JS-41?type=proxy
- 人世间,http://111.67.206.48:5000/tptv/GITV-JS-42?type=proxy
- 大江大河,http://111.67.206.48:5000/tptv/GITV-JS-43?type=proxy
- 山海情,http://111.67.206.48:5000/tptv/GITV-JS-44?type=proxy
- 冰雪竞技场,http://111.67.206.48:5000/tptv/GITV-JS-45?type=proxy
- 邪恶与疯狂,http://111.67.206.48:5000/tptv/GITV-JS-46?type=proxy
- 来自星星的你,http://111.67.206.48:5000/tptv/GITV-JS-47?type=proxy
- 哦我的鬼神大人,http://111.67.206.48:5000/tptv/GITV-JS-48?type=proxy
- 太阳的后裔,http://111.67.206.48:5000/tptv/GITV-JS-49?type=proxy
- 请回答1988,http://111.67.206.48:5000/tptv/GITV-JS-50?type=proxy
+ CCTV 1,http://103.146.51.181:35455/tptv/G_CCTV-1-AVS-4K264?type=proxy
+ CCTV 2,http://103.146.51.181:35455/tptv/G_CCTV-2-HD-265-8M?type=proxy
+ CCTV 3,http://103.146.51.181:35455/tptv/G_CCTV-3-AVS-4K264?type=proxy
+ CCTV 4,http://103.146.51.181:35455/tptv/G_CCTV-4-HD-265-8M?type=proxy
+ CCTV 5,http://103.146.51.181:35455/tptv/G_CCTV-5-AVS-4K264?type=proxy
+ CCTV 5+,http://103.146.51.181:35455/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
+ CCTV 6,http://103.146.51.181:35455/tptv/G_CCTV-6-AVS-4K264?type=proxy
+ CCTV 7,http://103.146.51.181:35455/tptv/G_CCTV-7-HD-265-8M?type=proxy
+ CCTV 8,http://103.146.51.181:35455/tptv/G_CCTV-8-AVS-4K264?type=proxy
+ CCTV 9,http://103.146.51.181:35455/tptv/G_CCTV-9-HD-265-8M?type=proxy
+ CCTV 10,http://103.146.51.181:35455/tptv/G_CCTV-10-HD-265-8M?type=proxy
+ CCTV 11,http://103.146.51.181:35455/tptv/H265-5500k-1080P-cctv11?type=proxy
+ CCTV 12,http://103.146.51.181:35455/tptv/G_CCTV-12-HD-265-8M?type=proxy
+ CCTV 13,http://103.146.51.181:35455/tptv/G_CCTV-13-HQ?type=proxy
+ CCTV 14,http://103.146.51.181:35455/tptv/G_CCTV-14-CQ?type=proxy
+ CCTV 15,http://103.146.51.181:35455/tptv/H265-5500k-1080P-cctv15?type=proxy
+ CCTV 16,http://103.146.51.181:35455/tptv/G_CCTV-16-CQ?type=proxy
+ CCTV 16 4K,http://103.146.51.181:35455/tptv/G_CCTV-16-4K?type=proxy
+ CCTV 17,http://103.146.51.181:35455/tptv/G_CCTV-17-CQ?type=proxy
+ CCTV 4K,http://103.146.51.181:35455/tptv/G_CCTV-4K-HD?type=proxy
+ CCTV 世界地理,http://103.146.51.181:35455/tptv/G_SHIJIEDL-CQ?type=proxy
+ CCTV 风云剧场,http://103.146.51.181:35455/tptv/G_FENGYUNJC-CQ?type=proxy
+ CCTV 风云足球,http://103.146.51.181:35455/tptv/G_FENGSHANGZQ-CQ?type=proxy
+ CCTV 风云音乐,http://103.146.51.181:35455/tptv/G_FENGYUNYY-CQ?type=proxy
+ CCTV 兵器科技,http://103.146.51.181:35455/tptv/G_BINGQIKJ-CQ?type=proxy
+ CCTV 央视台球,http://103.146.51.181:35455/tptv/G_TAIQIU-CQ?type=proxy
+ CCTV 高尔夫网球,http://103.146.51.181:35455/tptv/G_CCTV-GOLF-CQ?type=proxy
+ CCTV 女性时尚,http://103.146.51.181:35455/tptv/G_NVXINGSS-CQ?type=proxy
+ CCTV 电视指南,http://103.146.51.181:35455/tptv/G_DIANSHIZN-CQ?type=proxy
+ CCTV 第一剧场,http://103.146.51.181:35455/tptv/G_DIYIJC-CQ?type=proxy
+ CCTV 怀旧剧场,http://103.146.51.181:35455/tptv/G_HUAIJIUJC-CQ?type=proxy
+ CCTV 央视文化精品,http://103.146.51.181:35455/tptv/G_CCTV-WENHUA-CQ?type=proxy
+ CETV 早期教育,http://103.146.51.181:35455/tptv/G_CETV-ZQJY-CQ?type=proxy
+ 江苏卫视,http://103.146.51.181:35455/tptv/G_JIANGSU-HD-265-8M?type=proxy
+ 东方卫视,http://103.146.51.181:35455/tptv/G_DONGFANG-HD-265-8M?type=proxy
+ 北京卫视,http://103.146.51.181:35455/tptv/G_BEIJING-HD-265-8M?type=proxy
+ 广东卫视,http://103.146.51.181:35455/tptv/G_GUANGDONG-HD-265-8M?type=proxy
+ 山东卫视,http://103.146.51.181:35455/tptv/G_SHANDONG-HD-265-8M?type=proxy
+ 深圳卫视,http://103.146.51.181:35455/tptv/G_SHENZHEN-HD-265-8M?type=proxy
+ 湖北卫视,http://103.146.51.181:35455/tptv/G_HUBEI-HD-265-8M?type=proxy
+ 湖南卫视,http://103.146.51.181:35455/tptv/G_HUNAN-HD-265-8M?type=proxy
+ 浙江卫视,http://103.146.51.181:35455/tptv/G_ZHEJIANG-HD-265-8M?type=proxy
+ 黑龙江卫视,http://103.146.51.181:35455/tptv/G_HEILONGJIANG-HD-265-8M?type=proxy
+ 天津卫视,http://103.146.51.181:35455/tptv/G_TIANJIN-HD-265-8M?type=proxy
+ 安徽卫视,http://103.146.51.181:35455/tptv/G_ANHUI-HD-265-8M?type=proxy
+ 辽宁卫视,http://103.146.51.181:35455/tptv/G_LIAONING-HD-265-8M?type=proxy
+ 东南卫视,http://103.146.51.181:35455/tptv/H265-5500k-1080P-dongnanstv?type=proxy
+ 吉林卫视,http://103.146.51.181:35455/tptv/G_JILIN-CQ?type=proxy
+ 四川卫视,http://103.146.51.181:35455/tptv/G_SICHUAN-CQ?type=proxy
+ 江西卫视,http://103.146.51.181:35455/tptv/G_JIANGXI-CQ?type=proxy
+ 河北卫视,http://103.146.51.181:35455/tptv/G_HEBEI-CQ?type=proxy
+ 河南卫视,http://103.146.51.181:35455/tptv/G_HENAN-CQ?type=proxy
+ 贵州卫视,http://103.146.51.181:35455/tptv/G_GUIZHOU-CQ?type=proxy
+ 重庆卫视,http://103.146.51.181:35455/tptv/G_CHONGQING-CQ?type=proxy
+ 云南卫视,http://103.146.51.181:35455/tptv/G_YUNNAN-HQ?type=proxy
+ 三沙卫视,http://103.146.51.181:35455/tptv/G_SANSHA-HQ?type=proxy
+ 海南卫视,http://103.146.51.181:35455/tptv/HD-8000k-1080P-lvyoustv?type=proxy
+ 上海纪实人文,http://103.146.51.181:35455/tptv/H265-5500k-1080P-shanghaijishi?type=proxy
+ 北京纪实科教,http://103.146.51.181:35455/tptv/HD-8000k-1080P-beijingjishi?type=proxy
+ 凤凰卫视中文,http://103.146.51.181:35455/tptv/HD-10000k-1080P-fhchinese5s?type=proxy
+ 凤凰卫视资讯,http://103.146.51.181:35455/tptv/HD-10000k-1080P-fhzixun5s?type=proxy
+ 凤凰卫视香港,http://103.146.51.181:35455/tptv/HD-10000k-1080P-fhhongkong5s?type=proxy
+ 纯享 4K,http://103.146.51.181:35455/tptv/HD-20M-2160P-chunxiang4k?type=proxy
+ 高清臻享睛彩篮球,http://103.146.51.181:35455/tptv/miguaoyun01-AVS-4K01?type=proxy
+ 睛彩篮球,http://103.146.51.181:35455/tptv/HD-8000k-1080P-miguaoyun1?type=proxy
+ 高清臻享睛彩竞技,http://103.146.51.181:35455/tptv/miguaoyun1-AVS?type=proxy
+ 睛彩竞技,http://103.146.51.181:35455/tptv/HD-8000k-1080P-miguaoyun2?type=proxy
+ 睛彩青少,http://103.146.51.181:35455/tptv/HD-8000k-1080P-quanminrl?type=proxy
+ 黑莓电影,http://103.146.51.181:35455/tptv/HD-8000k-1080P-Supermovie?type=proxy
+ NewTV 炫舞未来,http://103.146.51.181:35455/tptv/HD-4000k-1080P-xwwl?type=proxy
+ 南京新闻综合频道,http://103.146.51.181:35455/tptv/G_NJXW?type=proxy
+ 南京影视频道,http://103.146.51.181:35455/tptv/G_NJYS?type=proxy
+ 南京少儿频道,http://103.146.51.181:35455/tptv/G_NJSE?type=proxy
+ 南京生活频道,http://103.146.51.181:35455/tptv/G_NJSH?type=proxy
+ 南京信息频道,http://103.146.51.181:35455/tptv/G_NJXX?type=proxy
+ 南京娱乐频道,http://103.146.51.181:35455/tptv/G_NJYL?type=proxy
+ 南京教科频道,http://103.146.51.181:35455/tptv/G_NJJK?type=proxy
+ 南京十八频道,http://103.146.51.181:35455/tptv/G_NJSB?type=proxy
+ 徐州新闻综合,http://103.146.51.181:35455/tptv/xzxwzh?type=proxy
+ 徐州经济生活,http://103.146.51.181:35455/tptv/xzjjsh?type=proxy
+ 徐州文艺影视,http://103.146.51.181:35455/tptv/xzwyys?type=proxy
+ 徐州公共,http://103.146.51.181:35455/tptv/xzgg?type=proxy
+ 徐州新沂3套,http://103.146.51.181:35455/tptv/G_XZXYTV-3?type=proxy
+ 徐州沛县新闻综合,http://103.146.51.181:35455/tptv/xzpxxwzh?type=proxy
+ 徐州沛县综艺,http://103.146.51.181:35455/tptv/xzpxzy?type=proxy
+ 徐州沛县生活,http://103.146.51.181:35455/tptv/xzpxsh?type=proxy
+ 常州新闻,http://103.146.51.181:35455/tptv/jsczxinwen?type=proxy
+ 常州都市,http://103.146.51.181:35455/tptv/jsczdushi?type=proxy
+ 常州生活,http://103.146.51.181:35455/tptv/jsczshenghuo?type=proxy
+ 常州公共,http://103.146.51.181:35455/tptv/jsczgonggong?type=proxy
+ 睢宁综合,http://103.146.51.181:35455/tptv/xzsnzh?type=proxy
+ 睢宁资讯,http://103.146.51.181:35455/tptv/xzsnzx?type=proxy
+ 睢宁生活,http://103.146.51.181:35455/tptv/xzsnshjy?type=proxy
+ 睢宁三农,http://103.146.51.181:35455/tptv/xzsnsn?type=proxy
+ 南通一套,http://103.146.51.181:35455/tptv/jsntyitao?type=proxy
+ 南通二套,http://103.146.51.181:35455/tptv/jsntertao?type=proxy
+ 公共崇川,http://103.146.51.181:35455/tptv/jsntsantao?type=proxy
+ 镇江一套,http://103.146.51.181:35455/tptv/G_ZHENJIANGTV-1?type=proxy
+ 镇江二套,http://103.146.51.181:35455/tptv/G_ZHENJIANGTV-2?type=proxy
+ 镇江三套,http://103.146.51.181:35455/tptv/G_ZHENJIANGTV-3?type=proxy
+ 宿迁综合,http://103.146.51.181:35455/tptv/G_SQZH?type=proxy
+ 宿迁公共,http://103.146.51.181:35455/tptv/G_SQGG?type=proxy
+ 邳州综合,http://103.146.51.181:35455/tptv/pzzonghe?type=proxy
+ 邳州综艺,http://103.146.51.181:35455/tptv/pzzongyi?type=proxy
+ 赣榆新闻综合,http://103.146.51.181:35455/tptv/HD-2500k-1080P-ganyutv?type=proxy
+ 江苏仪化电视,http://103.146.51.181:35455/tptv/HD-4000k-1080P-jsyihua?type=proxy
+ 猎冰,http://103.146.51.181:35455/tptv/cos-liebing?type=proxy
+ 永安梦,http://103.146.51.181:35455/tptv/cos-yonganmeng?type=proxy
+ 漫长的季节,http://103.146.51.181:35455/tptv/manchangdjj?type=proxy
+ 梦中的那片海,http://103.146.51.181:35455/tptv/mengzhongdnph?type=proxy
+ 繁花,http://103.146.51.181:35455/tptv/fanhua?type=proxy
+ 庆余年,http://103.146.51.181:35455/tptv/zhifouzf?type=proxy
+ 百姓生活,http://103.146.51.181:35455/tptv/baixingsh?type=proxy
+ 黑土无言,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-htwy?type=proxy
+ 问心,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-wenxin?type=proxy
+ 父辈的荣耀,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-fbdry?type=proxy
+ 繁城之下,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-fczx?type=proxy
+ 小日子,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-xiaorizi?type=proxy
+ 谢谢你温暖我,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-xxnwnw?type=proxy
+ 当你沉睡时,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-dncss?type=proxy
+ 梨园经典荟萃,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-lyjdhc?type=proxy
+ 影视剧场,http://103.146.51.181:35455/tptv/GITV-JS-1?type=proxy
+ 第一院线,http://103.146.51.181:35455/tptv/GITV-JS-2?type=proxy
+ 居家健身,http://103.146.51.181:35455/tptv/GITV-JS-4?type=proxy
+ 电视剧,http://103.146.51.181:35455/tptv/GITV-JS-6?type=proxy
+ 二更视频,http://103.146.51.181:35455/tptv/GITV-JS-7?type=proxy
+ 德凯奥特曼,http://103.146.51.181:35455/tptv/GITV-JS-9?type=proxy
+ 熊出没,http://103.146.51.181:35455/tptv/GITV-JS-10?type=proxy
+ 超级飞侠,http://103.146.51.181:35455/tptv/GITV-JS-11?type=proxy
+ 小猪佩奇,http://103.146.51.181:35455/tptv/GITV-JS-12?type=proxy
+ 汪汪队立大功,http://103.146.51.181:35455/tptv/GITV-JS-13?type=proxy
+ 高分电影,http://103.146.51.181:35455/tptv/GITV-JS-14?type=proxy
+ 乡村爱情,http://103.146.51.181:35455/tptv/GITV-JS-15?type=proxy
+ 热门综艺,http://103.146.51.181:35455/tptv/GITV-JS-16?type=proxy
+ 美食美味,http://103.146.51.181:35455/tptv/GITV-JS-17?type=proxy
+ 自然风景,http://103.146.51.181:35455/tptv/GITV-JS-18?type=proxy
+ 动物世界,http://103.146.51.181:35455/tptv/GITV-JS-19?type=proxy
+ 书籍解读,http://103.146.51.181:35455/tptv/GITV-JS-20?type=proxy
+ 亲子玩具,http://103.146.51.181:35455/tptv/GITV-JS-21?type=proxy
+ 广场舞,http://103.146.51.181:35455/tptv/GITV-JS-22?type=proxy
+ 戏曲音乐,http://103.146.51.181:35455/tptv/GITV-JS-23?type=proxy
+ 相声联欢,http://103.146.51.181:35455/tptv/GITV-JS-24?type=proxy
+ 动漫星空,http://103.146.51.181:35455/tptv/GITV-JS-25?type=proxy
+ 楚乔传,http://103.146.51.181:35455/tptv/GITV-JS-26?type=proxy
+ 完美的她,http://103.146.51.181:35455/tptv/GITV-JS-27?type=proxy
+ 哈尔滨一九四四,http://103.146.51.181:35455/tptv/GITV-JS-28?type=proxy
+ 军事之旅,http://103.146.51.181:35455/tptv/GITV-JS-29?type=proxy
+ 科幻世界,http://103.146.51.181:35455/tptv/GITV-JS-30?type=proxy
+ 儿童天地,http://103.146.51.181:35455/tptv/GITV-JS-31?type=proxy
+ 纪录片,http://103.146.51.181:35455/tptv/GITV-JS-32?type=proxy
+ 音乐心情,http://103.146.51.181:35455/tptv/GITV-JS-33?type=proxy
+ 掼蛋频道,http://103.146.51.181:35455/tptv/GITV-JS-34?type=proxy
+ 体坛同期声,http://103.146.51.181:35455/tptv/GITV-JS-35?type=proxy
+ 臻享推荐,http://103.146.51.181:35455/tptv/GITV-JS-36?type=proxy
+ 怀旧MTV,http://103.146.51.181:35455/tptv/GITV-JS-37?type=proxy
+ 南来北往,http://103.146.51.181:35455/tptv/GITV-JS-39?type=proxy
+ 狗剩快跑,http://103.146.51.181:35455/tptv/GITV-JS-40?type=proxy
+ 狂飙,http://103.146.51.181:35455/tptv/GITV-JS-41?type=proxy
+ 人世间,http://103.146.51.181:35455/tptv/GITV-JS-42?type=proxy
+ 大江大河,http://103.146.51.181:35455/tptv/GITV-JS-43?type=proxy
+ 山海情,http://103.146.51.181:35455/tptv/GITV-JS-44?type=proxy
+ 冰雪竞技场,http://103.146.51.181:35455/tptv/GITV-JS-45?type=proxy
+ 邪恶与疯狂,http://103.146.51.181:35455/tptv/GITV-JS-46?type=proxy
+ 来自星星的你,http://103.146.51.181:35455/tptv/GITV-JS-47?type=proxy
+ 哦我的鬼神大人,http://103.146.51.181:35455/tptv/GITV-JS-48?type=proxy
+ 太阳的后裔,http://103.146.51.181:35455/tptv/GITV-JS-49?type=proxy
+ 请回答1988,http://103.146.51.181:35455/tptv/GITV-JS-50?type=proxy
 江苏移动魔百盒 TPTV,#genre#
- CCTV 1,http://111.67.206.48:5000/tptv/G_CCTV-1-AVS-4K264?type=origin
- CCTV 2,http://111.67.206.48:5000/tptv/G_CCTV-2-HD-265-8M?type=origin
- CCTV 3,http://111.67.206.48:5000/tptv/G_CCTV-3-AVS-4K264?type=origin
- CCTV 4,http://111.67.206.48:5000/tptv/G_CCTV-4-HD-265-8M?type=origin
- CCTV 5,http://111.67.206.48:5000/tptv/G_CCTV-5-AVS-4K264?type=origin
- CCTV 5+,http://111.67.206.48:5000/tptv/G_CCTV-5PLUS-HD-265-8M?type=origin
- CCTV 6,http://111.67.206.48:5000/tptv/G_CCTV-6-AVS-4K264?type=origin
- CCTV 7,http://111.67.206.48:5000/tptv/G_CCTV-7-HD-265-8M?type=origin
- CCTV 8,http://111.67.206.48:5000/tptv/G_CCTV-8-AVS-4K264?type=origin
- CCTV 9,http://111.67.206.48:5000/tptv/G_CCTV-9-HD-265-8M?type=origin
- CCTV 10,http://111.67.206.48:5000/tptv/G_CCTV-10-HD-265-8M?type=origin
- CCTV 11,http://111.67.206.48:5000/tptv/H265-5500k-1080P-cctv11?type=origin
- CCTV 12,http://111.67.206.48:5000/tptv/G_CCTV-12-HD-265-8M?type=origin
- CCTV 13,http://111.67.206.48:5000/tptv/G_CCTV-13-HQ?type=origin
- CCTV 14,http://111.67.206.48:5000/tptv/G_CCTV-14-CQ?type=origin
- CCTV 15,http://111.67.206.48:5000/tptv/H265-5500k-1080P-cctv15?type=origin
- CCTV 16,http://111.67.206.48:5000/tptv/G_CCTV-16-CQ?type=origin
- CCTV 16 4K,http://111.67.206.48:5000/tptv/G_CCTV-16-4K?type=origin
- CCTV 17,http://111.67.206.48:5000/tptv/G_CCTV-17-CQ?type=origin
- CCTV 4K,http://111.67.206.48:5000/tptv/G_CCTV-4K-HD?type=origin
- CCTV 世界地理,http://111.67.206.48:5000/tptv/G_SHIJIEDL-CQ?type=origin
- CCTV 风云剧场,http://111.67.206.48:5000/tptv/G_FENGYUNJC-CQ?type=origin
- CCTV 风云足球,http://111.67.206.48:5000/tptv/G_FENGSHANGZQ-CQ?type=origin
- CCTV 风云音乐,http://111.67.206.48:5000/tptv/G_FENGYUNYY-CQ?type=origin
- CCTV 兵器科技,http://111.67.206.48:5000/tptv/G_BINGQIKJ-CQ?type=origin
- CCTV 央视台球,http://111.67.206.48:5000/tptv/G_TAIQIU-CQ?type=origin
- CCTV 高尔夫网球,http://111.67.206.48:5000/tptv/G_CCTV-GOLF-CQ?type=origin
- CCTV 女性时尚,http://111.67.206.48:5000/tptv/G_NVXINGSS-CQ?type=origin
- CCTV 电视指南,http://111.67.206.48:5000/tptv/G_DIANSHIZN-CQ?type=origin
- CCTV 第一剧场,http://111.67.206.48:5000/tptv/G_DIYIJC-CQ?type=origin
- CCTV 怀旧剧场,http://111.67.206.48:5000/tptv/G_HUAIJIUJC-CQ?type=origin
- CCTV 央视文化精品,http://111.67.206.48:5000/tptv/G_CCTV-WENHUA-CQ?type=origin
- CETV 早期教育,http://111.67.206.48:5000/tptv/G_CETV-ZQJY-CQ?type=origin
- 江苏卫视,http://111.67.206.48:5000/tptv/G_JIANGSU-HD-265-8M?type=origin
- 东方卫视,http://111.67.206.48:5000/tptv/G_DONGFANG-HD-265-8M?type=origin
- 北京卫视,http://111.67.206.48:5000/tptv/G_BEIJING-HD-265-8M?type=origin
- 广东卫视,http://111.67.206.48:5000/tptv/G_GUANGDONG-HD-265-8M?type=origin
- 山东卫视,http://111.67.206.48:5000/tptv/G_SHANDONG-HD-265-8M?type=origin
- 深圳卫视,http://111.67.206.48:5000/tptv/G_SHENZHEN-HD-265-8M?type=origin
- 湖北卫视,http://111.67.206.48:5000/tptv/G_HUBEI-HD-265-8M?type=origin
- 湖南卫视,http://111.67.206.48:5000/tptv/G_HUNAN-HD-265-8M?type=origin
- 浙江卫视,http://111.67.206.48:5000/tptv/G_ZHEJIANG-HD-265-8M?type=origin
- 黑龙江卫视,http://111.67.206.48:5000/tptv/G_HEILONGJIANG-HD-265-8M?type=origin
- 天津卫视,http://111.67.206.48:5000/tptv/G_TIANJIN-HD-265-8M?type=origin
- 安徽卫视,http://111.67.206.48:5000/tptv/G_ANHUI-HD-265-8M?type=origin
- 辽宁卫视,http://111.67.206.48:5000/tptv/G_LIAONING-HD-265-8M?type=origin
- 东南卫视,http://111.67.206.48:5000/tptv/H265-5500k-1080P-dongnanstv?type=origin
- 吉林卫视,http://111.67.206.48:5000/tptv/G_JILIN-CQ?type=origin
- 四川卫视,http://111.67.206.48:5000/tptv/G_SICHUAN-CQ?type=origin
- 江西卫视,http://111.67.206.48:5000/tptv/G_JIANGXI-CQ?type=origin
- 河北卫视,http://111.67.206.48:5000/tptv/G_HEBEI-CQ?type=origin
- 河南卫视,http://111.67.206.48:5000/tptv/G_HENAN-CQ?type=origin
- 贵州卫视,http://111.67.206.48:5000/tptv/G_GUIZHOU-CQ?type=origin
- 重庆卫视,http://111.67.206.48:5000/tptv/G_CHONGQING-CQ?type=origin
- 云南卫视,http://111.67.206.48:5000/tptv/G_YUNNAN-HQ?type=origin
- 三沙卫视,http://111.67.206.48:5000/tptv/G_SANSHA-HQ?type=origin
- 海南卫视,http://111.67.206.48:5000/tptv/HD-8000k-1080P-lvyoustv?type=origin
- 上海纪实人文,http://111.67.206.48:5000/tptv/H265-5500k-1080P-shanghaijishi?type=origin
- 北京纪实科教,http://111.67.206.48:5000/tptv/HD-8000k-1080P-beijingjishi?type=origin
- 凤凰卫视中文,http://111.67.206.48:5000/tptv/HD-10000k-1080P-fhchinese5s?type=origin
- 凤凰卫视资讯,http://111.67.206.48:5000/tptv/HD-10000k-1080P-fhzixun5s?type=origin
- 凤凰卫视香港,http://111.67.206.48:5000/tptv/HD-10000k-1080P-fhhongkong5s?type=origin
- 纯享 4K,http://111.67.206.48:5000/tptv/HD-20M-2160P-chunxiang4k?type=origin
- 高清臻享睛彩篮球,http://111.67.206.48:5000/tptv/miguaoyun01-AVS-4K01?type=origin
- 睛彩篮球,http://111.67.206.48:5000/tptv/HD-8000k-1080P-miguaoyun1?type=origin
- 高清臻享睛彩竞技,http://111.67.206.48:5000/tptv/miguaoyun1-AVS?type=origin
- 睛彩竞技,http://111.67.206.48:5000/tptv/HD-8000k-1080P-miguaoyun2?type=origin
- 睛彩青少,http://111.67.206.48:5000/tptv/HD-8000k-1080P-quanminrl?type=origin
- 黑莓电影,http://111.67.206.48:5000/tptv/HD-8000k-1080P-Supermovie?type=origin
- NewTV 炫舞未来,http://111.67.206.48:5000/tptv/HD-4000k-1080P-xwwl?type=origin
- 南京新闻综合频道,http://111.67.206.48:5000/tptv/G_NJXW?type=origin
- 南京影视频道,http://111.67.206.48:5000/tptv/G_NJYS?type=origin
- 南京少儿频道,http://111.67.206.48:5000/tptv/G_NJSE?type=origin
- 南京生活频道,http://111.67.206.48:5000/tptv/G_NJSH?type=origin
- 南京信息频道,http://111.67.206.48:5000/tptv/G_NJXX?type=origin
- 南京娱乐频道,http://111.67.206.48:5000/tptv/G_NJYL?type=origin
- 南京教科频道,http://111.67.206.48:5000/tptv/G_NJJK?type=origin
- 南京十八频道,http://111.67.206.48:5000/tptv/G_NJSB?type=origin
- 徐州新闻综合,http://111.67.206.48:5000/tptv/xzxwzh?type=origin
- 徐州经济生活,http://111.67.206.48:5000/tptv/xzjjsh?type=origin
- 徐州文艺影视,http://111.67.206.48:5000/tptv/xzwyys?type=origin
- 徐州公共,http://111.67.206.48:5000/tptv/xzgg?type=origin
- 徐州新沂3套,http://111.67.206.48:5000/tptv/G_XZXYTV-3?type=origin
- 徐州沛县新闻综合,http://111.67.206.48:5000/tptv/xzpxxwzh?type=origin
- 徐州沛县综艺,http://111.67.206.48:5000/tptv/xzpxzy?type=origin
- 徐州沛县生活,http://111.67.206.48:5000/tptv/xzpxsh?type=origin
- 常州新闻,http://111.67.206.48:5000/tptv/jsczxinwen?type=origin
- 常州都市,http://111.67.206.48:5000/tptv/jsczdushi?type=origin
- 常州生活,http://111.67.206.48:5000/tptv/jsczshenghuo?type=origin
- 常州公共,http://111.67.206.48:5000/tptv/jsczgonggong?type=origin
- 睢宁综合,http://111.67.206.48:5000/tptv/xzsnzh?type=origin
- 睢宁资讯,http://111.67.206.48:5000/tptv/xzsnzx?type=origin
- 睢宁生活,http://111.67.206.48:5000/tptv/xzsnshjy?type=origin
- 睢宁三农,http://111.67.206.48:5000/tptv/xzsnsn?type=origin
- 南通一套,http://111.67.206.48:5000/tptv/jsntyitao?type=origin
- 南通二套,http://111.67.206.48:5000/tptv/jsntertao?type=origin
- 公共崇川,http://111.67.206.48:5000/tptv/jsntsantao?type=origin
- 镇江一套,http://111.67.206.48:5000/tptv/G_ZHENJIANGTV-1?type=origin
- 镇江二套,http://111.67.206.48:5000/tptv/G_ZHENJIANGTV-2?type=origin
- 镇江三套,http://111.67.206.48:5000/tptv/G_ZHENJIANGTV-3?type=origin
- 宿迁综合,http://111.67.206.48:5000/tptv/G_SQZH?type=origin
- 宿迁公共,http://111.67.206.48:5000/tptv/G_SQGG?type=origin
- 邳州综合,http://111.67.206.48:5000/tptv/pzzonghe?type=origin
- 邳州综艺,http://111.67.206.48:5000/tptv/pzzongyi?type=origin
- 赣榆新闻综合,http://111.67.206.48:5000/tptv/HD-2500k-1080P-ganyutv?type=origin
- 江苏仪化电视,http://111.67.206.48:5000/tptv/HD-4000k-1080P-jsyihua?type=origin
- 猎冰,http://111.67.206.48:5000/tptv/cos-liebing?type=origin
- 永安梦,http://111.67.206.48:5000/tptv/cos-yonganmeng?type=origin
- 漫长的季节,http://111.67.206.48:5000/tptv/manchangdjj?type=origin
- 梦中的那片海,http://111.67.206.48:5000/tptv/mengzhongdnph?type=origin
- 繁花,http://111.67.206.48:5000/tptv/fanhua?type=origin
- 庆余年,http://111.67.206.48:5000/tptv/zhifouzf?type=origin
- 百姓生活,http://111.67.206.48:5000/tptv/baixingsh?type=origin
- 黑土无言,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-htwy?type=origin
- 问心,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-wenxin?type=origin
- 父辈的荣耀,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-fbdry?type=origin
- 繁城之下,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-fczx?type=origin
- 小日子,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-xiaorizi?type=origin
- 谢谢你温暖我,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-xxnwnw?type=origin
- 当你沉睡时,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-dncss?type=origin
- 梨园经典荟萃,http://111.67.206.48:5000/tptv/COSHD-4000k-1080P-lyjdhc?type=origin
- 影视剧场,http://111.67.206.48:5000/tptv/GITV-JS-1?type=origin
- 第一院线,http://111.67.206.48:5000/tptv/GITV-JS-2?type=origin
- 居家健身,http://111.67.206.48:5000/tptv/GITV-JS-4?type=origin
- 电视剧,http://111.67.206.48:5000/tptv/GITV-JS-6?type=origin
- 二更视频,http://111.67.206.48:5000/tptv/GITV-JS-7?type=origin
- 德凯奥特曼,http://111.67.206.48:5000/tptv/GITV-JS-9?type=origin
- 熊出没,http://111.67.206.48:5000/tptv/GITV-JS-10?type=origin
- 超级飞侠,http://111.67.206.48:5000/tptv/GITV-JS-11?type=origin
- 小猪佩奇,http://111.67.206.48:5000/tptv/GITV-JS-12?type=origin
- 汪汪队立大功,http://111.67.206.48:5000/tptv/GITV-JS-13?type=origin
- 高分电影,http://111.67.206.48:5000/tptv/GITV-JS-14?type=origin
- 乡村爱情,http://111.67.206.48:5000/tptv/GITV-JS-15?type=origin
- 热门综艺,http://111.67.206.48:5000/tptv/GITV-JS-16?type=origin
- 美食美味,http://111.67.206.48:5000/tptv/GITV-JS-17?type=origin
- 自然风景,http://111.67.206.48:5000/tptv/GITV-JS-18?type=origin
- 动物世界,http://111.67.206.48:5000/tptv/GITV-JS-19?type=origin
- 书籍解读,http://111.67.206.48:5000/tptv/GITV-JS-20?type=origin
- 亲子玩具,http://111.67.206.48:5000/tptv/GITV-JS-21?type=origin
- 广场舞,http://111.67.206.48:5000/tptv/GITV-JS-22?type=origin
- 戏曲音乐,http://111.67.206.48:5000/tptv/GITV-JS-23?type=origin
- 相声联欢,http://111.67.206.48:5000/tptv/GITV-JS-24?type=origin
- 动漫星空,http://111.67.206.48:5000/tptv/GITV-JS-25?type=origin
- 楚乔传,http://111.67.206.48:5000/tptv/GITV-JS-26?type=origin
- 完美的她,http://111.67.206.48:5000/tptv/GITV-JS-27?type=origin
- 哈尔滨一九四四,http://111.67.206.48:5000/tptv/GITV-JS-28?type=origin
- 军事之旅,http://111.67.206.48:5000/tptv/GITV-JS-29?type=origin
- 科幻世界,http://111.67.206.48:5000/tptv/GITV-JS-30?type=origin
- 儿童天地,http://111.67.206.48:5000/tptv/GITV-JS-31?type=origin
- 纪录片,http://111.67.206.48:5000/tptv/GITV-JS-32?type=origin
- 音乐心情,http://111.67.206.48:5000/tptv/GITV-JS-33?type=origin
- 掼蛋频道,http://111.67.206.48:5000/tptv/GITV-JS-34?type=origin
- 体坛同期声,http://111.67.206.48:5000/tptv/GITV-JS-35?type=origin
- 臻享推荐,http://111.67.206.48:5000/tptv/GITV-JS-36?type=origin
- 怀旧MTV,http://111.67.206.48:5000/tptv/GITV-JS-37?type=origin
- 南来北往,http://111.67.206.48:5000/tptv/GITV-JS-39?type=origin
- 狗剩快跑,http://111.67.206.48:5000/tptv/GITV-JS-40?type=origin
- 狂飙,http://111.67.206.48:5000/tptv/GITV-JS-41?type=origin
- 人世间,http://111.67.206.48:5000/tptv/GITV-JS-42?type=origin
- 大江大河,http://111.67.206.48:5000/tptv/GITV-JS-43?type=origin
- 山海情,http://111.67.206.48:5000/tptv/GITV-JS-44?type=origin
- 冰雪竞技场,http://111.67.206.48:5000/tptv/GITV-JS-45?type=origin
- 邪恶与疯狂,http://111.67.206.48:5000/tptv/GITV-JS-46?type=origin
- 来自星星的你,http://111.67.206.48:5000/tptv/GITV-JS-47?type=origin
- 哦我的鬼神大人,http://111.67.206.48:5000/tptv/GITV-JS-48?type=origin
- 太阳的后裔,http://111.67.206.48:5000/tptv/GITV-JS-49?type=origin
- 请回答1988,http://111.67.206.48:5000/tptv/GITV-JS-50?type=origin
+ CCTV 1,http://103.146.51.181:35455/tptv/G_CCTV-1-AVS-4K264?type=origin
+ CCTV 2,http://103.146.51.181:35455/tptv/G_CCTV-2-HD-265-8M?type=origin
+ CCTV 3,http://103.146.51.181:35455/tptv/G_CCTV-3-AVS-4K264?type=origin
+ CCTV 4,http://103.146.51.181:35455/tptv/G_CCTV-4-HD-265-8M?type=origin
+ CCTV 5,http://103.146.51.181:35455/tptv/G_CCTV-5-AVS-4K264?type=origin
+ CCTV 5+,http://103.146.51.181:35455/tptv/G_CCTV-5PLUS-HD-265-8M?type=origin
+ CCTV 6,http://103.146.51.181:35455/tptv/G_CCTV-6-AVS-4K264?type=origin
+ CCTV 7,http://103.146.51.181:35455/tptv/G_CCTV-7-HD-265-8M?type=origin
+ CCTV 8,http://103.146.51.181:35455/tptv/G_CCTV-8-AVS-4K264?type=origin
+ CCTV 9,http://103.146.51.181:35455/tptv/G_CCTV-9-HD-265-8M?type=origin
+ CCTV 10,http://103.146.51.181:35455/tptv/G_CCTV-10-HD-265-8M?type=origin
+ CCTV 11,http://103.146.51.181:35455/tptv/H265-5500k-1080P-cctv11?type=origin
+ CCTV 12,http://103.146.51.181:35455/tptv/G_CCTV-12-HD-265-8M?type=origin
+ CCTV 13,http://103.146.51.181:35455/tptv/G_CCTV-13-HQ?type=origin
+ CCTV 14,http://103.146.51.181:35455/tptv/G_CCTV-14-CQ?type=origin
+ CCTV 15,http://103.146.51.181:35455/tptv/H265-5500k-1080P-cctv15?type=origin
+ CCTV 16,http://103.146.51.181:35455/tptv/G_CCTV-16-CQ?type=origin
+ CCTV 16 4K,http://103.146.51.181:35455/tptv/G_CCTV-16-4K?type=origin
+ CCTV 17,http://103.146.51.181:35455/tptv/G_CCTV-17-CQ?type=origin
+ CCTV 4K,http://103.146.51.181:35455/tptv/G_CCTV-4K-HD?type=origin
+ CCTV 世界地理,http://103.146.51.181:35455/tptv/G_SHIJIEDL-CQ?type=origin
+ CCTV 风云剧场,http://103.146.51.181:35455/tptv/G_FENGYUNJC-CQ?type=origin
+ CCTV 风云足球,http://103.146.51.181:35455/tptv/G_FENGSHANGZQ-CQ?type=origin
+ CCTV 风云音乐,http://103.146.51.181:35455/tptv/G_FENGYUNYY-CQ?type=origin
+ CCTV 兵器科技,http://103.146.51.181:35455/tptv/G_BINGQIKJ-CQ?type=origin
+ CCTV 央视台球,http://103.146.51.181:35455/tptv/G_TAIQIU-CQ?type=origin
+ CCTV 高尔夫网球,http://103.146.51.181:35455/tptv/G_CCTV-GOLF-CQ?type=origin
+ CCTV 女性时尚,http://103.146.51.181:35455/tptv/G_NVXINGSS-CQ?type=origin
+ CCTV 电视指南,http://103.146.51.181:35455/tptv/G_DIANSHIZN-CQ?type=origin
+ CCTV 第一剧场,http://103.146.51.181:35455/tptv/G_DIYIJC-CQ?type=origin
+ CCTV 怀旧剧场,http://103.146.51.181:35455/tptv/G_HUAIJIUJC-CQ?type=origin
+ CCTV 央视文化精品,http://103.146.51.181:35455/tptv/G_CCTV-WENHUA-CQ?type=origin
+ CETV 早期教育,http://103.146.51.181:35455/tptv/G_CETV-ZQJY-CQ?type=origin
+ 江苏卫视,http://103.146.51.181:35455/tptv/G_JIANGSU-HD-265-8M?type=origin
+ 东方卫视,http://103.146.51.181:35455/tptv/G_DONGFANG-HD-265-8M?type=origin
+ 北京卫视,http://103.146.51.181:35455/tptv/G_BEIJING-HD-265-8M?type=origin
+ 广东卫视,http://103.146.51.181:35455/tptv/G_GUANGDONG-HD-265-8M?type=origin
+ 山东卫视,http://103.146.51.181:35455/tptv/G_SHANDONG-HD-265-8M?type=origin
+ 深圳卫视,http://103.146.51.181:35455/tptv/G_SHENZHEN-HD-265-8M?type=origin
+ 湖北卫视,http://103.146.51.181:35455/tptv/G_HUBEI-HD-265-8M?type=origin
+ 湖南卫视,http://103.146.51.181:35455/tptv/G_HUNAN-HD-265-8M?type=origin
+ 浙江卫视,http://103.146.51.181:35455/tptv/G_ZHEJIANG-HD-265-8M?type=origin
+ 黑龙江卫视,http://103.146.51.181:35455/tptv/G_HEILONGJIANG-HD-265-8M?type=origin
+ 天津卫视,http://103.146.51.181:35455/tptv/G_TIANJIN-HD-265-8M?type=origin
+ 安徽卫视,http://103.146.51.181:35455/tptv/G_ANHUI-HD-265-8M?type=origin
+ 辽宁卫视,http://103.146.51.181:35455/tptv/G_LIAONING-HD-265-8M?type=origin
+ 东南卫视,http://103.146.51.181:35455/tptv/H265-5500k-1080P-dongnanstv?type=origin
+ 吉林卫视,http://103.146.51.181:35455/tptv/G_JILIN-CQ?type=origin
+ 四川卫视,http://103.146.51.181:35455/tptv/G_SICHUAN-CQ?type=origin
+ 江西卫视,http://103.146.51.181:35455/tptv/G_JIANGXI-CQ?type=origin
+ 河北卫视,http://103.146.51.181:35455/tptv/G_HEBEI-CQ?type=origin
+ 河南卫视,http://103.146.51.181:35455/tptv/G_HENAN-CQ?type=origin
+ 贵州卫视,http://103.146.51.181:35455/tptv/G_GUIZHOU-CQ?type=origin
+ 重庆卫视,http://103.146.51.181:35455/tptv/G_CHONGQING-CQ?type=origin
+ 云南卫视,http://103.146.51.181:35455/tptv/G_YUNNAN-HQ?type=origin
+ 三沙卫视,http://103.146.51.181:35455/tptv/G_SANSHA-HQ?type=origin
+ 海南卫视,http://103.146.51.181:35455/tptv/HD-8000k-1080P-lvyoustv?type=origin
+ 上海纪实人文,http://103.146.51.181:35455/tptv/H265-5500k-1080P-shanghaijishi?type=origin
+ 北京纪实科教,http://103.146.51.181:35455/tptv/HD-8000k-1080P-beijingjishi?type=origin
+ 凤凰卫视中文,http://103.146.51.181:35455/tptv/HD-10000k-1080P-fhchinese5s?type=origin
+ 凤凰卫视资讯,http://103.146.51.181:35455/tptv/HD-10000k-1080P-fhzixun5s?type=origin
+ 凤凰卫视香港,http://103.146.51.181:35455/tptv/HD-10000k-1080P-fhhongkong5s?type=origin
+ 纯享 4K,http://103.146.51.181:35455/tptv/HD-20M-2160P-chunxiang4k?type=origin
+ 高清臻享睛彩篮球,http://103.146.51.181:35455/tptv/miguaoyun01-AVS-4K01?type=origin
+ 睛彩篮球,http://103.146.51.181:35455/tptv/HD-8000k-1080P-miguaoyun1?type=origin
+ 高清臻享睛彩竞技,http://103.146.51.181:35455/tptv/miguaoyun1-AVS?type=origin
+ 睛彩竞技,http://103.146.51.181:35455/tptv/HD-8000k-1080P-miguaoyun2?type=origin
+ 睛彩青少,http://103.146.51.181:35455/tptv/HD-8000k-1080P-quanminrl?type=origin
+ 黑莓电影,http://103.146.51.181:35455/tptv/HD-8000k-1080P-Supermovie?type=origin
+ NewTV 炫舞未来,http://103.146.51.181:35455/tptv/HD-4000k-1080P-xwwl?type=origin
+ 南京新闻综合频道,http://103.146.51.181:35455/tptv/G_NJXW?type=origin
+ 南京影视频道,http://103.146.51.181:35455/tptv/G_NJYS?type=origin
+ 南京少儿频道,http://103.146.51.181:35455/tptv/G_NJSE?type=origin
+ 南京生活频道,http://103.146.51.181:35455/tptv/G_NJSH?type=origin
+ 南京信息频道,http://103.146.51.181:35455/tptv/G_NJXX?type=origin
+ 南京娱乐频道,http://103.146.51.181:35455/tptv/G_NJYL?type=origin
+ 南京教科频道,http://103.146.51.181:35455/tptv/G_NJJK?type=origin
+ 南京十八频道,http://103.146.51.181:35455/tptv/G_NJSB?type=origin
+ 徐州新闻综合,http://103.146.51.181:35455/tptv/xzxwzh?type=origin
+ 徐州经济生活,http://103.146.51.181:35455/tptv/xzjjsh?type=origin
+ 徐州文艺影视,http://103.146.51.181:35455/tptv/xzwyys?type=origin
+ 徐州公共,http://103.146.51.181:35455/tptv/xzgg?type=origin
+ 徐州新沂3套,http://103.146.51.181:35455/tptv/G_XZXYTV-3?type=origin
+ 徐州沛县新闻综合,http://103.146.51.181:35455/tptv/xzpxxwzh?type=origin
+ 徐州沛县综艺,http://103.146.51.181:35455/tptv/xzpxzy?type=origin
+ 徐州沛县生活,http://103.146.51.181:35455/tptv/xzpxsh?type=origin
+ 常州新闻,http://103.146.51.181:35455/tptv/jsczxinwen?type=origin
+ 常州都市,http://103.146.51.181:35455/tptv/jsczdushi?type=origin
+ 常州生活,http://103.146.51.181:35455/tptv/jsczshenghuo?type=origin
+ 常州公共,http://103.146.51.181:35455/tptv/jsczgonggong?type=origin
+ 睢宁综合,http://103.146.51.181:35455/tptv/xzsnzh?type=origin
+ 睢宁资讯,http://103.146.51.181:35455/tptv/xzsnzx?type=origin
+ 睢宁生活,http://103.146.51.181:35455/tptv/xzsnshjy?type=origin
+ 睢宁三农,http://103.146.51.181:35455/tptv/xzsnsn?type=origin
+ 南通一套,http://103.146.51.181:35455/tptv/jsntyitao?type=origin
+ 南通二套,http://103.146.51.181:35455/tptv/jsntertao?type=origin
+ 公共崇川,http://103.146.51.181:35455/tptv/jsntsantao?type=origin
+ 镇江一套,http://103.146.51.181:35455/tptv/G_ZHENJIANGTV-1?type=origin
+ 镇江二套,http://103.146.51.181:35455/tptv/G_ZHENJIANGTV-2?type=origin
+ 镇江三套,http://103.146.51.181:35455/tptv/G_ZHENJIANGTV-3?type=origin
+ 宿迁综合,http://103.146.51.181:35455/tptv/G_SQZH?type=origin
+ 宿迁公共,http://103.146.51.181:35455/tptv/G_SQGG?type=origin
+ 邳州综合,http://103.146.51.181:35455/tptv/pzzonghe?type=origin
+ 邳州综艺,http://103.146.51.181:35455/tptv/pzzongyi?type=origin
+ 赣榆新闻综合,http://103.146.51.181:35455/tptv/HD-2500k-1080P-ganyutv?type=origin
+ 江苏仪化电视,http://103.146.51.181:35455/tptv/HD-4000k-1080P-jsyihua?type=origin
+ 猎冰,http://103.146.51.181:35455/tptv/cos-liebing?type=origin
+ 永安梦,http://103.146.51.181:35455/tptv/cos-yonganmeng?type=origin
+ 漫长的季节,http://103.146.51.181:35455/tptv/manchangdjj?type=origin
+ 梦中的那片海,http://103.146.51.181:35455/tptv/mengzhongdnph?type=origin
+ 繁花,http://103.146.51.181:35455/tptv/fanhua?type=origin
+ 庆余年,http://103.146.51.181:35455/tptv/zhifouzf?type=origin
+ 百姓生活,http://103.146.51.181:35455/tptv/baixingsh?type=origin
+ 黑土无言,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-htwy?type=origin
+ 问心,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-wenxin?type=origin
+ 父辈的荣耀,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-fbdry?type=origin
+ 繁城之下,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-fczx?type=origin
+ 小日子,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-xiaorizi?type=origin
+ 谢谢你温暖我,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-xxnwnw?type=origin
+ 当你沉睡时,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-dncss?type=origin
+ 梨园经典荟萃,http://103.146.51.181:35455/tptv/COSHD-4000k-1080P-lyjdhc?type=origin
+ 影视剧场,http://103.146.51.181:35455/tptv/GITV-JS-1?type=origin
+ 第一院线,http://103.146.51.181:35455/tptv/GITV-JS-2?type=origin
+ 居家健身,http://103.146.51.181:35455/tptv/GITV-JS-4?type=origin
+ 电视剧,http://103.146.51.181:35455/tptv/GITV-JS-6?type=origin
+ 二更视频,http://103.146.51.181:35455/tptv/GITV-JS-7?type=origin
+ 德凯奥特曼,http://103.146.51.181:35455/tptv/GITV-JS-9?type=origin
+ 熊出没,http://103.146.51.181:35455/tptv/GITV-JS-10?type=origin
+ 超级飞侠,http://103.146.51.181:35455/tptv/GITV-JS-11?type=origin
+ 小猪佩奇,http://103.146.51.181:35455/tptv/GITV-JS-12?type=origin
+ 汪汪队立大功,http://103.146.51.181:35455/tptv/GITV-JS-13?type=origin
+ 高分电影,http://103.146.51.181:35455/tptv/GITV-JS-14?type=origin
+ 乡村爱情,http://103.146.51.181:35455/tptv/GITV-JS-15?type=origin
+ 热门综艺,http://103.146.51.181:35455/tptv/GITV-JS-16?type=origin
+ 美食美味,http://103.146.51.181:35455/tptv/GITV-JS-17?type=origin
+ 自然风景,http://103.146.51.181:35455/tptv/GITV-JS-18?type=origin
+ 动物世界,http://103.146.51.181:35455/tptv/GITV-JS-19?type=origin
+ 书籍解读,http://103.146.51.181:35455/tptv/GITV-JS-20?type=origin
+ 亲子玩具,http://103.146.51.181:35455/tptv/GITV-JS-21?type=origin
+ 广场舞,http://103.146.51.181:35455/tptv/GITV-JS-22?type=origin
+ 戏曲音乐,http://103.146.51.181:35455/tptv/GITV-JS-23?type=origin
+ 相声联欢,http://103.146.51.181:35455/tptv/GITV-JS-24?type=origin
+ 动漫星空,http://103.146.51.181:35455/tptv/GITV-JS-25?type=origin
+ 楚乔传,http://103.146.51.181:35455/tptv/GITV-JS-26?type=origin
+ 完美的她,http://103.146.51.181:35455/tptv/GITV-JS-27?type=origin
+ 哈尔滨一九四四,http://103.146.51.181:35455/tptv/GITV-JS-28?type=origin
+ 军事之旅,http://103.146.51.181:35455/tptv/GITV-JS-29?type=origin
+ 科幻世界,http://103.146.51.181:35455/tptv/GITV-JS-30?type=origin
+ 儿童天地,http://103.146.51.181:35455/tptv/GITV-JS-31?type=origin
+ 纪录片,http://103.146.51.181:35455/tptv/GITV-JS-32?type=origin
+ 音乐心情,http://103.146.51.181:35455/tptv/GITV-JS-33?type=origin
+ 掼蛋频道,http://103.146.51.181:35455/tptv/GITV-JS-34?type=origin
+ 体坛同期声,http://103.146.51.181:35455/tptv/GITV-JS-35?type=origin
+ 臻享推荐,http://103.146.51.181:35455/tptv/GITV-JS-36?type=origin
+ 怀旧MTV,http://103.146.51.181:35455/tptv/GITV-JS-37?type=origin
+ 南来北往,http://103.146.51.181:35455/tptv/GITV-JS-39?type=origin
+ 狗剩快跑,http://103.146.51.181:35455/tptv/GITV-JS-40?type=origin
+ 狂飙,http://103.146.51.181:35455/tptv/GITV-JS-41?type=origin
+ 人世间,http://103.146.51.181:35455/tptv/GITV-JS-42?type=origin
+ 大江大河,http://103.146.51.181:35455/tptv/GITV-JS-43?type=origin
+ 山海情,http://103.146.51.181:35455/tptv/GITV-JS-44?type=origin
+ 冰雪竞技场,http://103.146.51.181:35455/tptv/GITV-JS-45?type=origin
+ 邪恶与疯狂,http://103.146.51.181:35455/tptv/GITV-JS-46?type=origin
+ 来自星星的你,http://103.146.51.181:35455/tptv/GITV-JS-47?type=origin
+ 哦我的鬼神大人,http://103.146.51.181:35455/tptv/GITV-JS-48?type=origin
+ 太阳的后裔,http://103.146.51.181:35455/tptv/GITV-JS-49?type=origin
+ 请回答1988,http://103.146.51.181:35455/tptv/GITV-JS-50?type=origin
 四季線上 4GTV,#genre#
- 民視,http://111.67.206.48:5000/litv/4gtv-4gtv002
- 民視第一台,http://111.67.206.48:5000/litv/4gtv-4gtv003
- 民視新聞台,http://111.67.206.48:5000/litv/litv-ftv13
- 民視台灣台,http://111.67.206.48:5000/litv/4gtv-4gtv001
- 民視影劇台,http://111.67.206.48:5000/litv/litv-ftv09
- 民視旅遊台,http://111.67.206.48:5000/litv/litv-ftv07
- 民視綜藝台,http://111.67.206.48:5000/litv/4gtv-4gtv004
- 中視,http://111.67.206.48:5000/litv/4gtv-4gtv040
- 中視新聞台,http://111.67.206.48:5000/litv/4gtv-4gtv074
- 中視經典台,http://111.67.206.48:5000/litv/4gtv-4gtv080
- 中視菁采台,http://111.67.206.48:5000/litv/4gtv-4gtv064
- 中天新聞台,http://111.67.206.48:5000/litv/4gtv-4gtv009
- 中天亞洲台,http://111.67.206.48:5000/litv/4gtv-4gtv109
- 華視,http://111.67.206.48:5000/litv/4gtv-4gtv041
- 華視新聞,http://111.67.206.48:5000/litv/4gtv-4gtv052
- 靖天綜合台,http://111.67.206.48:5000/litv/4gtv-4gtv046
- 靖天國際台,http://111.67.206.48:5000/litv/4gtv-4gtv063
- 靖天戲劇台,http://111.67.206.48:5000/litv/4gtv-4gtv058
- 靖天日本台,http://111.67.206.48:5000/litv/4gtv-4gtv047
- 靖天映畫台,http://111.67.206.48:5000/litv/4gtv-4gtv055
- 靖天卡通台,http://111.67.206.48:5000/litv/4gtv-4gtv044
- 靖天育樂台,http://111.67.206.48:5000/litv/4gtv-4gtv062
- 靖天資訊台,http://111.67.206.48:5000/litv/4gtv-4gtv065
- 靖天電影台,http://111.67.206.48:5000/litv/4gtv-4gtv061
- 靖天歡樂台,http://111.67.206.48:5000/litv/4gtv-4gtv054
- 龍華偶像台,http://111.67.206.48:5000/litv/litv-longturn12
- 龍華卡通台,http://111.67.206.48:5000/litv/litv-longturn01
- 龍華戲劇台,http://111.67.206.48:5000/litv/litv-longturn18
- 龍華日韓台,http://111.67.206.48:5000/litv/litv-longturn11
- 龍華經典台,http://111.67.206.48:5000/litv/litv-longturn21
- 龍華電影台,http://111.67.206.48:5000/litv/litv-longturn03
- 靖洋戲劇台,http://111.67.206.48:5000/litv/4gtv-4gtv045
- 靖洋卡通 Nice Bingo,http://111.67.206.48:5000/litv/4gtv-4gtv057
- 寰宇新聞台,http://111.67.206.48:5000/litv/litv-longturn14
- 寰宇新聞台灣台,http://111.67.206.48:5000/litv/litv-longturn15
- 寰宇財經台,http://111.67.206.48:5000/litv/litv-longturn23
- TVBS,http://111.67.206.48:5000/litv/4gtv-4gtv073
- TVBS 新聞台,http://111.67.206.48:5000/litv/4gtv-4gtv072
- TVBS 綜藝台,http://111.67.206.48:5000/4gtv/284
- TVBS 歡樂台,http://111.67.206.48:5000/litv/4gtv-4gtv068
- TVBS 精采台,http://111.67.206.48:5000/litv/4gtv-4gtv067
- TVBS 台劇台,http://111.67.206.48:5000/4gtv/285
- 八大精彩台,http://111.67.206.48:5000/litv/4gtv-4gtv034
- 八大綜藝台,http://111.67.206.48:5000/litv/4gtv-4gtv039
- 三立綜合台,http://111.67.206.48:5000/4gtv/169
- 三立 iNEWS,http://111.67.206.48:5000/4gtv/229
- 台視,http://111.67.206.48:5000/litv/4gtv-4gtv066
- 台視新聞台,http://111.67.206.48:5000/litv/4gtv-4gtv051
- 台視財經台,http://111.67.206.48:5000/litv/4gtv-4gtv056
- 博斯運動一台,http://111.67.206.48:5000/litv/litv-longturn07
- 博斯運動二台,http://111.67.206.48:5000/litv/litv-longturn08
- 博斯無限台,http://111.67.206.48:5000/litv/litv-longturn10
- 博斯無限二台,http://111.67.206.48:5000/litv/litv-longturn13
- 博斯網球台,http://111.67.206.48:5000/litv/litv-longturn09
- 博斯高球台,http://111.67.206.48:5000/litv/litv-longturn05
- 博斯高球二台,http://111.67.206.48:5000/litv/litv-longturn06
- 博斯魅力台,http://111.67.206.48:5000/litv/litv-longturn04
- ELTA 娛樂台,http://111.67.206.48:5000/litv/4gtv-4gtv070
- ELTA 生活旅遊,http://111.67.206.48:5000/4gtv/237
- ELTV 生活英語,http://111.67.206.48:5000/litv/litv-longturn20
- 東森新聞,http://111.67.206.48:5000/litv/4gtv-4gtv152
- 東森財經新聞,http://111.67.206.48:5000/litv/4gtv-4gtv153
- 非凡新聞台,http://111.67.206.48:5000/litv/4gtv-4gtv010
- 非凡商業台,http://111.67.206.48:5000/litv/4gtv-4gtv048
- 鏡電視新聞台,http://111.67.206.48:5000/litv/4gtv-4gtv075
- CNBC Asia 財經台,http://111.67.206.48:5000/4gtv/235
- 亞洲旅遊台,http://111.67.206.48:5000/litv/litv-longturn17
- GINX Esports TV,http://111.67.206.48:5000/litv/4gtv-4gtv053
- TechStorm,http://111.67.206.48:5000/4gtv/181
- 時尚運動X,http://111.67.206.48:5000/4gtv/277
- 智林體育台,http://111.67.206.48:5000/litv/4gtv-4gtv101
- TraceSports,http://111.67.206.48:5000/litv/4gtv-4gtv077
- 影迷數位紀實台,http://111.67.206.48:5000/4gtv/212
- 影迷數位電影台,http://111.67.206.48:5000/litv/4gtv-4gtv011
- AMC 電影台,http://111.67.206.48:5000/litv/4gtv-4gtv017
- CatchPlay 電影台,http://111.67.206.48:5000/litv/4gtv-4gtv076
- My Cinema Europe HD 我的歐洲電影,http://111.67.206.48:5000/4gtv/176
- 公視戲劇台,http://111.67.206.48:5000/litv/4gtv-4gtv042
- 采昌影劇台,http://111.67.206.48:5000/litv/4gtv-4gtv049
- 台灣戲劇台,http://111.67.206.48:5000/litv/litv-longturn22
- 戲劇免費看 1台,http://111.67.206.48:5000/4gtv/270
- 戲劇免費看 2台,http://111.67.206.48:5000/4gtv/244
- 經典電影台,http://111.67.206.48:5000/4gtv/201
- 電影免費看 2台,http://111.67.206.48:5000/4gtv/245
- 電影原聲台 CMusic,http://111.67.206.48:5000/4gtv/218
- 花系列 經典劇場,http://111.67.206.48:5000/4gtv/279
- CinemaWorld,http://111.67.206.48:5000/4gtv/225
- HITS 頻道,http://111.67.206.48:5000/4gtv/186
- Rock Action,http://111.67.206.48:5000/4gtv/180
- Rock Entertainment,http://111.67.206.48:5000/4gtv/275
- 金光布袋戲,http://111.67.206.48:5000/4gtv/236
- 霹靂布袋戲,http://111.67.206.48:5000/4gtv/301
- DreamWorks 夢工廠動畫,http://111.67.206.48:5000/4gtv/282
- Nickelodeon,http://111.67.206.48:5000/4gtv/185
- Nick Jr. 兒童頻道,http://111.67.206.48:5000/4gtv/219
- i-Fun 動漫台,http://111.67.206.48:5000/litv/litv-ftv15
- 兒童卡通台,http://111.67.206.48:5000/4gtv/269
- 精選動漫台,http://111.67.206.48:5000/4gtv/204
- 經典卡通台,http://111.67.206.48:5000/4gtv/202
- 達文西頻道,http://111.67.206.48:5000/litv/4gtv-4gtv018
- 超人力霸王整套看,http://111.67.206.48:5000/4gtv/278
- MOMO 親子台,http://111.67.206.48:5000/4gtv/231
- LiveABC 互動英語台,http://111.67.206.48:5000/4gtv/188
- Classica 古典樂,http://111.67.206.48:5000/litv/4gtv-4gtv059
- Lifetime 娛樂頻道,http://111.67.206.48:5000/4gtv/217
- MTV Live HD 音樂頻道,http://111.67.206.48:5000/4gtv/213
- Mezzo Live,http://111.67.206.48:5000/litv/4gtv-4gtv083
- 豬哥亮歌廳秀,http://111.67.206.48:5000/litv/4gtv-4gtv006
- Trace Urban,http://111.67.206.48:5000/litv/4gtv-4gtv082
- Global Trekker,http://111.67.206.48:5000/4gtv/252
- 韓國娛樂台,http://111.67.206.48:5000/litv/4gtv-4gtv016
- LUXE TV,http://111.67.206.48:5000/4gtv/175
- Pet Club TV,http://111.67.206.48:5000/4gtv/182
- TV5MONDE Style,http://111.67.206.48:5000/4gtv/178
- 車迷 TV,http://111.67.206.48:5000/4gtv/160
- Love Nature,http://111.67.206.48:5000/4gtv/139
- Fun 探索娛樂台,http://111.67.206.48:5000/4gtv/274
- 幸福空間居家台,http://111.67.206.48:5000/4gtv/168
- Arirang TV,http://111.67.206.48:5000/litv/4gtv-4gtv079
- Bloomberg TV,http://111.67.206.48:5000/4gtv/283
- VOA 美國之音,http://111.67.206.48:5000/litv/litv-ftv03
- DW德國之聲,http://111.67.206.48:5000/4gtv/226
- SBN 全球財經台,http://111.67.206.48:5000/4gtv/224
- 半島國際新聞台,http://111.67.206.48:5000/litv/litv-ftv10
- 第1商業台,http://111.67.206.48:5000/litv/4gtv-4gtv104
- History 歷史頻道,http://111.67.206.48:5000/4gtv/214
- CI 罪案偵查頻道,http://111.67.206.48:5000/4gtv/215
- Smart 知識台,http://111.67.206.48:5000/litv/litv-longturn19
- 視納華仁紀實頻道,http://111.67.206.48:5000/litv/4gtv-4gtv013
- 原住民族電視台,http://111.67.206.48:5000/4gtv/273
- 客家電視台,http://111.67.206.48:5000/litv/4gtv-4gtv043
- 滾動力 Rollor,http://111.67.206.48:5000/4gtv/249
- 好消息,http://111.67.206.48:5000/litv/litv-ftv16
- 好消息2台,http://111.67.206.48:5000/litv/litv-ftv17
- 大愛電視,http://111.67.206.48:5000/4gtv/209
- 大愛電視2,http://111.67.206.48:5000/4gtv/230
- 人間衛視,http://111.67.206.48:5000/4gtv/210
- 國會頻道1,http://111.67.206.48:5000/litv/4gtv-4gtv084
- 國會頻道2,http://111.67.206.48:5000/litv/4gtv-4gtv085
- 東森購物一台,http://111.67.206.48:5000/4gtv/173
- 東森購物二台,http://111.67.206.48:5000/4gtv/174
- 東森購物三台,http://111.67.206.48:5000/4gtv/287
- 東森購物四台,http://111.67.206.48:5000/4gtv/286
+ 民視,http://103.146.51.181:35455/litv/4gtv-4gtv002
+ 民視第一台,http://103.146.51.181:35455/litv/4gtv-4gtv003
+ 民視新聞台,http://103.146.51.181:35455/litv/litv-ftv13
+ 民視台灣台,http://103.146.51.181:35455/litv/4gtv-4gtv001
+ 民視影劇台,http://103.146.51.181:35455/litv/litv-ftv09
+ 民視旅遊台,http://103.146.51.181:35455/litv/litv-ftv07
+ 民視綜藝台,http://103.146.51.181:35455/litv/4gtv-4gtv004
+ 中視,http://103.146.51.181:35455/litv/4gtv-4gtv040
+ 中視新聞台,http://103.146.51.181:35455/litv/4gtv-4gtv074
+ 中視經典台,http://103.146.51.181:35455/litv/4gtv-4gtv080
+ 中視菁采台,http://103.146.51.181:35455/litv/4gtv-4gtv064
+ 中天新聞台,http://103.146.51.181:35455/litv/4gtv-4gtv009
+ 中天亞洲台,http://103.146.51.181:35455/litv/4gtv-4gtv109
+ 華視,http://103.146.51.181:35455/litv/4gtv-4gtv041
+ 華視新聞,http://103.146.51.181:35455/litv/4gtv-4gtv052
+ 靖天綜合台,http://103.146.51.181:35455/litv/4gtv-4gtv046
+ 靖天國際台,http://103.146.51.181:35455/litv/4gtv-4gtv063
+ 靖天戲劇台,http://103.146.51.181:35455/litv/4gtv-4gtv058
+ 靖天日本台,http://103.146.51.181:35455/litv/4gtv-4gtv047
+ 靖天映畫台,http://103.146.51.181:35455/litv/4gtv-4gtv055
+ 靖天卡通台,http://103.146.51.181:35455/litv/4gtv-4gtv044
+ 靖天育樂台,http://103.146.51.181:35455/litv/4gtv-4gtv062
+ 靖天資訊台,http://103.146.51.181:35455/litv/4gtv-4gtv065
+ 靖天電影台,http://103.146.51.181:35455/litv/4gtv-4gtv061
+ 靖天歡樂台,http://103.146.51.181:35455/litv/4gtv-4gtv054
+ 龍華偶像台,http://103.146.51.181:35455/litv/litv-longturn12
+ 龍華卡通台,http://103.146.51.181:35455/litv/litv-longturn01
+ 龍華戲劇台,http://103.146.51.181:35455/litv/litv-longturn18
+ 龍華日韓台,http://103.146.51.181:35455/litv/litv-longturn11
+ 龍華經典台,http://103.146.51.181:35455/litv/litv-longturn21
+ 龍華電影台,http://103.146.51.181:35455/litv/litv-longturn03
+ 靖洋戲劇台,http://103.146.51.181:35455/litv/4gtv-4gtv045
+ 靖洋卡通 Nice Bingo,http://103.146.51.181:35455/litv/4gtv-4gtv057
+ 寰宇新聞台,http://103.146.51.181:35455/litv/litv-longturn14
+ 寰宇新聞台灣台,http://103.146.51.181:35455/litv/litv-longturn15
+ 寰宇財經台,http://103.146.51.181:35455/litv/litv-longturn23
+ TVBS,http://103.146.51.181:35455/litv/4gtv-4gtv073
+ TVBS 新聞台,http://103.146.51.181:35455/litv/4gtv-4gtv072
+ TVBS 綜藝台,http://103.146.51.181:35455/4gtv/284
+ TVBS 歡樂台,http://103.146.51.181:35455/litv/4gtv-4gtv068
+ TVBS 精采台,http://103.146.51.181:35455/litv/4gtv-4gtv067
+ TVBS 台劇台,http://103.146.51.181:35455/4gtv/285
+ 八大精彩台,http://103.146.51.181:35455/litv/4gtv-4gtv034
+ 八大綜藝台,http://103.146.51.181:35455/litv/4gtv-4gtv039
+ 三立綜合台,http://103.146.51.181:35455/4gtv/169
+ 三立 iNEWS,http://103.146.51.181:35455/4gtv/229
+ 台視,http://103.146.51.181:35455/litv/4gtv-4gtv066
+ 台視新聞台,http://103.146.51.181:35455/litv/4gtv-4gtv051
+ 台視財經台,http://103.146.51.181:35455/litv/4gtv-4gtv056
+ 博斯運動一台,http://103.146.51.181:35455/litv/litv-longturn07
+ 博斯運動二台,http://103.146.51.181:35455/litv/litv-longturn08
+ 博斯無限台,http://103.146.51.181:35455/litv/litv-longturn10
+ 博斯無限二台,http://103.146.51.181:35455/litv/litv-longturn13
+ 博斯網球台,http://103.146.51.181:35455/litv/litv-longturn09
+ 博斯高球台,http://103.146.51.181:35455/litv/litv-longturn05
+ 博斯高球二台,http://103.146.51.181:35455/litv/litv-longturn06
+ 博斯魅力台,http://103.146.51.181:35455/litv/litv-longturn04
+ ELTA 娛樂台,http://103.146.51.181:35455/litv/4gtv-4gtv070
+ ELTA 生活旅遊,http://103.146.51.181:35455/4gtv/237
+ ELTV 生活英語,http://103.146.51.181:35455/litv/litv-longturn20
+ 東森新聞,http://103.146.51.181:35455/litv/4gtv-4gtv152
+ 東森財經新聞,http://103.146.51.181:35455/litv/4gtv-4gtv153
+ 非凡新聞台,http://103.146.51.181:35455/litv/4gtv-4gtv010
+ 非凡商業台,http://103.146.51.181:35455/litv/4gtv-4gtv048
+ 鏡電視新聞台,http://103.146.51.181:35455/litv/4gtv-4gtv075
+ CNBC Asia 財經台,http://103.146.51.181:35455/4gtv/235
+ 亞洲旅遊台,http://103.146.51.181:35455/litv/litv-longturn17
+ GINX Esports TV,http://103.146.51.181:35455/litv/4gtv-4gtv053
+ TechStorm,http://103.146.51.181:35455/4gtv/181
+ 時尚運動X,http://103.146.51.181:35455/4gtv/277
+ 智林體育台,http://103.146.51.181:35455/litv/4gtv-4gtv101
+ TraceSports,http://103.146.51.181:35455/litv/4gtv-4gtv077
+ 影迷數位紀實台,http://103.146.51.181:35455/4gtv/212
+ 影迷數位電影台,http://103.146.51.181:35455/litv/4gtv-4gtv011
+ AMC 電影台,http://103.146.51.181:35455/litv/4gtv-4gtv017
+ CatchPlay 電影台,http://103.146.51.181:35455/litv/4gtv-4gtv076
+ My Cinema Europe HD 我的歐洲電影,http://103.146.51.181:35455/4gtv/176
+ 公視戲劇台,http://103.146.51.181:35455/litv/4gtv-4gtv042
+ 采昌影劇台,http://103.146.51.181:35455/litv/4gtv-4gtv049
+ 台灣戲劇台,http://103.146.51.181:35455/litv/litv-longturn22
+ 戲劇免費看 1台,http://103.146.51.181:35455/4gtv/270
+ 戲劇免費看 2台,http://103.146.51.181:35455/4gtv/244
+ 經典電影台,http://103.146.51.181:35455/4gtv/201
+ 電影免費看 2台,http://103.146.51.181:35455/4gtv/245
+ 電影原聲台 CMusic,http://103.146.51.181:35455/4gtv/218
+ 花系列 經典劇場,http://103.146.51.181:35455/4gtv/279
+ CinemaWorld,http://103.146.51.181:35455/4gtv/225
+ HITS 頻道,http://103.146.51.181:35455/4gtv/186
+ Rock Action,http://103.146.51.181:35455/4gtv/180
+ Rock Entertainment,http://103.146.51.181:35455/4gtv/275
+ 金光布袋戲,http://103.146.51.181:35455/4gtv/236
+ 霹靂布袋戲,http://103.146.51.181:35455/4gtv/301
+ DreamWorks 夢工廠動畫,http://103.146.51.181:35455/4gtv/282
+ Nickelodeon,http://103.146.51.181:35455/4gtv/185
+ Nick Jr. 兒童頻道,http://103.146.51.181:35455/4gtv/219
+ i-Fun 動漫台,http://103.146.51.181:35455/litv/litv-ftv15
+ 兒童卡通台,http://103.146.51.181:35455/4gtv/269
+ 精選動漫台,http://103.146.51.181:35455/4gtv/204
+ 經典卡通台,http://103.146.51.181:35455/4gtv/202
+ 達文西頻道,http://103.146.51.181:35455/litv/4gtv-4gtv018
+ 超人力霸王整套看,http://103.146.51.181:35455/4gtv/278
+ MOMO 親子台,http://103.146.51.181:35455/4gtv/231
+ LiveABC 互動英語台,http://103.146.51.181:35455/4gtv/188
+ Classica 古典樂,http://103.146.51.181:35455/litv/4gtv-4gtv059
+ Lifetime 娛樂頻道,http://103.146.51.181:35455/4gtv/217
+ MTV Live HD 音樂頻道,http://103.146.51.181:35455/4gtv/213
+ Mezzo Live,http://103.146.51.181:35455/litv/4gtv-4gtv083
+ 豬哥亮歌廳秀,http://103.146.51.181:35455/litv/4gtv-4gtv006
+ Trace Urban,http://103.146.51.181:35455/litv/4gtv-4gtv082
+ Global Trekker,http://103.146.51.181:35455/4gtv/252
+ 韓國娛樂台,http://103.146.51.181:35455/litv/4gtv-4gtv016
+ LUXE TV,http://103.146.51.181:35455/4gtv/175
+ Pet Club TV,http://103.146.51.181:35455/4gtv/182
+ TV5MONDE Style,http://103.146.51.181:35455/4gtv/178
+ 車迷 TV,http://103.146.51.181:35455/4gtv/160
+ Love Nature,http://103.146.51.181:35455/4gtv/139
+ Fun 探索娛樂台,http://103.146.51.181:35455/4gtv/274
+ 幸福空間居家台,http://103.146.51.181:35455/4gtv/168
+ Arirang TV,http://103.146.51.181:35455/litv/4gtv-4gtv079
+ Bloomberg TV,http://103.146.51.181:35455/4gtv/283
+ VOA 美國之音,http://103.146.51.181:35455/litv/litv-ftv03
+ DW德國之聲,http://103.146.51.181:35455/4gtv/226
+ SBN 全球財經台,http://103.146.51.181:35455/4gtv/224
+ 半島國際新聞台,http://103.146.51.181:35455/litv/litv-ftv10
+ 第1商業台,http://103.146.51.181:35455/litv/4gtv-4gtv104
+ History 歷史頻道,http://103.146.51.181:35455/4gtv/214
+ CI 罪案偵查頻道,http://103.146.51.181:35455/4gtv/215
+ Smart 知識台,http://103.146.51.181:35455/litv/litv-longturn19
+ 視納華仁紀實頻道,http://103.146.51.181:35455/litv/4gtv-4gtv013
+ 原住民族電視台,http://103.146.51.181:35455/4gtv/273
+ 客家電視台,http://103.146.51.181:35455/litv/4gtv-4gtv043
+ 滾動力 Rollor,http://103.146.51.181:35455/4gtv/249
+ 好消息,http://103.146.51.181:35455/litv/litv-ftv16
+ 好消息2台,http://103.146.51.181:35455/litv/litv-ftv17
+ 大愛電視,http://103.146.51.181:35455/4gtv/209
+ 大愛電視2,http://103.146.51.181:35455/4gtv/230
+ 人間衛視,http://103.146.51.181:35455/4gtv/210
+ 國會頻道1,http://103.146.51.181:35455/litv/4gtv-4gtv084
+ 國會頻道2,http://103.146.51.181:35455/litv/4gtv-4gtv085
+ 東森購物一台,http://103.146.51.181:35455/4gtv/173
+ 東森購物二台,http://103.146.51.181:35455/4gtv/174
+ 東森購物三台,http://103.146.51.181:35455/4gtv/287
+ 東森購物四台,http://103.146.51.181:35455/4gtv/286
 YY代理,#genre#
 官方,http://qingfeng.hppro1.hpnu.cn/yy.php?id=991
 小闪电,http://qingfeng.hppro1.hpnu.cn/yy.php?id=4826
