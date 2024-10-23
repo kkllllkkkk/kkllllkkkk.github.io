@@ -1,551 +1,2023 @@
 期货直播间,#genre#
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
-央视频直播源,#genre#
- CCTV 1,http://103.146.51.181:52055/ysp/cctv1
- CCTV 2,http://103.146.51.181:52055/ysp/cctv2
- CCTV 3,http://103.146.51.181:52055/ysp/cctv3
- CCTV 4,http://103.146.51.181:52055/ysp/cctv4
- CCTV 5,http://103.146.51.181:52055/ysp/cctv5
- CCTV 5+,http://103.146.51.181:52055/ysp/cctv5p
- CCTV 6,http://103.146.51.181:52055/ysp/cctv6
- CCTV 7,http://103.146.51.181:52055/ysp/cctv7
- CCTV 8,http://103.146.51.181:52055/ysp/cctv8
- CCTV 9,http://103.146.51.181:52055/ysp/cctv9
- CCTV 10,http://103.146.51.181:52055/ysp/cctv10
- CCTV 11,http://103.146.51.181:52055/ysp/cctv11
- CCTV 12,http://103.146.51.181:52055/ysp/cctv12
- CCTV 13,http://103.146.51.181:52055/ysp/cctv13
- CCTV 14,http://103.146.51.181:52055/ysp/cctv14
- CCTV 15,http://103.146.51.181:52055/ysp/cctv15
- CCTV 16,http://103.146.51.181:52055/ysp/cctv16
- CCTV 17,http://103.146.51.181:52055/ysp/cctv17
- CCTV 4K,http://103.146.51.181:52055/ysp/cctv4k
- CCTV 8K,http://103.146.51.181:52055/ysp/cctv8k
- CCTV 兵器科技,http://103.146.51.181:52055/ysp/cctv-bingqikeji
- CCTV 怀旧剧场,http://103.146.51.181:52055/ysp/cctv-huaijiujuchang
- CCTV 第一剧场,http://103.146.51.181:52055/ysp/cctv-diyijuchang
- CCTV 风云剧场,http://103.146.51.181:52055/ysp/cctv-fengyunjuchang
- CCTV 风云音乐,http://103.146.51.181:52055/ysp/cctv-fengyunyinyue
- CCTV 风云足球,http://103.146.51.181:52055/ysp/cctv-fengyunzuqiu
- CCTV 央视台球,http://103.146.51.181:52055/ysp/cctv-yangshitaiqiu
- CCTV 高尔夫网球,http://103.146.51.181:52055/ysp/cctv-gaoerfuwangqiu
- CCTV 世界地理,http://103.146.51.181:52055/ysp/cctv-shijiedili
- CCTV 女性时尚,http://103.146.51.181:52055/ysp/cctv-nvxingshishang
- CCTV 卫生健康,http://103.146.51.181:52055/ysp/cctv-weishengjiankang
- CCTV 央视文化精品,http://103.146.51.181:52055/ysp/cctv-wenhuajingpin
- CCTV 电视指南,http://103.146.51.181:52055/ysp/cctv-dianshizhinan
- CGTN,http://103.146.51.181:52055/ysp/cgtn
- CGTN 法语,http://103.146.51.181:52055/ysp/cgtn-french
- CGTN 俄语,http://103.146.51.181:52055/ysp/cgtn-russian
- CGTN 阿拉伯语,http://103.146.51.181:52055/ysp/cgtn-arabic
- CGTN 西班牙语,http://103.146.51.181:52055/ysp/cgtn-spanish
- CGTN 外语纪录,http://103.146.51.181:52055/ysp/cgtn-documentary
- 中国教育电视台 1,http://103.146.51.181:52055/ysp/cetv1
- 北京卫视,http://103.146.51.181:52055/ysp/beijing
- 江苏卫视,http://103.146.51.181:52055/ysp/jiangsu
- 东方卫视,http://103.146.51.181:52055/ysp/dongfang
- 浙江卫视,http://103.146.51.181:52055/ysp/zhejiang
- 湖南卫视,http://103.146.51.181:52055/ysp/hunan
- 湖北卫视,http://103.146.51.181:52055/ysp/hubei
- 天津卫视,http://103.146.51.181:52055/ysp/tianjin
- 广东卫视,http://103.146.51.181:52055/ysp/guangdong
- 广西卫视,http://103.146.51.181:52055/ysp/guangxi
- 黑龙江卫视,http://103.146.51.181:52055/ysp/heilongjiang
- 海南卫视,http://103.146.51.181:52055/ysp/hainan
- 重庆卫视,http://103.146.51.181:52055/ysp/chongqing
- 深圳卫视,http://103.146.51.181:52055/ysp/shenzhen
- 四川卫视,http://103.146.51.181:52055/ysp/sichuan
- 河南卫视,http://103.146.51.181:52055/ysp/henan
- 东南卫视,http://103.146.51.181:52055/ysp/dongnan
- 贵州卫视,http://103.146.51.181:52055/ysp/guizhou
- 江西卫视,http://103.146.51.181:52055/ysp/jiangxi
- 辽宁卫视,http://103.146.51.181:52055/ysp/liaoning
- 安徽卫视,http://103.146.51.181:52055/ysp/anhui
- 河北卫视,http://103.146.51.181:52055/ysp/hebei
- 山东卫视,http://103.146.51.181:52055/ysp/shandong
- 新疆卫视,http://103.146.51.181:52055/ysp/xinjiang
- 兵团卫视,http://103.146.51.181:52055/ysp/bingtuan
-江苏移动魔百盒 TPTV proxy,#genre#
- CCTV 1,http://103.146.51.181:52055/tptv/G_CCTV-1-AVS-4K264?type=proxy
- CCTV 2,http://103.146.51.181:52055/tptv/G_CCTV-2-HD-265-8M?type=proxy
- CCTV 3,http://103.146.51.181:52055/tptv/G_CCTV-3-AVS-4K264?type=proxy
- CCTV 4,http://103.146.51.181:52055/tptv/G_CCTV-4-HD-265-8M?type=proxy
- CCTV 5,http://103.146.51.181:52055/tptv/G_CCTV-5-AVS-4K264?type=proxy
- CCTV 5+,http://103.146.51.181:52055/tptv/G_CCTV-5PLUS-HD-265-8M?type=proxy
- CCTV 6,http://103.146.51.181:52055/tptv/G_CCTV-6-AVS-4K264?type=proxy
- CCTV 7,http://103.146.51.181:52055/tptv/G_CCTV-7-HD-265-8M?type=proxy
- CCTV 8,http://103.146.51.181:52055/tptv/G_CCTV-8-AVS-4K264?type=proxy
- CCTV 9,http://103.146.51.181:52055/tptv/G_CCTV-9-HD-265-8M?type=proxy
- CCTV 10,http://103.146.51.181:52055/tptv/G_CCTV-10-HD-265-8M?type=proxy
- CCTV 11,http://103.146.51.181:52055/tptv/H265-5500k-1080P-cctv11?type=proxy
- CCTV 12,http://103.146.51.181:52055/tptv/G_CCTV-12-HD-265-8M?type=proxy
- CCTV 13,http://103.146.51.181:52055/tptv/G_CCTV-13-HQ?type=proxy
- CCTV 14,http://103.146.51.181:52055/tptv/G_CCTV-14-CQ?type=proxy
- CCTV 15,http://103.146.51.181:52055/tptv/H265-5500k-1080P-cctv15?type=proxy
- CCTV 16,http://103.146.51.181:52055/tptv/G_CCTV-16-CQ?type=proxy
- CCTV 16 4K,http://103.146.51.181:52055/tptv/G_CCTV-16-4K?type=proxy
- CCTV 17,http://103.146.51.181:52055/tptv/G_CCTV-17-CQ?type=proxy
- CCTV 4K,http://103.146.51.181:52055/tptv/G_CCTV-4K-HD?type=proxy
- CCTV 世界地理,http://103.146.51.181:52055/tptv/G_SHIJIEDL-CQ?type=proxy
- CCTV 风云剧场,http://103.146.51.181:52055/tptv/G_FENGYUNJC-CQ?type=proxy
- CCTV 风云足球,http://103.146.51.181:52055/tptv/G_FENGSHANGZQ-CQ?type=proxy
- CCTV 风云音乐,http://103.146.51.181:52055/tptv/G_FENGYUNYY-CQ?type=proxy
- CCTV 兵器科技,http://103.146.51.181:52055/tptv/G_BINGQIKJ-CQ?type=proxy
- CCTV 央视台球,http://103.146.51.181:52055/tptv/G_TAIQIU-CQ?type=proxy
- CCTV 高尔夫网球,http://103.146.51.181:52055/tptv/G_CCTV-GOLF-CQ?type=proxy
- CCTV 女性时尚,http://103.146.51.181:52055/tptv/G_NVXINGSS-CQ?type=proxy
- CCTV 电视指南,http://103.146.51.181:52055/tptv/G_DIANSHIZN-CQ?type=proxy
- CCTV 第一剧场,http://103.146.51.181:52055/tptv/G_DIYIJC-CQ?type=proxy
- CCTV 怀旧剧场,http://103.146.51.181:52055/tptv/G_HUAIJIUJC-CQ?type=proxy
- CCTV 央视文化精品,http://103.146.51.181:52055/tptv/G_CCTV-WENHUA-CQ?type=proxy
- CETV 早期教育,http://103.146.51.181:52055/tptv/G_CETV-ZQJY-CQ?type=proxy
- 江苏卫视,http://103.146.51.181:52055/tptv/G_JIANGSU-HD-265-8M?type=proxy
- 东方卫视,http://103.146.51.181:52055/tptv/G_DONGFANG-HD-265-8M?type=proxy
- 北京卫视,http://103.146.51.181:52055/tptv/G_BEIJING-HD-265-8M?type=proxy
- 广东卫视,http://103.146.51.181:52055/tptv/G_GUANGDONG-HD-265-8M?type=proxy
- 山东卫视,http://103.146.51.181:52055/tptv/G_SHANDONG-HD-265-8M?type=proxy
- 深圳卫视,http://103.146.51.181:52055/tptv/G_SHENZHEN-HD-265-8M?type=proxy
- 湖北卫视,http://103.146.51.181:52055/tptv/G_HUBEI-HD-265-8M?type=proxy
- 湖南卫视,http://103.146.51.181:52055/tptv/G_HUNAN-HD-265-8M?type=proxy
- 浙江卫视,http://103.146.51.181:52055/tptv/G_ZHEJIANG-HD-265-8M?type=proxy
- 黑龙江卫视,http://103.146.51.181:52055/tptv/G_HEILONGJIANG-HD-265-8M?type=proxy
- 天津卫视,http://103.146.51.181:52055/tptv/G_TIANJIN-HD-265-8M?type=proxy
- 安徽卫视,http://103.146.51.181:52055/tptv/G_ANHUI-HD-265-8M?type=proxy
- 辽宁卫视,http://103.146.51.181:52055/tptv/G_LIAONING-HD-265-8M?type=proxy
- 东南卫视,http://103.146.51.181:52055/tptv/H265-5500k-1080P-dongnanstv?type=proxy
- 吉林卫视,http://103.146.51.181:52055/tptv/G_JILIN-CQ?type=proxy
- 四川卫视,http://103.146.51.181:52055/tptv/G_SICHUAN-CQ?type=proxy
- 江西卫视,http://103.146.51.181:52055/tptv/G_JIANGXI-CQ?type=proxy
- 河北卫视,http://103.146.51.181:52055/tptv/G_HEBEI-CQ?type=proxy
- 河南卫视,http://103.146.51.181:52055/tptv/G_HENAN-CQ?type=proxy
- 贵州卫视,http://103.146.51.181:52055/tptv/G_GUIZHOU-CQ?type=proxy
- 重庆卫视,http://103.146.51.181:52055/tptv/G_CHONGQING-CQ?type=proxy
- 云南卫视,http://103.146.51.181:52055/tptv/G_YUNNAN-HQ?type=proxy
- 三沙卫视,http://103.146.51.181:52055/tptv/G_SANSHA-HQ?type=proxy
- 海南卫视,http://103.146.51.181:52055/tptv/HD-8000k-1080P-lvyoustv?type=proxy
- 上海纪实人文,http://103.146.51.181:52055/tptv/H265-5500k-1080P-shanghaijishi?type=proxy
- 北京纪实科教,http://103.146.51.181:52055/tptv/HD-8000k-1080P-beijingjishi?type=proxy
- 凤凰卫视中文,http://103.146.51.181:52055/tptv/HD-10000k-1080P-fhchinese5s?type=proxy
- 凤凰卫视资讯,http://103.146.51.181:52055/tptv/HD-10000k-1080P-fhzixun5s?type=proxy
- 凤凰卫视香港,http://103.146.51.181:52055/tptv/HD-10000k-1080P-fhhongkong5s?type=proxy
- 纯享 4K,http://103.146.51.181:52055/tptv/HD-20M-2160P-chunxiang4k?type=proxy
- 高清臻享睛彩篮球,http://103.146.51.181:52055/tptv/miguaoyun01-AVS-4K01?type=proxy
- 睛彩篮球,http://103.146.51.181:52055/tptv/HD-8000k-1080P-miguaoyun1?type=proxy
- 高清臻享睛彩竞技,http://103.146.51.181:52055/tptv/miguaoyun1-AVS?type=proxy
- 睛彩竞技,http://103.146.51.181:52055/tptv/HD-8000k-1080P-miguaoyun2?type=proxy
- 睛彩青少,http://103.146.51.181:52055/tptv/HD-8000k-1080P-quanminrl?type=proxy
- 黑莓电影,http://103.146.51.181:52055/tptv/HD-8000k-1080P-Supermovie?type=proxy
- NewTV 炫舞未来,http://103.146.51.181:52055/tptv/HD-4000k-1080P-xwwl?type=proxy
- 南京新闻综合频道,http://103.146.51.181:52055/tptv/G_NJXW?type=proxy
- 南京影视频道,http://103.146.51.181:52055/tptv/G_NJYS?type=proxy
- 南京少儿频道,http://103.146.51.181:52055/tptv/G_NJSE?type=proxy
- 南京生活频道,http://103.146.51.181:52055/tptv/G_NJSH?type=proxy
- 南京信息频道,http://103.146.51.181:52055/tptv/G_NJXX?type=proxy
- 南京娱乐频道,http://103.146.51.181:52055/tptv/G_NJYL?type=proxy
- 南京教科频道,http://103.146.51.181:52055/tptv/G_NJJK?type=proxy
- 南京十八频道,http://103.146.51.181:52055/tptv/G_NJSB?type=proxy
- 徐州新闻综合,http://103.146.51.181:52055/tptv/xzxwzh?type=proxy
- 徐州经济生活,http://103.146.51.181:52055/tptv/xzjjsh?type=proxy
- 徐州文艺影视,http://103.146.51.181:52055/tptv/xzwyys?type=proxy
- 徐州公共,http://103.146.51.181:52055/tptv/xzgg?type=proxy
- 徐州新沂3套,http://103.146.51.181:52055/tptv/G_XZXYTV-3?type=proxy
- 徐州沛县新闻综合,http://103.146.51.181:52055/tptv/xzpxxwzh?type=proxy
- 徐州沛县综艺,http://103.146.51.181:52055/tptv/xzpxzy?type=proxy
- 徐州沛县生活,http://103.146.51.181:52055/tptv/xzpxsh?type=proxy
- 常州新闻,http://103.146.51.181:52055/tptv/jsczxinwen?type=proxy
- 常州都市,http://103.146.51.181:52055/tptv/jsczdushi?type=proxy
- 常州生活,http://103.146.51.181:52055/tptv/jsczshenghuo?type=proxy
- 常州公共,http://103.146.51.181:52055/tptv/jsczgonggong?type=proxy
- 睢宁综合,http://103.146.51.181:52055/tptv/xzsnzh?type=proxy
- 睢宁资讯,http://103.146.51.181:52055/tptv/xzsnzx?type=proxy
- 睢宁生活,http://103.146.51.181:52055/tptv/xzsnshjy?type=proxy
- 睢宁三农,http://103.146.51.181:52055/tptv/xzsnsn?type=proxy
- 南通一套,http://103.146.51.181:52055/tptv/jsntyitao?type=proxy
- 南通二套,http://103.146.51.181:52055/tptv/jsntertao?type=proxy
- 公共崇川,http://103.146.51.181:52055/tptv/jsntsantao?type=proxy
- 镇江一套,http://103.146.51.181:52055/tptv/G_ZHENJIANGTV-1?type=proxy
- 镇江二套,http://103.146.51.181:52055/tptv/G_ZHENJIANGTV-2?type=proxy
- 镇江三套,http://103.146.51.181:52055/tptv/G_ZHENJIANGTV-3?type=proxy
- 宿迁综合,http://103.146.51.181:52055/tptv/G_SQZH?type=proxy
- 宿迁公共,http://103.146.51.181:52055/tptv/G_SQGG?type=proxy
- 邳州综合,http://103.146.51.181:52055/tptv/pzzonghe?type=proxy
- 邳州综艺,http://103.146.51.181:52055/tptv/pzzongyi?type=proxy
- 赣榆新闻综合,http://103.146.51.181:52055/tptv/HD-2500k-1080P-ganyutv?type=proxy
- 江苏仪化电视,http://103.146.51.181:52055/tptv/HD-4000k-1080P-jsyihua?type=proxy
- 猎冰,http://103.146.51.181:52055/tptv/cos-liebing?type=proxy
- 永安梦,http://103.146.51.181:52055/tptv/cos-yonganmeng?type=proxy
- 漫长的季节,http://103.146.51.181:52055/tptv/manchangdjj?type=proxy
- 梦中的那片海,http://103.146.51.181:52055/tptv/mengzhongdnph?type=proxy
- 繁花,http://103.146.51.181:52055/tptv/fanhua?type=proxy
- 庆余年,http://103.146.51.181:52055/tptv/zhifouzf?type=proxy
- 百姓生活,http://103.146.51.181:52055/tptv/baixingsh?type=proxy
- 黑土无言,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-htwy?type=proxy
- 问心,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-wenxin?type=proxy
- 父辈的荣耀,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-fbdry?type=proxy
- 繁城之下,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-fczx?type=proxy
- 小日子,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-xiaorizi?type=proxy
- 谢谢你温暖我,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-xxnwnw?type=proxy
- 当你沉睡时,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-dncss?type=proxy
- 梨园经典荟萃,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-lyjdhc?type=proxy
- 影视剧场,http://103.146.51.181:52055/tptv/GITV-JS-1?type=proxy
- 第一院线,http://103.146.51.181:52055/tptv/GITV-JS-2?type=proxy
- 居家健身,http://103.146.51.181:52055/tptv/GITV-JS-4?type=proxy
- 电视剧,http://103.146.51.181:52055/tptv/GITV-JS-6?type=proxy
- 二更视频,http://103.146.51.181:52055/tptv/GITV-JS-7?type=proxy
- 德凯奥特曼,http://103.146.51.181:52055/tptv/GITV-JS-9?type=proxy
- 熊出没,http://103.146.51.181:52055/tptv/GITV-JS-10?type=proxy
- 超级飞侠,http://103.146.51.181:52055/tptv/GITV-JS-11?type=proxy
- 小猪佩奇,http://103.146.51.181:52055/tptv/GITV-JS-12?type=proxy
- 汪汪队立大功,http://103.146.51.181:52055/tptv/GITV-JS-13?type=proxy
- 高分电影,http://103.146.51.181:52055/tptv/GITV-JS-14?type=proxy
- 乡村爱情,http://103.146.51.181:52055/tptv/GITV-JS-15?type=proxy
- 热门综艺,http://103.146.51.181:52055/tptv/GITV-JS-16?type=proxy
- 美食美味,http://103.146.51.181:52055/tptv/GITV-JS-17?type=proxy
- 自然风景,http://103.146.51.181:52055/tptv/GITV-JS-18?type=proxy
- 动物世界,http://103.146.51.181:52055/tptv/GITV-JS-19?type=proxy
- 书籍解读,http://103.146.51.181:52055/tptv/GITV-JS-20?type=proxy
- 亲子玩具,http://103.146.51.181:52055/tptv/GITV-JS-21?type=proxy
- 广场舞,http://103.146.51.181:52055/tptv/GITV-JS-22?type=proxy
- 戏曲音乐,http://103.146.51.181:52055/tptv/GITV-JS-23?type=proxy
- 相声联欢,http://103.146.51.181:52055/tptv/GITV-JS-24?type=proxy
- 动漫星空,http://103.146.51.181:52055/tptv/GITV-JS-25?type=proxy
- 楚乔传,http://103.146.51.181:52055/tptv/GITV-JS-26?type=proxy
- 完美的她,http://103.146.51.181:52055/tptv/GITV-JS-27?type=proxy
- 哈尔滨一九四四,http://103.146.51.181:52055/tptv/GITV-JS-28?type=proxy
- 军事之旅,http://103.146.51.181:52055/tptv/GITV-JS-29?type=proxy
- 科幻世界,http://103.146.51.181:52055/tptv/GITV-JS-30?type=proxy
- 儿童天地,http://103.146.51.181:52055/tptv/GITV-JS-31?type=proxy
- 纪录片,http://103.146.51.181:52055/tptv/GITV-JS-32?type=proxy
- 音乐心情,http://103.146.51.181:52055/tptv/GITV-JS-33?type=proxy
- 掼蛋频道,http://103.146.51.181:52055/tptv/GITV-JS-34?type=proxy
- 体坛同期声,http://103.146.51.181:52055/tptv/GITV-JS-35?type=proxy
- 臻享推荐,http://103.146.51.181:52055/tptv/GITV-JS-36?type=proxy
- 怀旧MTV,http://103.146.51.181:52055/tptv/GITV-JS-37?type=proxy
- 南来北往,http://103.146.51.181:52055/tptv/GITV-JS-39?type=proxy
- 狗剩快跑,http://103.146.51.181:52055/tptv/GITV-JS-40?type=proxy
- 狂飙,http://103.146.51.181:52055/tptv/GITV-JS-41?type=proxy
- 人世间,http://103.146.51.181:52055/tptv/GITV-JS-42?type=proxy
- 大江大河,http://103.146.51.181:52055/tptv/GITV-JS-43?type=proxy
- 山海情,http://103.146.51.181:52055/tptv/GITV-JS-44?type=proxy
- 冰雪竞技场,http://103.146.51.181:52055/tptv/GITV-JS-45?type=proxy
- 邪恶与疯狂,http://103.146.51.181:52055/tptv/GITV-JS-46?type=proxy
- 来自星星的你,http://103.146.51.181:52055/tptv/GITV-JS-47?type=proxy
- 哦我的鬼神大人,http://103.146.51.181:52055/tptv/GITV-JS-48?type=proxy
- 太阳的后裔,http://103.146.51.181:52055/tptv/GITV-JS-49?type=proxy
- 请回答1988,http://103.146.51.181:52055/tptv/GITV-JS-50?type=proxy
-江苏移动魔百盒 TPTV,#genre#
- CCTV 1,http://103.146.51.181:52055/tptv/G_CCTV-1-AVS-4K264?type=origin
- CCTV 2,http://103.146.51.181:52055/tptv/G_CCTV-2-HD-265-8M?type=origin
- CCTV 3,http://103.146.51.181:52055/tptv/G_CCTV-3-AVS-4K264?type=origin
- CCTV 4,http://103.146.51.181:52055/tptv/G_CCTV-4-HD-265-8M?type=origin
- CCTV 5,http://103.146.51.181:52055/tptv/G_CCTV-5-AVS-4K264?type=origin
- CCTV 5+,http://103.146.51.181:52055/tptv/G_CCTV-5PLUS-HD-265-8M?type=origin
- CCTV 6,http://103.146.51.181:52055/tptv/G_CCTV-6-AVS-4K264?type=origin
- CCTV 7,http://103.146.51.181:52055/tptv/G_CCTV-7-HD-265-8M?type=origin
- CCTV 8,http://103.146.51.181:52055/tptv/G_CCTV-8-AVS-4K264?type=origin
- CCTV 9,http://103.146.51.181:52055/tptv/G_CCTV-9-HD-265-8M?type=origin
- CCTV 10,http://103.146.51.181:52055/tptv/G_CCTV-10-HD-265-8M?type=origin
- CCTV 11,http://103.146.51.181:52055/tptv/H265-5500k-1080P-cctv11?type=origin
- CCTV 12,http://103.146.51.181:52055/tptv/G_CCTV-12-HD-265-8M?type=origin
- CCTV 13,http://103.146.51.181:52055/tptv/G_CCTV-13-HQ?type=origin
- CCTV 14,http://103.146.51.181:52055/tptv/G_CCTV-14-CQ?type=origin
- CCTV 15,http://103.146.51.181:52055/tptv/H265-5500k-1080P-cctv15?type=origin
- CCTV 16,http://103.146.51.181:52055/tptv/G_CCTV-16-CQ?type=origin
- CCTV 16 4K,http://103.146.51.181:52055/tptv/G_CCTV-16-4K?type=origin
- CCTV 17,http://103.146.51.181:52055/tptv/G_CCTV-17-CQ?type=origin
- CCTV 4K,http://103.146.51.181:52055/tptv/G_CCTV-4K-HD?type=origin
- CCTV 世界地理,http://103.146.51.181:52055/tptv/G_SHIJIEDL-CQ?type=origin
- CCTV 风云剧场,http://103.146.51.181:52055/tptv/G_FENGYUNJC-CQ?type=origin
- CCTV 风云足球,http://103.146.51.181:52055/tptv/G_FENGSHANGZQ-CQ?type=origin
- CCTV 风云音乐,http://103.146.51.181:52055/tptv/G_FENGYUNYY-CQ?type=origin
- CCTV 兵器科技,http://103.146.51.181:52055/tptv/G_BINGQIKJ-CQ?type=origin
- CCTV 央视台球,http://103.146.51.181:52055/tptv/G_TAIQIU-CQ?type=origin
- CCTV 高尔夫网球,http://103.146.51.181:52055/tptv/G_CCTV-GOLF-CQ?type=origin
- CCTV 女性时尚,http://103.146.51.181:52055/tptv/G_NVXINGSS-CQ?type=origin
- CCTV 电视指南,http://103.146.51.181:52055/tptv/G_DIANSHIZN-CQ?type=origin
- CCTV 第一剧场,http://103.146.51.181:52055/tptv/G_DIYIJC-CQ?type=origin
- CCTV 怀旧剧场,http://103.146.51.181:52055/tptv/G_HUAIJIUJC-CQ?type=origin
- CCTV 央视文化精品,http://103.146.51.181:52055/tptv/G_CCTV-WENHUA-CQ?type=origin
- CETV 早期教育,http://103.146.51.181:52055/tptv/G_CETV-ZQJY-CQ?type=origin
- 江苏卫视,http://103.146.51.181:52055/tptv/G_JIANGSU-HD-265-8M?type=origin
- 东方卫视,http://103.146.51.181:52055/tptv/G_DONGFANG-HD-265-8M?type=origin
- 北京卫视,http://103.146.51.181:52055/tptv/G_BEIJING-HD-265-8M?type=origin
- 广东卫视,http://103.146.51.181:52055/tptv/G_GUANGDONG-HD-265-8M?type=origin
- 山东卫视,http://103.146.51.181:52055/tptv/G_SHANDONG-HD-265-8M?type=origin
- 深圳卫视,http://103.146.51.181:52055/tptv/G_SHENZHEN-HD-265-8M?type=origin
- 湖北卫视,http://103.146.51.181:52055/tptv/G_HUBEI-HD-265-8M?type=origin
- 湖南卫视,http://103.146.51.181:52055/tptv/G_HUNAN-HD-265-8M?type=origin
- 浙江卫视,http://103.146.51.181:52055/tptv/G_ZHEJIANG-HD-265-8M?type=origin
- 黑龙江卫视,http://103.146.51.181:52055/tptv/G_HEILONGJIANG-HD-265-8M?type=origin
- 天津卫视,http://103.146.51.181:52055/tptv/G_TIANJIN-HD-265-8M?type=origin
- 安徽卫视,http://103.146.51.181:52055/tptv/G_ANHUI-HD-265-8M?type=origin
- 辽宁卫视,http://103.146.51.181:52055/tptv/G_LIAONING-HD-265-8M?type=origin
- 东南卫视,http://103.146.51.181:52055/tptv/H265-5500k-1080P-dongnanstv?type=origin
- 吉林卫视,http://103.146.51.181:52055/tptv/G_JILIN-CQ?type=origin
- 四川卫视,http://103.146.51.181:52055/tptv/G_SICHUAN-CQ?type=origin
- 江西卫视,http://103.146.51.181:52055/tptv/G_JIANGXI-CQ?type=origin
- 河北卫视,http://103.146.51.181:52055/tptv/G_HEBEI-CQ?type=origin
- 河南卫视,http://103.146.51.181:52055/tptv/G_HENAN-CQ?type=origin
- 贵州卫视,http://103.146.51.181:52055/tptv/G_GUIZHOU-CQ?type=origin
- 重庆卫视,http://103.146.51.181:52055/tptv/G_CHONGQING-CQ?type=origin
- 云南卫视,http://103.146.51.181:52055/tptv/G_YUNNAN-HQ?type=origin
- 三沙卫视,http://103.146.51.181:52055/tptv/G_SANSHA-HQ?type=origin
- 海南卫视,http://103.146.51.181:52055/tptv/HD-8000k-1080P-lvyoustv?type=origin
- 上海纪实人文,http://103.146.51.181:52055/tptv/H265-5500k-1080P-shanghaijishi?type=origin
- 北京纪实科教,http://103.146.51.181:52055/tptv/HD-8000k-1080P-beijingjishi?type=origin
- 凤凰卫视中文,http://103.146.51.181:52055/tptv/HD-10000k-1080P-fhchinese5s?type=origin
- 凤凰卫视资讯,http://103.146.51.181:52055/tptv/HD-10000k-1080P-fhzixun5s?type=origin
- 凤凰卫视香港,http://103.146.51.181:52055/tptv/HD-10000k-1080P-fhhongkong5s?type=origin
- 纯享 4K,http://103.146.51.181:52055/tptv/HD-20M-2160P-chunxiang4k?type=origin
- 高清臻享睛彩篮球,http://103.146.51.181:52055/tptv/miguaoyun01-AVS-4K01?type=origin
- 睛彩篮球,http://103.146.51.181:52055/tptv/HD-8000k-1080P-miguaoyun1?type=origin
- 高清臻享睛彩竞技,http://103.146.51.181:52055/tptv/miguaoyun1-AVS?type=origin
- 睛彩竞技,http://103.146.51.181:52055/tptv/HD-8000k-1080P-miguaoyun2?type=origin
- 睛彩青少,http://103.146.51.181:52055/tptv/HD-8000k-1080P-quanminrl?type=origin
- 黑莓电影,http://103.146.51.181:52055/tptv/HD-8000k-1080P-Supermovie?type=origin
- NewTV 炫舞未来,http://103.146.51.181:52055/tptv/HD-4000k-1080P-xwwl?type=origin
- 南京新闻综合频道,http://103.146.51.181:52055/tptv/G_NJXW?type=origin
- 南京影视频道,http://103.146.51.181:52055/tptv/G_NJYS?type=origin
- 南京少儿频道,http://103.146.51.181:52055/tptv/G_NJSE?type=origin
- 南京生活频道,http://103.146.51.181:52055/tptv/G_NJSH?type=origin
- 南京信息频道,http://103.146.51.181:52055/tptv/G_NJXX?type=origin
- 南京娱乐频道,http://103.146.51.181:52055/tptv/G_NJYL?type=origin
- 南京教科频道,http://103.146.51.181:52055/tptv/G_NJJK?type=origin
- 南京十八频道,http://103.146.51.181:52055/tptv/G_NJSB?type=origin
- 徐州新闻综合,http://103.146.51.181:52055/tptv/xzxwzh?type=origin
- 徐州经济生活,http://103.146.51.181:52055/tptv/xzjjsh?type=origin
- 徐州文艺影视,http://103.146.51.181:52055/tptv/xzwyys?type=origin
- 徐州公共,http://103.146.51.181:52055/tptv/xzgg?type=origin
- 徐州新沂3套,http://103.146.51.181:52055/tptv/G_XZXYTV-3?type=origin
- 徐州沛县新闻综合,http://103.146.51.181:52055/tptv/xzpxxwzh?type=origin
- 徐州沛县综艺,http://103.146.51.181:52055/tptv/xzpxzy?type=origin
- 徐州沛县生活,http://103.146.51.181:52055/tptv/xzpxsh?type=origin
- 常州新闻,http://103.146.51.181:52055/tptv/jsczxinwen?type=origin
- 常州都市,http://103.146.51.181:52055/tptv/jsczdushi?type=origin
- 常州生活,http://103.146.51.181:52055/tptv/jsczshenghuo?type=origin
- 常州公共,http://103.146.51.181:52055/tptv/jsczgonggong?type=origin
- 睢宁综合,http://103.146.51.181:52055/tptv/xzsnzh?type=origin
- 睢宁资讯,http://103.146.51.181:52055/tptv/xzsnzx?type=origin
- 睢宁生活,http://103.146.51.181:52055/tptv/xzsnshjy?type=origin
- 睢宁三农,http://103.146.51.181:52055/tptv/xzsnsn?type=origin
- 南通一套,http://103.146.51.181:52055/tptv/jsntyitao?type=origin
- 南通二套,http://103.146.51.181:52055/tptv/jsntertao?type=origin
- 公共崇川,http://103.146.51.181:52055/tptv/jsntsantao?type=origin
- 镇江一套,http://103.146.51.181:52055/tptv/G_ZHENJIANGTV-1?type=origin
- 镇江二套,http://103.146.51.181:52055/tptv/G_ZHENJIANGTV-2?type=origin
- 镇江三套,http://103.146.51.181:52055/tptv/G_ZHENJIANGTV-3?type=origin
- 宿迁综合,http://103.146.51.181:52055/tptv/G_SQZH?type=origin
- 宿迁公共,http://103.146.51.181:52055/tptv/G_SQGG?type=origin
- 邳州综合,http://103.146.51.181:52055/tptv/pzzonghe?type=origin
- 邳州综艺,http://103.146.51.181:52055/tptv/pzzongyi?type=origin
- 赣榆新闻综合,http://103.146.51.181:52055/tptv/HD-2500k-1080P-ganyutv?type=origin
- 江苏仪化电视,http://103.146.51.181:52055/tptv/HD-4000k-1080P-jsyihua?type=origin
- 猎冰,http://103.146.51.181:52055/tptv/cos-liebing?type=origin
- 永安梦,http://103.146.51.181:52055/tptv/cos-yonganmeng?type=origin
- 漫长的季节,http://103.146.51.181:52055/tptv/manchangdjj?type=origin
- 梦中的那片海,http://103.146.51.181:52055/tptv/mengzhongdnph?type=origin
- 繁花,http://103.146.51.181:52055/tptv/fanhua?type=origin
- 庆余年,http://103.146.51.181:52055/tptv/zhifouzf?type=origin
- 百姓生活,http://103.146.51.181:52055/tptv/baixingsh?type=origin
- 黑土无言,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-htwy?type=origin
- 问心,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-wenxin?type=origin
- 父辈的荣耀,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-fbdry?type=origin
- 繁城之下,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-fczx?type=origin
- 小日子,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-xiaorizi?type=origin
- 谢谢你温暖我,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-xxnwnw?type=origin
- 当你沉睡时,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-dncss?type=origin
- 梨园经典荟萃,http://103.146.51.181:52055/tptv/COSHD-4000k-1080P-lyjdhc?type=origin
- 影视剧场,http://103.146.51.181:52055/tptv/GITV-JS-1?type=origin
- 第一院线,http://103.146.51.181:52055/tptv/GITV-JS-2?type=origin
- 居家健身,http://103.146.51.181:52055/tptv/GITV-JS-4?type=origin
- 电视剧,http://103.146.51.181:52055/tptv/GITV-JS-6?type=origin
- 二更视频,http://103.146.51.181:52055/tptv/GITV-JS-7?type=origin
- 德凯奥特曼,http://103.146.51.181:52055/tptv/GITV-JS-9?type=origin
- 熊出没,http://103.146.51.181:52055/tptv/GITV-JS-10?type=origin
- 超级飞侠,http://103.146.51.181:52055/tptv/GITV-JS-11?type=origin
- 小猪佩奇,http://103.146.51.181:52055/tptv/GITV-JS-12?type=origin
- 汪汪队立大功,http://103.146.51.181:52055/tptv/GITV-JS-13?type=origin
- 高分电影,http://103.146.51.181:52055/tptv/GITV-JS-14?type=origin
- 乡村爱情,http://103.146.51.181:52055/tptv/GITV-JS-15?type=origin
- 热门综艺,http://103.146.51.181:52055/tptv/GITV-JS-16?type=origin
- 美食美味,http://103.146.51.181:52055/tptv/GITV-JS-17?type=origin
- 自然风景,http://103.146.51.181:52055/tptv/GITV-JS-18?type=origin
- 动物世界,http://103.146.51.181:52055/tptv/GITV-JS-19?type=origin
- 书籍解读,http://103.146.51.181:52055/tptv/GITV-JS-20?type=origin
- 亲子玩具,http://103.146.51.181:52055/tptv/GITV-JS-21?type=origin
- 广场舞,http://103.146.51.181:52055/tptv/GITV-JS-22?type=origin
- 戏曲音乐,http://103.146.51.181:52055/tptv/GITV-JS-23?type=origin
- 相声联欢,http://103.146.51.181:52055/tptv/GITV-JS-24?type=origin
- 动漫星空,http://103.146.51.181:52055/tptv/GITV-JS-25?type=origin
- 楚乔传,http://103.146.51.181:52055/tptv/GITV-JS-26?type=origin
- 完美的她,http://103.146.51.181:52055/tptv/GITV-JS-27?type=origin
- 哈尔滨一九四四,http://103.146.51.181:52055/tptv/GITV-JS-28?type=origin
- 军事之旅,http://103.146.51.181:52055/tptv/GITV-JS-29?type=origin
- 科幻世界,http://103.146.51.181:52055/tptv/GITV-JS-30?type=origin
- 儿童天地,http://103.146.51.181:52055/tptv/GITV-JS-31?type=origin
- 纪录片,http://103.146.51.181:52055/tptv/GITV-JS-32?type=origin
- 音乐心情,http://103.146.51.181:52055/tptv/GITV-JS-33?type=origin
- 掼蛋频道,http://103.146.51.181:52055/tptv/GITV-JS-34?type=origin
- 体坛同期声,http://103.146.51.181:52055/tptv/GITV-JS-35?type=origin
- 臻享推荐,http://103.146.51.181:52055/tptv/GITV-JS-36?type=origin
- 怀旧MTV,http://103.146.51.181:52055/tptv/GITV-JS-37?type=origin
- 南来北往,http://103.146.51.181:52055/tptv/GITV-JS-39?type=origin
- 狗剩快跑,http://103.146.51.181:52055/tptv/GITV-JS-40?type=origin
- 狂飙,http://103.146.51.181:52055/tptv/GITV-JS-41?type=origin
- 人世间,http://103.146.51.181:52055/tptv/GITV-JS-42?type=origin
- 大江大河,http://103.146.51.181:52055/tptv/GITV-JS-43?type=origin
- 山海情,http://103.146.51.181:52055/tptv/GITV-JS-44?type=origin
- 冰雪竞技场,http://103.146.51.181:52055/tptv/GITV-JS-45?type=origin
- 邪恶与疯狂,http://103.146.51.181:52055/tptv/GITV-JS-46?type=origin
- 来自星星的你,http://103.146.51.181:52055/tptv/GITV-JS-47?type=origin
- 哦我的鬼神大人,http://103.146.51.181:52055/tptv/GITV-JS-48?type=origin
- 太阳的后裔,http://103.146.51.181:52055/tptv/GITV-JS-49?type=origin
- 请回答1988,http://103.146.51.181:52055/tptv/GITV-JS-50?type=origin
-四季線上 4GTV,#genre#
- 民視,http://103.146.51.181:52055/litv/4gtv-4gtv002
- 民視第一台,http://103.146.51.181:52055/litv/4gtv-4gtv003
- 民視新聞台,http://103.146.51.181:52055/litv/litv-ftv13
- 民視台灣台,http://103.146.51.181:52055/litv/4gtv-4gtv001
- 民視影劇台,http://103.146.51.181:52055/litv/litv-ftv09
- 民視旅遊台,http://103.146.51.181:52055/litv/litv-ftv07
- 民視綜藝台,http://103.146.51.181:52055/litv/4gtv-4gtv004
- 中視,http://103.146.51.181:52055/litv/4gtv-4gtv040
- 中視新聞台,http://103.146.51.181:52055/litv/4gtv-4gtv074
- 中視經典台,http://103.146.51.181:52055/litv/4gtv-4gtv080
- 中視菁采台,http://103.146.51.181:52055/litv/4gtv-4gtv064
- 中天新聞台,http://103.146.51.181:52055/litv/4gtv-4gtv009
- 中天亞洲台,http://103.146.51.181:52055/litv/4gtv-4gtv109
- 華視,http://103.146.51.181:52055/litv/4gtv-4gtv041
- 華視新聞,http://103.146.51.181:52055/litv/4gtv-4gtv052
- 靖天綜合台,http://103.146.51.181:52055/litv/4gtv-4gtv046
- 靖天國際台,http://103.146.51.181:52055/litv/4gtv-4gtv063
- 靖天戲劇台,http://103.146.51.181:52055/litv/4gtv-4gtv058
- 靖天日本台,http://103.146.51.181:52055/litv/4gtv-4gtv047
- 靖天映畫台,http://103.146.51.181:52055/litv/4gtv-4gtv055
- 靖天卡通台,http://103.146.51.181:52055/litv/4gtv-4gtv044
- 靖天育樂台,http://103.146.51.181:52055/litv/4gtv-4gtv062
- 靖天資訊台,http://103.146.51.181:52055/litv/4gtv-4gtv065
- 靖天電影台,http://103.146.51.181:52055/litv/4gtv-4gtv061
- 靖天歡樂台,http://103.146.51.181:52055/litv/4gtv-4gtv054
- 龍華偶像台,http://103.146.51.181:52055/litv/litv-longturn12
- 龍華卡通台,http://103.146.51.181:52055/litv/litv-longturn01
- 龍華戲劇台,http://103.146.51.181:52055/litv/litv-longturn18
- 龍華日韓台,http://103.146.51.181:52055/litv/litv-longturn11
- 龍華經典台,http://103.146.51.181:52055/litv/litv-longturn21
- 龍華電影台,http://103.146.51.181:52055/litv/litv-longturn03
- 靖洋戲劇台,http://103.146.51.181:52055/litv/4gtv-4gtv045
- 靖洋卡通 Nice Bingo,http://103.146.51.181:52055/litv/4gtv-4gtv057
- 寰宇新聞台,http://103.146.51.181:52055/litv/litv-longturn14
- 寰宇新聞台灣台,http://103.146.51.181:52055/litv/litv-longturn15
- 寰宇財經台,http://103.146.51.181:52055/litv/litv-longturn23
- TVBS,http://103.146.51.181:52055/litv/4gtv-4gtv073
- TVBS 新聞台,http://103.146.51.181:52055/litv/4gtv-4gtv072
- TVBS 綜藝台,http://103.146.51.181:52055/4gtv/284
- TVBS 歡樂台,http://103.146.51.181:52055/litv/4gtv-4gtv068
- TVBS 精采台,http://103.146.51.181:52055/litv/4gtv-4gtv067
- TVBS 台劇台,http://103.146.51.181:52055/4gtv/285
- 八大精彩台,http://103.146.51.181:52055/litv/4gtv-4gtv034
- 八大綜藝台,http://103.146.51.181:52055/litv/4gtv-4gtv039
- 三立綜合台,http://103.146.51.181:52055/4gtv/169
- 三立 iNEWS,http://103.146.51.181:52055/4gtv/229
- 台視,http://103.146.51.181:52055/litv/4gtv-4gtv066
- 台視新聞台,http://103.146.51.181:52055/litv/4gtv-4gtv051
- 台視財經台,http://103.146.51.181:52055/litv/4gtv-4gtv056
- 博斯運動一台,http://103.146.51.181:52055/litv/litv-longturn07
- 博斯運動二台,http://103.146.51.181:52055/litv/litv-longturn08
- 博斯無限台,http://103.146.51.181:52055/litv/litv-longturn10
- 博斯無限二台,http://103.146.51.181:52055/litv/litv-longturn13
- 博斯網球台,http://103.146.51.181:52055/litv/litv-longturn09
- 博斯高球台,http://103.146.51.181:52055/litv/litv-longturn05
- 博斯高球二台,http://103.146.51.181:52055/litv/litv-longturn06
- 博斯魅力台,http://103.146.51.181:52055/litv/litv-longturn04
- ELTA 娛樂台,http://103.146.51.181:52055/litv/4gtv-4gtv070
- ELTA 生活旅遊,http://103.146.51.181:52055/4gtv/237
- ELTV 生活英語,http://103.146.51.181:52055/litv/litv-longturn20
- 東森新聞,http://103.146.51.181:52055/litv/4gtv-4gtv152
- 東森財經新聞,http://103.146.51.181:52055/litv/4gtv-4gtv153
- 非凡新聞台,http://103.146.51.181:52055/litv/4gtv-4gtv010
- 非凡商業台,http://103.146.51.181:52055/litv/4gtv-4gtv048
- 鏡電視新聞台,http://103.146.51.181:52055/litv/4gtv-4gtv075
- CNBC Asia 財經台,http://103.146.51.181:52055/4gtv/235
- 亞洲旅遊台,http://103.146.51.181:52055/litv/litv-longturn17
- GINX Esports TV,http://103.146.51.181:52055/litv/4gtv-4gtv053
- TechStorm,http://103.146.51.181:52055/4gtv/181
- 時尚運動X,http://103.146.51.181:52055/4gtv/277
- 智林體育台,http://103.146.51.181:52055/litv/4gtv-4gtv101
- TraceSports,http://103.146.51.181:52055/litv/4gtv-4gtv077
- 影迷數位紀實台,http://103.146.51.181:52055/4gtv/212
- 影迷數位電影台,http://103.146.51.181:52055/litv/4gtv-4gtv011
- AMC 電影台,http://103.146.51.181:52055/litv/4gtv-4gtv017
- CatchPlay 電影台,http://103.146.51.181:52055/litv/4gtv-4gtv076
- My Cinema Europe HD 我的歐洲電影,http://103.146.51.181:52055/4gtv/176
- 公視戲劇台,http://103.146.51.181:52055/litv/4gtv-4gtv042
- 采昌影劇台,http://103.146.51.181:52055/litv/4gtv-4gtv049
- 台灣戲劇台,http://103.146.51.181:52055/litv/litv-longturn22
- 戲劇免費看 1台,http://103.146.51.181:52055/4gtv/270
- 戲劇免費看 2台,http://103.146.51.181:52055/4gtv/244
- 經典電影台,http://103.146.51.181:52055/4gtv/201
- 電影免費看 2台,http://103.146.51.181:52055/4gtv/245
- 電影原聲台 CMusic,http://103.146.51.181:52055/4gtv/218
- 花系列 經典劇場,http://103.146.51.181:52055/4gtv/279
- CinemaWorld,http://103.146.51.181:52055/4gtv/225
- HITS 頻道,http://103.146.51.181:52055/4gtv/186
- Rock Action,http://103.146.51.181:52055/4gtv/180
- Rock Entertainment,http://103.146.51.181:52055/4gtv/275
- 金光布袋戲,http://103.146.51.181:52055/4gtv/236
- 霹靂布袋戲,http://103.146.51.181:52055/4gtv/301
- DreamWorks 夢工廠動畫,http://103.146.51.181:52055/4gtv/282
- Nickelodeon,http://103.146.51.181:52055/4gtv/185
- Nick Jr. 兒童頻道,http://103.146.51.181:52055/4gtv/219
- i-Fun 動漫台,http://103.146.51.181:52055/litv/litv-ftv15
- 兒童卡通台,http://103.146.51.181:52055/4gtv/269
- 精選動漫台,http://103.146.51.181:52055/4gtv/204
- 經典卡通台,http://103.146.51.181:52055/4gtv/202
- 達文西頻道,http://103.146.51.181:52055/litv/4gtv-4gtv018
- 超人力霸王整套看,http://103.146.51.181:52055/4gtv/278
- MOMO 親子台,http://103.146.51.181:52055/4gtv/231
- LiveABC 互動英語台,http://103.146.51.181:52055/4gtv/188
- Classica 古典樂,http://103.146.51.181:52055/litv/4gtv-4gtv059
- Lifetime 娛樂頻道,http://103.146.51.181:52055/4gtv/217
- MTV Live HD 音樂頻道,http://103.146.51.181:52055/4gtv/213
- Mezzo Live,http://103.146.51.181:52055/litv/4gtv-4gtv083
- 豬哥亮歌廳秀,http://103.146.51.181:52055/litv/4gtv-4gtv006
- Trace Urban,http://103.146.51.181:52055/litv/4gtv-4gtv082
- Global Trekker,http://103.146.51.181:52055/4gtv/252
- 韓國娛樂台,http://103.146.51.181:52055/litv/4gtv-4gtv016
- LUXE TV,http://103.146.51.181:52055/4gtv/175
- Pet Club TV,http://103.146.51.181:52055/4gtv/182
- TV5MONDE Style,http://103.146.51.181:52055/4gtv/178
- 車迷 TV,http://103.146.51.181:52055/4gtv/160
- Love Nature,http://103.146.51.181:52055/4gtv/139
- Fun 探索娛樂台,http://103.146.51.181:52055/4gtv/274
- 幸福空間居家台,http://103.146.51.181:52055/4gtv/168
- Arirang TV,http://103.146.51.181:52055/litv/4gtv-4gtv079
- Bloomberg TV,http://103.146.51.181:52055/4gtv/283
- VOA 美國之音,http://103.146.51.181:52055/litv/litv-ftv03
- DW德國之聲,http://103.146.51.181:52055/4gtv/226
- SBN 全球財經台,http://103.146.51.181:52055/4gtv/224
- 半島國際新聞台,http://103.146.51.181:52055/litv/litv-ftv10
- 第1商業台,http://103.146.51.181:52055/litv/4gtv-4gtv104
- History 歷史頻道,http://103.146.51.181:52055/4gtv/214
- CI 罪案偵查頻道,http://103.146.51.181:52055/4gtv/215
- Smart 知識台,http://103.146.51.181:52055/litv/litv-longturn19
- 視納華仁紀實頻道,http://103.146.51.181:52055/litv/4gtv-4gtv013
- 原住民族電視台,http://103.146.51.181:52055/4gtv/273
- 客家電視台,http://103.146.51.181:52055/litv/4gtv-4gtv043
- 滾動力 Rollor,http://103.146.51.181:52055/4gtv/249
- 好消息,http://103.146.51.181:52055/litv/litv-ftv16
- 好消息2台,http://103.146.51.181:52055/litv/litv-ftv17
- 大愛電視,http://103.146.51.181:52055/4gtv/209
- 大愛電視2,http://103.146.51.181:52055/4gtv/230
- 人間衛視,http://103.146.51.181:52055/4gtv/210
- 國會頻道1,http://103.146.51.181:52055/litv/4gtv-4gtv084
- 國會頻道2,http://103.146.51.181:52055/litv/4gtv-4gtv085
- 東森購物一台,http://103.146.51.181:52055/4gtv/173
- 東森購物二台,http://103.146.51.181:52055/4gtv/174
- 東森購物三台,http://103.146.51.181:52055/4gtv/287
- 東森購物四台,http://103.146.51.181:52055/4gtv/286
+重庆有线,#genre#
+CCTV4K,https://vip.taoiptv.cn/source/cqyx.php?id=CCTV4K.m3u8&sign=uzrdto
+CCTV1,https://vip.taoiptv.cn/source/cqyx.php?id=cctv1HD.m3u8&sign=uzrdto
+CCTV2,https://vip.taoiptv.cn/source/cqyx.php?id=cctv2HD.m3u8&sign=uzrdto
+CCTV3,https://vip.taoiptv.cn/source/cqyx.php?id=cctv3HD.m3u8&sign=uzrdto
+CCTV4,https://vip.taoiptv.cn/source/cqyx.php?id=cctv4HD.m3u8&sign=uzrdto
+CCTV5,https://vip.taoiptv.cn/source/cqyx.php?id=cctv5HD.m3u8&sign=uzrdto
+CCTV5+,https://vip.taoiptv.cn/source/cqyx.php?id=cctv5SportHD.m3u8&sign=uzrdto
+CCTV6,https://vip.taoiptv.cn/source/cqyx.php?id=cctv6HD.m3u8&sign=uzrdto
+CCTV7,https://vip.taoiptv.cn/source/cqyx.php?id=cctv7HD.m3u8&sign=uzrdto
+CCTV8,https://vip.taoiptv.cn/source/cqyx.php?id=cctv8HD.m3u8&sign=uzrdto
+CCTV9,https://vip.taoiptv.cn/source/cqyx.php?id=cctv9HD.m3u8&sign=uzrdto
+CCTV10,https://vip.taoiptv.cn/source/cqyx.php?id=cctv10HD.m3u8&sign=uzrdto
+CCTV11,https://vip.taoiptv.cn/source/cqyx.php?id=cctv11HD.m3u8&sign=uzrdto
+CCTV12,https://vip.taoiptv.cn/source/cqyx.php?id=cctv12HD.m3u8&sign=uzrdto
+CCTV13,https://vip.taoiptv.cn/source/cqyx.php?id=CCTVNewsHD.m3u8&sign=uzrdto
+CCTV14,https://vip.taoiptv.cn/source/cqyx.php?id=cctvseHD.m3u8&sign=uzrdto
+CCTV15,https://vip.taoiptv.cn/source/cqyx.php?id=cctv15HD.m3u8&sign=uzrdto
+CCTV16,https://vip.taoiptv.cn/source/cqyx.php?id=cctv16HD.m3u8&sign=uzrdto
+CCTV16(4K),https://vip.taoiptv.cn/source/cqyx.php?id=CCTV16_4K.m3u8&sign=uzrdto
+CCTV17,https://vip.taoiptv.cn/source/cqyx.php?id=cctv17HD.m3u8&sign=uzrdto
+CCTV兵器科技,https://vip.taoiptv.cn/source/cqyx.php?id=bqkjHD.m3u8&sign=uzrdto
+CCTV怀旧剧场,https://vip.taoiptv.cn/source/cqyx.php?id=hjjcHD.m3u8&sign=uzrdto
+CCTV第一剧场,https://vip.taoiptv.cn/source/cqyx.php?id=diyijuchangHD.m3u8&sign=uzrdto
+CCTV风云剧场,https://vip.taoiptv.cn/source/cqyx.php?id=fyjcHD.m3u8&sign=uzrdto
+CCTV风云音乐,https://vip.taoiptv.cn/source/cqyx.php?id=fyyyHD.m3u8&sign=uzrdto
+CCTV风云足球,https://vip.taoiptv.cn/source/cqyx.php?id=fyzqHD.m3u8&sign=uzrdto
+CCTV央视台球,https://vip.taoiptv.cn/source/cqyx.php?id=ystqHD.m3u8&sign=uzrdto
+CCTV高网频道,https://vip.taoiptv.cn/source/cqyx.php?id=golfHD.m3u8&sign=uzrdto
+CCTV女性时尚,https://vip.taoiptv.cn/source/cqyx.php?id=nvxing.m3u8&sign=uzrdto
+CCTV央视文化,https://vip.taoiptv.cn/source/cqyx.php?id=yswhHD.m3u8&sign=uzrdto
+CCTV央广购物,https://vip.taoiptv.cn/source/cqyx.php?id=yggw.m3u8&sign=uzrdto
+CCTV中视购物,https://vip.taoiptv.cn/source/cqyx.php?id=ysgw.m3u8&sign=uzrdto
+CGTN,https://vip.taoiptv.cn/source/cqyx.php?id=cgtnSD.m3u8&sign=uzrdto
+CETV1,https://vip.taoiptv.cn/source/cqyx.php?id=cetv-1SD.m3u8&sign=uzrdto
+CETV4,https://vip.taoiptv.cn/source/cqyx.php?id=cetv-4SD.m3u8&sign=uzrdto
+早期教育,https://vip.taoiptv.cn/source/cqyx.php?id=zaojiaoHD.m3u8&sign=uzrdto
+山东教育,https://vip.taoiptv.cn/source/cqyx.php?id=sdjiaoyuSD.m3u8&sign=uzrdto
+北京卫视,https://vip.taoiptv.cn/source/cqyx.php?id=beijingHD.m3u8&sign=uzrdto
+天津卫视,https://vip.taoiptv.cn/source/cqyx.php?id=tianjinHD.m3u8&sign=uzrdto
+辽宁卫视,https://vip.taoiptv.cn/source/cqyx.php?id=liaoningHD.m3u8&sign=uzrdto
+湖南卫视,https://vip.taoiptv.cn/source/cqyx.php?id=hunanHD.m3u8&sign=uzrdto
+江苏卫视,https://vip.taoiptv.cn/source/cqyx.php?id=jiangsuHD.m3u8&sign=uzrdto
+浙江卫视,https://vip.taoiptv.cn/source/cqyx.php?id=zhejiangHD.m3u8&sign=uzrdto
+东方卫视,https://vip.taoiptv.cn/source/cqyx.php?id=shanghaiHD.m3u8&sign=uzrdto
+东南卫视,https://vip.taoiptv.cn/source/cqyx.php?id=dongnanHD.m3u8&sign=uzrdto
+吉林卫视,https://vip.taoiptv.cn/source/cqyx.php?id=jilinHD.m3u8&sign=uzrdto
+黑龙江卫视,https://vip.taoiptv.cn/source/cqyx.php?id=heilongjiangHD.m3u8&sign=uzrdto
+广东卫视,https://vip.taoiptv.cn/source/cqyx.php?id=guangdongHD.m3u8&sign=uzrdto
+深圳卫视,https://vip.taoiptv.cn/source/cqyx.php?id=shenzhenHD.m3u8&sign=uzrdto
+江西卫视,https://vip.taoiptv.cn/source/cqyx.php?id=jiangxiHD.m3u8&sign=uzrdto
+广西卫视,https://vip.taoiptv.cn/source/cqyx.php?id=guangxiHD.m3u8&sign=uzrdto
+贵州卫视,https://vip.taoiptv.cn/source/cqyx.php?id=guizhouHD.m3u8&sign=uzrdto
+四川卫视,https://vip.taoiptv.cn/source/cqyx.php?id=sichuanHD.m3u8&sign=uzrdto
+重庆卫视,https://vip.taoiptv.cn/source/cqyx.php?id=chongqingHD.m3u8&sign=uzrdto
+河南卫视,https://vip.taoiptv.cn/source/cqyx.php?id=henanHD.m3u8&sign=uzrdto
+内蒙古卫视,https://vip.taoiptv.cn/source/cqyx.php?id=neimengkuSD.m3u8&sign=uzrdto
+安徽卫视,https://vip.taoiptv.cn/source/cqyx.php?id=anhuiSD.m3u8&sign=uzrdto
+湖北卫视,https://vip.taoiptv.cn/source/cqyx.php?id=hubeiSD.m3u8&sign=uzrdto
+宁夏卫视,https://vip.taoiptv.cn/source/cqyx.php?id=ningxia.m3u8&sign=uzrdto
+青海卫视,https://vip.taoiptv.cn/source/cqyx.php?id=qinghaiSD.m3u8&sign=uzrdto
+河北卫视,https://vip.taoiptv.cn/source/cqyx.php?id=hebeiSD.m3u8&sign=uzrdto
+云南卫视,https://vip.taoiptv.cn/source/cqyx.php?id=yunnanSD.m3u8&sign=uzrdto
+海南卫视,https://vip.taoiptv.cn/source/cqyx.php?id=hainanSD.m3u8&sign=uzrdto
+三沙卫视,https://vip.taoiptv.cn/source/cqyx.php?id=sanshaSD.m3u8&sign=uzrdto
+新疆卫视,https://vip.taoiptv.cn/source/cqyx.php?id=xinjiangSD.m3u8&sign=uzrdto
+西藏卫视,https://vip.taoiptv.cn/source/cqyx.php?id=xizangSD.m3u8&sign=uzrdto
+兵团卫视,https://vip.taoiptv.cn/source/cqyx.php?id=bingtuanSD.m3u8&sign=uzrdto
+CHC动作电影,https://vip.taoiptv.cn/source/cqyx.php?id=chcdzdyHD.m3u8&sign=uzrdto
+CHC影迷电影,https://vip.taoiptv.cn/source/cqyx.php?id=chcgqdyHD.m3u8&sign=uzrdto
+CHC家庭影院,https://vip.taoiptv.cn/source/cqyx.php?id=chcjtyyHD.m3u8&sign=uzrdto
+重庆新闻,https://vip.taoiptv.cn/source/cqyx.php?id=CQTVNewsHD.m3u8&sign=uzrdto
+重庆科教,https://vip.taoiptv.cn/source/cqyx.php?id=CQTVkejiaoHD.m3u8&sign=uzrdto
+重庆影视,https://vip.taoiptv.cn/source/cqyx.php?id=cqyingshiHD.m3u8&sign=uzrdto
+重庆文体,https://vip.taoiptv.cn/source/cqyx.php?id=cqwtylHD.m3u8&sign=uzrdto
+重庆少儿,https://vip.taoiptv.cn/source/cqyx.php?id=cqseHD.m3u8&sign=uzrdto
+重庆时尚,https://vip.taoiptv.cn/source/cqyx.php?id=cqssgwHD.m3u8&sign=uzrdto
+重庆新农村,https://vip.taoiptv.cn/source/cqyx.php?id=cqggncHD.m3u8&sign=uzrdto
+重庆社会与法,https://vip.taoiptv.cn/source/cqyx.php?id=CQTVTrendyHD.m3u8&sign=uzrdto
+重庆移动,https://vip.taoiptv.cn/source/cqyx.php?id=mryyHD.m3u8&sign=uzrdto
+重庆汽摩,https://vip.taoiptv.cn/source/cqyx.php?id=cqcarSD.m3u8&sign=uzrdto
+重广融媒,https://vip.taoiptv.cn/source/cqyx.php?id=cqrongmei.m3u8&sign=uzrdto
+爱看导视,https://vip.taoiptv.cn/source/cqyx.php?id=aikanHD.m3u8&sign=uzrdto
+合川综合,https://vip.taoiptv.cn/source/cqyx.php?id=hechuan.m3u8&sign=uzrdto
+长寿综合,https://vip.taoiptv.cn/source/cqyx.php?id=changshou.m3u8&sign=uzrdto
+酉阳综合,https://vip.taoiptv.cn/source/cqyx.php?id=youyang.m3u8&sign=uzrdto
+云阳综合,https://vip.taoiptv.cn/source/cqyx.php?id=jiangjinHD.m3u8&sign=uzrdto
+铜梁综合,https://vip.taoiptv.cn/source/cqyx.php?id=tongliangzongheHD.m3u8&sign=uzrdto
+北京纪实,https://vip.taoiptv.cn/source/cqyx.php?id=bjayjsSD.m3u8&sign=uzrdto
+北京卡酷,https://vip.taoiptv.cn/source/cqyx.php?id=bjkakuSD.m3u8&sign=uzrdto
+中华特产,https://vip.taoiptv.cn/source/cqyx.php?id=techan.m3u8&sign=uzrdto
+生态环境,https://vip.taoiptv.cn/source/cqyx.php?id=shengtai.m3u8&sign=uzrdto
+四海钓鱼,https://vip.taoiptv.cn/source/cqyx.php?id=diaoyu.m3u8&sign=uzrdto
+车迷频道,https://vip.taoiptv.cn/source/cqyx.php?id=doxtv.m3u8&sign=uzrdto
+百姓健康,https://vip.taoiptv.cn/source/cqyx.php?id=jiankangSD.m3u8&sign=uzrdto
+环球奇观,https://vip.taoiptv.cn/source/cqyx.php?id=car.m3u8&sign=uzrdto
+环球旅游,https://vip.taoiptv.cn/source/cqyx.php?id=huanqiulvyou.m3u8&sign=uzrdto
+优优宝贝,https://vip.taoiptv.cn/source/cqyx.php?id=youxi.m3u8&sign=uzrdto
+聚鲨环球,https://vip.taoiptv.cn/source/cqyx.php?id=jusha.m3u8&sign=uzrdto
+欢笑剧场,https://vip.taoiptv.cn/source/cqyx.php?id=hxjc_4K.m3u8&sign=uzrdto
+都市剧场,https://vip.taoiptv.cn/source/cqyx.php?id=dsjcHD.m3u8&sign=uzrdto
+魅力足球,https://vip.taoiptv.cn/source/cqyx.php?id=mlzqHD.m3u8&sign=uzrdto
+动漫秀场,https://vip.taoiptv.cn/source/cqyx.php?id=dmxcHD.m3u8&sign=uzrdto
+游戏风云,https://vip.taoiptv.cn/source/cqyx.php?id=yxfyHD.m3u8&sign=uzrdto
+东方财富,https://vip.taoiptv.cn/source/cqyx.php?id=dfcj.m3u8&sign=uzrdto
+生活时尚,https://vip.taoiptv.cn/source/cqyx.php?id=shenghuo.m3u8&sign=uzrdto
+法治天地,https://vip.taoiptv.cn/source/cqyx.php?id=fazhi.m3u8&sign=uzrdto
+金色学堂,https://vip.taoiptv.cn/source/cqyx.php?id=jinse.m3u8&sign=uzrdto
+家有购物,https://vip.taoiptv.cn/source/cqyx.php?id=jygw.m3u8&sign=uzrdto
+新动漫,https://vip.taoiptv.cn/source/cqyx.php?id=dongman.m3u8&sign=uzrdto
+证券服务,https://vip.taoiptv.cn/source/cqyx.php?id=jiazheng.m3u8&sign=uzrdto
+收藏天下,https://vip.taoiptv.cn/source/cqyx.php?id=soucang.m3u8&sign=uzrdto
+国学频道,https://vip.taoiptv.cn/source/cqyx.php?id=guoxue.m3u8&sign=uzrdto
+金鹰卡通,https://vip.taoiptv.cn/source/cqyx.php?id=jinyingSD.m3u8&sign=uzrdto
+先锋乒羽,https://vip.taoiptv.cn/source/cqyx.php?id=xianfeng.m3u8&sign=uzrdto
+风尚购物,https://vip.taoiptv.cn/source/cqyx.php?id=fsgw.m3u8&sign=uzrdto
+财富天下,https://vip.taoiptv.cn/source/cqyx.php?id=caifu.m3u8&sign=uzrdto
+天元围棋,https://vip.taoiptv.cn/source/cqyx.php?id=weiqi.m3u8&sign=uzrdto
+摄影频道,https://vip.taoiptv.cn/source/cqyx.php?id=sheying.m3u8&sign=uzrdto
+求索纪录,https://vip.taoiptv.cn/source/cqyx.php?id=qsjlHD.m3u8&sign=uzrdto
+重温经典,https://vip.taoiptv.cn/source/cqyx.php?id=cwjdHD.m3u8&sign=uzrdto
+快乐垂钓,https://vip.taoiptv.cn/source/cqyx.php?id=klcdHD.m3u8&sign=uzrdto
+中学生,https://vip.taoiptv.cn/source/cqyx.php?id=qicai.m3u8&sign=uzrdto
+发现之旅,https://vip.taoiptv.cn/source/cqyx.php?id=faxian.m3u8&sign=uzrdto
+老故事,https://vip.taoiptv.cn/source/cqyx.php?id=gushi.m3u8&sign=uzrdto
+书画频道,https://vip.taoiptv.cn/source/cqyx.php?id=shuhua.m3u8&sign=uzrdto
+中国天气,https://vip.taoiptv.cn/source/cqyx.php?id=tianqiSD.m3u8&sign=uzrdto
+快乐垂钓,https://vip.taoiptv.cn/source/cqyx.php?id=klcdHD.m3u8&sign=uzrdto
+求索纪录,https://vip.taoiptv.cn/source/cqyx.php?id=qsjlHD.m3u8&sign=uzrdto
+重温经典,https://vip.taoiptv.cn/source/cqyx.php?id=cwjdHD.m3u8&sign=uzrdto
+移动ITV,#genre#
+CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV1.m3u8&sign=uzrdto
+CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=uzrdto
+CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV1HEVC.m3u8&sign=uzrdto
+CCTV2,https://vip.taoiptv.cn/source/itv.php?id=CCTV2.m3u8&sign=uzrdto
+CCTV2,https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=uzrdto
+CCTV2,https://vip.taoiptv.cn/source/itv.php?id=CCTV2HEVC.m3u8&sign=uzrdto
+CCTV3,https://vip.taoiptv.cn/source/itv.php?id=CCTV3.m3u8&sign=uzrdto
+CCTV3,https://vip.taoiptv.cn/source/itv.php?id=CCTV3HEVC.m3u8&sign=uzrdto
+CCTV4,https://vip.taoiptv.cn/source/itv.php?id=CCTV450FPS.m3u8&sign=uzrdto
+CCTV4,https://vip.taoiptv.cn/source/itv.php?id=CCTV4HEVC.m3u8&sign=uzrdto
+CCTV5,https://vip.taoiptv.cn/source/itv.php?id=CCTV5.m3u8&sign=uzrdto
+CCTV5,https://vip.taoiptv.cn/source/itv.php?id=CCTV5HEVC.m3u8&sign=uzrdto
+CCTV5+,https://vip.taoiptv.cn/source/itv.php?id=CCTV5p.m3u8&sign=uzrdto
+CCTV5+,https://vip.taoiptv.cn/source/itv.php?id=CCTV5pHEVC.m3u8&sign=uzrdto
+CCTV6,https://vip.taoiptv.cn/source/itv.php?id=CCTV6.m3u8&sign=uzrdto
+CCTV6,https://vip.taoiptv.cn/source/itv.php?id=CCTV650FPS.m3u8&sign=uzrdto
+CCTV6,https://vip.taoiptv.cn/source/itv.php?id=CCTV6HEVC.m3u8&sign=uzrdto
+CCTV7,https://vip.taoiptv.cn/source/itv.php?id=CCTV7.m3u8&sign=uzrdto
+CCTV7,https://vip.taoiptv.cn/source/itv.php?id=CCTV750FPS.m3u8&sign=uzrdto
+CCTV7,https://vip.taoiptv.cn/source/itv.php?id=CCTV7HEVC.m3u8&sign=uzrdto
+CCTV8,https://vip.taoiptv.cn/source/itv.php?id=CCTV8.m3u8&sign=uzrdto
+CCTV8,https://vip.taoiptv.cn/source/itv.php?id=CCTV8HEVC.m3u8&sign=uzrdto
+CCTV9,https://vip.taoiptv.cn/source/itv.php?id=CCTV9.m3u8&sign=uzrdto
+CCTV9,https://vip.taoiptv.cn/source/itv.php?id=CCTV950FPS.m3u8&sign=uzrdto
+CCTV9,https://vip.taoiptv.cn/source/itv.php?id=CCTV9HEVC.m3u8&sign=uzrdto
+CCTV10,https://vip.taoiptv.cn/source/itv.php?id=CCTV10.m3u8&sign=uzrdto
+CCTV10,https://vip.taoiptv.cn/source/itv.php?id=CCTV1050FPS.m3u8&sign=uzrdto
+CCTV10,https://vip.taoiptv.cn/source/itv.php?id=CCTV10HEVC.m3u8&sign=uzrdto
+CCTV11,https://vip.taoiptv.cn/source/itv.php?id=CCTV1150FPS.m3u8&sign=uzrdto
+CCTV11,https://vip.taoiptv.cn/source/itv.php?id=CCTV11HEVC.m3u8&sign=uzrdto
+CCTV12,https://vip.taoiptv.cn/source/itv.php?id=CCTV12.m3u8&sign=uzrdto
+CCTV12,https://vip.taoiptv.cn/source/itv.php?id=CCTV1250FPS.m3u8&sign=uzrdto
+CCTV12,https://vip.taoiptv.cn/source/itv.php?id=CCTV12HEVC.m3u8&sign=uzrdto
+CCTV13,https://vip.taoiptv.cn/source/itv.php?id=CCTV1350FPS.m3u8&sign=uzrdto
+CCTV14,https://vip.taoiptv.cn/source/itv.php?id=CCTV14.m3u8&sign=uzrdto
+CCTV14,https://vip.taoiptv.cn/source/itv.php?id=CCTV1450FPS.m3u8&sign=uzrdto
+CCTV14,https://vip.taoiptv.cn/source/itv.php?id=CCTV14HEVC.m3u8&sign=uzrdto
+CCTV15,https://vip.taoiptv.cn/source/itv.php?id=CCTV1550FPS.m3u8&sign=uzrdto
+CCTV15,https://vip.taoiptv.cn/source/itv.php?id=CCTV15HEVC.m3u8&sign=uzrdto
+CCTV16,https://vip.taoiptv.cn/source/itv.php?id=CCTV16.m3u8&sign=uzrdto
+CCTV16(4K),https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=uzrdto
+CCTV17,https://vip.taoiptv.cn/source/itv.php?id=CCTV17.m3u8&sign=uzrdto
+CCTV17,https://vip.taoiptv.cn/source/itv.php?id=CCTV17HEVC.m3u8&sign=uzrdto
+CGTN记录,https://vip.taoiptv.cn/source/itv.php?id=CGTN记录.m3u8&sign=uzrdto
+中国教育1,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台1.m3u8&sign=uzrdto
+中国教育4,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台4.m3u8&sign=uzrdto
+北京卫视,https://vip.taoiptv.cn/source/itv.php?id=北京卫视.m3u8&sign=uzrdto
+北京卫视,https://vip.taoiptv.cn/source/itv.php?id=北京卫视HEVC.m3u8&sign=uzrdto
+安徽卫视,https://vip.taoiptv.cn/source/itv.php?id=安徽卫视.m3u8&sign=uzrdto
+安徽卫视,https://vip.taoiptv.cn/source/itv.php?id=安徽卫视50FPS.m3u8&sign=uzrdto
+安徽卫视,https://vip.taoiptv.cn/source/itv.php?id=安徽卫视HEVC.m3u8&sign=uzrdto
+东南卫视,https://vip.taoiptv.cn/source/itv.php?id=东南卫视.m3u8&sign=uzrdto
+东南卫视,https://vip.taoiptv.cn/source/itv.php?id=东南卫视HEVC.m3u8&sign=uzrdto
+甘肃卫视,https://vip.taoiptv.cn/source/itv.php?id=甘肃卫视.m3u8&sign=uzrdto
+广东卫视,https://vip.taoiptv.cn/source/itv.php?id=广东卫视.m3u8&sign=uzrdto
+广东卫视,https://vip.taoiptv.cn/source/itv.php?id=广东卫视50FPS.m3u8&sign=uzrdto
+广东卫视,https://vip.taoiptv.cn/source/itv.php?id=广东卫视HEVC.m3u8&sign=uzrdto
+广西卫视,https://vip.taoiptv.cn/source/itv.php?id=广西卫视.m3u8&sign=uzrdto
+贵州卫视,https://vip.taoiptv.cn/source/itv.php?id=贵州卫视.m3u8&sign=uzrdto
+海南卫视,https://vip.taoiptv.cn/source/itv.php?id=海南卫视.m3u8&sign=uzrdto
+河北卫视,https://vip.taoiptv.cn/source/itv.php?id=河北卫视.m3u8&sign=uzrdto
+河南卫视,https://vip.taoiptv.cn/source/itv.php?id=河南卫视.m3u8&sign=uzrdto
+黑龙江卫视,https://vip.taoiptv.cn/source/itv.php?id=黑龙江卫视.m3u8&sign=uzrdto
+黑龙江卫视,https://vip.taoiptv.cn/source/itv.php?id=黑龙江卫视50FPS.m3u8&sign=uzrdto
+黑龙江卫视,https://vip.taoiptv.cn/source/itv.php?id=黑龙江卫视HEVC.m3u8&sign=uzrdto
+湖北卫视,https://vip.taoiptv.cn/source/itv.php?id=湖北卫视.m3u8&sign=uzrdto
+湖北卫视,https://vip.taoiptv.cn/source/itv.php?id=湖北卫视50FPS.m3u8&sign=uzrdto
+湖北卫视,https://vip.taoiptv.cn/source/itv.php?id=湖北卫视HEVC.m3u8&sign=uzrdto
+湖南卫视,https://vip.taoiptv.cn/source/itv.php?id=湖南卫视.m3u8&sign=uzrdto
+湖南卫视,https://vip.taoiptv.cn/source/itv.php?id=湖南卫视50FPS.m3u8&sign=uzrdto
+湖南卫视,https://vip.taoiptv.cn/source/itv.php?id=湖南卫视HEVC.m3u8&sign=uzrdto
+吉林卫视,https://vip.taoiptv.cn/source/itv.php?id=吉林卫视.m3u8&sign=uzrdto
+江苏卫视,https://vip.taoiptv.cn/source/itv.php?id=江苏卫视50FPS.m3u8&sign=uzrdto
+江苏卫视,https://vip.taoiptv.cn/source/itv.php?id=江苏卫视.m3u8&sign=uzrdto
+江苏卫视,https://vip.taoiptv.cn/source/itv.php?id=江苏卫视HEVC.m3u8&sign=uzrdto
+江西卫视,https://vip.taoiptv.cn/source/itv.php?id=江西卫视.m3u8&sign=uzrdto
+江西卫视,https://vip.taoiptv.cn/source/itv.php?id=江西卫视HEVC.m3u8&sign=uzrdto
+辽宁卫视,https://vip.taoiptv.cn/source/itv.php?id=辽宁卫视.m3u8&sign=uzrdto
+辽宁卫视,https://vip.taoiptv.cn/source/itv.php?id=辽宁卫视HEVC.m3u8&sign=uzrdto
+青海卫视,https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=uzrdto
+山东卫视,https://vip.taoiptv.cn/source/itv.php?id=山东卫视.m3u8&sign=uzrdto
+山东卫视,https://vip.taoiptv.cn/source/itv.php?id=山东卫视50FPS.m3u8&sign=uzrdto
+山东卫视,https://vip.taoiptv.cn/source/itv.php?id=山东卫视HEVC.m3u8&sign=uzrdto
+东方卫视,https://vip.taoiptv.cn/source/itv.php?id=上海东方卫视.m3u8&sign=uzrdto
+东方卫视,https://vip.taoiptv.cn/source/itv.php?id=上海东方卫视50FPS.m3u8&sign=uzrdto
+东方卫视,https://vip.taoiptv.cn/source/itv.php?id=上海东方卫视HEVC.m3u8&sign=uzrdto
+深圳卫视,https://vip.taoiptv.cn/source/itv.php?id=深圳卫视.m3u8&sign=uzrdto
+深圳卫视,https://vip.taoiptv.cn/source/itv.php?id=深圳卫视50FPS.m3u8&sign=uzrdto
+深圳卫视,https://vip.taoiptv.cn/source/itv.php?id=深圳卫视HEVC.m3u8&sign=uzrdto
+四川卫视,https://vip.taoiptv.cn/source/itv.php?id=四川卫视.m3u8&sign=uzrdto
+天津卫视,https://vip.taoiptv.cn/source/itv.php?id=天津卫视.m3u8&sign=uzrdto
+天津卫视,https://vip.taoiptv.cn/source/itv.php?id=天津卫视50FPS.m3u8&sign=uzrdto
+天津卫视,https://vip.taoiptv.cn/source/itv.php?id=天津卫视HEVC.m3u8&sign=uzrdto
+云南卫视,https://vip.taoiptv.cn/source/itv.php?id=云南卫视.m3u8&sign=uzrdto
+浙江卫视,https://vip.taoiptv.cn/source/itv.php?id=浙江卫视50FPS.m3u8&sign=uzrdto
+浙江卫视,https://vip.taoiptv.cn/source/itv.php?id=浙江卫视.m3u8&sign=uzrdto
+浙江卫视,https://vip.taoiptv.cn/source/itv.php?id=浙江卫视HEVC.m3u8&sign=uzrdto
+重庆卫视,https://vip.taoiptv.cn/source/itv.php?id=重庆卫视.m3u8&sign=uzrdto
+重庆卫视,https://vip.taoiptv.cn/source/itv.php?id=重庆卫视HEVC.m3u8&sign=uzrdto
+北京纪实科教,https://vip.taoiptv.cn/source/itv.php?id=北京纪实科教.m3u8&sign=uzrdto
+北京纪实科教,https://vip.taoiptv.cn/source/itv.php?id=北京纪实科教HEVC.m3u8&sign=uzrdto
+北京卡酷少儿,https://vip.taoiptv.cn/source/itv.php?id=北京卡酷少儿.m3u8&sign=uzrdto
+湖南金鹰纪实,https://vip.taoiptv.cn/source/itv.php?id=湖南金鹰纪实.m3u8&sign=uzrdto
+湖南快乐垂钓,https://vip.taoiptv.cn/source/itv.php?id=湖南快乐垂钓.m3u8&sign=uzrdto
+湖南茶频道,https://vip.taoiptv.cn/source/itv.php?id=湖南茶频道.m3u8&sign=uzrdto
+上海ICS外语,https://vip.taoiptv.cn/source/itv.php?id=上海ICS外语.m3u8&sign=uzrdto
+上海第一财经,https://vip.taoiptv.cn/source/itv.php?id=上海第一财经.m3u8&sign=uzrdto
+上海东方财经,https://vip.taoiptv.cn/source/itv.php?id=上海东方财经.m3u8&sign=uzrdto
+上海东方影视,https://vip.taoiptv.cn/source/itv.php?id=上海东方影视.m3u8&sign=uzrdto
+上海都市,https://vip.taoiptv.cn/source/itv.php?id=上海都市.m3u8&sign=uzrdto
+上海法治天地,https://vip.taoiptv.cn/source/itv.php?id=上海法治天地.m3u8&sign=uzrdto
+上海哈哈炫动,https://vip.taoiptv.cn/source/itv.php?id=上海哈哈炫动.m3u8&sign=uzrdto
+上海纪实人文,https://vip.taoiptv.cn/source/itv.php?id=上海纪实人文50FPS.m3u8&sign=uzrdto
+上海纪实人文,https://vip.taoiptv.cn/source/itv.php?id=上海纪实人文HEVC.m3u8&sign=uzrdto
+上海五星体育,https://vip.taoiptv.cn/source/itv.php?id=上海五星体育.m3u8&sign=uzrdto
+上海新闻综合,https://vip.taoiptv.cn/source/itv.php?id=上海新闻综合.m3u8&sign=uzrdto
+凤凰资讯,https://vip.taoiptv.cn/source/fhx.php?id=fhzx.flv&sign=uzrdto
+凤凰中文,https://vip.taoiptv.cn/source/fhx.php?id=fhzx.flv&sign=uzrdto
+凤凰香港,https://vip.taoiptv.cn/source/fhx.php?id=fhzx.flv&sign=uzrdto
+NewTV精品综合,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品综合.m3u8&sign=uzrdto
+NewTV精品大剧,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品大剧.m3u8&sign=uzrdto
+NewTV精品纪录,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品纪录.m3u8&sign=uzrdto
+NewTV精品体育,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品体育.m3u8&sign=uzrdto
+NewTV精品萌宠,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品萌宠.m3u8&sign=uzrdto
+NewTV爱情喜剧,https://vip.taoiptv.cn/source/itv.php?id=NewTV爱情喜剧.m3u8&sign=uzrdto
+NewTV超级电视剧,https://vip.taoiptv.cn/source/itv.php?id=NewTV超级电视剧.m3u8&sign=uzrdto
+NewTV超级电影,https://vip.taoiptv.cn/source/itv.php?id=NewTV超级电影.m3u8&sign=uzrdto
+NewTV超级体育,https://vip.taoiptv.cn/source/itv.php?id=NewTV超级体育.m3u8&sign=uzrdto
+NewTV超级综艺,https://vip.taoiptv.cn/source/itv.php?id=NewTV超级综艺.m3u8&sign=uzrdto
+NewTV潮妈辣婆,https://vip.taoiptv.cn/source/itv.php?id=NewTV潮妈辣婆.m3u8&sign=uzrdto
+NewTV东北热剧,https://vip.taoiptv.cn/source/itv.php?id=NewTV东北热剧.m3u8&sign=uzrdto
+NewTV动作电影,https://vip.taoiptv.cn/source/itv.php?id=NewTV动作电影.m3u8&sign=uzrdto
+NewTV古装剧场,https://vip.taoiptv.cn/source/itv.php?id=NewTV古装剧场.m3u8&sign=uzrdto
+NewTV欢乐剧场,https://vip.taoiptv.cn/source/itv.php?id=NewTV欢乐剧场.m3u8&sign=uzrdto
+NewTV家庭剧场,https://vip.taoiptv.cn/source/itv.php?id=NewTV家庭剧场.m3u8&sign=uzrdto
+NewTV金牌综艺,https://vip.taoiptv.cn/source/itv.php?id=NewTV金牌综艺.m3u8&sign=uzrdto
+NewTV惊悚悬疑,https://vip.taoiptv.cn/source/itv.php?id=NewTV惊悚悬疑.m3u8&sign=uzrdto
+NewTV军旅剧场,https://vip.taoiptv.cn/source/itv.php?id=NewTV军旅剧场.m3u8&sign=uzrdto
+NewTV军事评论,https://vip.taoiptv.cn/source/itv.php?id=NewTV军事评论.m3u8&sign=uzrdto
+NewTV魅力潇湘,https://vip.taoiptv.cn/source/itv.php?id=NewTV魅力潇湘.m3u8&sign=uzrdto
+NewTV明星大片,https://vip.taoiptv.cn/source/itv.php?id=NewTV明星大片.m3u8&sign=uzrdto
+NewTV农业致富,https://vip.taoiptv.cn/source/itv.php?id=NewTV农业致富.m3u8&sign=uzrdto
+NewTV武博世界,https://vip.taoiptv.cn/source/itv.php?id=NewTV武博世界.m3u8&sign=uzrdto
+NewTV炫舞未来,https://vip.taoiptv.cn/source/itv.php?id=NewTV炫舞未来.m3u8&sign=uzrdto
+NewTV怡伴健康,https://vip.taoiptv.cn/source/itv.php?id=NewTV怡伴健康.m3u8&sign=uzrdto
+NewTV中国功夫,https://vip.taoiptv.cn/source/itv.php?id=NewTV中国功夫.m3u8&sign=uzrdto
+NewTV黑莓电影,https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓电影.m3u8&sign=uzrdto
+NewTV黑莓动画,https://vip.taoiptv.cn/source/itv.php?id=NewTV黑莓动画.m3u8&sign=uzrdto
+NewTV哒啵电竞,https://vip.taoiptv.cn/source/itv.php?id=NewTV哒啵电竞.m3u8&sign=uzrdto
+NewTV哒啵赛事,https://vip.taoiptv.cn/source/itv.php?id=NewTV哒啵赛事.m3u8&sign=uzrdto
+SiTV动漫秀场,https://vip.taoiptv.cn/source/itv.php?id=SiTV动漫秀场.m3u8&sign=uzrdto
+SiTV都市剧场,https://vip.taoiptv.cn/source/itv.php?id=SiTV都市剧场.m3u8&sign=uzrdto
+SiTV法治天地,https://vip.taoiptv.cn/source/itv.php?id=SiTV法治天地.m3u8&sign=uzrdto
+SiTV欢笑剧场,https://vip.taoiptv.cn/source/itv.php?id=SiTV欢笑剧场.m3u8&sign=uzrdto
+SiTV欢笑剧场,https://vip.taoiptv.cn/source/itv.php?id=SiTV欢笑剧场-4K.m3u8&sign=uzrdto
+SiTV金色学堂,https://vip.taoiptv.cn/source/itv.php?id=SiTV金色学堂.m3u8&sign=uzrdto
+SiTV劲爆体育,https://vip.taoiptv.cn/source/itv.php?id=SiTV劲爆体育.m3u8&sign=uzrdto
+SiTV乐游,https://vip.taoiptv.cn/source/itv.php?id=SiTV乐游.m3u8&sign=uzrdto
+SiTV魅力足球,https://vip.taoiptv.cn/source/itv.php?id=SiTV魅力足球.m3u8&sign=uzrdto
+SiTV七彩戏剧,https://vip.taoiptv.cn/source/itv.php?id=SiTV七彩戏剧.m3u8&sign=uzrdto
+SiTV生活时尚,https://vip.taoiptv.cn/source/itv.php?id=SiTV生活时尚.m3u8&sign=uzrdto
+SiTV游戏风云,https://vip.taoiptv.cn/source/itv.php?id=SiTV游戏风云.m3u8&sign=uzrdto
+iHOT爱电竞,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱电竞.m3u8&sign=uzrdto
+iHOT爱谍战,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱谍战.m3u8&sign=uzrdto
+iHOT爱动漫,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱动漫.m3u8&sign=uzrdto
+iHOT爱都市,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱都市.m3u8&sign=uzrdto
+iHOT爱怀旧,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱怀旧.m3u8&sign=uzrdto
+iHOT爱经典,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱经典.m3u8&sign=uzrdto
+iHOT爱科幻,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱科幻.m3u8&sign=uzrdto
+iHOT爱科学,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱科学.m3u8&sign=uzrdto
+iHOT爱浪漫,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱浪漫.m3u8&sign=uzrdto
+iHOT爱历史,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱历史.m3u8&sign=uzrdto
+iHOT爱旅行,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱旅行.m3u8&sign=uzrdto
+iHOT爱奇谈,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱奇谈.m3u8&sign=uzrdto
+iHOT爱青春,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱青春.m3u8&sign=uzrdto
+iHOT爱赛车,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱赛车.m3u8&sign=uzrdto
+iHOT爱体育,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱体育.m3u8&sign=uzrdto
+iHOT爱玩具,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱玩具.m3u8&sign=uzrdto
+iHOT爱喜剧,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱喜剧.m3u8&sign=uzrdto
+iHOT爱悬疑,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱悬疑.m3u8&sign=uzrdto
+iHOT爱幼教,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱幼教.m3u8&sign=uzrdto
+iHOT爱院线,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱院线.m3u8&sign=uzrdto
+华数4K,https://vip.taoiptv.cn/source/itv.php?id=华数4K.m3u8&sign=uzrdto
+纯享4K,https://vip.taoiptv.cn/source/itv.php?id=纯享4K.m3u8&sign=uzrdto
+咪咕4K1,https://vip.taoiptv.cn/source/itv.php?id=咪咕4K1.m3u8&sign=uzrdto
+咪咕4K2,https://vip.taoiptv.cn/source/itv.php?id=咪咕4K2.m3u8&sign=uzrdto
+晴彩青少,https://vip.taoiptv.cn/source/itv.php?id=咪咕全民热练.m3u8&sign=uzrdto
+求索动物,https://vip.taoiptv.cn/source/itv.php?id=求索动物.m3u8&sign=uzrdto
+求索纪录,https://vip.taoiptv.cn/source/itv.php?id=求索纪录.m3u8&sign=uzrdto
+求索科学,https://vip.taoiptv.cn/source/itv.php?id=求索科学.m3u8&sign=uzrdto
+求索生活,https://vip.taoiptv.cn/source/itv.php?id=求索生活.m3u8&sign=uzrdto
+贵州有线,#genre#
+中央电视台一套,https://vip.taoiptv.cn/source/gzyx.php?id=ca1f525f17a2eddd9c98fbe17997d9df.m3u8&sign=uzrdto
+中央电视台第二套节目,https://vip.taoiptv.cn/source/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398.m3u8&sign=uzrdto
+中央电视台3套节目,https://vip.taoiptv.cn/source/gzyx.php?id=9c19c05ea31400b3c85598e71b2c39cf.m3u8&sign=uzrdto
+中央电视台4套节目,https://vip.taoiptv.cn/source/gzyx.php?id=0ad5b86534e39cb9a77b00a76ac9fe12.m3u8&sign=uzrdto
+中央电视台5套节目,https://vip.taoiptv.cn/source/gzyx.php?id=4f8e268f178c3b0d2cf82c2997b0346b.m3u8&sign=uzrdto
+CCTV5+,https://vip.taoiptv.cn/source/gzyx.php?id=33cf15c8ece66fe3c41d2e4ec707ef59.m3u8&sign=uzrdto
+中央电视台第六频道,https://vip.taoiptv.cn/source/gzyx.php?id=f590aa425023d9a327fa1b69678f51e7.m3u8&sign=uzrdto
+中央电视台7套节目,https://vip.taoiptv.cn/source/gzyx.php?id=3fa4584c5de70fde94692563299e998c.m3u8&sign=uzrdto
+中央电视台8套节目,https://vip.taoiptv.cn/source/gzyx.php?id=b755332610506fe4746830b72438ae86.m3u8&sign=uzrdto
+中央电视台9套节目,https://vip.taoiptv.cn/source/gzyx.php?id=0f8ce350b1250e8e50f4d1b10042b1c5.m3u8&sign=uzrdto
+中央电视台10套节目,https://vip.taoiptv.cn/source/gzyx.php?id=a1a56acc29d03965227b40ff665e2377.m3u8&sign=uzrdto
+CCTV11,https://vip.taoiptv.cn/source/gzyx.php?id=f73d2482318583c3ba7513b4e21d4a48.m3u8&sign=uzrdto
+中央电视台12套节目,https://vip.taoiptv.cn/source/gzyx.php?id=113eb2f0bd0ca6cf1779140bd1bb525f.m3u8&sign=uzrdto
+CCTV13频道,https://vip.taoiptv.cn/source/gzyx.php?id=9bd0e0cf065e0ea9f5adfb9f0bad355e.m3u8&sign=uzrdto
+CCTV14,https://vip.taoiptv.cn/source/gzyx.php?id=9a8a29dbf54f51d4502ae2cbf87272b4.m3u8&sign=uzrdto
+CCTV15,https://vip.taoiptv.cn/source/gzyx.php?id=3f7ce58607980e4a75c3d065ef4e33d3.m3u8&sign=uzrdto
+中央电视台16套,https://vip.taoiptv.cn/source/gzyx.php?id=d521eba18ca2907befce170828004cbe.m3u8&sign=uzrdto
+CCTV高夫网球,https://vip.taoiptv.cn/source/gzyx.php?id=739c8947f3ae1fff32001ea966c2fb0d.m3u8&sign=uzrdto
+闭路电视兵器科技,https://vip.taoiptv.cn/source/gzyx.php?id=a0e5ccb15677fd5ecb6bfe15eeae94aa.m3u8&sign=uzrdto
+央视风云音乐,https://vip.taoiptv.cn/source/gzyx.php?id=55aa4e6799e5cf2e016d25ea298df515.m3u8&sign=uzrdto
+央视怀旧剧场,https://vip.taoiptv.cn/source/gzyx.php?id=7a2b1c83b212fa4e2a68ce0c1c25c9f0.m3u8&sign=uzrdto
+CCTV风云剧场,https://vip.taoiptv.cn/source/gzyx.php?id=28b3dfac03626525db867cfe5efa6c08.m3u8&sign=uzrdto
+央视风云足球,https://vip.taoiptv.cn/source/gzyx.php?id=9a4447cf2f6ad5e48a273929e3e12d79.m3u8&sign=uzrdto
+央视直播第一部，https://vip.taoiptv.cn/source/gzyx.php?id=155774022270441e808f7fe34a461113.m3u8&sign=uzrdto
+央视央视台球，https://vip.taoiptv.cn/source/gzyx.php?id=db5ba3a40c2d5867978cc2db30f662a9.m3u8&sign=uzrdto
+CCTV世界地理，https://vip.taoiptv.cn/source/gzyx.php?id=6e407aeb2256f118cbc7500efb69ea37.m3u8&sign=uzrdto
+央视文化精品,https://vip.taoiptv.cn/source/gzyx.php?id=df2c3d5ea40de75807e926c8764da0d0.m3u8&sign=uzrdto
+央视卫生健康，https://vip.taoiptv.cn/source/gzyx.php?id=d123a2c9a596930753a983f982e3e6fd.m3u8&sign=uzrdto
+贵州卫视,https://vip.taoiptv.cn/source/gzyx.php?id=9245676006cb79b03798b89fa05576b1.m3u8&sign=uzrdto
+浙江卫视,https://vip.taoiptv.cn/source/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69.m3u8&sign=uzrdto
+北京卫视,https://vip.taoiptv.cn/source/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52.m3u8&sign=uzrdto
+江苏卫视,https://vip.taoiptv.cn/source/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24.m3u8&sign=uzrdto
+山东卫视,https://vip.taoiptv.cn/source/gzyx.php?id=1db177c7492ad2769a93e3746f25f701.m3u8&sign=uzrdto
+重庆卫视,https://vip.taoiptv.cn/source/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9.m3u8&sign=uzrdto
+安徽卫视,https://vip.taoiptv.cn/source/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c.m3u8&sign=uzrdto
+黑龙江卫视,https://vip.taoiptv.cn/source/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e.m3u8&sign=uzrdto
+辽宁卫视,https://vip.taoiptv.cn/source/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56.m3u8&sign=uzrdto
+吉林卫视,https://vip.taoiptv.cn/source/gzyx.php?id=27975dec3d5bb0158291c75402d4a691.m3u8&sign=uzrdto
+天津卫视,https://vip.taoiptv.cn/source/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683.m3u8&sign=uzrdto
+湖北卫视,https://vip.taoiptv.cn/source/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca.m3u8&sign=uzrdto
+江西卫视,https://vip.taoiptv.cn/source/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19.m3u8&sign=uzrdto
+广西卫视,https://vip.taoiptv.cn/source/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a.m3u8&sign=uzrdto
+湖南卫视,https://vip.taoiptv.cn/source/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083.m3u8&sign=uzrdto
+四川卫视,https://vip.taoiptv.cn/source/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca.m3u8&sign=uzrdto
+广东卫视,https://vip.taoiptv.cn/source/gzyx.php?id=02f45209e8dab92899920d74157fe58b.m3u8&sign=uzrdto
+家庭影院,https://vip.taoiptv.cn/source/gzyx.php?id=548e8018101d7fa134d91615728a5a93.m3u8&sign=uzrdto
+动作电影,https://vip.taoiptv.cn/source/gzyx.php?id=30b1cc920430d3264e4b053d78bacabf.m3u8&sign=uzrdto
+重温经典,https://vip.taoiptv.cn/source/gzyx.php?id=4c9fa17591dfd8dd736c80e87d6dc72b.m3u8&sign=uzrdto
+BRTV纪实，https://vip.taoiptv.cn/source/gzyx.php?id=cd86f0e450bb6d8d27b199247a292713.m3u8&sign=uzrdto
+贵阳3,https://vip.taoiptv.cn/source/gzyx.php?id=2e66ca5402d6a9c466427d1e4daf3286.m3u8&sign=uzrdto
+贵州3,https://vip.taoiptv.cn/source/gzyx.php?id=5d2efb4d7b1e5b3d4503e743e1e6d845.m3u8&sign=uzrdto
+贵州6,https://vip.taoiptv.cn/source/gzyx.php?id=9ca14da91c162549c4991704a3623168.m3u8&sign=uzrdto
+金色学堂,https://vip.taoiptv.cn/source/gzyx.php?id=9f6c9fc0d4db981b4a6da770e3e2a163.m3u8&sign=uzrdto
+道德天地,https://vip.taoiptv.cn/source/gzyx.php?id=581721a464fa6469a63c0781da576703.m3u8&sign=uzrdto
+动漫秀场，https://vip.taoiptv.cn/source/gzyx.php?id=57e09be91d8b2f208e407b5abfa23b05.m3u8&sign=uzrdto
+游戏风云,https://vip.taoiptv.cn/source/gzyx.php?id=2abb8a699d8073134830e425164d7f6d.m3u8&sign=uzrdto
+劲爆体育,https://vip.taoiptv.cn/source/gzyx.php?id=5502a25d87fb30c220433805c239d7df.m3u8&sign=uzrdto
+都市剧场,https://vip.taoiptv.cn/source/gzyx.php?id=45cd7a20f72e4333e9aaaa95884fd0b8.m3u8&sign=uzrdto
+快乐垂钓,https://vip.taoiptv.cn/source/gzyx.php?id=5dd1c17a5f5c3f8ff243a2a8b4adc712.m3u8&sign=uzrdto
+家有购物，https://vip.taoiptv.cn/source/gzyx.php?id=c485be2789affe1e8e37ae11088e3a63.m3u8&sign=uzrdto
+凤凰中文,https://vip.taoiptv.cn/source/gzyx.php?id=7eeb6c4285b0fcd7c9a265cf4d5bfac5.m3u8&sign=uzrdto
+凤凰中文,https://vip.taoiptv.cn/source/fhx.php?id=fhzx.flv&sign=uzrdto
+凤凰资讯，https://vip.taoiptv.cn/source/gzyx.php?id=4ea97af53693ae02392251697dbb52fd.m3u8&sign=uzrdto
+凤凰资讯，https://vip.taoiptv.cn/source/fhx.php?id=fhzx.flv&sign=uzrdto
+凤凰香港,https://vip.taoiptv.cn/source/fhx.php?id=fhzx.flv&sign=uzrdto
+江苏移动,#genre#
+CCTV-1,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-1-HD-265-5M.m3u8&sign=uzrdto
+CCTV-1,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-1-AVS-4K264.m3u8&sign=uzrdto
+CCTV-2,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=uzrdto
+CCTV-3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-3-HD-265-8M.m3u8&sign=uzrdto
+CCTV-3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-3-AVS-4K264.m3u8&sign=uzrdto
+CCTV-4,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4-HD-265-8M.m3u8&sign=uzrdto
+CCTV4K,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4K-HD.m3u8&sign=uzrdto
+CCTV-5,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5-HD-265-5M.m3u8&sign=uzrdto
+CCTV-5,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5-AVS-4K264.m3u8&sign=uzrdto
+CCTV-5+,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5PLUS-HD-265-5M.m3u8&sign=uzrdto
+CCTV-6,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-6-HD-265-8M.m3u8&sign=uzrdto
+CCTV-6,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-6-AVS-4K264.m3u8&sign=uzrdto
+CCTV-7,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-7-HQ.m3u8&sign=uzrdto
+CCTV-8,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-8-HD-265-5M.m3u8&sign=uzrdto
+CCTV-8,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-8-AVS-4K264.m3u8&sign=uzrdto
+CCTV-9,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-9.m3u8&sign=uzrdto
+CCTV-10,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-10-HQ.m3u8&sign=uzrdto
+CCTV-11,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-11-HQ.m3u8&sign=uzrdto
+CCTV-12,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv12.m3u8&sign=uzrdto
+CCTV-13,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-13-HQ.m3u8&sign=uzrdto
+CCTV-14,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv14.m3u8&sign=uzrdto
+CCTV-15,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-15.m3u8&sign=uzrdto
+CCTV-16,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-16-CQ.m3u8&sign=uzrdto
+CCTV-17,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-17-HD.m3u8&sign=uzrdto
+CCTV-怀旧剧场,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUAIJIUJC-CQ.m3u8&sign=uzrdto
+CCTV-风云足球,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGSHANGZQ-CQ.m3u8&sign=uzrdto
+CCTV-风云音乐,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGYUNYY-CQ.m3u8&sign=uzrdto
+CCTV-风云剧场,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGYUNJC-CQ.m3u8&sign=uzrdto
+CCTV-央视台球,https://vip.taoiptv.cn/source/jsyd.php?id=G_TAIQIU-CQ.m3u8&sign=uzrdto
+CCTV-世界地理,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHIJIEDL-CQ.m3u8&sign=uzrdto
+CCTV-兵器科技,https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGQIKJ-CQ.m3u8&sign=uzrdto
+CCTV-女性时尚,https://vip.taoiptv.cn/source/jsyd.php?id=G_NVXINGSS-CQ.m3u8&sign=uzrdto
+CCTV-高尔网球,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-GOLF-CQ.m3u8&sign=uzrdto
+CCTV-央视文化,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-WENHUA-CQ.m3u8&sign=uzrdto
+CCTV-电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&sign=uzrdto
+CGTN,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-NEWS.m3u8&sign=uzrdto
+早期教育,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-ZQJY-CQ.m3u8&sign=uzrdto
+CETV-1,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-1.m3u8&sign=uzrdto
+CETV-2,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-2.m3u8&sign=uzrdto
+CETV-3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-3.m3u8&sign=uzrdto
+CETV-4,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-4.m3u8&sign=uzrdto
+江苏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_JIANGSU-HD-265-5M.m3u8&sign=uzrdto
+湖南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUNAN-HD-265-8M.m3u8&sign=uzrdto
+浙江卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_ZHEJIANG-HD-265-8M.m3u8&sign=uzrdto
+东方卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_DONGFANG-HD-265-8M.m3u8&sign=uzrdto
+北京卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_BEIJING-HD-265-8M.m3u8&sign=uzrdto
+安徽卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_ANHUI-HD-265-8M.m3u8&sign=uzrdto
+广东卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GUANGDONG-HQ.m3u8&sign=uzrdto
+黑龙江卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HEILONGJIANG-HQ.m3u8&sign=uzrdto
+湖北卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUBEI-HD-265-8M.m3u8&sign=uzrdto
+辽宁卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_LIAONING-HD-265-5M.m3u8&sign=uzrdto
+山东卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANDONG-HQ.m3u8&sign=uzrdto
+深圳卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHENZHEN-HQ.m3u8&sign=uzrdto
+天津卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_TIANJIN-HD-265-5M.m3u8&sign=uzrdto
+甘肃卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GANSU.m3u8&sign=uzrdto
+重庆卫视,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-chongqingstv.m3u8&sign=uzrdto
+广西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=GXWS.m3u8&sign=uzrdto
+贵州卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GUIZHOU.m3u8&sign=uzrdto
+海南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=LYWS.m3u8&sign=uzrdto
+河北卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HEBEI.m3u8&sign=uzrdto
+河南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=HENAN.m3u8&sign=uzrdto
+吉林卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_JILIN.m3u8&sign=uzrdto
+江西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=JXWS.m3u8&sign=uzrdto
+内蒙古卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_NEIMENGGU.m3u8&sign=uzrdto
+宁夏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_NINGXIA.m3u8&sign=uzrdto
+山西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=SXWS.m3u8&sign=uzrdto
+陕西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANXI.m3u8&sign=uzrdto
+四川卫视,https://vip.taoiptv.cn/source/jsyd.php?id=SCWS.m3u8&sign=uzrdto
+西藏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XIZANG.m3u8&sign=uzrdto
+新疆卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XINJIANG.m3u8&sign=uzrdto
+青海卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_QINGHAI.m3u8&sign=uzrdto
+厦门卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XIAMEN.m3u8&sign=uzrdto
+云南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_YUNNAN.m3u8&sign=uzrdto
+安多卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_ANDUO.m3u8&sign=uzrdto
+兵团卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGTUAN.m3u8&sign=uzrdto
+东南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=DNWS.m3u8&sign=uzrdto
+康巴卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_KANGBA.m3u8&sign=uzrdto
+农林卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_NONGLIN.m3u8&sign=uzrdto
+延边卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_YANBIAN.m3u8&sign=uzrdto
+凤凰资讯,https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhzixun5s.m3u8&sign=uzrdto
+凤凰中文,https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhchinese5s.m3u8&sign=uzrdto
+凤凰香港,https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhhongkong5s.m3u8&sign=uzrdto
+纯享4K,https://vip.taoiptv.cn/source/jsyd.php?id=HD-20M-2160P-chunxiang4k.m3u8&sign=uzrdto
+第一剧场,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIYIJC-CQ.m3u8&sign=uzrdto
+欢笑剧场4K,https://vip.taoiptv.cn/source/jsyd.php?id=HD-15M-2160P-jshuanxiaojc.m3u8&sign=uzrdto
+黑莓电影,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-Supermovie.m3u8&sign=uzrdto
+影视剧场,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-1.m3u8&sign=uzrdto
+第一院线,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-2.m3u8&sign=uzrdto
+高分电影,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-14.m3u8&sign=uzrdto
+美食美味,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-17.m3u8&sign=uzrdto
+动物世界,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-19.m3u8&sign=uzrdto
+奥特曼,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-9.m3u8&sign=uzrdto
+熊出没,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-10.m3u8&sign=uzrdto
+汪汪队,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-13.m3u8&sign=uzrdto
+超级飞侠,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-11.m3u8&sign=uzrdto
+小猪佩奇,https://vip.taoiptv.cn/source/jsyd.php?id=GITV-JS-12.m3u8&sign=uzrdto
+金鹰卡通,https://vip.taoiptv.cn/source/jsyd.php?id=G_JINYING.m3u8&sign=uzrdto
+炫动卡通,https://vip.taoiptv.cn/source/jsyd.php?id=G_XUANDONG.m3u8&sign=uzrdto
+嘉佳卡通,https://vip.taoiptv.cn/source/jsyd.php?id=G_JIAJIA.m3u8&sign=uzrdto
+优漫卡通,https://vip.taoiptv.cn/source/jsyd.php?id=G_YOUMAN.m3u8&sign=uzrdto
+卡酷少儿,https://vip.taoiptv.cn/source/jsyd.php?id=G_KAKU.m3u8&sign=uzrdto
+篮球,https://vip.taoiptv.cn/source/jsyd.php?id=G_LANQIU.m3u8&sign=uzrdto
+老故事,https://vip.taoiptv.cn/source/jsyd.php?id=G_LAOGUSHI.m3u8&sign=uzrdto
+发现之旅,https://vip.taoiptv.cn/source/jsyd.php?id=G_FAXIANZL.m3u8&sign=uzrdto
+家庭理财,https://vip.taoiptv.cn/source/jsyd.php?id=G_JIATINGLC.m3u8&sign=uzrdto
+炫舞未来,https://vip.taoiptv.cn/source/jsyd.php?id=HD-4000k-1080P-xwwl.m3u8&sign=uzrdto
+睛彩篮球,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-miguaoyun1.m3u8&sign=uzrdto
+睛彩竞技,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-miguaoyun2.m3u8&sign=uzrdto
+睛彩青少,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-quanminrl.m3u8&sign=uzrdto
+北京纪实,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-beijingjishi.m3u8&sign=uzrdto
+上海纪实,https://vip.taoiptv.cn/source/jsyd.php?id=H265-5500k-1080P-shanghaijishi.m3u8&sign=uzrdto
+山东教育,https://vip.taoiptv.cn/source/jsyd.php?id=G_SDETV.m3u8&sign=uzrdto
+江苏城市,https://vip.taoiptv.cn/source/jsyd.php?id=G_JSCS.m3u8&sign=uzrdto
+江苏公共,https://vip.taoiptv.cn/source/jsyd.php?id=G_JSGG.m3u8&sign=uzrdto
+江苏教育,https://vip.taoiptv.cn/source/jsyd.php?id=G_JSJY.m3u8&sign=uzrdto
+江苏体育,https://vip.taoiptv.cn/source/jsyd.php?id=G_JSTY.m3u8&sign=uzrdto
+江苏影视,https://vip.taoiptv.cn/source/jsyd.php?id=G_JSYS.m3u8&sign=uzrdto
+江苏综艺,https://vip.taoiptv.cn/source/jsyd.php?id=G_JSZY.m3u8&sign=uzrdto
+南京新闻,https://vip.taoiptv.cn/source/jsyd.php?id=G_NJXW.m3u8&sign=uzrdto
+南京影视,https://vip.taoiptv.cn/source/jsyd.php?id=G_NJYS.m3u8&sign=uzrdto
+南京少儿,https://vip.taoiptv.cn/source/jsyd.php?id=G_NJSE.m3u8&sign=uzrdto
+南京生活,https://vip.taoiptv.cn/source/jsyd.php?id=G_NJSH.m3u8&sign=uzrdto
+南京信息,https://vip.taoiptv.cn/source/jsyd.php?id=G_NJXX.m3u8&sign=uzrdto
+南京娱乐,https://vip.taoiptv.cn/source/jsyd.php?id=G_NJYL.m3u8&sign=uzrdto
+南京教科,https://vip.taoiptv.cn/source/jsyd.php?id=G_NJJK.m3u8&sign=uzrdto
+南京十八,https://vip.taoiptv.cn/source/jsyd.php?id=G_NJSB.m3u8&sign=uzrdto
+徐州新闻,https://vip.taoiptv.cn/source/jsyd.php?id=xzxwzh.m3u8&sign=uzrdto
+徐州经济,https://vip.taoiptv.cn/source/jsyd.php?id=xzjjsh.m3u8&sign=uzrdto
+徐州影视,https://vip.taoiptv.cn/source/jsyd.php?id=xzwyys.m3u8&sign=uzrdto
+徐州公共,https://vip.taoiptv.cn/source/jsyd.php?id=xzgg.m3u8&sign=uzrdto
+徐州新沂,https://vip.taoiptv.cn/source/jsyd.php?id=G_XZXYTV-3.m3u8&sign=uzrdto
+沛县新闻,https://vip.taoiptv.cn/source/jsyd.php?id=xzpxxwzh.m3u8&sign=uzrdto
+沛县综艺,https://vip.taoiptv.cn/source/jsyd.php?id=xzpxzy.m3u8&sign=uzrdto
+沛县生活,https://vip.taoiptv.cn/source/jsyd.php?id=xzpxsh.m3u8&sign=uzrdto
+泰州一套,https://vip.taoiptv.cn/source/jsyd.php?id=G_TAIZHOUTV-1.m3u8&sign=uzrdto
+泰州二套,https://vip.taoiptv.cn/source/jsyd.php?id=G_TAIZHOUTV-2.m3u8&sign=uzrdto
+泰州三套,https://vip.taoiptv.cn/source/jsyd.php?id=G_TAIZHOUTV-3.m3u8&sign=uzrdto
+连云港新闻,https://vip.taoiptv.cn/source/jsyd.php?id=jslygxinwenzh.m3u8&sign=uzrdto
+连云港公共,https://vip.taoiptv.cn/source/jsyd.php?id=jslyggonggongpd.m3u8&sign=uzrdto
+东海新闻,https://vip.taoiptv.cn/source/jsyd.php?id=jsdonghaixinwen.m3u8&sign=uzrdto
+东海文娱,https://vip.taoiptv.cn/source/jsyd.php?id=jsdonghaiwenyu.m3u8&sign=uzrdto
+常州新闻,https://vip.taoiptv.cn/source/jsyd.php?id=jsczxinwen.m3u8&sign=uzrdto
+常州都市,https://vip.taoiptv.cn/source/jsyd.php?id=jsczdushi.m3u8&sign=uzrdto
+常州生活,https://vip.taoiptv.cn/source/jsyd.php?id=jsczshenghuo.m3u8&sign=uzrdto
+常州公共,https://vip.taoiptv.cn/source/jsyd.php?id=jsczgonggong.m3u8&sign=uzrdto
+睢宁综合,https://vip.taoiptv.cn/source/jsyd.php?id=xzsnzh.m3u8&sign=uzrdto
+睢宁资讯,https://vip.taoiptv.cn/source/jsyd.php?id=xzsnzx.m3u8&sign=uzrdto
+睢宁生活,https://vip.taoiptv.cn/source/jsyd.php?id=xzsnshjy.m3u8&sign=uzrdto
+睢宁三农,https://vip.taoiptv.cn/source/jsyd.php?id=xzsnsn.m3u8&sign=uzrdto
+南通一套,https://vip.taoiptv.cn/source/jsyd.php?id=jsntyitao.m3u8&sign=uzrdto
+南通二套,https://vip.taoiptv.cn/source/jsyd.php?id=jsntertao.m3u8&sign=uzrdto
+铜山一套,https://vip.taoiptv.cn/source/jsyd.php?id=G_TONGSHAN-1.m3u8&sign=uzrdto
+铜山二套,https://vip.taoiptv.cn/source/jsyd.php?id=G_TONGSHAN-2.m3u8&sign=uzrdto
+铜山三套,https://vip.taoiptv.cn/source/jsyd.php?id=G_TONGSHAN-3.m3u8&sign=uzrdto
+铜山四套,https://vip.taoiptv.cn/source/jsyd.php?id=G_TONGSHAN-4.m3u8&sign=uzrdto
+盐城一套,https://vip.taoiptv.cn/source/jsyd.php?id=G_YANCHENGTV-1.m3u8&sign=uzrdto
+盐城二套,https://vip.taoiptv.cn/source/jsyd.php?id=G_YANCHENGTV-2.m3u8&sign=uzrdto
+盐城三套,https://vip.taoiptv.cn/source/jsyd.php?id=G_YANCHENGTV-3.m3u8&sign=uzrdto
+公共崇川,https://vip.taoiptv.cn/source/jsyd.php?id=jsntsantao.m3u8&sign=uzrdto
+宝应新闻,https://vip.taoiptv.cn/source/jsyd.php?id=G_BAOYINGXW.m3u8&sign=uzrdto
+宝应生活,https://vip.taoiptv.cn/source/jsyd.php?id=G_BAOYINGSH.m3u8&sign=uzrdto
+江都频道,https://vip.taoiptv.cn/source/jsyd.php?id=G_YANGZHOUJD.m3u8&sign=uzrdto
+镇江一套,https://vip.taoiptv.cn/source/jsyd.php?id=G_ZHENJIANGTV-1.m3u8&sign=uzrdto
+镇江二套,https://vip.taoiptv.cn/source/jsyd.php?id=G_ZHENJIANGTV-2.m3u8&sign=uzrdto
+镇江三套,https://vip.taoiptv.cn/source/jsyd.php?id=G_ZHENJIANGTV-3.m3u8&sign=uzrdto
+宿迁综合,https://vip.taoiptv.cn/source/jsyd.php?id=G_SQZH.m3u8&sign=uzrdto
+宿迁公共,https://vip.taoiptv.cn/source/jsyd.php?id=G_SQGG.m3u8&sign=uzrdto
+邳州综合,https://vip.taoiptv.cn/source/jsyd.php?id=pzzonghe.m3u8&sign=uzrdto
+邳州综艺,https://vip.taoiptv.cn/source/jsyd.php?id=pzzongyi.m3u8&sign=uzrdto
+赣榆新闻,https://vip.taoiptv.cn/source/jsyd.php?id=HD-2500k-1080P-ganyutv.m3u8&sign=uzrdto
+江苏仪化,https://vip.taoiptv.cn/source/jsyd.php?id=HD-4000k-1080P-jsyihua.m3u8&sign=uzrdto
+好享购物,https://vip.taoiptv.cn/source/jsyd.php?id=G_HAOXIANG.m3u8&sign=uzrdto
+居家优选,https://vip.taoiptv.cn/source/jsyd.php?id=G_JUJIAYX.m3u8&sign=uzrdto
+优购物,https://vip.taoiptv.cn/source/jsyd.php?id=jsyougou.m3u8&sign=uzrdto
+时尚购物,https://vip.taoiptv.cn/source/jsyd.php?id=jsshishanggw.m3u8&sign=uzrdto
+江苏财经,https://vip.taoiptv.cn/source/jsyd.php?id=R_CAIJING.m3u8&sign=uzrdto
+江苏健康,https://vip.taoiptv.cn/source/jsyd.php?id=R_JIANKANG.m3u8&sign=uzrdto
+江苏文艺,https://vip.taoiptv.cn/source/jsyd.php?id=R_WENYI.m3u8&sign=uzrdto
+江苏音乐,https://vip.taoiptv.cn/source/jsyd.php?id=R_YINYUE.m3u8&sign=uzrdto
+流行音乐,https://vip.taoiptv.cn/source/jsyd.php?id=R_JINGDIANLX.m3u8&sign=uzrdto
+金陵之声,https://vip.taoiptv.cn/source/jsyd.php?id=R_997.m3u8&sign=uzrdto
+江苏交通,https://vip.taoiptv.cn/source/jsyd.php?id=R_JIAOTONG.m3u8&sign=uzrdto
+江苏新闻,https://vip.taoiptv.cn/source/jsyd.php?id=R_XINWEN.m3u8&sign=uzrdto
+江苏综合,https://vip.taoiptv.cn/source/jsyd.php?id=R_XINWENZH.m3u8&sign=uzrdto
+江苏故事,https://vip.taoiptv.cn/source/jsyd.php?id=R_GUSHI.m3u8&sign=uzrdto
+综合源,#genre#
+CCTV1,https://jump.taoiptv.cn/iptv1.php?id=100100&num=1&sign=40u1wu
+CCTV1,https://jump.taoiptv.cn/iptv2.php?id=100100&num=2&sign=40u1wu
+CCTV1,https://jump.taoiptv.cn/iptv3.php?id=100100&num=3&sign=40u1wu
+CCTV2,https://jump.taoiptv.cn/iptv1.php?id=100105&num=1&sign=40u1wu
+CCTV2,https://jump.taoiptv.cn/iptv2.php?id=100105&num=2&sign=40u1wu
+CCTV2,https://jump.taoiptv.cn/iptv3.php?id=100105&num=3&sign=40u1wu
+CCTV3,https://jump.taoiptv.cn/iptv1.php?id=100110&num=1&sign=40u1wu
+CCTV3,https://jump.taoiptv.cn/iptv2.php?id=100110&num=2&sign=40u1wu
+CCTV3,https://jump.taoiptv.cn/iptv3.php?id=100110&num=3&sign=40u1wu
+CCTV4,https://jump.taoiptv.cn/iptv1.php?id=100115&num=1&sign=40u1wu
+CCTV4,https://jump.taoiptv.cn/iptv2.php?id=100115&num=2&sign=40u1wu
+CCTV4,https://jump.taoiptv.cn/iptv3.php?id=100115&num=3&sign=40u1wu
+CCTV4欧洲,https://jump.taoiptv.cn/iptv1.php?id=100125&num=1&sign=40u1wu
+CCTV4欧洲,https://jump.taoiptv.cn/iptv2.php?id=100125&num=2&sign=40u1wu
+CCTV4欧洲,https://jump.taoiptv.cn/iptv3.php?id=100125&num=3&sign=40u1wu
+CCTV4美洲,https://jump.taoiptv.cn/iptv1.php?id=100130&num=1&sign=40u1wu
+CCTV4美洲,https://jump.taoiptv.cn/iptv2.php?id=100130&num=2&sign=40u1wu
+CCTV4美洲,https://jump.taoiptv.cn/iptv3.php?id=100130&num=3&sign=40u1wu
+CCTV5,https://jump.taoiptv.cn/iptv1.php?id=100135&num=1&sign=40u1wu
+CCTV5,https://jump.taoiptv.cn/iptv2.php?id=100135&num=2&sign=40u1wu
+CCTV5,https://jump.taoiptv.cn/iptv3.php?id=100135&num=3&sign=40u1wu
+CCTV5+,https://jump.taoiptv.cn/iptv1.php?id=100140&num=1&sign=40u1wu
+CCTV5+,https://jump.taoiptv.cn/iptv2.php?id=100140&num=2&sign=40u1wu
+CCTV5+,https://jump.taoiptv.cn/iptv3.php?id=100140&num=3&sign=40u1wu
+CCTV6,https://jump.taoiptv.cn/iptv1.php?id=100145&num=1&sign=40u1wu
+CCTV6,https://jump.taoiptv.cn/iptv2.php?id=100145&num=2&sign=40u1wu
+CCTV6,https://jump.taoiptv.cn/iptv3.php?id=100145&num=3&sign=40u1wu
+CCTV7,https://jump.taoiptv.cn/iptv1.php?id=100150&num=1&sign=40u1wu
+CCTV7,https://jump.taoiptv.cn/iptv2.php?id=100150&num=2&sign=40u1wu
+CCTV7,https://jump.taoiptv.cn/iptv3.php?id=100150&num=3&sign=40u1wu
+CCTV8,https://jump.taoiptv.cn/iptv1.php?id=100155&num=1&sign=40u1wu
+CCTV8,https://jump.taoiptv.cn/iptv2.php?id=100155&num=2&sign=40u1wu
+CCTV8,https://jump.taoiptv.cn/iptv3.php?id=100155&num=3&sign=40u1wu
+CCTV9,https://jump.taoiptv.cn/iptv1.php?id=100165&num=1&sign=40u1wu
+CCTV9,https://jump.taoiptv.cn/iptv2.php?id=100165&num=2&sign=40u1wu
+CCTV9,https://jump.taoiptv.cn/iptv3.php?id=100165&num=3&sign=40u1wu
+CCTV10,https://jump.taoiptv.cn/iptv1.php?id=100170&num=1&sign=40u1wu
+CCTV10,https://jump.taoiptv.cn/iptv2.php?id=100170&num=2&sign=40u1wu
+CCTV10,https://jump.taoiptv.cn/iptv3.php?id=100170&num=3&sign=40u1wu
+CCTV11,https://jump.taoiptv.cn/iptv1.php?id=100175&num=1&sign=40u1wu
+CCTV11,https://jump.taoiptv.cn/iptv2.php?id=100175&num=2&sign=40u1wu
+CCTV11,https://jump.taoiptv.cn/iptv3.php?id=100175&num=3&sign=40u1wu
+CCTV12,https://jump.taoiptv.cn/iptv1.php?id=100180&num=1&sign=40u1wu
+CCTV12,https://jump.taoiptv.cn/iptv2.php?id=100180&num=2&sign=40u1wu
+CCTV12,https://jump.taoiptv.cn/iptv3.php?id=100180&num=3&sign=40u1wu
+CCTV13,https://jump.taoiptv.cn/iptv1.php?id=100185&num=1&sign=40u1wu
+CCTV13,https://jump.taoiptv.cn/iptv2.php?id=100185&num=2&sign=40u1wu
+CCTV13,https://jump.taoiptv.cn/iptv3.php?id=100185&num=3&sign=40u1wu
+CCTV14,https://jump.taoiptv.cn/iptv1.php?id=100190&num=1&sign=40u1wu
+CCTV14,https://jump.taoiptv.cn/iptv2.php?id=100190&num=2&sign=40u1wu
+CCTV14,https://jump.taoiptv.cn/iptv3.php?id=100190&num=3&sign=40u1wu
+CCTV15,https://jump.taoiptv.cn/iptv1.php?id=100195&num=1&sign=40u1wu
+CCTV15,https://jump.taoiptv.cn/iptv2.php?id=100195&num=2&sign=40u1wu
+CCTV15,https://jump.taoiptv.cn/iptv3.php?id=100195&num=3&sign=40u1wu
+CCTV16,https://jump.taoiptv.cn/iptv1.php?id=100200&num=1&sign=40u1wu
+CCTV16,https://jump.taoiptv.cn/iptv2.php?id=100200&num=2&sign=40u1wu
+CCTV16,https://jump.taoiptv.cn/iptv3.php?id=100200&num=3&sign=40u1wu
+CCTV17,https://jump.taoiptv.cn/iptv1.php?id=100205&num=1&sign=40u1wu
+CCTV17,https://jump.taoiptv.cn/iptv2.php?id=100205&num=2&sign=40u1wu
+CCTV17,https://jump.taoiptv.cn/iptv3.php?id=100205&num=3&sign=40u1wu
+CCTV风云音乐,https://jump.taoiptv.cn/iptv1.php?id=100210&num=1&sign=40u1wu
+CCTV风云音乐,https://jump.taoiptv.cn/iptv2.php?id=100210&num=2&sign=40u1wu
+CCTV风云音乐,https://jump.taoiptv.cn/iptv3.php?id=100210&num=3&sign=40u1wu
+CCTV世界地理,https://jump.taoiptv.cn/iptv1.php?id=100215&num=1&sign=40u1wu
+CCTV世界地理,https://jump.taoiptv.cn/iptv2.php?id=100215&num=2&sign=40u1wu
+CCTV世界地理,https://jump.taoiptv.cn/iptv3.php?id=100215&num=3&sign=40u1wu
+CCTV第一剧场,https://jump.taoiptv.cn/iptv1.php?id=100220&num=1&sign=40u1wu
+CCTV第一剧场,https://jump.taoiptv.cn/iptv2.php?id=100220&num=2&sign=40u1wu
+CCTV第一剧场,https://jump.taoiptv.cn/iptv3.php?id=100220&num=3&sign=40u1wu
+CCTV风云剧场,https://jump.taoiptv.cn/iptv1.php?id=100225&num=1&sign=40u1wu
+CCTV风云剧场,https://jump.taoiptv.cn/iptv2.php?id=100225&num=2&sign=40u1wu
+CCTV风云剧场,https://jump.taoiptv.cn/iptv3.php?id=100225&num=3&sign=40u1wu
+CCTV央视精品,https://jump.taoiptv.cn/iptv1.php?id=100230&num=1&sign=40u1wu
+CCTV央视精品,https://jump.taoiptv.cn/iptv2.php?id=100230&num=2&sign=40u1wu
+CCTV央视精品,https://jump.taoiptv.cn/iptv3.php?id=100230&num=3&sign=40u1wu
+CCTV兵器科技,https://jump.taoiptv.cn/iptv1.php?id=100235&num=1&sign=40u1wu
+CCTV兵器科技,https://jump.taoiptv.cn/iptv2.php?id=100235&num=2&sign=40u1wu
+CCTV兵器科技,https://jump.taoiptv.cn/iptv3.php?id=100235&num=3&sign=40u1wu
+CCTV风云足球,https://jump.taoiptv.cn/iptv1.php?id=100240&num=1&sign=40u1wu
+CCTV风云足球,https://jump.taoiptv.cn/iptv2.php?id=100240&num=2&sign=40u1wu
+CCTV风云足球,https://jump.taoiptv.cn/iptv3.php?id=100240&num=3&sign=40u1wu
+CCTV高网频道,https://jump.taoiptv.cn/iptv1.php?id=100245&num=1&sign=40u1wu
+CCTV高网频道,https://jump.taoiptv.cn/iptv2.php?id=100245&num=2&sign=40u1wu
+CCTV高网频道,https://jump.taoiptv.cn/iptv3.php?id=100245&num=3&sign=40u1wu
+CCTV怀旧剧场,https://jump.taoiptv.cn/iptv1.php?id=100250&num=1&sign=40u1wu
+CCTV怀旧剧场,https://jump.taoiptv.cn/iptv2.php?id=100250&num=2&sign=40u1wu
+CCTV怀旧剧场,https://jump.taoiptv.cn/iptv3.php?id=100250&num=3&sign=40u1wu
+CCTV女性时尚,https://jump.taoiptv.cn/iptv1.php?id=100255&num=1&sign=40u1wu
+CCTV女性时尚,https://jump.taoiptv.cn/iptv2.php?id=100255&num=2&sign=40u1wu
+CCTV女性时尚,https://jump.taoiptv.cn/iptv3.php?id=100255&num=3&sign=40u1wu
+CCTV央视台球,https://jump.taoiptv.cn/iptv1.php?id=100260&num=1&sign=40u1wu
+CCTV央视台球,https://jump.taoiptv.cn/iptv2.php?id=100260&num=2&sign=40u1wu
+CCTV央视台球,https://jump.taoiptv.cn/iptv3.php?id=100260&num=3&sign=40u1wu
+CCTV电视指南,https://jump.taoiptv.cn/iptv1.php?id=100270&num=1&sign=40u1wu
+CCTV电视指南,https://jump.taoiptv.cn/iptv2.php?id=100270&num=2&sign=40u1wu
+CCTV电视指南,https://jump.taoiptv.cn/iptv3.php?id=100270&num=3&sign=40u1wu
+湖南卫视,https://jump.taoiptv.cn/iptv1.php?id=101100&num=1&sign=40u1wu
+湖南卫视,https://jump.taoiptv.cn/iptv2.php?id=101100&num=2&sign=40u1wu
+湖南卫视,https://jump.taoiptv.cn/iptv3.php?id=101100&num=3&sign=40u1wu
+浙江卫视,https://jump.taoiptv.cn/iptv1.php?id=101105&num=1&sign=40u1wu
+浙江卫视,https://jump.taoiptv.cn/iptv2.php?id=101105&num=2&sign=40u1wu
+浙江卫视,https://jump.taoiptv.cn/iptv3.php?id=101105&num=3&sign=40u1wu
+江苏卫视,https://jump.taoiptv.cn/iptv1.php?id=101110&num=1&sign=40u1wu
+江苏卫视,https://jump.taoiptv.cn/iptv2.php?id=101110&num=2&sign=40u1wu
+江苏卫视,https://jump.taoiptv.cn/iptv3.php?id=101110&num=3&sign=40u1wu
+北京卫视,https://jump.taoiptv.cn/iptv1.php?id=101115&num=1&sign=40u1wu
+北京卫视,https://jump.taoiptv.cn/iptv2.php?id=101115&num=2&sign=40u1wu
+北京卫视,https://jump.taoiptv.cn/iptv3.php?id=101115&num=3&sign=40u1wu
+东方卫视,https://jump.taoiptv.cn/iptv1.php?id=101120&num=1&sign=40u1wu
+东方卫视,https://jump.taoiptv.cn/iptv2.php?id=101120&num=2&sign=40u1wu
+东方卫视,https://jump.taoiptv.cn/iptv3.php?id=101120&num=3&sign=40u1wu
+安徽卫视,https://jump.taoiptv.cn/iptv1.php?id=101125&num=1&sign=40u1wu
+安徽卫视,https://jump.taoiptv.cn/iptv2.php?id=101125&num=2&sign=40u1wu
+安徽卫视,https://jump.taoiptv.cn/iptv3.php?id=101125&num=3&sign=40u1wu
+广东卫视,https://jump.taoiptv.cn/iptv1.php?id=101130&num=1&sign=40u1wu
+广东卫视,https://jump.taoiptv.cn/iptv2.php?id=101130&num=2&sign=40u1wu
+广东卫视,https://jump.taoiptv.cn/iptv3.php?id=101130&num=3&sign=40u1wu
+深圳卫视,https://jump.taoiptv.cn/iptv1.php?id=101135&num=1&sign=40u1wu
+深圳卫视,https://jump.taoiptv.cn/iptv2.php?id=101135&num=2&sign=40u1wu
+深圳卫视,https://jump.taoiptv.cn/iptv3.php?id=101135&num=3&sign=40u1wu
+辽宁卫视,https://jump.taoiptv.cn/iptv1.php?id=101140&num=1&sign=40u1wu
+辽宁卫视,https://jump.taoiptv.cn/iptv2.php?id=101140&num=2&sign=40u1wu
+辽宁卫视,https://jump.taoiptv.cn/iptv3.php?id=101140&num=3&sign=40u1wu
+海南卫视,https://jump.taoiptv.cn/iptv1.php?id=101145&num=1&sign=40u1wu
+海南卫视,https://jump.taoiptv.cn/iptv2.php?id=101145&num=2&sign=40u1wu
+海南卫视,https://jump.taoiptv.cn/iptv3.php?id=101145&num=3&sign=40u1wu
+山东卫视,https://jump.taoiptv.cn/iptv1.php?id=101150&num=1&sign=40u1wu
+山东卫视,https://jump.taoiptv.cn/iptv2.php?id=101150&num=2&sign=40u1wu
+山东卫视,https://jump.taoiptv.cn/iptv3.php?id=101150&num=3&sign=40u1wu
+天津卫视,https://jump.taoiptv.cn/iptv1.php?id=101155&num=1&sign=40u1wu
+天津卫视,https://jump.taoiptv.cn/iptv2.php?id=101155&num=2&sign=40u1wu
+天津卫视,https://jump.taoiptv.cn/iptv3.php?id=101155&num=3&sign=40u1wu
+重庆卫视,https://jump.taoiptv.cn/iptv1.php?id=101160&num=1&sign=40u1wu
+重庆卫视,https://jump.taoiptv.cn/iptv2.php?id=101160&num=2&sign=40u1wu
+重庆卫视,https://jump.taoiptv.cn/iptv3.php?id=101160&num=3&sign=40u1wu
+东南卫视,https://jump.taoiptv.cn/iptv1.php?id=101165&num=1&sign=40u1wu
+东南卫视,https://jump.taoiptv.cn/iptv2.php?id=101165&num=2&sign=40u1wu
+东南卫视,https://jump.taoiptv.cn/iptv3.php?id=101165&num=3&sign=40u1wu
+甘肃卫视,https://jump.taoiptv.cn/iptv1.php?id=101170&num=1&sign=40u1wu
+甘肃卫视,https://jump.taoiptv.cn/iptv2.php?id=101170&num=2&sign=40u1wu
+甘肃卫视,https://jump.taoiptv.cn/iptv3.php?id=101170&num=3&sign=40u1wu
+广西卫视,https://jump.taoiptv.cn/iptv1.php?id=101175&num=1&sign=40u1wu
+广西卫视,https://jump.taoiptv.cn/iptv2.php?id=101175&num=2&sign=40u1wu
+广西卫视,https://jump.taoiptv.cn/iptv3.php?id=101175&num=3&sign=40u1wu
+贵州卫视,https://jump.taoiptv.cn/iptv1.php?id=101180&num=1&sign=40u1wu
+贵州卫视,https://jump.taoiptv.cn/iptv2.php?id=101180&num=2&sign=40u1wu
+贵州卫视,https://jump.taoiptv.cn/iptv3.php?id=101180&num=3&sign=40u1wu
+河北卫视,https://jump.taoiptv.cn/iptv1.php?id=101185&num=1&sign=40u1wu
+河北卫视,https://jump.taoiptv.cn/iptv2.php?id=101185&num=2&sign=40u1wu
+河北卫视,https://jump.taoiptv.cn/iptv3.php?id=101185&num=3&sign=40u1wu
+黑龙江卫视,https://jump.taoiptv.cn/iptv1.php?id=101190&num=1&sign=40u1wu
+黑龙江卫视,https://jump.taoiptv.cn/iptv2.php?id=101190&num=2&sign=40u1wu
+黑龙江卫视,https://jump.taoiptv.cn/iptv3.php?id=101190&num=3&sign=40u1wu
+河南卫视,https://jump.taoiptv.cn/iptv1.php?id=101195&num=1&sign=40u1wu
+河南卫视,https://jump.taoiptv.cn/iptv2.php?id=101195&num=2&sign=40u1wu
+河南卫视,https://jump.taoiptv.cn/iptv3.php?id=101195&num=3&sign=40u1wu
+湖北卫视,https://jump.taoiptv.cn/iptv1.php?id=101200&num=1&sign=40u1wu
+湖北卫视,https://jump.taoiptv.cn/iptv2.php?id=101200&num=2&sign=40u1wu
+湖北卫视,https://jump.taoiptv.cn/iptv3.php?id=101200&num=3&sign=40u1wu
+江西卫视,https://jump.taoiptv.cn/iptv1.php?id=101205&num=1&sign=40u1wu
+江西卫视,https://jump.taoiptv.cn/iptv2.php?id=101205&num=2&sign=40u1wu
+江西卫视,https://jump.taoiptv.cn/iptv3.php?id=101205&num=3&sign=40u1wu
+吉林卫视,https://jump.taoiptv.cn/iptv1.php?id=101210&num=1&sign=40u1wu
+吉林卫视,https://jump.taoiptv.cn/iptv2.php?id=101210&num=2&sign=40u1wu
+吉林卫视,https://jump.taoiptv.cn/iptv3.php?id=101210&num=3&sign=40u1wu
+内蒙古卫视,https://jump.taoiptv.cn/iptv1.php?id=101215&num=1&sign=40u1wu
+内蒙古卫视,https://jump.taoiptv.cn/iptv2.php?id=101215&num=2&sign=40u1wu
+内蒙古卫视,https://jump.taoiptv.cn/iptv3.php?id=101215&num=3&sign=40u1wu
+山西卫视,https://jump.taoiptv.cn/iptv1.php?id=101225&num=1&sign=40u1wu
+山西卫视,https://jump.taoiptv.cn/iptv2.php?id=101225&num=2&sign=40u1wu
+山西卫视,https://jump.taoiptv.cn/iptv3.php?id=101225&num=3&sign=40u1wu
+陕西卫视,https://jump.taoiptv.cn/iptv1.php?id=101230&num=1&sign=40u1wu
+陕西卫视,https://jump.taoiptv.cn/iptv2.php?id=101230&num=2&sign=40u1wu
+陕西卫视,https://jump.taoiptv.cn/iptv3.php?id=101230&num=3&sign=40u1wu
+四川卫视,https://jump.taoiptv.cn/iptv1.php?id=101235&num=1&sign=40u1wu
+四川卫视,https://jump.taoiptv.cn/iptv2.php?id=101235&num=2&sign=40u1wu
+四川卫视,https://jump.taoiptv.cn/iptv3.php?id=101235&num=3&sign=40u1wu
+云南卫视,https://jump.taoiptv.cn/iptv1.php?id=101245&num=1&sign=40u1wu
+云南卫视,https://jump.taoiptv.cn/iptv2.php?id=101245&num=2&sign=40u1wu
+云南卫视,https://jump.taoiptv.cn/iptv3.php?id=101245&num=3&sign=40u1wu
+青海卫视,https://jump.taoiptv.cn/iptv1.php?id=101255&num=1&sign=40u1wu
+青海卫视,https://jump.taoiptv.cn/iptv2.php?id=101255&num=2&sign=40u1wu
+青海卫视,https://jump.taoiptv.cn/iptv3.php?id=101255&num=3&sign=40u1wu
+兵团卫视,https://jump.taoiptv.cn/iptv1.php?id=101265&num=1&sign=40u1wu
+兵团卫视,https://jump.taoiptv.cn/iptv2.php?id=101265&num=2&sign=40u1wu
+兵团卫视,https://jump.taoiptv.cn/iptv3.php?id=101265&num=3&sign=40u1wu
+康巴卫视,https://jump.taoiptv.cn/iptv1.php?id=101280&num=1&sign=40u1wu
+康巴卫视,https://jump.taoiptv.cn/iptv2.php?id=101280&num=2&sign=40u1wu
+康巴卫视,https://jump.taoiptv.cn/iptv3.php?id=101280&num=3&sign=40u1wu
+三沙卫视,https://jump.taoiptv.cn/iptv1.php?id=101285&num=1&sign=40u1wu
+三沙卫视,https://jump.taoiptv.cn/iptv2.php?id=101285&num=2&sign=40u1wu
+三沙卫视,https://jump.taoiptv.cn/iptv3.php?id=101285&num=3&sign=40u1wu
+大湾区卫视,https://jump.taoiptv.cn/iptv1.php?id=101290&num=1&sign=40u1wu
+大湾区卫视,https://jump.taoiptv.cn/iptv2.php?id=101290&num=2&sign=40u1wu
+大湾区卫视,https://jump.taoiptv.cn/iptv3.php?id=101290&num=3&sign=40u1wu
+卡酷动画,https://jump.taoiptv.cn/iptv1.php?id=101295&num=1&sign=40u1wu
+卡酷动画,https://jump.taoiptv.cn/iptv2.php?id=101295&num=2&sign=40u1wu
+卡酷动画,https://jump.taoiptv.cn/iptv3.php?id=101295&num=3&sign=40u1wu
+哈哈炫动,https://jump.taoiptv.cn/iptv1.php?id=101300&num=1&sign=40u1wu
+哈哈炫动,https://jump.taoiptv.cn/iptv2.php?id=101300&num=2&sign=40u1wu
+哈哈炫动,https://jump.taoiptv.cn/iptv3.php?id=101300&num=3&sign=40u1wu
+金鹰卡通,https://jump.taoiptv.cn/iptv1.php?id=101305&num=1&sign=40u1wu
+金鹰卡通,https://jump.taoiptv.cn/iptv2.php?id=101305&num=2&sign=40u1wu
+金鹰卡通,https://jump.taoiptv.cn/iptv3.php?id=101305&num=3&sign=40u1wu
+嘉佳卡通,https://jump.taoiptv.cn/iptv1.php?id=101310&num=1&sign=40u1wu
+嘉佳卡通,https://jump.taoiptv.cn/iptv2.php?id=101310&num=2&sign=40u1wu
+嘉佳卡通,https://jump.taoiptv.cn/iptv3.php?id=101310&num=3&sign=40u1wu
+优漫卡通,https://jump.taoiptv.cn/iptv1.php?id=101315&num=1&sign=40u1wu
+优漫卡通,https://jump.taoiptv.cn/iptv2.php?id=101315&num=2&sign=40u1wu
+优漫卡通,https://jump.taoiptv.cn/iptv3.php?id=101315&num=3&sign=40u1wu
+电竞天堂,https://jump.taoiptv.cn/iptv1.php?id=102100&num=1&sign=40u1wu
+电竞天堂,https://jump.taoiptv.cn/iptv2.php?id=102100&num=2&sign=40u1wu
+电竞天堂,https://jump.taoiptv.cn/iptv3.php?id=102100&num=3&sign=40u1wu
+梨园频道,https://jump.taoiptv.cn/iptv1.php?id=102110&num=1&sign=40u1wu
+梨园频道,https://jump.taoiptv.cn/iptv2.php?id=102110&num=2&sign=40u1wu
+梨园频道,https://jump.taoiptv.cn/iptv3.php?id=102110&num=3&sign=40u1wu
+生活时尚,https://jump.taoiptv.cn/iptv1.php?id=102115&num=1&sign=40u1wu
+生活时尚,https://jump.taoiptv.cn/iptv2.php?id=102115&num=2&sign=40u1wu
+生活时尚,https://jump.taoiptv.cn/iptv3.php?id=102115&num=3&sign=40u1wu
+国学频道,https://jump.taoiptv.cn/iptv1.php?id=102120&num=1&sign=40u1wu
+国学频道,https://jump.taoiptv.cn/iptv2.php?id=102120&num=2&sign=40u1wu
+国学频道,https://jump.taoiptv.cn/iptv3.php?id=102120&num=3&sign=40u1wu
+欢笑剧场,https://jump.taoiptv.cn/iptv1.php?id=102135&num=1&sign=40u1wu
+欢笑剧场,https://jump.taoiptv.cn/iptv2.php?id=102135&num=2&sign=40u1wu
+欢笑剧场,https://jump.taoiptv.cn/iptv3.php?id=102135&num=3&sign=40u1wu
+求索记录,https://jump.taoiptv.cn/iptv1.php?id=102150&num=1&sign=40u1wu
+求索记录,https://jump.taoiptv.cn/iptv2.php?id=102150&num=2&sign=40u1wu
+求索记录,https://jump.taoiptv.cn/iptv3.php?id=102150&num=3&sign=40u1wu
+天元围棋,https://jump.taoiptv.cn/iptv1.php?id=102180&num=1&sign=40u1wu
+天元围棋,https://jump.taoiptv.cn/iptv2.php?id=102180&num=2&sign=40u1wu
+天元围棋,https://jump.taoiptv.cn/iptv3.php?id=102180&num=3&sign=40u1wu
+茶频道,https://jump.taoiptv.cn/iptv1.php?id=102195&num=1&sign=40u1wu
+茶频道,https://jump.taoiptv.cn/iptv2.php?id=102195&num=2&sign=40u1wu
+茶频道,https://jump.taoiptv.cn/iptv3.php?id=102195&num=3&sign=40u1wu
+武术世界,https://jump.taoiptv.cn/iptv1.php?id=102200&num=1&sign=40u1wu
+武术世界,https://jump.taoiptv.cn/iptv2.php?id=102200&num=2&sign=40u1wu
+武术世界,https://jump.taoiptv.cn/iptv3.php?id=102200&num=3&sign=40u1wu
+文物宝库,https://jump.taoiptv.cn/iptv1.php?id=102215&num=1&sign=40u1wu
+文物宝库,https://jump.taoiptv.cn/iptv2.php?id=102215&num=2&sign=40u1wu
+文物宝库,https://jump.taoiptv.cn/iptv3.php?id=102215&num=3&sign=40u1wu
+快乐垂钓,https://jump.taoiptv.cn/iptv1.php?id=102235&num=1&sign=40u1wu
+快乐垂钓,https://jump.taoiptv.cn/iptv2.php?id=102235&num=2&sign=40u1wu
+快乐垂钓,https://jump.taoiptv.cn/iptv3.php?id=102235&num=3&sign=40u1wu
+车迷频道,https://jump.taoiptv.cn/iptv1.php?id=102250&num=1&sign=40u1wu
+车迷频道,https://jump.taoiptv.cn/iptv2.php?id=102250&num=2&sign=40u1wu
+车迷频道,https://jump.taoiptv.cn/iptv3.php?id=102250&num=3&sign=40u1wu
+游戏风云,https://jump.taoiptv.cn/iptv1.php?id=102330&num=1&sign=40u1wu
+游戏风云,https://jump.taoiptv.cn/iptv2.php?id=102330&num=2&sign=40u1wu
+游戏风云,https://jump.taoiptv.cn/iptv3.php?id=102330&num=3&sign=40u1wu
+家庭影院,https://jump.taoiptv.cn/iptv1.php?id=103100&num=1&sign=40u1wu
+家庭影院,https://jump.taoiptv.cn/iptv2.php?id=103100&num=2&sign=40u1wu
+家庭影院,https://jump.taoiptv.cn/iptv3.php?id=103100&num=3&sign=40u1wu
+动作电影,https://jump.taoiptv.cn/iptv1.php?id=103105&num=1&sign=40u1wu
+动作电影,https://jump.taoiptv.cn/iptv2.php?id=103105&num=2&sign=40u1wu
+动作电影,https://jump.taoiptv.cn/iptv3.php?id=103105&num=3&sign=40u1wu
+影迷电影,https://jump.taoiptv.cn/iptv1.php?id=103110&num=1&sign=40u1wu
+影迷电影,https://jump.taoiptv.cn/iptv2.php?id=103110&num=2&sign=40u1wu
+影迷电影,https://jump.taoiptv.cn/iptv3.php?id=103110&num=3&sign=40u1wu
+科幻电影,https://jump.taoiptv.cn/iptv1.php?id=103125&num=1&sign=40u1wu
+科幻电影,https://jump.taoiptv.cn/iptv2.php?id=103125&num=2&sign=40u1wu
+科幻电影,https://jump.taoiptv.cn/iptv3.php?id=103125&num=3&sign=40u1wu
+华语影院,https://jump.taoiptv.cn/iptv1.php?id=103135&num=1&sign=40u1wu
+华语影院,https://jump.taoiptv.cn/iptv2.php?id=103135&num=2&sign=40u1wu
+华语影院,https://jump.taoiptv.cn/iptv3.php?id=103135&num=3&sign=40u1wu
+中国教育1,https://jump.taoiptv.cn/iptv1.php?id=104100&num=1&sign=40u1wu
+中国教育1,https://jump.taoiptv.cn/iptv2.php?id=104100&num=2&sign=40u1wu
+中国教育1,https://jump.taoiptv.cn/iptv3.php?id=104100&num=3&sign=40u1wu
+中国教育4,https://jump.taoiptv.cn/iptv1.php?id=104115&num=1&sign=40u1wu
+中国教育4,https://jump.taoiptv.cn/iptv2.php?id=104115&num=2&sign=40u1wu
+中国教育4,https://jump.taoiptv.cn/iptv3.php?id=104115&num=3&sign=40u1wu
+早期教育,https://jump.taoiptv.cn/iptv1.php?id=104120&num=1&sign=40u1wu
+早期教育,https://jump.taoiptv.cn/iptv2.php?id=104120&num=2&sign=40u1wu
+早期教育,https://jump.taoiptv.cn/iptv3.php?id=104120&num=3&sign=40u1wu
+CGTN,https://jump.taoiptv.cn/iptv1.php?id=104125&num=1&sign=40u1wu
+CGTN,https://jump.taoiptv.cn/iptv2.php?id=104125&num=2&sign=40u1wu
+CGTN,https://jump.taoiptv.cn/iptv3.php?id=104125&num=3&sign=40u1wu
+CGTN法语,https://jump.taoiptv.cn/iptv1.php?id=104135&num=1&sign=40u1wu
+CGTN法语,https://jump.taoiptv.cn/iptv2.php?id=104135&num=2&sign=40u1wu
+CGTN法语,https://jump.taoiptv.cn/iptv3.php?id=104135&num=3&sign=40u1wu
+CGTN俄语,https://jump.taoiptv.cn/iptv1.php?id=104140&num=1&sign=40u1wu
+CGTN俄语,https://jump.taoiptv.cn/iptv2.php?id=104140&num=2&sign=40u1wu
+CGTN俄语,https://jump.taoiptv.cn/iptv3.php?id=104140&num=3&sign=40u1wu
+CGTN阿语,https://jump.taoiptv.cn/iptv1.php?id=104145&num=1&sign=40u1wu
+CGTN阿语,https://jump.taoiptv.cn/iptv2.php?id=104145&num=2&sign=40u1wu
+CGTN阿语,https://jump.taoiptv.cn/iptv3.php?id=104145&num=3&sign=40u1wu
+CGTN西语,https://jump.taoiptv.cn/iptv1.php?id=104150&num=1&sign=40u1wu
+CGTN西语,https://jump.taoiptv.cn/iptv2.php?id=104150&num=2&sign=40u1wu
+CGTN西语,https://jump.taoiptv.cn/iptv3.php?id=104150&num=3&sign=40u1wu
+【战狼3吴京】独播,https://jump.taoiptv.cn/yy.php?id=37999586?sign=40u1wu
+举起手来-惊险抗日,https://jump.taoiptv.cn/yy.php?id=1382736877?sign=40u1wu
+弹幕天团 下饭神剧,https://jump.taoiptv.cn/yy.php?id=23512910?sign=40u1wu
+抗战神剧,https://jump.taoiptv.cn/yy.php?id=1507704566?sign=40u1wu
+鹿鼎记-周星驰版,https://jump.taoiptv.cn/yy.php?id=1354658049?sign=40u1wu
+绝版电影 港片女鬼,https://jump.taoiptv.cn/yy.php?id=1461579859?sign=40u1wu
+林正英全集,https://jump.taoiptv.cn/yy.php?id=1353685311?sign=40u1wu
+重温经典好剧,https://jump.taoiptv.cn/yy.php?id=1382793140?sign=40u1wu
+恐怖电影,https://jump.taoiptv.cn/yy.php?id=24066336?sign=40u1wu
+【周星驰】搞笑电影,https://jump.taoiptv.cn/yy.php?id=38670875?sign=40u1wu
+正阳门下 正在直播,https://jump.taoiptv.cn/yy.php?id=1453059740?sign=40u1wu
+电影 古惑仔全集,https://jump.taoiptv.cn/yy.php?id=1354507447?sign=40u1wu
+林正英 僵尸 鬼片,https://jump.taoiptv.cn/yy.php?id=1351505899?sign=40u1wu
+火凤凰之战狼七,https://jump.taoiptv.cn/yy.php?id=1463088777?sign=40u1wu
+疯狂动漫 正在直播,https://jump.taoiptv.cn/yy.php?id=1353937086?sign=40u1wu
+动漫,https://jump.taoiptv.cn/yy.php?id=26664495?sign=40u1wu
+动漫,https://jump.taoiptv.cn/yy.php?id=1382747970?sign=40u1wu
+超精彩武打场景,https://jump.taoiptv.cn/yy.php?id=1354936131?sign=40u1wu
+天道-9.2高分好剧,https://jump.taoiptv.cn/yy.php?id=1382735574?sign=40u1wu
+薛元帅传奇,https://jump.taoiptv.cn/yy.php?id=31313785?sign=40u1wu
+笑声传奇,https://jump.taoiptv.cn/yy.php?id=1382736880?sign=40u1wu
+港片鬼片老电影,https://jump.taoiptv.cn/yy.php?id=1355269576?sign=40u1wu
+【港台】鬼片 惊悚 喜剧,https://jump.taoiptv.cn/yy.php?id=1351030377?sign=40u1wu
+动漫,https://jump.taoiptv.cn/yy.php?id=25055036?sign=40u1wu
+影视剧场,https://jump.taoiptv.cn/yy.php?id=1355260855?sign=40u1wu
+动漫,https://jump.taoiptv.cn/yy.php?id=23993334?sign=40u1wu
+布丁-玄幻电影正在直播,https://jump.taoiptv.cn/yy.php?id=1455460998?sign=40u1wu
+变形金刚,https://jump.taoiptv.cn/yy.php?id=1382736803?sign=40u1wu
+24【动漫】正在直播,https://jump.taoiptv.cn/yy.php?id=1350984033?sign=40u1wu
+动漫,https://jump.taoiptv.cn/yy.php?id=1382788679?sign=40u1wu
+双月之城-国漫,https://jump.taoiptv.cn/yy.php?id=1382736907?sign=40u1wu
+新白娘子传奇-女神赵雅芝,https://jump.taoiptv.cn/yy.php?id=1354930969?sign=40u1wu
+父母爱情,https://jump.taoiptv.cn/yy.php?id=1382851594?sign=40u1wu
+第一滴血全集,https://jump.taoiptv.cn/yy.php?id=1354932355?sign=40u1wu
+小沈阳春晚小品,https://jump.taoiptv.cn/yy.php?id=1382749941?sign=40u1wu
+爆笑小品,https://jump.taoiptv.cn/yy.php?id=1354931503?sign=40u1wu
+【陪你看】金刚葫芦娃,https://jump.taoiptv.cn/yy.php?id=1353323999?sign=40u1wu
+电影,https://jump.taoiptv.cn/yy.php?id=37454459?sign=40u1wu
+经典鬼片,https://jump.taoiptv.cn/yy.php?id=1508828185?sign=40u1wu
+绝版鬼片港片贼好看,https://jump.taoiptv.cn/yy.php?id=1454732419?sign=40u1wu
+怡园区电影,https://jump.taoiptv.cn/yy.php?id=1356341850?sign=40u1wu
+熊出没之探险日记S1-国漫,https://jump.taoiptv.cn/yy.php?id=1354930977?sign=40u1wu
+速度与激情全集,https://jump.taoiptv.cn/yy.php?id=1382749892?sign=40u1wu
+华子系列,https://jump.taoiptv.cn/yy.php?id=1354888726?sign=40u1wu
+国内喜剧,https://jump.taoiptv.cn/yy.php?id=1382735563?sign=40u1wu
+热血抗日电影,https://jump.taoiptv.cn/yy.php?id=1382749907?sign=40u1wu
+国外高分大片,https://jump.taoiptv.cn/yy.php?id=1382736867?sign=40u1wu
+战争大片-国外电影,https://jump.taoiptv.cn/yy.php?id=1382736857?sign=40u1wu
+美国队长史蒂夫,https://jump.taoiptv.cn/yy.php?id=1382736813?sign=40u1wu
+大江大河-高分影视推荐,https://jump.taoiptv.cn/yy.php?id=1382736806?sign=40u1wu
+最后的狮子-探险纪录片,https://jump.taoiptv.cn/yy.php?id=1382735577?sign=40u1wu
+猩球崛起-怪兽片合集,https://jump.taoiptv.cn/yy.php?id=1354930181?sign=40u1wu
+海王-院线大片,https://jump.taoiptv.cn/yy.php?id=1354936142?sign=40u1wu
+国漫  动漫,https://jump.taoiptv.cn/yy.php?id=1354076248?sign=40u1wu
+国外经典—小鬼当家,https://jump.taoiptv.cn/yy.php?id=1354658064?sign=40u1wu
+下饭喜剧电影,https://jump.taoiptv.cn/yy.php?id=1354658051?sign=40u1wu
+雷神系列,https://jump.taoiptv.cn/yy.php?id=1354932441?sign=40u1wu
+脑洞大开的精彩科幻片,https://jump.taoiptv.cn/yy.php?id=1382736723?sign=40u1wu
+华矩小九er 电 正在直播,https://jump.taoiptv.cn/yy.php?id=1354690927?sign=40u1wu
+精彩动作电影,https://jump.taoiptv.cn/yy.php?id=1382736823?sign=40u1wu
+【科幻电影】,https://jump.taoiptv.cn/yy.php?id=1355065896?sign=40u1wu
+国内动作大片,https://jump.taoiptv.cn/yy.php?id=1382749917?sign=40u1wu
+老卓电影,https://jump.taoiptv.cn/yy.php?id=1354770516?sign=40u1wu
+【科幻】超炫特效,https://jump.taoiptv.cn/yy.php?id=37988782?sign=40u1wu
+爆笑抗日！厨子戏子痞子,https://jump.taoiptv.cn/yy.php?id=1354930816?sign=40u1wu
+科幻惊悚片-异形,https://jump.taoiptv.cn/yy.php?id=1382735543?sign=40u1wu
+国内玄幻电影-林正英,https://jump.taoiptv.cn/yy.php?id=1354932444?sign=40u1wu
+燃爆！国外超级动作大片,https://jump.taoiptv.cn/yy.php?id=1354933556?sign=40u1wu
+热门喜剧,https://jump.taoiptv.cn/yy.php?id=1354931495?sign=40u1wu
+国外院线动作大片,https://jump.taoiptv.cn/yy.php?id=1382735570?sign=40u1wu
+国外动作大片-夺宝奇兵1-4,https://jump.taoiptv.cn/yy.php?id=1382736833?sign=40u1wu
+尽享国内精彩战争片,https://jump.taoiptv.cn/yy.php?id=1382745094?sign=40u1wu
+国内战争电影,https://jump.taoiptv.cn/yy.php?id=1382736865?sign=40u1wu
+经典港剧-师父·明白了,https://jump.taoiptv.cn/yy.php?id=1354889042?sign=40u1wu
+迷糊不迷糊 正在直播,https://jump.taoiptv.cn/yy.php?id=1461931969?sign=40u1wu
+侏罗纪世界-国外科幻大片合集,https://jump.taoiptv.cn/yy.php?id=1382736851?sign=40u1wu
+唐伯虎点秋香-国内爆笑喜剧,https://jump.taoiptv.cn/yy.php?id=1382851137?sign=40u1wu
+小戏骨黄飞鸿-国内动作片,https://jump.taoiptv.cn/yy.php?id=1354936181?sign=40u1wu
+敢死队-精彩动作电影,https://jump.taoiptv.cn/yy.php?id=1382735573?sign=40u1wu
+漫威十年老粉福利来了,https://jump.taoiptv.cn/yy.php?id=1354930233?sign=40u1wu
+超级英雄系列电影,https://jump.taoiptv.cn/yy.php?id=1382736863?sign=40u1wu
+速度与激情系列！-精彩大片,https://jump.taoiptv.cn/yy.php?id=1382736911?sign=40u1wu
+永远的经典系列,https://jump.taoiptv.cn/yy.php?id=1354930204?sign=40u1wu
+外国科幻大片,https://jump.taoiptv.cn/yy.php?id=1382747628?sign=40u1wu
+国内喜剧,https://jump.taoiptv.cn/yy.php?id=1382851598?sign=40u1wu
+流金岁月-经典港剧,https://jump.taoiptv.cn/yy.php?id=1382736891?sign=40u1wu
+烧脑悬疑电影,https://jump.taoiptv.cn/yy.php?id=1382735571?sign=40u1wu
+当旺爸爸-港剧,https://jump.taoiptv.cn/yy.php?id=1354936208?sign=40u1wu
+喜剧闹翻天,https://jump.taoiptv.cn/yy.php?id=1382735548?sign=40u1wu
+蜘蛛侠-院线大片,https://jump.taoiptv.cn/yy.php?id=1354926671?sign=40u1wu
+漫威超级英雄系列,https://jump.taoiptv.cn/yy.php?id=1354932402?sign=40u1wu
+X战警系列电影,https://jump.taoiptv.cn/yy.php?id=1382736893?sign=40u1wu
+侏罗纪公园三部曲,https://jump.taoiptv.cn/yy.php?id=1354936191?sign=40u1wu
+重生之超级赛亚人,https://jump.taoiptv.cn/yy.php?id=1354936124?sign=40u1wu
+笑到飞起！喜剧电影精选集,https://jump.taoiptv.cn/yy.php?id=1382749912?sign=40u1wu
+致敬星爷致敬经典,https://jump.taoiptv.cn/yy.php?id=1354889048?sign=40u1wu
+太空生命？高分科幻电影开播,https://jump.taoiptv.cn/yy.php?id=1382851586?sign=40u1wu
+悬疑剧-河神,https://jump.taoiptv.cn/yy.php?id=1353413683?sign=40u1wu
+TVB经典港剧-寒山潜龙,https://jump.taoiptv.cn/yy.php?id=1382745103?sign=40u1wu
+野山鹰-影视剧,https://jump.taoiptv.cn/yy.php?id=1354932395?sign=40u1wu
+国产大片电影,https://jump.taoiptv.cn/yy.php?id=1354926655?sign=40u1wu
+国内高分悬疑剧-风筝,https://jump.taoiptv.cn/yy.php?id=1354931585?sign=40u1wu
+哈利波特全集,https://jump.taoiptv.cn/yy.php?id=1382745105?sign=40u1wu
+复仇者联盟全季,https://jump.taoiptv.cn/yy.php?id=1354936167?sign=40u1wu
+机械战警1-3,https://jump.taoiptv.cn/yy.php?id=1382736854?sign=40u1wu
+经典搞笑影片,https://jump.taoiptv.cn/yy.php?id=1382749878?sign=40u1wu
+超燃科幻大片：明日边缘,https://jump.taoiptv.cn/yy.php?id=1382736835?sign=40u1wu
+丛林敢死队-国内电影,https://jump.taoiptv.cn/yy.php?id=1354936214?sign=40u1wu
+洪金宝福星系列,https://jump.taoiptv.cn/yy.php?id=1354924839?sign=40u1wu
+国产喜剧大片,https://jump.taoiptv.cn/yy.php?id=1382745113?sign=40u1wu
+本山快乐营-爆笑小品,https://jump.taoiptv.cn/yy.php?id=1354930948?sign=40u1wu
+洪大哥系列,https://jump.taoiptv.cn/yy.php?id=1354888743?sign=40u1wu
+国外科幻,https://jump.taoiptv.cn/yy.php?id=1382736800?sign=40u1wu
+妖神记-全集,https://jump.taoiptv.cn/yy.php?id=1382735551?sign=40u1wu
+爆笑小品大合集,https://jump.taoiptv.cn/yy.php?id=1382736821?sign=40u1wu
+黑衣人1、2—动作喜剧大片,https://jump.taoiptv.cn/yy.php?id=1354930936?sign=40u1wu
+银河护卫队-国外科幻巨作,https://jump.taoiptv.cn/yy.php?id=1382736815?sign=40u1wu
+惊险刺激！国内最新战争大片,https://jump.taoiptv.cn/yy.php?id=1382745189?sign=40u1wu
+钟馗传说,https://jump.taoiptv.cn/yy.php?id=1382736839?sign=40u1wu
+北京爱情故事，心动不打烊,https://jump.taoiptv.cn/yy.php?id=1382744423?sign=40u1wu
+解放：苏联战争巨片,https://jump.taoiptv.cn/yy.php?id=1354936249?sign=40u1wu
+国内科幻片来袭,https://jump.taoiptv.cn/yy.php?id=1354930821?sign=40u1wu
+动作大片,https://jump.taoiptv.cn/yy.php?id=1354888739?sign=40u1wu
+珍珠港-电影,https://jump.taoiptv.cn/yy.php?id=1354936234?sign=40u1wu
+香港动作大片,https://jump.taoiptv.cn/yy.php?id=1382736816?sign=40u1wu
+高分港剧合集,https://jump.taoiptv.cn/yy.php?id=1382735542?sign=40u1wu
+精彩动作电影享不停,https://jump.taoiptv.cn/yy.php?id=1382736809?sign=40u1wu
+赵本山爆笑小品2,https://jump.taoiptv.cn/yy.php?id=1354936217?sign=40u1wu
+传奇英雄,https://jump.taoiptv.cn/yy.php?id=1382735578?sign=40u1wu
+你爱看的抗日大片,https://jump.taoiptv.cn/yy.php?id=1354936160?sign=40u1wu
+超燃喜剧-疯狂的足球,https://jump.taoiptv.cn/yy.php?id=1382749940?sign=40u1wu
+末日系列-外国电影合集,https://jump.taoiptv.cn/yy.php?id=1354889019?sign=40u1wu
+拆弹专家-刘德华,https://jump.taoiptv.cn/yy.php?id=1382745111?sign=40u1wu
+深夜惊悚动作大片,https://jump.taoiptv.cn/yy.php?id=1382745110?sign=40u1wu
+超燃警匪片,https://jump.taoiptv.cn/yy.php?id=1382735576?sign=40u1wu
+港片—两公婆八条心,https://jump.taoiptv.cn/yy.php?id=1382736917?sign=40u1wu
+007系列动作大片,https://jump.taoiptv.cn/yy.php?id=1382736897?sign=40u1wu
+国外科幻大作合集,https://jump.taoiptv.cn/yy.php?id=1382736836?sign=40u1wu
+你想象不到的国产科幻世界,https://jump.taoiptv.cn/yy.php?id=1382749953?sign=40u1wu
+电影黄飞鸿-燃爆武侠魂,https://jump.taoiptv.cn/yy.php?id=1382736841?sign=40u1wu
+超炫科幻大片,https://jump.taoiptv.cn/yy.php?id=1382736840?sign=40u1wu
+揭秘！经典传奇背后的未解之谜,https://jump.taoiptv.cn/yy.php?id=1382736912?sign=40u1wu
+大江大河2-高分影视推荐,https://jump.taoiptv.cn/yy.php?id=1382736797?sign=40u1wu
+高分动作大片-热血出击,https://jump.taoiptv.cn/yy.php?id=1382736909?sign=40u1wu
+这个杀手不太冷-国外经典动作片,https://jump.taoiptv.cn/yy.php?id=1354936122?sign=40u1wu
+国外动作大片,https://jump.taoiptv.cn/yy.php?id=1382735540?sign=40u1wu
+战争大片,https://jump.taoiptv.cn/yy.php?id=1382735556?sign=40u1wu
+长安汽车UNI-T直播,https://jump.taoiptv.cn/yy.php?id=1349602814?sign=40u1wu
+国产家庭电视剧-如果岁月可回头,https://jump.taoiptv.cn/yy.php?id=1382736883?sign=40u1wu
+缺宅男女-精彩港剧,https://jump.taoiptv.cn/yy.php?id=1382745088?sign=40u1wu
+外国战争大片,https://jump.taoiptv.cn/yy.php?id=1382736872?sign=40u1wu
+美国惊险动作大片-饥饿游戏全季,https://jump.taoiptv.cn/yy.php?id=1354932365?sign=40u1wu
+名媛望族-精彩港剧,https://jump.taoiptv.cn/yy.php?id=1354932431?sign=40u1wu
+宫心计-港剧-古装,https://jump.taoiptv.cn/yy.php?id=1354933540?sign=40u1wu
+国产喜剧,https://jump.taoiptv.cn/yy.php?id=1382735584?sign=40u1wu
+怪医文三块-影视剧,https://jump.taoiptv.cn/yy.php?id=1354936154?sign=40u1wu
+心理追凶-烧脑港剧,https://jump.taoiptv.cn/yy.php?id=1354936207?sign=40u1wu
+金星脱口秀-爆笑回归,https://jump.taoiptv.cn/yy.php?id=1382749951?sign=40u1wu
+科幻大片,https://jump.taoiptv.cn/yy.php?id=1382745181?sign=40u1wu
+宇宙护卫队--国漫,https://jump.taoiptv.cn/yy.php?id=1382736837?sign=40u1wu
+白鹿原-国内经典战争片,https://jump.taoiptv.cn/yy.php?id=1354931488?sign=40u1wu
+爆笑来袭-小品欢乐集结号,https://jump.taoiptv.cn/yy.php?id=1382735558?sign=40u1wu
+X战警系列-国外科幻片,https://jump.taoiptv.cn/yy.php?id=1382735585?sign=40u1wu
+港剧经典-我家无难事,https://jump.taoiptv.cn/yy.php?id=1382736715?sign=40u1wu
+科幻大作-星际旅行1-11,https://jump.taoiptv.cn/yy.php?id=1382736903?sign=40u1wu
+国产动作电影,https://jump.taoiptv.cn/yy.php?id=1382736858?sign=40u1wu
+金玉满堂：精彩港剧,https://jump.taoiptv.cn/yy.php?id=1382736881?sign=40u1wu
+港剧-状王之王,https://jump.taoiptv.cn/yy.php?id=1382736920?sign=40u1wu
+向英雄致敬！国内战争片精选,https://jump.taoiptv.cn/yy.php?id=1382745124?sign=40u1wu
+奥斯卡战争大片,https://jump.taoiptv.cn/yy.php?id=1354932397?sign=40u1wu
+老夫少妻搞笑忘年恋,https://jump.taoiptv.cn/yy.php?id=1354932391?sign=40u1wu
+国产抗战神剧合集,https://jump.taoiptv.cn/yy.php?id=1382749950?sign=40u1wu
+古装武打港剧-肝胆昆仑,https://jump.taoiptv.cn/yy.php?id=1354936116?sign=40u1wu
+特种兵归来-国产电影,https://jump.taoiptv.cn/yy.php?id=1382735581?sign=40u1wu
+国内科幻,https://jump.taoiptv.cn/yy.php?id=1354936170?sign=40u1wu
+胡杏儿出演港剧-巴不得爸爸,https://jump.taoiptv.cn/yy.php?id=1382749890?sign=40u1wu
+是心动啊~国产爱情片大赏！,https://jump.taoiptv.cn/yy.php?id=1354936199?sign=40u1wu
+蜘蛛侠系列-国外科幻大片合集,https://jump.taoiptv.cn/yy.php?id=1354936136?sign=40u1wu
+古往今来-秦皇汉帝的传奇,https://jump.taoiptv.cn/yy.php?id=1354936228?sign=40u1wu
+烧脑经典-决胜法庭,https://jump.taoiptv.cn/yy.php?id=1382745190?sign=40u1wu
+岳云鹏宋小宝也来演电影了？,https://jump.taoiptv.cn/yy.php?id=1354926612?sign=40u1wu
+十大经典港剧之《大时代》,https://jump.taoiptv.cn/yy.php?id=1354930891?sign=40u1wu
+远去的飞鹰-影视剧,https://jump.taoiptv.cn/yy.php?id=1354930912?sign=40u1wu
+港剧-团圆,https://jump.taoiptv.cn/yy.php?id=1382749944?sign=40u1wu
+国外战争大片！看到过瘾,https://jump.taoiptv.cn/yy.php?id=1354930957?sign=40u1wu
+百万巨鳄-好看的喜剧片合集,https://jump.taoiptv.cn/yy.php?id=1354930945?sign=40u1wu
+经典喜剧-三枪拍案惊奇,https://jump.taoiptv.cn/yy.php?id=1382736849?sign=40u1wu
+爆笑小品！开心麻花街,https://jump.taoiptv.cn/yy.php?id=1354926643?sign=40u1wu
+萌鸡小队S1-国漫,https://jump.taoiptv.cn/yy.php?id=1382736904?sign=40u1wu
+精彩喜剧-一路疯癫,https://jump.taoiptv.cn/yy.php?id=1382736844?sign=40u1wu
+TVB笑料王，翻生武林必看港剧,https://jump.taoiptv.cn/yy.php?id=1382749910?sign=40u1wu
+经典港剧—街坊财爷,https://jump.taoiptv.cn/yy.php?id=1382735566?sign=40u1wu
+港剧迷必追！《收规华》烧脑来袭,https://jump.taoiptv.cn/yy.php?id=1382741640?sign=40u1wu
+超经典年代剧-工人大院,https://jump.taoiptv.cn/yy.php?id=1382745122?sign=40u1wu
+漫威经典-奇异博士,https://jump.taoiptv.cn/yy.php?id=1382736843?sign=40u1wu
+电影狄仁杰：悬疑升级，智商对决,https://jump.taoiptv.cn/yy.php?id=1354930903?sign=40u1wu
+东方影视,https://jump.taoiptv.cn/iptv1.php?id=110115&num=1&sign=40u1wu
+东方影视,https://jump.taoiptv.cn/iptv2.php?id=110115&num=2&sign=40u1wu
+东方影视,https://jump.taoiptv.cn/iptv3.php?id=110115&num=3&sign=40u1wu
+东方财经,https://jump.taoiptv.cn/iptv1.php?id=110120&num=1&sign=40u1wu
+东方财经,https://jump.taoiptv.cn/iptv2.php?id=110120&num=2&sign=40u1wu
+东方财经,https://jump.taoiptv.cn/iptv3.php?id=110120&num=3&sign=40u1wu
+第一财经,https://jump.taoiptv.cn/iptv1.php?id=110125&num=1&sign=40u1wu
+第一财经,https://jump.taoiptv.cn/iptv2.php?id=110125&num=2&sign=40u1wu
+第一财经,https://jump.taoiptv.cn/iptv3.php?id=110125&num=3&sign=40u1wu
+五星体育,https://jump.taoiptv.cn/iptv1.php?id=110130&num=1&sign=40u1wu
+五星体育,https://jump.taoiptv.cn/iptv2.php?id=110130&num=2&sign=40u1wu
+五星体育,https://jump.taoiptv.cn/iptv3.php?id=110130&num=3&sign=40u1wu
+七彩戏剧,https://jump.taoiptv.cn/iptv1.php?id=110135&num=1&sign=40u1wu
+七彩戏剧,https://jump.taoiptv.cn/iptv2.php?id=110135&num=2&sign=40u1wu
+七彩戏剧,https://jump.taoiptv.cn/iptv3.php?id=110135&num=3&sign=40u1wu
+法治天地,https://jump.taoiptv.cn/iptv1.php?id=110140&num=1&sign=40u1wu
+法治天地,https://jump.taoiptv.cn/iptv2.php?id=110140&num=2&sign=40u1wu
+法治天地,https://jump.taoiptv.cn/iptv3.php?id=110140&num=3&sign=40u1wu
+浦东频道,https://jump.taoiptv.cn/iptv1.php?id=110145&num=1&sign=40u1wu
+浦东频道,https://jump.taoiptv.cn/iptv2.php?id=110145&num=2&sign=40u1wu
+浦东频道,https://jump.taoiptv.cn/iptv3.php?id=110145&num=3&sign=40u1wu
+上视外语,https://jump.taoiptv.cn/iptv1.php?id=110160&num=1&sign=40u1wu
+上视外语,https://jump.taoiptv.cn/iptv2.php?id=110160&num=2&sign=40u1wu
+上视外语,https://jump.taoiptv.cn/iptv3.php?id=110160&num=3&sign=40u1wu
+浙江教科,https://jump.taoiptv.cn/iptv1.php?id=110165&num=1&sign=40u1wu
+浙江教科,https://jump.taoiptv.cn/iptv2.php?id=110165&num=2&sign=40u1wu
+浙江教科,https://jump.taoiptv.cn/iptv3.php?id=110165&num=3&sign=40u1wu
+浙江经济,https://jump.taoiptv.cn/iptv1.php?id=110170&num=1&sign=40u1wu
+浙江经济,https://jump.taoiptv.cn/iptv2.php?id=110170&num=2&sign=40u1wu
+浙江经济,https://jump.taoiptv.cn/iptv3.php?id=110170&num=3&sign=40u1wu
+浙江钱江,https://jump.taoiptv.cn/iptv1.php?id=110180&num=1&sign=40u1wu
+浙江钱江,https://jump.taoiptv.cn/iptv2.php?id=110180&num=2&sign=40u1wu
+浙江钱江,https://jump.taoiptv.cn/iptv3.php?id=110180&num=3&sign=40u1wu
+浙江少儿,https://jump.taoiptv.cn/iptv1.php?id=110185&num=1&sign=40u1wu
+浙江少儿,https://jump.taoiptv.cn/iptv2.php?id=110185&num=2&sign=40u1wu
+浙江少儿,https://jump.taoiptv.cn/iptv3.php?id=110185&num=3&sign=40u1wu
+浙江新闻,https://jump.taoiptv.cn/iptv1.php?id=110200&num=1&sign=40u1wu
+浙江新闻,https://jump.taoiptv.cn/iptv2.php?id=110200&num=2&sign=40u1wu
+浙江新闻,https://jump.taoiptv.cn/iptv3.php?id=110200&num=3&sign=40u1wu
+衢州公共,https://jump.taoiptv.cn/iptv1.php?id=110210&num=1&sign=40u1wu
+衢州公共,https://jump.taoiptv.cn/iptv2.php?id=110210&num=2&sign=40u1wu
+衢州公共,https://jump.taoiptv.cn/iptv3.php?id=110210&num=3&sign=40u1wu
+衢州新闻,https://jump.taoiptv.cn/iptv1.php?id=110215&num=1&sign=40u1wu
+衢州新闻,https://jump.taoiptv.cn/iptv2.php?id=110215&num=2&sign=40u1wu
+衢州新闻,https://jump.taoiptv.cn/iptv3.php?id=110215&num=3&sign=40u1wu
+杭州频道1,https://jump.taoiptv.cn/iptv1.php?id=110220&num=1&sign=40u1wu
+杭州频道1,https://jump.taoiptv.cn/iptv2.php?id=110220&num=2&sign=40u1wu
+杭州频道1,https://jump.taoiptv.cn/iptv3.php?id=110220&num=3&sign=40u1wu
+杭州频道2,https://jump.taoiptv.cn/iptv1.php?id=110225&num=1&sign=40u1wu
+杭州频道2,https://jump.taoiptv.cn/iptv2.php?id=110225&num=2&sign=40u1wu
+杭州频道2,https://jump.taoiptv.cn/iptv3.php?id=110225&num=3&sign=40u1wu
+杭州频道3,https://jump.taoiptv.cn/iptv1.php?id=110230&num=1&sign=40u1wu
+杭州频道3,https://jump.taoiptv.cn/iptv2.php?id=110230&num=2&sign=40u1wu
+杭州频道3,https://jump.taoiptv.cn/iptv3.php?id=110230&num=3&sign=40u1wu
+杭州频道4,https://jump.taoiptv.cn/iptv1.php?id=110235&num=1&sign=40u1wu
+杭州频道4,https://jump.taoiptv.cn/iptv2.php?id=110235&num=2&sign=40u1wu
+杭州频道4,https://jump.taoiptv.cn/iptv3.php?id=110235&num=3&sign=40u1wu
+杭州频道5,https://jump.taoiptv.cn/iptv1.php?id=110240&num=1&sign=40u1wu
+杭州频道5,https://jump.taoiptv.cn/iptv2.php?id=110240&num=2&sign=40u1wu
+杭州频道5,https://jump.taoiptv.cn/iptv3.php?id=110240&num=3&sign=40u1wu
+杭州频道6,https://jump.taoiptv.cn/iptv1.php?id=110245&num=1&sign=40u1wu
+杭州频道6,https://jump.taoiptv.cn/iptv2.php?id=110245&num=2&sign=40u1wu
+杭州频道6,https://jump.taoiptv.cn/iptv3.php?id=110245&num=3&sign=40u1wu
+宁波频道1,https://jump.taoiptv.cn/iptv1.php?id=110250&num=1&sign=40u1wu
+宁波频道1,https://jump.taoiptv.cn/iptv2.php?id=110250&num=2&sign=40u1wu
+宁波频道1,https://jump.taoiptv.cn/iptv3.php?id=110250&num=3&sign=40u1wu
+宁波频道2,https://jump.taoiptv.cn/iptv1.php?id=110255&num=1&sign=40u1wu
+宁波频道2,https://jump.taoiptv.cn/iptv2.php?id=110255&num=2&sign=40u1wu
+宁波频道2,https://jump.taoiptv.cn/iptv3.php?id=110255&num=3&sign=40u1wu
+宁波频道3,https://jump.taoiptv.cn/iptv1.php?id=110260&num=1&sign=40u1wu
+宁波频道3,https://jump.taoiptv.cn/iptv2.php?id=110260&num=2&sign=40u1wu
+宁波频道3,https://jump.taoiptv.cn/iptv3.php?id=110260&num=3&sign=40u1wu
+宁波频道4,https://jump.taoiptv.cn/iptv1.php?id=110265&num=1&sign=40u1wu
+宁波频道4,https://jump.taoiptv.cn/iptv2.php?id=110265&num=2&sign=40u1wu
+宁波频道4,https://jump.taoiptv.cn/iptv3.php?id=110265&num=3&sign=40u1wu
+绍兴频道,https://jump.taoiptv.cn/iptv1.php?id=110285&num=1&sign=40u1wu
+绍兴频道,https://jump.taoiptv.cn/iptv2.php?id=110285&num=2&sign=40u1wu
+绍兴频道,https://jump.taoiptv.cn/iptv3.php?id=110285&num=3&sign=40u1wu
+温州频道,https://jump.taoiptv.cn/iptv1.php?id=110305&num=1&sign=40u1wu
+温州频道,https://jump.taoiptv.cn/iptv2.php?id=110305&num=2&sign=40u1wu
+温州频道,https://jump.taoiptv.cn/iptv3.php?id=110305&num=3&sign=40u1wu
+安徽体育,https://jump.taoiptv.cn/iptv1.php?id=110310&num=1&sign=40u1wu
+安徽体育,https://jump.taoiptv.cn/iptv2.php?id=110310&num=2&sign=40u1wu
+安徽体育,https://jump.taoiptv.cn/iptv3.php?id=110310&num=3&sign=40u1wu
+安徽公共,https://jump.taoiptv.cn/iptv1.php?id=110320&num=1&sign=40u1wu
+安徽公共,https://jump.taoiptv.cn/iptv2.php?id=110320&num=2&sign=40u1wu
+安徽公共,https://jump.taoiptv.cn/iptv3.php?id=110320&num=3&sign=40u1wu
+安徽影视,https://jump.taoiptv.cn/iptv1.php?id=110325&num=1&sign=40u1wu
+安徽影视,https://jump.taoiptv.cn/iptv2.php?id=110325&num=2&sign=40u1wu
+安徽影视,https://jump.taoiptv.cn/iptv3.php?id=110325&num=3&sign=40u1wu
+安徽经济,https://jump.taoiptv.cn/iptv1.php?id=110330&num=1&sign=40u1wu
+安徽经济,https://jump.taoiptv.cn/iptv2.php?id=110330&num=2&sign=40u1wu
+安徽经济,https://jump.taoiptv.cn/iptv3.php?id=110330&num=3&sign=40u1wu
+安徽科教,https://jump.taoiptv.cn/iptv1.php?id=110335&num=1&sign=40u1wu
+安徽科教,https://jump.taoiptv.cn/iptv2.php?id=110335&num=2&sign=40u1wu
+安徽科教,https://jump.taoiptv.cn/iptv3.php?id=110335&num=3&sign=40u1wu
+安徽人物,https://jump.taoiptv.cn/iptv1.php?id=110340&num=1&sign=40u1wu
+安徽人物,https://jump.taoiptv.cn/iptv2.php?id=110340&num=2&sign=40u1wu
+安徽人物,https://jump.taoiptv.cn/iptv3.php?id=110340&num=3&sign=40u1wu
+安徽国际,https://jump.taoiptv.cn/iptv1.php?id=110345&num=1&sign=40u1wu
+安徽国际,https://jump.taoiptv.cn/iptv2.php?id=110345&num=2&sign=40u1wu
+安徽国际,https://jump.taoiptv.cn/iptv3.php?id=110345&num=3&sign=40u1wu
+江西公共,https://jump.taoiptv.cn/iptv1.php?id=110365&num=1&sign=40u1wu
+江西公共,https://jump.taoiptv.cn/iptv2.php?id=110365&num=2&sign=40u1wu
+江西公共,https://jump.taoiptv.cn/iptv3.php?id=110365&num=3&sign=40u1wu
+江西少儿,https://jump.taoiptv.cn/iptv1.php?id=110370&num=1&sign=40u1wu
+江西少儿,https://jump.taoiptv.cn/iptv2.php?id=110370&num=2&sign=40u1wu
+江西少儿,https://jump.taoiptv.cn/iptv3.php?id=110370&num=3&sign=40u1wu
+江西新闻,https://jump.taoiptv.cn/iptv1.php?id=110375&num=1&sign=40u1wu
+江西新闻,https://jump.taoiptv.cn/iptv2.php?id=110375&num=2&sign=40u1wu
+江西新闻,https://jump.taoiptv.cn/iptv3.php?id=110375&num=3&sign=40u1wu
+江西教育,https://jump.taoiptv.cn/iptv1.php?id=110380&num=1&sign=40u1wu
+江西教育,https://jump.taoiptv.cn/iptv2.php?id=110380&num=2&sign=40u1wu
+江西教育,https://jump.taoiptv.cn/iptv3.php?id=110380&num=3&sign=40u1wu
+江西经济,https://jump.taoiptv.cn/iptv1.php?id=110385&num=1&sign=40u1wu
+江西经济,https://jump.taoiptv.cn/iptv2.php?id=110385&num=2&sign=40u1wu
+江西经济,https://jump.taoiptv.cn/iptv3.php?id=110385&num=3&sign=40u1wu
+山东公共,https://jump.taoiptv.cn/iptv1.php?id=110390&num=1&sign=40u1wu
+山东公共,https://jump.taoiptv.cn/iptv2.php?id=110390&num=2&sign=40u1wu
+山东公共,https://jump.taoiptv.cn/iptv3.php?id=110390&num=3&sign=40u1wu
+山东教育,https://jump.taoiptv.cn/iptv1.php?id=110400&num=1&sign=40u1wu
+山东教育,https://jump.taoiptv.cn/iptv2.php?id=110400&num=2&sign=40u1wu
+山东教育,https://jump.taoiptv.cn/iptv3.php?id=110400&num=3&sign=40u1wu
+山东农科,https://jump.taoiptv.cn/iptv1.php?id=110405&num=1&sign=40u1wu
+山东农科,https://jump.taoiptv.cn/iptv2.php?id=110405&num=2&sign=40u1wu
+山东农科,https://jump.taoiptv.cn/iptv3.php?id=110405&num=3&sign=40u1wu
+山东少儿,https://jump.taoiptv.cn/iptv1.php?id=110410&num=1&sign=40u1wu
+山东少儿,https://jump.taoiptv.cn/iptv2.php?id=110410&num=2&sign=40u1wu
+山东少儿,https://jump.taoiptv.cn/iptv3.php?id=110410&num=3&sign=40u1wu
+山东生活,https://jump.taoiptv.cn/iptv1.php?id=110415&num=1&sign=40u1wu
+山东生活,https://jump.taoiptv.cn/iptv2.php?id=110415&num=2&sign=40u1wu
+山东生活,https://jump.taoiptv.cn/iptv3.php?id=110415&num=3&sign=40u1wu
+山东体育,https://jump.taoiptv.cn/iptv1.php?id=110420&num=1&sign=40u1wu
+山东体育,https://jump.taoiptv.cn/iptv2.php?id=110420&num=2&sign=40u1wu
+山东体育,https://jump.taoiptv.cn/iptv3.php?id=110420&num=3&sign=40u1wu
+山东影视,https://jump.taoiptv.cn/iptv1.php?id=110425&num=1&sign=40u1wu
+山东影视,https://jump.taoiptv.cn/iptv2.php?id=110425&num=2&sign=40u1wu
+山东影视,https://jump.taoiptv.cn/iptv3.php?id=110425&num=3&sign=40u1wu
+山东综艺,https://jump.taoiptv.cn/iptv1.php?id=110430&num=1&sign=40u1wu
+山东综艺,https://jump.taoiptv.cn/iptv2.php?id=110430&num=2&sign=40u1wu
+山东综艺,https://jump.taoiptv.cn/iptv3.php?id=110430&num=3&sign=40u1wu
+烟台经济,https://jump.taoiptv.cn/iptv1.php?id=110440&num=1&sign=40u1wu
+烟台经济,https://jump.taoiptv.cn/iptv2.php?id=110440&num=2&sign=40u1wu
+烟台经济,https://jump.taoiptv.cn/iptv3.php?id=110440&num=3&sign=40u1wu
+烟台新闻,https://jump.taoiptv.cn/iptv1.php?id=110445&num=1&sign=40u1wu
+烟台新闻,https://jump.taoiptv.cn/iptv2.php?id=110445&num=2&sign=40u1wu
+烟台新闻,https://jump.taoiptv.cn/iptv3.php?id=110445&num=3&sign=40u1wu
+烟台影视,https://jump.taoiptv.cn/iptv1.php?id=110450&num=1&sign=40u1wu
+烟台影视,https://jump.taoiptv.cn/iptv2.php?id=110450&num=2&sign=40u1wu
+烟台影视,https://jump.taoiptv.cn/iptv3.php?id=110450&num=3&sign=40u1wu
+齐鲁频道,https://jump.taoiptv.cn/iptv1.php?id=110470&num=1&sign=40u1wu
+齐鲁频道,https://jump.taoiptv.cn/iptv2.php?id=110470&num=2&sign=40u1wu
+齐鲁频道,https://jump.taoiptv.cn/iptv3.php?id=110470&num=3&sign=40u1wu
+海峡卫视,https://jump.taoiptv.cn/iptv1.php?id=110505&num=1&sign=40u1wu
+海峡卫视,https://jump.taoiptv.cn/iptv2.php?id=110505&num=2&sign=40u1wu
+海峡卫视,https://jump.taoiptv.cn/iptv3.php?id=110505&num=3&sign=40u1wu
+福建综合,https://jump.taoiptv.cn/iptv1.php?id=110510&num=1&sign=40u1wu
+福建综合,https://jump.taoiptv.cn/iptv2.php?id=110510&num=2&sign=40u1wu
+福建综合,https://jump.taoiptv.cn/iptv3.php?id=110510&num=3&sign=40u1wu
+福建新闻,https://jump.taoiptv.cn/iptv1.php?id=110520&num=1&sign=40u1wu
+福建新闻,https://jump.taoiptv.cn/iptv2.php?id=110520&num=2&sign=40u1wu
+福建新闻,https://jump.taoiptv.cn/iptv3.php?id=110520&num=3&sign=40u1wu
+福建旅游,https://jump.taoiptv.cn/iptv1.php?id=110525&num=1&sign=40u1wu
+福建旅游,https://jump.taoiptv.cn/iptv2.php?id=110525&num=2&sign=40u1wu
+福建旅游,https://jump.taoiptv.cn/iptv3.php?id=110525&num=3&sign=40u1wu
+福建经济,https://jump.taoiptv.cn/iptv1.php?id=110530&num=1&sign=40u1wu
+福建经济,https://jump.taoiptv.cn/iptv2.php?id=110530&num=2&sign=40u1wu
+福建经济,https://jump.taoiptv.cn/iptv3.php?id=110530&num=3&sign=40u1wu
+福建少儿,https://jump.taoiptv.cn/iptv1.php?id=110535&num=1&sign=40u1wu
+福建少儿,https://jump.taoiptv.cn/iptv2.php?id=110535&num=2&sign=40u1wu
+福建少儿,https://jump.taoiptv.cn/iptv3.php?id=110535&num=3&sign=40u1wu
+福建教育,https://jump.taoiptv.cn/iptv1.php?id=110540&num=1&sign=40u1wu
+福建教育,https://jump.taoiptv.cn/iptv2.php?id=110540&num=2&sign=40u1wu
+福建教育,https://jump.taoiptv.cn/iptv3.php?id=110540&num=3&sign=40u1wu
+福建电视剧,https://jump.taoiptv.cn/iptv1.php?id=110545&num=1&sign=40u1wu
+福建电视剧,https://jump.taoiptv.cn/iptv2.php?id=110545&num=2&sign=40u1wu
+福建电视剧,https://jump.taoiptv.cn/iptv3.php?id=110545&num=3&sign=40u1wu
+泉州新闻,https://jump.taoiptv.cn/iptv1.php?id=110555&num=1&sign=40u1wu
+泉州新闻,https://jump.taoiptv.cn/iptv2.php?id=110555&num=2&sign=40u1wu
+泉州新闻,https://jump.taoiptv.cn/iptv3.php?id=110555&num=3&sign=40u1wu
+三明新闻,https://jump.taoiptv.cn/iptv1.php?id=110560&num=1&sign=40u1wu
+三明新闻,https://jump.taoiptv.cn/iptv2.php?id=110560&num=2&sign=40u1wu
+三明新闻,https://jump.taoiptv.cn/iptv3.php?id=110560&num=3&sign=40u1wu
+南平新闻,https://jump.taoiptv.cn/iptv1.php?id=110570&num=1&sign=40u1wu
+南平新闻,https://jump.taoiptv.cn/iptv2.php?id=110570&num=2&sign=40u1wu
+南平新闻,https://jump.taoiptv.cn/iptv3.php?id=110570&num=3&sign=40u1wu
+龙岩新闻,https://jump.taoiptv.cn/iptv1.php?id=110575&num=1&sign=40u1wu
+龙岩新闻,https://jump.taoiptv.cn/iptv2.php?id=110575&num=2&sign=40u1wu
+龙岩新闻,https://jump.taoiptv.cn/iptv3.php?id=110575&num=3&sign=40u1wu
+宁德新闻,https://jump.taoiptv.cn/iptv1.php?id=110580&num=1&sign=40u1wu
+宁德新闻,https://jump.taoiptv.cn/iptv2.php?id=110580&num=2&sign=40u1wu
+宁德新闻,https://jump.taoiptv.cn/iptv3.php?id=110580&num=3&sign=40u1wu
+北京文艺,https://jump.taoiptv.cn/iptv1.php?id=120100&num=1&sign=40u1wu
+北京文艺,https://jump.taoiptv.cn/iptv2.php?id=120100&num=2&sign=40u1wu
+北京文艺,https://jump.taoiptv.cn/iptv3.php?id=120100&num=3&sign=40u1wu
+北京影视,https://jump.taoiptv.cn/iptv1.php?id=120110&num=1&sign=40u1wu
+北京影视,https://jump.taoiptv.cn/iptv2.php?id=120110&num=2&sign=40u1wu
+北京影视,https://jump.taoiptv.cn/iptv3.php?id=120110&num=3&sign=40u1wu
+北京新闻,https://jump.taoiptv.cn/iptv1.php?id=120130&num=1&sign=40u1wu
+北京新闻,https://jump.taoiptv.cn/iptv2.php?id=120130&num=2&sign=40u1wu
+北京新闻,https://jump.taoiptv.cn/iptv3.php?id=120130&num=3&sign=40u1wu
+北京卡酷少儿,https://jump.taoiptv.cn/iptv1.php?id=120145&num=1&sign=40u1wu
+北京卡酷少儿,https://jump.taoiptv.cn/iptv2.php?id=120145&num=2&sign=40u1wu
+北京卡酷少儿,https://jump.taoiptv.cn/iptv3.php?id=120145&num=3&sign=40u1wu
+北京冬奥纪实,https://jump.taoiptv.cn/iptv1.php?id=120150&num=1&sign=40u1wu
+北京冬奥纪实,https://jump.taoiptv.cn/iptv2.php?id=120150&num=2&sign=40u1wu
+北京冬奥纪实,https://jump.taoiptv.cn/iptv3.php?id=120150&num=3&sign=40u1wu
+北京国际频道,https://jump.taoiptv.cn/iptv1.php?id=120155&num=1&sign=40u1wu
+北京国际频道,https://jump.taoiptv.cn/iptv2.php?id=120155&num=2&sign=40u1wu
+北京国际频道,https://jump.taoiptv.cn/iptv3.php?id=120155&num=3&sign=40u1wu
+幸福剧场,https://jump.taoiptv.cn/iptv1.php?id=120160&num=1&sign=40u1wu
+幸福剧场,https://jump.taoiptv.cn/iptv2.php?id=120160&num=2&sign=40u1wu
+幸福剧场,https://jump.taoiptv.cn/iptv3.php?id=120160&num=3&sign=40u1wu
+幸福娱乐,https://jump.taoiptv.cn/iptv1.php?id=120165&num=1&sign=40u1wu
+幸福娱乐,https://jump.taoiptv.cn/iptv2.php?id=120165&num=2&sign=40u1wu
+幸福娱乐,https://jump.taoiptv.cn/iptv3.php?id=120165&num=3&sign=40u1wu
+朝阳融媒,https://jump.taoiptv.cn/iptv1.php?id=120170&num=1&sign=40u1wu
+朝阳融媒,https://jump.taoiptv.cn/iptv2.php?id=120170&num=2&sign=40u1wu
+朝阳融媒,https://jump.taoiptv.cn/iptv3.php?id=120170&num=3&sign=40u1wu
+天津都市,https://jump.taoiptv.cn/iptv1.php?id=120185&num=1&sign=40u1wu
+天津都市,https://jump.taoiptv.cn/iptv2.php?id=120185&num=2&sign=40u1wu
+天津都市,https://jump.taoiptv.cn/iptv3.php?id=120185&num=3&sign=40u1wu
+天津科教,https://jump.taoiptv.cn/iptv1.php?id=120195&num=1&sign=40u1wu
+天津科教,https://jump.taoiptv.cn/iptv2.php?id=120195&num=2&sign=40u1wu
+天津科教,https://jump.taoiptv.cn/iptv3.php?id=120195&num=3&sign=40u1wu
+天津体育,https://jump.taoiptv.cn/iptv1.php?id=120205&num=1&sign=40u1wu
+天津体育,https://jump.taoiptv.cn/iptv2.php?id=120205&num=2&sign=40u1wu
+天津体育,https://jump.taoiptv.cn/iptv3.php?id=120205&num=3&sign=40u1wu
+天津文艺,https://jump.taoiptv.cn/iptv1.php?id=120210&num=1&sign=40u1wu
+天津文艺,https://jump.taoiptv.cn/iptv2.php?id=120210&num=2&sign=40u1wu
+天津文艺,https://jump.taoiptv.cn/iptv3.php?id=120210&num=3&sign=40u1wu
+天津新闻,https://jump.taoiptv.cn/iptv1.php?id=120215&num=1&sign=40u1wu
+天津新闻,https://jump.taoiptv.cn/iptv2.php?id=120215&num=2&sign=40u1wu
+天津新闻,https://jump.taoiptv.cn/iptv3.php?id=120215&num=3&sign=40u1wu
+天津影视,https://jump.taoiptv.cn/iptv1.php?id=120220&num=1&sign=40u1wu
+天津影视,https://jump.taoiptv.cn/iptv2.php?id=120220&num=2&sign=40u1wu
+天津影视,https://jump.taoiptv.cn/iptv3.php?id=120220&num=3&sign=40u1wu
+蓟州区,https://jump.taoiptv.cn/iptv1.php?id=120225&num=1&sign=40u1wu
+蓟州区,https://jump.taoiptv.cn/iptv2.php?id=120225&num=2&sign=40u1wu
+蓟州区,https://jump.taoiptv.cn/iptv3.php?id=120225&num=3&sign=40u1wu
+风尚生活,https://jump.taoiptv.cn/iptv1.php?id=120265&num=1&sign=40u1wu
+风尚生活,https://jump.taoiptv.cn/iptv2.php?id=120265&num=2&sign=40u1wu
+风尚生活,https://jump.taoiptv.cn/iptv3.php?id=120265&num=3&sign=40u1wu
+每日影院,https://jump.taoiptv.cn/iptv1.php?id=120270&num=1&sign=40u1wu
+每日影院,https://jump.taoiptv.cn/iptv2.php?id=120270&num=2&sign=40u1wu
+每日影院,https://jump.taoiptv.cn/iptv3.php?id=120270&num=3&sign=40u1wu
+山西经济,https://jump.taoiptv.cn/iptv1.php?id=120315&num=1&sign=40u1wu
+山西经济,https://jump.taoiptv.cn/iptv2.php?id=120315&num=2&sign=40u1wu
+山西经济,https://jump.taoiptv.cn/iptv3.php?id=120315&num=3&sign=40u1wu
+山西影视,https://jump.taoiptv.cn/iptv1.php?id=120320&num=1&sign=40u1wu
+山西影视,https://jump.taoiptv.cn/iptv2.php?id=120320&num=2&sign=40u1wu
+山西影视,https://jump.taoiptv.cn/iptv3.php?id=120320&num=3&sign=40u1wu
+山西社会,https://jump.taoiptv.cn/iptv1.php?id=120325&num=1&sign=40u1wu
+山西社会,https://jump.taoiptv.cn/iptv2.php?id=120325&num=2&sign=40u1wu
+山西社会,https://jump.taoiptv.cn/iptv3.php?id=120325&num=3&sign=40u1wu
+山西黄河,https://jump.taoiptv.cn/iptv1.php?id=120330&num=1&sign=40u1wu
+山西黄河,https://jump.taoiptv.cn/iptv2.php?id=120330&num=2&sign=40u1wu
+山西黄河,https://jump.taoiptv.cn/iptv3.php?id=120330&num=3&sign=40u1wu
+山西公共,https://jump.taoiptv.cn/iptv1.php?id=120340&num=1&sign=40u1wu
+山西公共,https://jump.taoiptv.cn/iptv2.php?id=120340&num=2&sign=40u1wu
+山西公共,https://jump.taoiptv.cn/iptv3.php?id=120340&num=3&sign=40u1wu
+河北公共,https://jump.taoiptv.cn/iptv1.php?id=120400&num=1&sign=40u1wu
+河北公共,https://jump.taoiptv.cn/iptv2.php?id=120400&num=2&sign=40u1wu
+河北公共,https://jump.taoiptv.cn/iptv3.php?id=120400&num=3&sign=40u1wu
+河南都市,https://jump.taoiptv.cn/iptv1.php?id=130100&num=1&sign=40u1wu
+河南都市,https://jump.taoiptv.cn/iptv2.php?id=130100&num=2&sign=40u1wu
+河南都市,https://jump.taoiptv.cn/iptv3.php?id=130100&num=3&sign=40u1wu
+河南民生,https://jump.taoiptv.cn/iptv1.php?id=130105&num=1&sign=40u1wu
+河南民生,https://jump.taoiptv.cn/iptv2.php?id=130105&num=2&sign=40u1wu
+河南民生,https://jump.taoiptv.cn/iptv3.php?id=130105&num=3&sign=40u1wu
+河南法治,https://jump.taoiptv.cn/iptv1.php?id=130110&num=1&sign=40u1wu
+河南法治,https://jump.taoiptv.cn/iptv2.php?id=130110&num=2&sign=40u1wu
+河南法治,https://jump.taoiptv.cn/iptv3.php?id=130110&num=3&sign=40u1wu
+河南电视剧,https://jump.taoiptv.cn/iptv1.php?id=130115&num=1&sign=40u1wu
+河南电视剧,https://jump.taoiptv.cn/iptv2.php?id=130115&num=2&sign=40u1wu
+河南电视剧,https://jump.taoiptv.cn/iptv3.php?id=130115&num=3&sign=40u1wu
+河南新闻,https://jump.taoiptv.cn/iptv1.php?id=130120&num=1&sign=40u1wu
+河南新闻,https://jump.taoiptv.cn/iptv2.php?id=130120&num=2&sign=40u1wu
+河南新闻,https://jump.taoiptv.cn/iptv3.php?id=130120&num=3&sign=40u1wu
+河南购物,https://jump.taoiptv.cn/iptv1.php?id=130125&num=1&sign=40u1wu
+河南购物,https://jump.taoiptv.cn/iptv2.php?id=130125&num=2&sign=40u1wu
+河南购物,https://jump.taoiptv.cn/iptv3.php?id=130125&num=3&sign=40u1wu
+河南公共,https://jump.taoiptv.cn/iptv1.php?id=130130&num=1&sign=40u1wu
+河南公共,https://jump.taoiptv.cn/iptv2.php?id=130130&num=2&sign=40u1wu
+河南公共,https://jump.taoiptv.cn/iptv3.php?id=130130&num=3&sign=40u1wu
+河南乡村,https://jump.taoiptv.cn/iptv1.php?id=130135&num=1&sign=40u1wu
+河南乡村,https://jump.taoiptv.cn/iptv2.php?id=130135&num=2&sign=40u1wu
+河南乡村,https://jump.taoiptv.cn/iptv3.php?id=130135&num=3&sign=40u1wu
+郑州新闻,https://jump.taoiptv.cn/iptv1.php?id=130145&num=1&sign=40u1wu
+郑州新闻,https://jump.taoiptv.cn/iptv2.php?id=130145&num=2&sign=40u1wu
+郑州新闻,https://jump.taoiptv.cn/iptv3.php?id=130145&num=3&sign=40u1wu
+郑州商都,https://jump.taoiptv.cn/iptv1.php?id=130150&num=1&sign=40u1wu
+郑州商都,https://jump.taoiptv.cn/iptv2.php?id=130150&num=2&sign=40u1wu
+郑州商都,https://jump.taoiptv.cn/iptv3.php?id=130150&num=3&sign=40u1wu
+郑州文旅,https://jump.taoiptv.cn/iptv1.php?id=130155&num=1&sign=40u1wu
+郑州文旅,https://jump.taoiptv.cn/iptv2.php?id=130155&num=2&sign=40u1wu
+郑州文旅,https://jump.taoiptv.cn/iptv3.php?id=130155&num=3&sign=40u1wu
+郑州影视,https://jump.taoiptv.cn/iptv1.php?id=130160&num=1&sign=40u1wu
+郑州影视,https://jump.taoiptv.cn/iptv2.php?id=130160&num=2&sign=40u1wu
+郑州影视,https://jump.taoiptv.cn/iptv3.php?id=130160&num=3&sign=40u1wu
+郑州妇女,https://jump.taoiptv.cn/iptv1.php?id=130165&num=1&sign=40u1wu
+郑州妇女,https://jump.taoiptv.cn/iptv2.php?id=130165&num=2&sign=40u1wu
+郑州妇女,https://jump.taoiptv.cn/iptv3.php?id=130165&num=3&sign=40u1wu
+郑州都市,https://jump.taoiptv.cn/iptv1.php?id=130170&num=1&sign=40u1wu
+郑州都市,https://jump.taoiptv.cn/iptv2.php?id=130170&num=2&sign=40u1wu
+郑州都市,https://jump.taoiptv.cn/iptv3.php?id=130170&num=3&sign=40u1wu
+郑州教育,https://jump.taoiptv.cn/iptv1.php?id=130175&num=1&sign=40u1wu
+郑州教育,https://jump.taoiptv.cn/iptv2.php?id=130175&num=2&sign=40u1wu
+郑州教育,https://jump.taoiptv.cn/iptv3.php?id=130175&num=3&sign=40u1wu
+新密新闻,https://jump.taoiptv.cn/iptv1.php?id=130185&num=1&sign=40u1wu
+新密新闻,https://jump.taoiptv.cn/iptv2.php?id=130185&num=2&sign=40u1wu
+新密新闻,https://jump.taoiptv.cn/iptv3.php?id=130185&num=3&sign=40u1wu
+新郑综合,https://jump.taoiptv.cn/iptv1.php?id=130190&num=1&sign=40u1wu
+新郑综合,https://jump.taoiptv.cn/iptv2.php?id=130190&num=2&sign=40u1wu
+新郑综合,https://jump.taoiptv.cn/iptv3.php?id=130190&num=3&sign=40u1wu
+巩义综合,https://jump.taoiptv.cn/iptv1.php?id=130200&num=1&sign=40u1wu
+巩义综合,https://jump.taoiptv.cn/iptv2.php?id=130200&num=2&sign=40u1wu
+巩义综合,https://jump.taoiptv.cn/iptv3.php?id=130200&num=3&sign=40u1wu
+河南文博,https://jump.taoiptv.cn/iptv1.php?id=130205&num=1&sign=40u1wu
+河南文博,https://jump.taoiptv.cn/iptv2.php?id=130205&num=2&sign=40u1wu
+河南文博,https://jump.taoiptv.cn/iptv3.php?id=130205&num=3&sign=40u1wu
+河南功夫,https://jump.taoiptv.cn/iptv1.php?id=130210&num=1&sign=40u1wu
+河南功夫,https://jump.taoiptv.cn/iptv2.php?id=130210&num=2&sign=40u1wu
+河南功夫,https://jump.taoiptv.cn/iptv3.php?id=130210&num=3&sign=40u1wu
+河南戏曲,https://jump.taoiptv.cn/iptv1.php?id=130215&num=1&sign=40u1wu
+河南戏曲,https://jump.taoiptv.cn/iptv2.php?id=130215&num=2&sign=40u1wu
+河南戏曲,https://jump.taoiptv.cn/iptv3.php?id=130215&num=3&sign=40u1wu
+移动戏曲,https://jump.taoiptv.cn/iptv1.php?id=130220&num=1&sign=40u1wu
+移动戏曲,https://jump.taoiptv.cn/iptv2.php?id=130220&num=2&sign=40u1wu
+移动戏曲,https://jump.taoiptv.cn/iptv3.php?id=130220&num=3&sign=40u1wu
+河南移动,https://jump.taoiptv.cn/iptv1.php?id=130225&num=1&sign=40u1wu
+河南移动,https://jump.taoiptv.cn/iptv2.php?id=130225&num=2&sign=40u1wu
+河南移动,https://jump.taoiptv.cn/iptv3.php?id=130225&num=3&sign=40u1wu
+睛彩中原,https://jump.taoiptv.cn/iptv1.php?id=130230&num=1&sign=40u1wu
+睛彩中原,https://jump.taoiptv.cn/iptv2.php?id=130230&num=2&sign=40u1wu
+睛彩中原,https://jump.taoiptv.cn/iptv3.php?id=130230&num=3&sign=40u1wu
+健康中原,https://jump.taoiptv.cn/iptv1.php?id=130235&num=1&sign=40u1wu
+健康中原,https://jump.taoiptv.cn/iptv2.php?id=130235&num=2&sign=40u1wu
+健康中原,https://jump.taoiptv.cn/iptv3.php?id=130235&num=3&sign=40u1wu
+欢腾购物,https://jump.taoiptv.cn/iptv1.php?id=130240&num=1&sign=40u1wu
+欢腾购物,https://jump.taoiptv.cn/iptv2.php?id=130240&num=2&sign=40u1wu
+欢腾购物,https://jump.taoiptv.cn/iptv3.php?id=130240&num=3&sign=40u1wu
+河南导视,https://jump.taoiptv.cn/iptv1.php?id=130245&num=1&sign=40u1wu
+河南导视,https://jump.taoiptv.cn/iptv2.php?id=130245&num=2&sign=40u1wu
+河南导视,https://jump.taoiptv.cn/iptv3.php?id=130245&num=3&sign=40u1wu
+湖北经视,https://jump.taoiptv.cn/iptv1.php?id=130250&num=1&sign=40u1wu
+湖北经视,https://jump.taoiptv.cn/iptv2.php?id=130250&num=2&sign=40u1wu
+湖北经视,https://jump.taoiptv.cn/iptv3.php?id=130250&num=3&sign=40u1wu
+湖北垄上,https://jump.taoiptv.cn/iptv1.php?id=130260&num=1&sign=40u1wu
+湖北垄上,https://jump.taoiptv.cn/iptv2.php?id=130260&num=2&sign=40u1wu
+湖北垄上,https://jump.taoiptv.cn/iptv3.php?id=130260&num=3&sign=40u1wu
+湖北公共,https://jump.taoiptv.cn/iptv1.php?id=130265&num=1&sign=40u1wu
+湖北公共,https://jump.taoiptv.cn/iptv2.php?id=130265&num=2&sign=40u1wu
+湖北公共,https://jump.taoiptv.cn/iptv3.php?id=130265&num=3&sign=40u1wu
+湖北影视,https://jump.taoiptv.cn/iptv1.php?id=130270&num=1&sign=40u1wu
+湖北影视,https://jump.taoiptv.cn/iptv2.php?id=130270&num=2&sign=40u1wu
+湖北影视,https://jump.taoiptv.cn/iptv3.php?id=130270&num=3&sign=40u1wu
+湖北教育,https://jump.taoiptv.cn/iptv1.php?id=130275&num=1&sign=40u1wu
+湖北教育,https://jump.taoiptv.cn/iptv2.php?id=130275&num=2&sign=40u1wu
+湖北教育,https://jump.taoiptv.cn/iptv3.php?id=130275&num=3&sign=40u1wu
+湖北生活,https://jump.taoiptv.cn/iptv1.php?id=130280&num=1&sign=40u1wu
+湖北生活,https://jump.taoiptv.cn/iptv2.php?id=130280&num=2&sign=40u1wu
+湖北生活,https://jump.taoiptv.cn/iptv3.php?id=130280&num=3&sign=40u1wu
+武汉新闻,https://jump.taoiptv.cn/iptv1.php?id=130285&num=1&sign=40u1wu
+武汉新闻,https://jump.taoiptv.cn/iptv2.php?id=130285&num=2&sign=40u1wu
+武汉新闻,https://jump.taoiptv.cn/iptv3.php?id=130285&num=3&sign=40u1wu
+武汉电视剧,https://jump.taoiptv.cn/iptv1.php?id=130290&num=1&sign=40u1wu
+武汉电视剧,https://jump.taoiptv.cn/iptv2.php?id=130290&num=2&sign=40u1wu
+武汉电视剧,https://jump.taoiptv.cn/iptv3.php?id=130290&num=3&sign=40u1wu
+武汉文体,https://jump.taoiptv.cn/iptv1.php?id=130305&num=1&sign=40u1wu
+武汉文体,https://jump.taoiptv.cn/iptv2.php?id=130305&num=2&sign=40u1wu
+武汉文体,https://jump.taoiptv.cn/iptv3.php?id=130305&num=3&sign=40u1wu
+武汉教育,https://jump.taoiptv.cn/iptv1.php?id=130320&num=1&sign=40u1wu
+武汉教育,https://jump.taoiptv.cn/iptv2.php?id=130320&num=2&sign=40u1wu
+武汉教育,https://jump.taoiptv.cn/iptv3.php?id=130320&num=3&sign=40u1wu
+房县新闻,https://jump.taoiptv.cn/iptv1.php?id=130395&num=1&sign=40u1wu
+房县新闻,https://jump.taoiptv.cn/iptv2.php?id=130395&num=2&sign=40u1wu
+房县新闻,https://jump.taoiptv.cn/iptv3.php?id=130395&num=3&sign=40u1wu
+湖南教育,https://jump.taoiptv.cn/iptv1.php?id=130420&num=1&sign=40u1wu
+湖南教育,https://jump.taoiptv.cn/iptv2.php?id=130420&num=2&sign=40u1wu
+湖南教育,https://jump.taoiptv.cn/iptv3.php?id=130420&num=3&sign=40u1wu
+湖南经视,https://jump.taoiptv.cn/iptv1.php?id=130430&num=1&sign=40u1wu
+湖南经视,https://jump.taoiptv.cn/iptv2.php?id=130430&num=2&sign=40u1wu
+湖南经视,https://jump.taoiptv.cn/iptv3.php?id=130430&num=3&sign=40u1wu
+湖南都市,https://jump.taoiptv.cn/iptv1.php?id=130435&num=1&sign=40u1wu
+湖南都市,https://jump.taoiptv.cn/iptv2.php?id=130435&num=2&sign=40u1wu
+湖南都市,https://jump.taoiptv.cn/iptv3.php?id=130435&num=3&sign=40u1wu
+湖南电影,https://jump.taoiptv.cn/iptv1.php?id=130440&num=1&sign=40u1wu
+湖南电影,https://jump.taoiptv.cn/iptv2.php?id=130440&num=2&sign=40u1wu
+湖南电影,https://jump.taoiptv.cn/iptv3.php?id=130440&num=3&sign=40u1wu
+湖南电视剧,https://jump.taoiptv.cn/iptv1.php?id=130445&num=1&sign=40u1wu
+湖南电视剧,https://jump.taoiptv.cn/iptv2.php?id=130445&num=2&sign=40u1wu
+湖南电视剧,https://jump.taoiptv.cn/iptv3.php?id=130445&num=3&sign=40u1wu
+湖南娱乐,https://jump.taoiptv.cn/iptv1.php?id=130450&num=1&sign=40u1wu
+湖南娱乐,https://jump.taoiptv.cn/iptv2.php?id=130450&num=2&sign=40u1wu
+湖南娱乐,https://jump.taoiptv.cn/iptv3.php?id=130450&num=3&sign=40u1wu
+金鹰纪实,https://jump.taoiptv.cn/iptv1.php?id=130465&num=1&sign=40u1wu
+金鹰纪实,https://jump.taoiptv.cn/iptv2.php?id=130465&num=2&sign=40u1wu
+金鹰纪实,https://jump.taoiptv.cn/iptv3.php?id=130465&num=3&sign=40u1wu
+长沙新闻,https://jump.taoiptv.cn/iptv1.php?id=130480&num=1&sign=40u1wu
+长沙新闻,https://jump.taoiptv.cn/iptv2.php?id=130480&num=2&sign=40u1wu
+长沙新闻,https://jump.taoiptv.cn/iptv3.php?id=130480&num=3&sign=40u1wu
+长沙政法,https://jump.taoiptv.cn/iptv1.php?id=130490&num=1&sign=40u1wu
+长沙政法,https://jump.taoiptv.cn/iptv2.php?id=130490&num=2&sign=40u1wu
+长沙政法,https://jump.taoiptv.cn/iptv3.php?id=130490&num=3&sign=40u1wu
+常德新闻,https://jump.taoiptv.cn/iptv1.php?id=130525&num=1&sign=40u1wu
+常德新闻,https://jump.taoiptv.cn/iptv2.php?id=130525&num=2&sign=40u1wu
+常德新闻,https://jump.taoiptv.cn/iptv3.php?id=130525&num=3&sign=40u1wu
+怀化新闻,https://jump.taoiptv.cn/iptv1.php?id=130530&num=1&sign=40u1wu
+怀化新闻,https://jump.taoiptv.cn/iptv2.php?id=130530&num=2&sign=40u1wu
+怀化新闻,https://jump.taoiptv.cn/iptv3.php?id=130530&num=3&sign=40u1wu
+浏阳新闻,https://jump.taoiptv.cn/iptv1.php?id=130535&num=1&sign=40u1wu
+浏阳新闻,https://jump.taoiptv.cn/iptv2.php?id=130535&num=2&sign=40u1wu
+浏阳新闻,https://jump.taoiptv.cn/iptv3.php?id=130535&num=3&sign=40u1wu
+湘西公共,https://jump.taoiptv.cn/iptv1.php?id=130550&num=1&sign=40u1wu
+湘西公共,https://jump.taoiptv.cn/iptv2.php?id=130550&num=2&sign=40u1wu
+湘西公共,https://jump.taoiptv.cn/iptv3.php?id=130550&num=3&sign=40u1wu
+湘西新闻,https://jump.taoiptv.cn/iptv1.php?id=130555&num=1&sign=40u1wu
+湘西新闻,https://jump.taoiptv.cn/iptv2.php?id=130555&num=2&sign=40u1wu
+湘西新闻,https://jump.taoiptv.cn/iptv3.php?id=130555&num=3&sign=40u1wu
+张家界公共,https://jump.taoiptv.cn/iptv1.php?id=130560&num=1&sign=40u1wu
+张家界公共,https://jump.taoiptv.cn/iptv2.php?id=130560&num=2&sign=40u1wu
+张家界公共,https://jump.taoiptv.cn/iptv3.php?id=130560&num=3&sign=40u1wu
+张家界新闻,https://jump.taoiptv.cn/iptv1.php?id=130565&num=1&sign=40u1wu
+张家界新闻,https://jump.taoiptv.cn/iptv2.php?id=130565&num=2&sign=40u1wu
+张家界新闻,https://jump.taoiptv.cn/iptv3.php?id=130565&num=3&sign=40u1wu
+华南地区,#genre#
+广东经济,https://jump.taoiptv.cn/iptv1.php?id=140105&num=1&sign=40u1wu
+广东经济,https://jump.taoiptv.cn/iptv2.php?id=140105&num=2&sign=40u1wu
+广东经济,https://jump.taoiptv.cn/iptv3.php?id=140105&num=3&sign=40u1wu
+广东体育,https://jump.taoiptv.cn/iptv1.php?id=140110&num=1&sign=40u1wu
+广东体育,https://jump.taoiptv.cn/iptv2.php?id=140110&num=2&sign=40u1wu
+广东体育,https://jump.taoiptv.cn/iptv3.php?id=140110&num=3&sign=40u1wu
+广东珠江,https://jump.taoiptv.cn/iptv1.php?id=140115&num=1&sign=40u1wu
+广东珠江,https://jump.taoiptv.cn/iptv2.php?id=140115&num=2&sign=40u1wu
+广东珠江,https://jump.taoiptv.cn/iptv3.php?id=140115&num=3&sign=40u1wu
+广东影视,https://jump.taoiptv.cn/iptv1.php?id=140120&num=1&sign=40u1wu
+广东影视,https://jump.taoiptv.cn/iptv2.php?id=140120&num=2&sign=40u1wu
+广东影视,https://jump.taoiptv.cn/iptv3.php?id=140120&num=3&sign=40u1wu
+广东公共,https://jump.taoiptv.cn/iptv1.php?id=140125&num=1&sign=40u1wu
+广东公共,https://jump.taoiptv.cn/iptv2.php?id=140125&num=2&sign=40u1wu
+广东公共,https://jump.taoiptv.cn/iptv3.php?id=140125&num=3&sign=40u1wu
+广东少儿,https://jump.taoiptv.cn/iptv1.php?id=140130&num=1&sign=40u1wu
+广东少儿,https://jump.taoiptv.cn/iptv2.php?id=140130&num=2&sign=40u1wu
+广东少儿,https://jump.taoiptv.cn/iptv3.php?id=140130&num=3&sign=40u1wu
+广东新闻,https://jump.taoiptv.cn/iptv1.php?id=140135&num=1&sign=40u1wu
+广东新闻,https://jump.taoiptv.cn/iptv2.php?id=140135&num=2&sign=40u1wu
+广东新闻,https://jump.taoiptv.cn/iptv3.php?id=140135&num=3&sign=40u1wu
+广州综合,https://jump.taoiptv.cn/iptv1.php?id=140145&num=1&sign=40u1wu
+广州综合,https://jump.taoiptv.cn/iptv2.php?id=140145&num=2&sign=40u1wu
+广州综合,https://jump.taoiptv.cn/iptv3.php?id=140145&num=3&sign=40u1wu
+广州新闻,https://jump.taoiptv.cn/iptv1.php?id=140150&num=1&sign=40u1wu
+广州新闻,https://jump.taoiptv.cn/iptv2.php?id=140150&num=2&sign=40u1wu
+广州新闻,https://jump.taoiptv.cn/iptv3.php?id=140150&num=3&sign=40u1wu
+广州影视,https://jump.taoiptv.cn/iptv1.php?id=140155&num=1&sign=40u1wu
+广州影视,https://jump.taoiptv.cn/iptv2.php?id=140155&num=2&sign=40u1wu
+广州影视,https://jump.taoiptv.cn/iptv3.php?id=140155&num=3&sign=40u1wu
+广州法治,https://jump.taoiptv.cn/iptv1.php?id=140160&num=1&sign=40u1wu
+广州法治,https://jump.taoiptv.cn/iptv2.php?id=140160&num=2&sign=40u1wu
+广州法治,https://jump.taoiptv.cn/iptv3.php?id=140160&num=3&sign=40u1wu
+广州南国,https://jump.taoiptv.cn/iptv1.php?id=140170&num=1&sign=40u1wu
+广州南国,https://jump.taoiptv.cn/iptv2.php?id=140170&num=2&sign=40u1wu
+广州南国,https://jump.taoiptv.cn/iptv3.php?id=140170&num=3&sign=40u1wu
+深圳体育,https://jump.taoiptv.cn/iptv1.php?id=140175&num=1&sign=40u1wu
+深圳体育,https://jump.taoiptv.cn/iptv2.php?id=140175&num=2&sign=40u1wu
+深圳体育,https://jump.taoiptv.cn/iptv3.php?id=140175&num=3&sign=40u1wu
+深圳公共,https://jump.taoiptv.cn/iptv1.php?id=140180&num=1&sign=40u1wu
+深圳公共,https://jump.taoiptv.cn/iptv2.php?id=140180&num=2&sign=40u1wu
+深圳公共,https://jump.taoiptv.cn/iptv3.php?id=140180&num=3&sign=40u1wu
+深圳财经,https://jump.taoiptv.cn/iptv1.php?id=140185&num=1&sign=40u1wu
+深圳财经,https://jump.taoiptv.cn/iptv2.php?id=140185&num=2&sign=40u1wu
+深圳财经,https://jump.taoiptv.cn/iptv3.php?id=140185&num=3&sign=40u1wu
+深圳都市,https://jump.taoiptv.cn/iptv1.php?id=140190&num=1&sign=40u1wu
+深圳都市,https://jump.taoiptv.cn/iptv2.php?id=140190&num=2&sign=40u1wu
+深圳都市,https://jump.taoiptv.cn/iptv3.php?id=140190&num=3&sign=40u1wu
+深圳少儿,https://jump.taoiptv.cn/iptv1.php?id=140200&num=1&sign=40u1wu
+深圳少儿,https://jump.taoiptv.cn/iptv2.php?id=140200&num=2&sign=40u1wu
+深圳少儿,https://jump.taoiptv.cn/iptv3.php?id=140200&num=3&sign=40u1wu
+深圳众创TV,https://jump.taoiptv.cn/iptv1.php?id=140210&num=1&sign=40u1wu
+深圳众创TV,https://jump.taoiptv.cn/iptv2.php?id=140210&num=2&sign=40u1wu
+深圳众创TV,https://jump.taoiptv.cn/iptv3.php?id=140210&num=3&sign=40u1wu
+深圳DV生活,https://jump.taoiptv.cn/iptv1.php?id=140215&num=1&sign=40u1wu
+深圳DV生活,https://jump.taoiptv.cn/iptv2.php?id=140215&num=2&sign=40u1wu
+深圳DV生活,https://jump.taoiptv.cn/iptv3.php?id=140215&num=3&sign=40u1wu
+深圳电视剧,https://jump.taoiptv.cn/iptv1.php?id=140220&num=1&sign=40u1wu
+深圳电视剧,https://jump.taoiptv.cn/iptv2.php?id=140220&num=2&sign=40u1wu
+深圳电视剧,https://jump.taoiptv.cn/iptv3.php?id=140220&num=3&sign=40u1wu
+深圳宜和购物,https://jump.taoiptv.cn/iptv1.php?id=140225&num=1&sign=40u1wu
+深圳宜和购物,https://jump.taoiptv.cn/iptv2.php?id=140225&num=2&sign=40u1wu
+深圳宜和购物,https://jump.taoiptv.cn/iptv3.php?id=140225&num=3&sign=40u1wu
+东莞新闻,https://jump.taoiptv.cn/iptv1.php?id=140235&num=1&sign=40u1wu
+东莞新闻,https://jump.taoiptv.cn/iptv2.php?id=140235&num=2&sign=40u1wu
+东莞新闻,https://jump.taoiptv.cn/iptv3.php?id=140235&num=3&sign=40u1wu
+东莞生活,https://jump.taoiptv.cn/iptv1.php?id=140240&num=1&sign=40u1wu
+东莞生活,https://jump.taoiptv.cn/iptv2.php?id=140240&num=2&sign=40u1wu
+东莞生活,https://jump.taoiptv.cn/iptv3.php?id=140240&num=3&sign=40u1wu
+韶关新闻,https://jump.taoiptv.cn/iptv1.php?id=140245&num=1&sign=40u1wu
+韶关新闻,https://jump.taoiptv.cn/iptv2.php?id=140245&num=2&sign=40u1wu
+韶关新闻,https://jump.taoiptv.cn/iptv3.php?id=140245&num=3&sign=40u1wu
+湛江新闻,https://jump.taoiptv.cn/iptv1.php?id=140255&num=1&sign=40u1wu
+湛江新闻,https://jump.taoiptv.cn/iptv2.php?id=140255&num=2&sign=40u1wu
+湛江新闻,https://jump.taoiptv.cn/iptv3.php?id=140255&num=3&sign=40u1wu
+湛江公共,https://jump.taoiptv.cn/iptv1.php?id=140260&num=1&sign=40u1wu
+湛江公共,https://jump.taoiptv.cn/iptv2.php?id=140260&num=2&sign=40u1wu
+湛江公共,https://jump.taoiptv.cn/iptv3.php?id=140260&num=3&sign=40u1wu
+珠海-1,https://jump.taoiptv.cn/iptv1.php?id=140265&num=1&sign=40u1wu
+珠海-1,https://jump.taoiptv.cn/iptv2.php?id=140265&num=2&sign=40u1wu
+珠海-1,https://jump.taoiptv.cn/iptv3.php?id=140265&num=3&sign=40u1wu
+惠州综合,https://jump.taoiptv.cn/iptv1.php?id=140275&num=1&sign=40u1wu
+惠州综合,https://jump.taoiptv.cn/iptv2.php?id=140275&num=2&sign=40u1wu
+惠州综合,https://jump.taoiptv.cn/iptv3.php?id=140275&num=3&sign=40u1wu
+揭阳综合,https://jump.taoiptv.cn/iptv1.php?id=140285&num=1&sign=40u1wu
+揭阳综合,https://jump.taoiptv.cn/iptv2.php?id=140285&num=2&sign=40u1wu
+揭阳综合,https://jump.taoiptv.cn/iptv3.php?id=140285&num=3&sign=40u1wu
+揭阳生活,https://jump.taoiptv.cn/iptv1.php?id=140290&num=1&sign=40u1wu
+揭阳生活,https://jump.taoiptv.cn/iptv2.php?id=140290&num=2&sign=40u1wu
+揭阳生活,https://jump.taoiptv.cn/iptv3.php?id=140290&num=3&sign=40u1wu
+云浮综合,https://jump.taoiptv.cn/iptv1.php?id=140295&num=1&sign=40u1wu
+云浮综合,https://jump.taoiptv.cn/iptv2.php?id=140295&num=2&sign=40u1wu
+云浮综合,https://jump.taoiptv.cn/iptv3.php?id=140295&num=3&sign=40u1wu
+云浮文旅,https://jump.taoiptv.cn/iptv1.php?id=140300&num=1&sign=40u1wu
+云浮文旅,https://jump.taoiptv.cn/iptv2.php?id=140300&num=2&sign=40u1wu
+云浮文旅,https://jump.taoiptv.cn/iptv3.php?id=140300&num=3&sign=40u1wu
+肇庆综合,https://jump.taoiptv.cn/iptv1.php?id=140305&num=1&sign=40u1wu
+肇庆综合,https://jump.taoiptv.cn/iptv2.php?id=140305&num=2&sign=40u1wu
+肇庆综合,https://jump.taoiptv.cn/iptv3.php?id=140305&num=3&sign=40u1wu
+肇庆生活,https://jump.taoiptv.cn/iptv1.php?id=140310&num=1&sign=40u1wu
+肇庆生活,https://jump.taoiptv.cn/iptv2.php?id=140310&num=2&sign=40u1wu
+肇庆生活,https://jump.taoiptv.cn/iptv3.php?id=140310&num=3&sign=40u1wu
+清远新闻,https://jump.taoiptv.cn/iptv1.php?id=140315&num=1&sign=40u1wu
+清远新闻,https://jump.taoiptv.cn/iptv2.php?id=140315&num=2&sign=40u1wu
+清远新闻,https://jump.taoiptv.cn/iptv3.php?id=140315&num=3&sign=40u1wu
+清远文旅,https://jump.taoiptv.cn/iptv1.php?id=140320&num=1&sign=40u1wu
+清远文旅,https://jump.taoiptv.cn/iptv2.php?id=140320&num=2&sign=40u1wu
+清远文旅,https://jump.taoiptv.cn/iptv3.php?id=140320&num=3&sign=40u1wu
+汕头综合,https://jump.taoiptv.cn/iptv1.php?id=140325&num=1&sign=40u1wu
+汕头综合,https://jump.taoiptv.cn/iptv2.php?id=140325&num=2&sign=40u1wu
+汕头综合,https://jump.taoiptv.cn/iptv3.php?id=140325&num=3&sign=40u1wu
+汕头经济,https://jump.taoiptv.cn/iptv1.php?id=140330&num=1&sign=40u1wu
+汕头经济,https://jump.taoiptv.cn/iptv2.php?id=140330&num=2&sign=40u1wu
+汕头经济,https://jump.taoiptv.cn/iptv3.php?id=140330&num=3&sign=40u1wu
+汕头文旅,https://jump.taoiptv.cn/iptv1.php?id=140335&num=1&sign=40u1wu
+汕头文旅,https://jump.taoiptv.cn/iptv2.php?id=140335&num=2&sign=40u1wu
+汕头文旅,https://jump.taoiptv.cn/iptv3.php?id=140335&num=3&sign=40u1wu
+汕尾综合,https://jump.taoiptv.cn/iptv1.php?id=140340&num=1&sign=40u1wu
+汕尾综合,https://jump.taoiptv.cn/iptv2.php?id=140340&num=2&sign=40u1wu
+汕尾综合,https://jump.taoiptv.cn/iptv3.php?id=140340&num=3&sign=40u1wu
+汕尾公共,https://jump.taoiptv.cn/iptv1.php?id=140345&num=1&sign=40u1wu
+汕尾公共,https://jump.taoiptv.cn/iptv2.php?id=140345&num=2&sign=40u1wu
+汕尾公共,https://jump.taoiptv.cn/iptv3.php?id=140345&num=3&sign=40u1wu
+佛山公共,https://jump.taoiptv.cn/iptv1.php?id=140350&num=1&sign=40u1wu
+佛山公共,https://jump.taoiptv.cn/iptv2.php?id=140350&num=2&sign=40u1wu
+佛山公共,https://jump.taoiptv.cn/iptv3.php?id=140350&num=3&sign=40u1wu
+佛山南海,https://jump.taoiptv.cn/iptv1.php?id=140355&num=1&sign=40u1wu
+佛山南海,https://jump.taoiptv.cn/iptv2.php?id=140355&num=2&sign=40u1wu
+佛山南海,https://jump.taoiptv.cn/iptv3.php?id=140355&num=3&sign=40u1wu
+佛山顺德,https://jump.taoiptv.cn/iptv1.php?id=140360&num=1&sign=40u1wu
+佛山顺德,https://jump.taoiptv.cn/iptv2.php?id=140360&num=2&sign=40u1wu
+佛山顺德,https://jump.taoiptv.cn/iptv3.php?id=140360&num=3&sign=40u1wu
+佛山影视,https://jump.taoiptv.cn/iptv1.php?id=140365&num=1&sign=40u1wu
+佛山影视,https://jump.taoiptv.cn/iptv2.php?id=140365&num=2&sign=40u1wu
+佛山影视,https://jump.taoiptv.cn/iptv3.php?id=140365&num=3&sign=40u1wu
+佛山综合,https://jump.taoiptv.cn/iptv1.php?id=140370&num=1&sign=40u1wu
+佛山综合,https://jump.taoiptv.cn/iptv2.php?id=140370&num=2&sign=40u1wu
+佛山综合,https://jump.taoiptv.cn/iptv3.php?id=140370&num=3&sign=40u1wu
+中山综合,https://jump.taoiptv.cn/iptv1.php?id=140375&num=1&sign=40u1wu
+中山综合,https://jump.taoiptv.cn/iptv2.php?id=140375&num=2&sign=40u1wu
+中山综合,https://jump.taoiptv.cn/iptv3.php?id=140375&num=3&sign=40u1wu
+中山香山,https://jump.taoiptv.cn/iptv1.php?id=140380&num=1&sign=40u1wu
+中山香山,https://jump.taoiptv.cn/iptv2.php?id=140380&num=2&sign=40u1wu
+中山香山,https://jump.taoiptv.cn/iptv3.php?id=140380&num=3&sign=40u1wu
+潮州综合,https://jump.taoiptv.cn/iptv1.php?id=140390&num=1&sign=40u1wu
+潮州综合,https://jump.taoiptv.cn/iptv2.php?id=140390&num=2&sign=40u1wu
+潮州综合,https://jump.taoiptv.cn/iptv3.php?id=140390&num=3&sign=40u1wu
+潮州民生,https://jump.taoiptv.cn/iptv1.php?id=140395&num=1&sign=40u1wu
+潮州民生,https://jump.taoiptv.cn/iptv2.php?id=140395&num=2&sign=40u1wu
+潮州民生,https://jump.taoiptv.cn/iptv3.php?id=140395&num=3&sign=40u1wu
+河源公共,https://jump.taoiptv.cn/iptv1.php?id=140405&num=1&sign=40u1wu
+河源公共,https://jump.taoiptv.cn/iptv2.php?id=140405&num=2&sign=40u1wu
+河源公共,https://jump.taoiptv.cn/iptv3.php?id=140405&num=3&sign=40u1wu
+梅州-1,https://jump.taoiptv.cn/iptv1.php?id=140410&num=1&sign=40u1wu
+梅州-1,https://jump.taoiptv.cn/iptv2.php?id=140410&num=2&sign=40u1wu
+梅州-1,https://jump.taoiptv.cn/iptv3.php?id=140410&num=3&sign=40u1wu
+梅州客家,https://jump.taoiptv.cn/iptv1.php?id=140415&num=1&sign=40u1wu
+梅州客家,https://jump.taoiptv.cn/iptv2.php?id=140415&num=2&sign=40u1wu
+梅州客家,https://jump.taoiptv.cn/iptv3.php?id=140415&num=3&sign=40u1wu
+岭南戏曲,https://jump.taoiptv.cn/iptv1.php?id=140430&num=1&sign=40u1wu
+岭南戏曲,https://jump.taoiptv.cn/iptv2.php?id=140430&num=2&sign=40u1wu
+岭南戏曲,https://jump.taoiptv.cn/iptv3.php?id=140430&num=3&sign=40u1wu
+广西新闻,https://jump.taoiptv.cn/iptv1.php?id=140435&num=1&sign=40u1wu
+广西新闻,https://jump.taoiptv.cn/iptv2.php?id=140435&num=2&sign=40u1wu
+广西新闻,https://jump.taoiptv.cn/iptv3.php?id=140435&num=3&sign=40u1wu
+广西综艺,https://jump.taoiptv.cn/iptv1.php?id=140440&num=1&sign=40u1wu
+广西综艺,https://jump.taoiptv.cn/iptv2.php?id=140440&num=2&sign=40u1wu
+广西综艺,https://jump.taoiptv.cn/iptv3.php?id=140440&num=3&sign=40u1wu
+广西都市,https://jump.taoiptv.cn/iptv1.php?id=140445&num=1&sign=40u1wu
+广西都市,https://jump.taoiptv.cn/iptv2.php?id=140445&num=2&sign=40u1wu
+广西都市,https://jump.taoiptv.cn/iptv3.php?id=140445&num=3&sign=40u1wu
+广西影视,https://jump.taoiptv.cn/iptv1.php?id=140455&num=1&sign=40u1wu
+广西影视,https://jump.taoiptv.cn/iptv2.php?id=140455&num=2&sign=40u1wu
+广西影视,https://jump.taoiptv.cn/iptv3.php?id=140455&num=3&sign=40u1wu
+悦美生活,https://jump.taoiptv.cn/iptv1.php?id=140470&num=1&sign=40u1wu
+悦美生活,https://jump.taoiptv.cn/iptv2.php?id=140470&num=2&sign=40u1wu
+悦美生活,https://jump.taoiptv.cn/iptv3.php?id=140470&num=3&sign=40u1wu
+南宁新闻,https://jump.taoiptv.cn/iptv1.php?id=140475&num=1&sign=40u1wu
+南宁新闻,https://jump.taoiptv.cn/iptv2.php?id=140475&num=2&sign=40u1wu
+南宁新闻,https://jump.taoiptv.cn/iptv3.php?id=140475&num=3&sign=40u1wu
+南宁影视,https://jump.taoiptv.cn/iptv1.php?id=140485&num=1&sign=40u1wu
+南宁影视,https://jump.taoiptv.cn/iptv2.php?id=140485&num=2&sign=40u1wu
+南宁影视,https://jump.taoiptv.cn/iptv3.php?id=140485&num=3&sign=40u1wu
+南宁公共,https://jump.taoiptv.cn/iptv1.php?id=140490&num=1&sign=40u1wu
+南宁公共,https://jump.taoiptv.cn/iptv2.php?id=140490&num=2&sign=40u1wu
+南宁公共,https://jump.taoiptv.cn/iptv3.php?id=140490&num=3&sign=40u1wu
+百色综合,https://jump.taoiptv.cn/iptv1.php?id=140505&num=1&sign=40u1wu
+百色综合,https://jump.taoiptv.cn/iptv2.php?id=140505&num=2&sign=40u1wu
+百色综合,https://jump.taoiptv.cn/iptv3.php?id=140505&num=3&sign=40u1wu
+柳州新闻,https://jump.taoiptv.cn/iptv1.php?id=140520&num=1&sign=40u1wu
+柳州新闻,https://jump.taoiptv.cn/iptv2.php?id=140520&num=2&sign=40u1wu
+柳州新闻,https://jump.taoiptv.cn/iptv3.php?id=140520&num=3&sign=40u1wu
+旅游卫视,https://jump.taoiptv.cn/iptv1.php?id=140560&num=1&sign=40u1wu
+旅游卫视,https://jump.taoiptv.cn/iptv2.php?id=140560&num=2&sign=40u1wu
+旅游卫视,https://jump.taoiptv.cn/iptv3.php?id=140560&num=3&sign=40u1wu
+西南地区,#genre#
+重庆影视,https://jump.taoiptv.cn/iptv1.php?id=150105&num=1&sign=40u1wu
+重庆影视,https://jump.taoiptv.cn/iptv2.php?id=150105&num=2&sign=40u1wu
+重庆影视,https://jump.taoiptv.cn/iptv3.php?id=150105&num=3&sign=40u1wu
+重庆新闻,https://jump.taoiptv.cn/iptv1.php?id=150110&num=1&sign=40u1wu
+重庆新闻,https://jump.taoiptv.cn/iptv2.php?id=150110&num=2&sign=40u1wu
+重庆新闻,https://jump.taoiptv.cn/iptv3.php?id=150110&num=3&sign=40u1wu
+重庆社会,https://jump.taoiptv.cn/iptv1.php?id=150115&num=1&sign=40u1wu
+重庆社会,https://jump.taoiptv.cn/iptv2.php?id=150115&num=2&sign=40u1wu
+重庆社会,https://jump.taoiptv.cn/iptv3.php?id=150115&num=3&sign=40u1wu
+重庆时尚,https://jump.taoiptv.cn/iptv1.php?id=150120&num=1&sign=40u1wu
+重庆时尚,https://jump.taoiptv.cn/iptv2.php?id=150120&num=2&sign=40u1wu
+重庆时尚,https://jump.taoiptv.cn/iptv3.php?id=150120&num=3&sign=40u1wu
+重庆娱乐,https://jump.taoiptv.cn/iptv1.php?id=150125&num=1&sign=40u1wu
+重庆娱乐,https://jump.taoiptv.cn/iptv2.php?id=150125&num=2&sign=40u1wu
+重庆娱乐,https://jump.taoiptv.cn/iptv3.php?id=150125&num=3&sign=40u1wu
+重庆少儿,https://jump.taoiptv.cn/iptv1.php?id=150130&num=1&sign=40u1wu
+重庆少儿,https://jump.taoiptv.cn/iptv2.php?id=150130&num=2&sign=40u1wu
+重庆少儿,https://jump.taoiptv.cn/iptv3.php?id=150130&num=3&sign=40u1wu
+重庆科教,https://jump.taoiptv.cn/iptv1.php?id=150135&num=1&sign=40u1wu
+重庆科教,https://jump.taoiptv.cn/iptv2.php?id=150135&num=2&sign=40u1wu
+重庆科教,https://jump.taoiptv.cn/iptv3.php?id=150135&num=3&sign=40u1wu
+重庆汽摩,https://jump.taoiptv.cn/iptv1.php?id=150140&num=1&sign=40u1wu
+重庆汽摩,https://jump.taoiptv.cn/iptv2.php?id=150140&num=2&sign=40u1wu
+重庆汽摩,https://jump.taoiptv.cn/iptv3.php?id=150140&num=3&sign=40u1wu
+重庆移动,https://jump.taoiptv.cn/iptv1.php?id=150160&num=1&sign=40u1wu
+重庆移动,https://jump.taoiptv.cn/iptv2.php?id=150160&num=2&sign=40u1wu
+重庆移动,https://jump.taoiptv.cn/iptv3.php?id=150160&num=3&sign=40u1wu
+睛彩重庆,https://jump.taoiptv.cn/iptv1.php?id=150162&num=1&sign=40u1wu
+睛彩重庆,https://jump.taoiptv.cn/iptv2.php?id=150162&num=2&sign=40u1wu
+睛彩重庆,https://jump.taoiptv.cn/iptv3.php?id=150162&num=3&sign=40u1wu
+重庆新农村,https://jump.taoiptv.cn/iptv1.php?id=150165&num=1&sign=40u1wu
+重庆新农村,https://jump.taoiptv.cn/iptv2.php?id=150165&num=2&sign=40u1wu
+重庆新农村,https://jump.taoiptv.cn/iptv3.php?id=150165&num=3&sign=40u1wu
+四川文化,https://jump.taoiptv.cn/iptv1.php?id=150170&num=1&sign=40u1wu
+四川文化,https://jump.taoiptv.cn/iptv2.php?id=150170&num=2&sign=40u1wu
+四川文化,https://jump.taoiptv.cn/iptv3.php?id=150170&num=3&sign=40u1wu
+四川经济,https://jump.taoiptv.cn/iptv1.php?id=150175&num=1&sign=40u1wu
+四川经济,https://jump.taoiptv.cn/iptv2.php?id=150175&num=2&sign=40u1wu
+四川经济,https://jump.taoiptv.cn/iptv3.php?id=150175&num=3&sign=40u1wu
+四川新闻,https://jump.taoiptv.cn/iptv1.php?id=150180&num=1&sign=40u1wu
+四川新闻,https://jump.taoiptv.cn/iptv2.php?id=150180&num=2&sign=40u1wu
+四川新闻,https://jump.taoiptv.cn/iptv3.php?id=150180&num=3&sign=40u1wu
+四川影视,https://jump.taoiptv.cn/iptv1.php?id=150185&num=1&sign=40u1wu
+四川影视,https://jump.taoiptv.cn/iptv2.php?id=150185&num=2&sign=40u1wu
+四川影视,https://jump.taoiptv.cn/iptv3.php?id=150185&num=3&sign=40u1wu
+四川科教,https://jump.taoiptv.cn/iptv1.php?id=150190&num=1&sign=40u1wu
+四川科教,https://jump.taoiptv.cn/iptv2.php?id=150190&num=2&sign=40u1wu
+四川科教,https://jump.taoiptv.cn/iptv3.php?id=150190&num=3&sign=40u1wu
+四川乡村,https://jump.taoiptv.cn/iptv1.php?id=150195&num=1&sign=40u1wu
+四川乡村,https://jump.taoiptv.cn/iptv2.php?id=150195&num=2&sign=40u1wu
+四川乡村,https://jump.taoiptv.cn/iptv3.php?id=150195&num=3&sign=40u1wu
+星空购物,https://jump.taoiptv.cn/iptv1.php?id=150200&num=1&sign=40u1wu
+星空购物,https://jump.taoiptv.cn/iptv2.php?id=150200&num=2&sign=40u1wu
+星空购物,https://jump.taoiptv.cn/iptv3.php?id=150200&num=3&sign=40u1wu
+妇女儿童,https://jump.taoiptv.cn/iptv1.php?id=150205&num=1&sign=40u1wu
+妇女儿童,https://jump.taoiptv.cn/iptv2.php?id=150205&num=2&sign=40u1wu
+妇女儿童,https://jump.taoiptv.cn/iptv3.php?id=150205&num=3&sign=40u1wu
+成都新闻,https://jump.taoiptv.cn/iptv1.php?id=150210&num=1&sign=40u1wu
+成都新闻,https://jump.taoiptv.cn/iptv2.php?id=150210&num=2&sign=40u1wu
+成都新闻,https://jump.taoiptv.cn/iptv3.php?id=150210&num=3&sign=40u1wu
+成都经济,https://jump.taoiptv.cn/iptv1.php?id=150215&num=1&sign=40u1wu
+成都经济,https://jump.taoiptv.cn/iptv2.php?id=150215&num=2&sign=40u1wu
+成都经济,https://jump.taoiptv.cn/iptv3.php?id=150215&num=3&sign=40u1wu
+成都都市,https://jump.taoiptv.cn/iptv1.php?id=150220&num=1&sign=40u1wu
+成都都市,https://jump.taoiptv.cn/iptv2.php?id=150220&num=2&sign=40u1wu
+成都都市,https://jump.taoiptv.cn/iptv3.php?id=150220&num=3&sign=40u1wu
+成都影视,https://jump.taoiptv.cn/iptv1.php?id=150225&num=1&sign=40u1wu
+成都影视,https://jump.taoiptv.cn/iptv2.php?id=150225&num=2&sign=40u1wu
+成都影视,https://jump.taoiptv.cn/iptv3.php?id=150225&num=3&sign=40u1wu
+成都公共,https://jump.taoiptv.cn/iptv1.php?id=150230&num=1&sign=40u1wu
+成都公共,https://jump.taoiptv.cn/iptv2.php?id=150230&num=2&sign=40u1wu
+成都公共,https://jump.taoiptv.cn/iptv3.php?id=150230&num=3&sign=40u1wu
+成都少儿,https://jump.taoiptv.cn/iptv1.php?id=150235&num=1&sign=40u1wu
+成都少儿,https://jump.taoiptv.cn/iptv2.php?id=150235&num=2&sign=40u1wu
+成都少儿,https://jump.taoiptv.cn/iptv3.php?id=150235&num=3&sign=40u1wu
+成都购物,https://jump.taoiptv.cn/iptv1.php?id=150245&num=1&sign=40u1wu
+成都购物,https://jump.taoiptv.cn/iptv2.php?id=150245&num=2&sign=40u1wu
+成都购物,https://jump.taoiptv.cn/iptv3.php?id=150245&num=3&sign=40u1wu
+峨眉电影,https://jump.taoiptv.cn/iptv1.php?id=150330&num=1&sign=40u1wu
+峨眉电影,https://jump.taoiptv.cn/iptv2.php?id=150330&num=2&sign=40u1wu
+峨眉电影,https://jump.taoiptv.cn/iptv3.php?id=150330&num=3&sign=40u1wu
+熊猫新闻,https://jump.taoiptv.cn/iptv1.php?id=150335&num=1&sign=40u1wu
+熊猫新闻,https://jump.taoiptv.cn/iptv2.php?id=150335&num=2&sign=40u1wu
+熊猫新闻,https://jump.taoiptv.cn/iptv3.php?id=150335&num=3&sign=40u1wu
+熊猫体娱,https://jump.taoiptv.cn/iptv1.php?id=150340&num=1&sign=40u1wu
+熊猫体娱,https://jump.taoiptv.cn/iptv2.php?id=150340&num=2&sign=40u1wu
+熊猫体娱,https://jump.taoiptv.cn/iptv3.php?id=150340&num=3&sign=40u1wu
+熊猫少儿,https://jump.taoiptv.cn/iptv1.php?id=150345&num=1&sign=40u1wu
+熊猫少儿,https://jump.taoiptv.cn/iptv2.php?id=150345&num=2&sign=40u1wu
+熊猫少儿,https://jump.taoiptv.cn/iptv3.php?id=150345&num=3&sign=40u1wu
+熊猫影院,https://jump.taoiptv.cn/iptv1.php?id=150350&num=1&sign=40u1wu
+熊猫影院,https://jump.taoiptv.cn/iptv2.php?id=150350&num=2&sign=40u1wu
+熊猫影院,https://jump.taoiptv.cn/iptv3.php?id=150350&num=3&sign=40u1wu
+熊猫频道,https://jump.taoiptv.cn/iptv1.php?id=150355&num=1&sign=40u1wu
+熊猫频道,https://jump.taoiptv.cn/iptv2.php?id=150355&num=2&sign=40u1wu
+熊猫频道,https://jump.taoiptv.cn/iptv3.php?id=150355&num=3&sign=40u1wu
+金熊猫卡通,https://jump.taoiptv.cn/iptv1.php?id=150360&num=1&sign=40u1wu
+金熊猫卡通,https://jump.taoiptv.cn/iptv2.php?id=150360&num=2&sign=40u1wu
+金熊猫卡通,https://jump.taoiptv.cn/iptv3.php?id=150360&num=3&sign=40u1wu
+熊猫爱生活,https://jump.taoiptv.cn/iptv1.php?id=150365&num=1&sign=40u1wu
+熊猫爱生活,https://jump.taoiptv.cn/iptv2.php?id=150365&num=2&sign=40u1wu
+熊猫爱生活,https://jump.taoiptv.cn/iptv3.php?id=150365&num=3&sign=40u1wu
+大爱四川 ,https://jump.taoiptv.cn/iptv1.php?id=150370&num=1&sign=40u1wu
+大爱四川 ,https://jump.taoiptv.cn/iptv2.php?id=150370&num=2&sign=40u1wu
+大爱四川 ,https://jump.taoiptv.cn/iptv3.php?id=150370&num=3&sign=40u1wu
+大爱旅游,https://jump.taoiptv.cn/iptv1.php?id=150375&num=1&sign=40u1wu
+大爱旅游,https://jump.taoiptv.cn/iptv2.php?id=150375&num=2&sign=40u1wu
+大爱旅游,https://jump.taoiptv.cn/iptv3.php?id=150375&num=3&sign=40u1wu
+大爱生活,https://jump.taoiptv.cn/iptv1.php?id=150380&num=1&sign=40u1wu
+大爱生活,https://jump.taoiptv.cn/iptv2.php?id=150380&num=2&sign=40u1wu
+大爱生活,https://jump.taoiptv.cn/iptv3.php?id=150380&num=3&sign=40u1wu
+大爱时尚,https://jump.taoiptv.cn/iptv1.php?id=150385&num=1&sign=40u1wu
+大爱时尚,https://jump.taoiptv.cn/iptv2.php?id=150385&num=2&sign=40u1wu
+大爱时尚,https://jump.taoiptv.cn/iptv3.php?id=150385&num=3&sign=40u1wu
+西北地区,#genre#
+陕西新闻,https://jump.taoiptv.cn/iptv1.php?id=160100&num=1&sign=40u1wu
+陕西新闻,https://jump.taoiptv.cn/iptv2.php?id=160100&num=2&sign=40u1wu
+陕西新闻,https://jump.taoiptv.cn/iptv3.php?id=160100&num=3&sign=40u1wu
+陕西都市,https://jump.taoiptv.cn/iptv1.php?id=160105&num=1&sign=40u1wu
+陕西都市,https://jump.taoiptv.cn/iptv2.php?id=160105&num=2&sign=40u1wu
+陕西都市,https://jump.taoiptv.cn/iptv3.php?id=160105&num=3&sign=40u1wu
+陕西生活,https://jump.taoiptv.cn/iptv1.php?id=160110&num=1&sign=40u1wu
+陕西生活,https://jump.taoiptv.cn/iptv2.php?id=160110&num=2&sign=40u1wu
+陕西生活,https://jump.taoiptv.cn/iptv3.php?id=160110&num=3&sign=40u1wu
+陕西影视,https://jump.taoiptv.cn/iptv1.php?id=160115&num=1&sign=40u1wu
+陕西影视,https://jump.taoiptv.cn/iptv2.php?id=160115&num=2&sign=40u1wu
+陕西影视,https://jump.taoiptv.cn/iptv3.php?id=160115&num=3&sign=40u1wu
+陕西公共,https://jump.taoiptv.cn/iptv1.php?id=160120&num=1&sign=40u1wu
+陕西公共,https://jump.taoiptv.cn/iptv2.php?id=160120&num=2&sign=40u1wu
+陕西公共,https://jump.taoiptv.cn/iptv3.php?id=160120&num=3&sign=40u1wu
+陕西体育,https://jump.taoiptv.cn/iptv1.php?id=160130&num=1&sign=40u1wu
+陕西体育,https://jump.taoiptv.cn/iptv2.php?id=160130&num=2&sign=40u1wu
+陕西体育,https://jump.taoiptv.cn/iptv3.php?id=160130&num=3&sign=40u1wu
+西部电影,https://jump.taoiptv.cn/iptv1.php?id=160135&num=1&sign=40u1wu
+西部电影,https://jump.taoiptv.cn/iptv2.php?id=160135&num=2&sign=40u1wu
+西部电影,https://jump.taoiptv.cn/iptv3.php?id=160135&num=3&sign=40u1wu
+西安乐购,https://jump.taoiptv.cn/iptv1.php?id=160170&num=1&sign=40u1wu
+西安乐购,https://jump.taoiptv.cn/iptv2.php?id=160170&num=2&sign=40u1wu
+西安乐购,https://jump.taoiptv.cn/iptv3.php?id=160170&num=3&sign=40u1wu
+安康综合,https://jump.taoiptv.cn/iptv1.php?id=160185&num=1&sign=40u1wu
+安康综合,https://jump.taoiptv.cn/iptv2.php?id=160185&num=2&sign=40u1wu
+安康综合,https://jump.taoiptv.cn/iptv3.php?id=160185&num=3&sign=40u1wu
+渭南新闻,https://jump.taoiptv.cn/iptv1.php?id=160200&num=1&sign=40u1wu
+渭南新闻,https://jump.taoiptv.cn/iptv2.php?id=160200&num=2&sign=40u1wu
+渭南新闻,https://jump.taoiptv.cn/iptv3.php?id=160200&num=3&sign=40u1wu
+眉县新闻,https://jump.taoiptv.cn/iptv1.php?id=160205&num=1&sign=40u1wu
+眉县新闻,https://jump.taoiptv.cn/iptv2.php?id=160205&num=2&sign=40u1wu
+眉县新闻,https://jump.taoiptv.cn/iptv3.php?id=160205&num=3&sign=40u1wu
+咸阳综合,https://jump.taoiptv.cn/iptv1.php?id=160215&num=1&sign=40u1wu
+咸阳综合,https://jump.taoiptv.cn/iptv2.php?id=160215&num=2&sign=40u1wu
+咸阳综合,https://jump.taoiptv.cn/iptv3.php?id=160215&num=3&sign=40u1wu
+宝鸡1,https://jump.taoiptv.cn/iptv1.php?id=160220&num=1&sign=40u1wu
+宝鸡1,https://jump.taoiptv.cn/iptv2.php?id=160220&num=2&sign=40u1wu
+宝鸡1,https://jump.taoiptv.cn/iptv3.php?id=160220&num=3&sign=40u1wu
+宝鸡2,https://jump.taoiptv.cn/iptv1.php?id=160225&num=1&sign=40u1wu
+宝鸡2,https://jump.taoiptv.cn/iptv2.php?id=160225&num=2&sign=40u1wu
+宝鸡2,https://jump.taoiptv.cn/iptv3.php?id=160225&num=3&sign=40u1wu
+陈仓频道,https://jump.taoiptv.cn/iptv1.php?id=160235&num=1&sign=40u1wu
+陈仓频道,https://jump.taoiptv.cn/iptv2.php?id=160235&num=2&sign=40u1wu
+陈仓频道,https://jump.taoiptv.cn/iptv3.php?id=160235&num=3&sign=40u1wu
+城固频道,https://jump.taoiptv.cn/iptv1.php?id=160240&num=1&sign=40u1wu
+城固频道,https://jump.taoiptv.cn/iptv2.php?id=160240&num=2&sign=40u1wu
+城固频道,https://jump.taoiptv.cn/iptv3.php?id=160240&num=3&sign=40u1wu
+淳化频道,https://jump.taoiptv.cn/iptv1.php?id=160245&num=1&sign=40u1wu
+淳化频道,https://jump.taoiptv.cn/iptv2.php?id=160245&num=2&sign=40u1wu
+淳化频道,https://jump.taoiptv.cn/iptv3.php?id=160245&num=3&sign=40u1wu
+凤翔频道,https://jump.taoiptv.cn/iptv1.php?id=160250&num=1&sign=40u1wu
+凤翔频道,https://jump.taoiptv.cn/iptv2.php?id=160250&num=2&sign=40u1wu
+凤翔频道,https://jump.taoiptv.cn/iptv3.php?id=160250&num=3&sign=40u1wu
+扶风频道,https://jump.taoiptv.cn/iptv1.php?id=160255&num=1&sign=40u1wu
+扶风频道,https://jump.taoiptv.cn/iptv2.php?id=160255&num=2&sign=40u1wu
+扶风频道,https://jump.taoiptv.cn/iptv3.php?id=160255&num=3&sign=40u1wu
+佛坪频道,https://jump.taoiptv.cn/iptv1.php?id=160260&num=1&sign=40u1wu
+佛坪频道,https://jump.taoiptv.cn/iptv2.php?id=160260&num=2&sign=40u1wu
+佛坪频道,https://jump.taoiptv.cn/iptv3.php?id=160260&num=3&sign=40u1wu
+岚皋频道,https://jump.taoiptv.cn/iptv1.php?id=160270&num=1&sign=40u1wu
+岚皋频道,https://jump.taoiptv.cn/iptv2.php?id=160270&num=2&sign=40u1wu
+岚皋频道,https://jump.taoiptv.cn/iptv3.php?id=160270&num=3&sign=40u1wu
+麟游频道,https://jump.taoiptv.cn/iptv1.php?id=160275&num=1&sign=40u1wu
+麟游频道,https://jump.taoiptv.cn/iptv2.php?id=160275&num=2&sign=40u1wu
+麟游频道,https://jump.taoiptv.cn/iptv3.php?id=160275&num=3&sign=40u1wu
+陇县频道,https://jump.taoiptv.cn/iptv1.php?id=160285&num=1&sign=40u1wu
+陇县频道,https://jump.taoiptv.cn/iptv2.php?id=160285&num=2&sign=40u1wu
+陇县频道,https://jump.taoiptv.cn/iptv3.php?id=160285&num=3&sign=40u1wu
+宁强频道,https://jump.taoiptv.cn/iptv1.php?id=160300&num=1&sign=40u1wu
+宁强频道,https://jump.taoiptv.cn/iptv2.php?id=160300&num=2&sign=40u1wu
+宁强频道,https://jump.taoiptv.cn/iptv3.php?id=160300&num=3&sign=40u1wu
+商洛频道,https://jump.taoiptv.cn/iptv1.php?id=160305&num=1&sign=40u1wu
+商洛频道,https://jump.taoiptv.cn/iptv2.php?id=160305&num=2&sign=40u1wu
+商洛频道,https://jump.taoiptv.cn/iptv3.php?id=160305&num=3&sign=40u1wu
+榆林频道,https://jump.taoiptv.cn/iptv1.php?id=160320&num=1&sign=40u1wu
+榆林频道,https://jump.taoiptv.cn/iptv2.php?id=160320&num=2&sign=40u1wu
+榆林频道,https://jump.taoiptv.cn/iptv3.php?id=160320&num=3&sign=40u1wu
+洋县电视台,https://jump.taoiptv.cn/iptv1.php?id=160325&num=1&sign=40u1wu
+洋县电视台,https://jump.taoiptv.cn/iptv2.php?id=160325&num=2&sign=40u1wu
+洋县电视台,https://jump.taoiptv.cn/iptv3.php?id=160325&num=3&sign=40u1wu
+陕视融媒,https://jump.taoiptv.cn/iptv1.php?id=160350&num=1&sign=40u1wu
+陕视融媒,https://jump.taoiptv.cn/iptv2.php?id=160350&num=2&sign=40u1wu
+陕视融媒,https://jump.taoiptv.cn/iptv3.php?id=160350&num=3&sign=40u1wu
+西乡融媒,https://jump.taoiptv.cn/iptv1.php?id=160355&num=1&sign=40u1wu
+西乡融媒,https://jump.taoiptv.cn/iptv2.php?id=160355&num=2&sign=40u1wu
+西乡融媒,https://jump.taoiptv.cn/iptv3.php?id=160355&num=3&sign=40u1wu
+圆点生活,https://jump.taoiptv.cn/iptv1.php?id=160370&num=1&sign=40u1wu
+圆点生活,https://jump.taoiptv.cn/iptv2.php?id=160370&num=2&sign=40u1wu
+圆点生活,https://jump.taoiptv.cn/iptv3.php?id=160370&num=3&sign=40u1wu
+圆点影视,https://jump.taoiptv.cn/iptv1.php?id=160375&num=1&sign=40u1wu
+圆点影视,https://jump.taoiptv.cn/iptv2.php?id=160375&num=2&sign=40u1wu
+圆点影视,https://jump.taoiptv.cn/iptv3.php?id=160375&num=3&sign=40u1wu
+银川公共,https://jump.taoiptv.cn/iptv1.php?id=160475&num=1&sign=40u1wu
+银川公共,https://jump.taoiptv.cn/iptv2.php?id=160475&num=2&sign=40u1wu
+银川公共,https://jump.taoiptv.cn/iptv3.php?id=160475&num=3&sign=40u1wu
+银川文体,https://jump.taoiptv.cn/iptv1.php?id=160480&num=1&sign=40u1wu
+银川文体,https://jump.taoiptv.cn/iptv2.php?id=160480&num=2&sign=40u1wu
+银川文体,https://jump.taoiptv.cn/iptv3.php?id=160480&num=3&sign=40u1wu
+银川生活,https://jump.taoiptv.cn/iptv1.php?id=160485&num=1&sign=40u1wu
+银川生活,https://jump.taoiptv.cn/iptv2.php?id=160485&num=2&sign=40u1wu
+银川生活,https://jump.taoiptv.cn/iptv3.php?id=160485&num=3&sign=40u1wu
+内蒙古少儿,https://jump.taoiptv.cn/iptv1.php?id=160490&num=1&sign=40u1wu
+内蒙古少儿,https://jump.taoiptv.cn/iptv2.php?id=160490&num=2&sign=40u1wu
+内蒙古少儿,https://jump.taoiptv.cn/iptv3.php?id=160490&num=3&sign=40u1wu
+内蒙古新闻,https://jump.taoiptv.cn/iptv1.php?id=160495&num=1&sign=40u1wu
+内蒙古新闻,https://jump.taoiptv.cn/iptv2.php?id=160495&num=2&sign=40u1wu
+内蒙古新闻,https://jump.taoiptv.cn/iptv3.php?id=160495&num=3&sign=40u1wu
+内蒙古农牧,https://jump.taoiptv.cn/iptv1.php?id=160500&num=1&sign=40u1wu
+内蒙古农牧,https://jump.taoiptv.cn/iptv2.php?id=160500&num=2&sign=40u1wu
+内蒙古农牧,https://jump.taoiptv.cn/iptv3.php?id=160500&num=3&sign=40u1wu
+内蒙古文体,https://jump.taoiptv.cn/iptv1.php?id=160505&num=1&sign=40u1wu
+内蒙古文体,https://jump.taoiptv.cn/iptv2.php?id=160505&num=2&sign=40u1wu
+内蒙古文体,https://jump.taoiptv.cn/iptv3.php?id=160505&num=3&sign=40u1wu
+内蒙古经济,https://jump.taoiptv.cn/iptv1.php?id=160510&num=1&sign=40u1wu
+内蒙古经济,https://jump.taoiptv.cn/iptv2.php?id=160510&num=2&sign=40u1wu
+内蒙古经济,https://jump.taoiptv.cn/iptv3.php?id=160510&num=3&sign=40u1wu
+内蒙古蒙语,https://jump.taoiptv.cn/iptv1.php?id=160515&num=1&sign=40u1wu
+内蒙古蒙语,https://jump.taoiptv.cn/iptv2.php?id=160515&num=2&sign=40u1wu
+内蒙古蒙语,https://jump.taoiptv.cn/iptv3.php?id=160515&num=3&sign=40u1wu
+赤峰新闻,https://jump.taoiptv.cn/iptv1.php?id=160520&num=1&sign=40u1wu
+赤峰新闻,https://jump.taoiptv.cn/iptv2.php?id=160520&num=2&sign=40u1wu
+赤峰新闻,https://jump.taoiptv.cn/iptv3.php?id=160520&num=3&sign=40u1wu
+赤峰经济,https://jump.taoiptv.cn/iptv1.php?id=160525&num=1&sign=40u1wu
+赤峰经济,https://jump.taoiptv.cn/iptv2.php?id=160525&num=2&sign=40u1wu
+赤峰经济,https://jump.taoiptv.cn/iptv3.php?id=160525&num=3&sign=40u1wu
+赤峰影视,https://jump.taoiptv.cn/iptv1.php?id=160530&num=1&sign=40u1wu
+赤峰影视,https://jump.taoiptv.cn/iptv2.php?id=160530&num=2&sign=40u1wu
+赤峰影视,https://jump.taoiptv.cn/iptv3.php?id=160530&num=3&sign=40u1wu
+呼伦贝尔新闻,https://jump.taoiptv.cn/iptv1.php?id=160535&num=1&sign=40u1wu
+呼伦贝尔新闻,https://jump.taoiptv.cn/iptv2.php?id=160535&num=2&sign=40u1wu
+呼伦贝尔新闻,https://jump.taoiptv.cn/iptv3.php?id=160535&num=3&sign=40u1wu
+呼伦贝尔文化,https://jump.taoiptv.cn/iptv1.php?id=160540&num=1&sign=40u1wu
+呼伦贝尔文化,https://jump.taoiptv.cn/iptv2.php?id=160540&num=2&sign=40u1wu
+呼伦贝尔文化,https://jump.taoiptv.cn/iptv3.php?id=160540&num=3&sign=40u1wu
+呼伦贝尔生活,https://jump.taoiptv.cn/iptv1.php?id=160545&num=1&sign=40u1wu
+呼伦贝尔生活,https://jump.taoiptv.cn/iptv2.php?id=160545&num=2&sign=40u1wu
+呼伦贝尔生活,https://jump.taoiptv.cn/iptv3.php?id=160545&num=3&sign=40u1wu
+巴彦淖尔新闻,https://jump.taoiptv.cn/iptv1.php?id=160555&num=1&sign=40u1wu
+巴彦淖尔新闻,https://jump.taoiptv.cn/iptv2.php?id=160555&num=2&sign=40u1wu
+巴彦淖尔新闻,https://jump.taoiptv.cn/iptv3.php?id=160555&num=3&sign=40u1wu
+巴彦淖尔经济,https://jump.taoiptv.cn/iptv1.php?id=160560&num=1&sign=40u1wu
+巴彦淖尔经济,https://jump.taoiptv.cn/iptv2.php?id=160560&num=2&sign=40u1wu
+巴彦淖尔经济,https://jump.taoiptv.cn/iptv3.php?id=160560&num=3&sign=40u1wu
+巴彦淖尔影视,https://jump.taoiptv.cn/iptv1.php?id=160565&num=1&sign=40u1wu
+巴彦淖尔影视,https://jump.taoiptv.cn/iptv2.php?id=160565&num=2&sign=40u1wu
+巴彦淖尔影视,https://jump.taoiptv.cn/iptv3.php?id=160565&num=3&sign=40u1wu
+鄂尔多斯新闻,https://jump.taoiptv.cn/iptv1.php?id=160575&num=1&sign=40u1wu
+鄂尔多斯新闻,https://jump.taoiptv.cn/iptv2.php?id=160575&num=2&sign=40u1wu
+鄂尔多斯新闻,https://jump.taoiptv.cn/iptv3.php?id=160575&num=3&sign=40u1wu
+鄂尔多斯经济,https://jump.taoiptv.cn/iptv1.php?id=160580&num=1&sign=40u1wu
+鄂尔多斯经济,https://jump.taoiptv.cn/iptv2.php?id=160580&num=2&sign=40u1wu
+鄂尔多斯经济,https://jump.taoiptv.cn/iptv3.php?id=160580&num=3&sign=40u1wu
+呼和浩特新闻,https://jump.taoiptv.cn/iptv1.php?id=160590&num=1&sign=40u1wu
+呼和浩特新闻,https://jump.taoiptv.cn/iptv2.php?id=160590&num=2&sign=40u1wu
+呼和浩特新闻,https://jump.taoiptv.cn/iptv3.php?id=160590&num=3&sign=40u1wu
+呼和浩特都市,https://jump.taoiptv.cn/iptv1.php?id=160595&num=1&sign=40u1wu
+呼和浩特都市,https://jump.taoiptv.cn/iptv2.php?id=160595&num=2&sign=40u1wu
+呼和浩特都市,https://jump.taoiptv.cn/iptv3.php?id=160595&num=3&sign=40u1wu
+呼和浩特影视,https://jump.taoiptv.cn/iptv1.php?id=160600&num=1&sign=40u1wu
+呼和浩特影视,https://jump.taoiptv.cn/iptv2.php?id=160600&num=2&sign=40u1wu
+呼和浩特影视,https://jump.taoiptv.cn/iptv3.php?id=160600&num=3&sign=40u1wu
+锡林郭勒盟1,https://jump.taoiptv.cn/iptv1.php?id=160605&num=1&sign=40u1wu
+锡林郭勒盟1,https://jump.taoiptv.cn/iptv2.php?id=160605&num=2&sign=40u1wu
+锡林郭勒盟1,https://jump.taoiptv.cn/iptv3.php?id=160605&num=3&sign=40u1wu
+锡林郭勒盟2,https://jump.taoiptv.cn/iptv1.php?id=160610&num=1&sign=40u1wu
+锡林郭勒盟2,https://jump.taoiptv.cn/iptv2.php?id=160610&num=2&sign=40u1wu
+锡林郭勒盟2,https://jump.taoiptv.cn/iptv3.php?id=160610&num=3&sign=40u1wu
+通辽新闻,https://jump.taoiptv.cn/iptv1.php?id=160615&num=1&sign=40u1wu
+通辽新闻,https://jump.taoiptv.cn/iptv2.php?id=160615&num=2&sign=40u1wu
+通辽新闻,https://jump.taoiptv.cn/iptv3.php?id=160615&num=3&sign=40u1wu
+达茂旗电视台,https://jump.taoiptv.cn/iptv1.php?id=160635&num=1&sign=40u1wu
+达茂旗电视台,https://jump.taoiptv.cn/iptv2.php?id=160635&num=2&sign=40u1wu
+达茂旗电视台,https://jump.taoiptv.cn/iptv3.php?id=160635&num=3&sign=40u1wu
+库伦旗电视台,https://jump.taoiptv.cn/iptv1.php?id=160640&num=1&sign=40u1wu
+库伦旗电视台,https://jump.taoiptv.cn/iptv2.php?id=160640&num=2&sign=40u1wu
+库伦旗电视台,https://jump.taoiptv.cn/iptv3.php?id=160640&num=3&sign=40u1wu
+东北地区,#genre#
+吉林影视,https://jump.taoiptv.cn/iptv1.php?id=170155&num=1&sign=40u1wu
+吉林影视,https://jump.taoiptv.cn/iptv2.php?id=170155&num=2&sign=40u1wu
+吉林影视,https://jump.taoiptv.cn/iptv3.php?id=170155&num=3&sign=40u1wu
+吉林教育,https://jump.taoiptv.cn/iptv1.php?id=170180&num=1&sign=40u1wu
+吉林教育,https://jump.taoiptv.cn/iptv2.php?id=170180&num=2&sign=40u1wu
+吉林教育,https://jump.taoiptv.cn/iptv3.php?id=170180&num=3&sign=40u1wu
+吉林篮球,https://jump.taoiptv.cn/iptv1.php?id=170185&num=1&sign=40u1wu
+吉林篮球,https://jump.taoiptv.cn/iptv2.php?id=170185&num=2&sign=40u1wu
+吉林篮球,https://jump.taoiptv.cn/iptv3.php?id=170185&num=3&sign=40u1wu
+吉林生活,https://jump.taoiptv.cn/iptv1.php?id=170190&num=1&sign=40u1wu
+吉林生活,https://jump.taoiptv.cn/iptv2.php?id=170190&num=2&sign=40u1wu
+吉林生活,https://jump.taoiptv.cn/iptv3.php?id=170190&num=3&sign=40u1wu
+CRT经济,https://jump.taoiptv.cn/iptv1.php?id=170200&num=1&sign=40u1wu
+CRT经济,https://jump.taoiptv.cn/iptv2.php?id=170200&num=2&sign=40u1wu
+CRT经济,https://jump.taoiptv.cn/iptv3.php?id=170200&num=3&sign=40u1wu
+CRT汽车,https://jump.taoiptv.cn/iptv1.php?id=170205&num=1&sign=40u1wu
+CRT汽车,https://jump.taoiptv.cn/iptv2.php?id=170205&num=2&sign=40u1wu
+CRT汽车,https://jump.taoiptv.cn/iptv3.php?id=170205&num=3&sign=40u1wu
+CRT娱乐,https://jump.taoiptv.cn/iptv1.php?id=170215&num=1&sign=40u1wu
+CRT娱乐,https://jump.taoiptv.cn/iptv2.php?id=170215&num=2&sign=40u1wu
+CRT娱乐,https://jump.taoiptv.cn/iptv3.php?id=170215&num=3&sign=40u1wu
+讲述卫视,https://jump.taoiptv.cn/iptv1.php?id=170240&num=1&sign=40u1wu
+讲述卫视,https://jump.taoiptv.cn/iptv2.php?id=170240&num=2&sign=40u1wu
+讲述卫视,https://jump.taoiptv.cn/iptv3.php?id=170240&num=3&sign=40u1wu
+吉林图们,https://jump.taoiptv.cn/iptv1.php?id=170320&num=1&sign=40u1wu
+吉林图们,https://jump.taoiptv.cn/iptv2.php?id=170320&num=2&sign=40u1wu
+吉林图们,https://jump.taoiptv.cn/iptv3.php?id=170320&num=3&sign=40u1wu
+柳河综合,https://jump.taoiptv.cn/iptv1.php?id=170355&num=1&sign=40u1wu
+柳河综合,https://jump.taoiptv.cn/iptv2.php?id=170355&num=2&sign=40u1wu
+柳河综合,https://jump.taoiptv.cn/iptv3.php?id=170355&num=3&sign=40u1wu
+辽宁影视,https://jump.taoiptv.cn/iptv1.php?id=170425&num=1&sign=40u1wu
+辽宁影视,https://jump.taoiptv.cn/iptv2.php?id=170425&num=2&sign=40u1wu
+辽宁影视,https://jump.taoiptv.cn/iptv3.php?id=170425&num=3&sign=40u1wu
+辽宁公共,https://jump.taoiptv.cn/iptv1.php?id=170465&num=1&sign=40u1wu
+辽宁公共,https://jump.taoiptv.cn/iptv2.php?id=170465&num=2&sign=40u1wu
+辽宁公共,https://jump.taoiptv.cn/iptv3.php?id=170465&num=3&sign=40u1wu
+辽宁经济,https://jump.taoiptv.cn/iptv1.php?id=170470&num=1&sign=40u1wu
+辽宁经济,https://jump.taoiptv.cn/iptv2.php?id=170470&num=2&sign=40u1wu
+辽宁经济,https://jump.taoiptv.cn/iptv3.php?id=170470&num=3&sign=40u1wu
+宜佳购物,https://jump.taoiptv.cn/iptv1.php?id=170480&num=1&sign=40u1wu
+宜佳购物,https://jump.taoiptv.cn/iptv2.php?id=170480&num=2&sign=40u1wu
+宜佳购物,https://jump.taoiptv.cn/iptv3.php?id=170480&num=3&sign=40u1wu
 YY代理,#genre#
 官方,http://qingfeng.hppro1.hpnu.cn/yy.php?id=991
 小闪电,http://qingfeng.hppro1.hpnu.cn/yy.php?id=4826
