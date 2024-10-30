@@ -4349,8 +4349,7 @@ Mickey Mouse 24/7(X),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV6
 濮阳综合,http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_2480.m3u8?auth_key=4830532265-0-0-a23211dae85304b5f753cb511162a9df
 濮阳公共,http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_3017.m3u8?auth_key=4830532402-0-0-8ddf5282fcd1a9f34372f9f57ce53ec1
 bestv源,#genre#
-重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典,http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af646783.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 905国外,http://longxiao.back1.idcfengye.com/1905.php?id=1905a
 1905国内,http://longxiao.back1.idcfengye.com/1905.php?id=1905b
 cctv6,http://longxiao.back1.idcfengye.com/1905.php?id=cctv6
