@@ -1,7 +1,7 @@
 期货直播间,#genre#
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
-安徽,rtp://238.1.78.166:7200
+安徽,rtp://239.254.200.243:6000
 河北联通内网,#genre#
 河北卫视高清,rtp://239.253.92.154:6011
 河北经济生活高清,rtp://239.253.92.171:6001
