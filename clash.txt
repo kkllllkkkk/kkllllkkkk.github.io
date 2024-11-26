@@ -1,6 +1,6 @@
 # 生成地址：v2rayse.com
 # 模版名称：defaultName
-# 生成时间：2024-11-09 15:37:32
+# 生成时间：2024-11-26 14:59:53
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -58,515 +58,323 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: "💦 10 - Trojan - IPv4 : 8443"
-    port: 8443
-    server: 172.66.45.23
-    type: trojan
-    network: ws
-    udp: true
-    sni: BPb-Worker-ebA.pageS.dEv
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trQbDeP0uU8FRRVvdd?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 33 - Trojan - IPv4 : 2096"
-    port: 2096
-    server: 172.66.46.233
-    type: trojan
-    network: ws
-    udp: true
-    sni: BpB-WOrkeR-EBa.PAgEs.dEV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trWIaGV2fyxA9pJfid?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 22 - Trojan - IPv4 : 2083"
-    port: 2083
-    server: 172.66.45.23
-    type: trojan
-    network: ws
-    udp: true
-    sni: BPB-Worker-eBa.pAgES.deV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trMNchT6uZDFSPsgY9?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 3 - Trojan - IPv4 : 443"
-    port: 443
-    server: 172.66.46.233
-    type: trojan
-    network: ws
-    udp: true
-    sni: bpb-wORKer-EbA.paGEs.DEV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trsSv8qNBmy4SAkhWR?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 19 - Trojan - Domain : 2083"
-    port: 2083
-    server: bpb-worker-eba.pages.dev
-    type: trojan
-    network: ws
-    udp: true
-    sni: BPb-woRkeR-Eba.PaGes.Dev
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trbXTtfqJGilaFJTnc?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 4 - Trojan - IPv4 : 443"
-    port: 443
-    server: 172.66.45.23
-    type: trojan
-    network: ws
-    udp: true
-    sni: BpB-woRKer-eba.pAges.DEv
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trF9g8dR4KLi1yZM6e?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
   - name: "💦 21 - Trojan - IPv4 : 2083"
     port: 2083
-    server: 172.66.46.233
+    server: 172.66.44.98
     type: trojan
     network: ws
     udp: true
-    sni: bPB-WOrkER-EBa.PagES.Dev
+    sni: bPB-wOrKEr-pANeL22-01c.pAges.dEv
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /trPuikGOxBjkcmoOKK?ed=2560
+      path: /trSHbPJQx9QyxvmVrj?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 17 - Trojan - IPv6 : 2053"
-    port: 2053
-    server: "[2606:4700:310c::ac42:2d17]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: BpB-wOrKEr-EbA.pages.DEV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trIhdfPrOQGGgOMpxF?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 29 - Trojan - IPv6 : 2087"
-    port: 2087
-    server: "[2606:4700:310c::ac42:2d17]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: BpB-WOrker-EBA.PaGes.DeV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trsK8Wq7j2PAzSRsvu?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 1 - Trojan - Domain : 443"
-    port: 443
-    server: bpb-worker-eba.pages.dev
-    type: trojan
-    network: ws
-    udp: true
-    sni: BPb-worKER-EBA.PAGEs.deV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /tr25Sq0ne325zv7lIZ?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 34 - Trojan - IPv4 : 2096"
-    port: 2096
-    server: 172.66.45.23
-    type: trojan
-    network: ws
-    udp: true
-    sni: BPb-wOrKEr-EBa.PagEs.DEv
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trnhlFzObD3SEK1h2Q?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 15 - Trojan - IPv4 : 2053"
-    port: 2053
-    server: 172.66.46.233
-    type: trojan
-    network: ws
-    udp: true
-    sni: BPB-WoRker-eBa.paGes.DEV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /tr2vIvZtvfxczucY6s?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 28 - Trojan - IPv4 : 2087"
-    port: 2087
-    server: 172.66.45.23
-    type: trojan
-    network: ws
-    udp: true
-    sni: bpb-WorKER-ebA.PaGes.DEV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trB0k9Gin7X5ONyMSM?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 16 - Trojan - IPv4 : 2053"
-    port: 2053
-    server: 172.66.45.23
-    type: trojan
-    network: ws
-    udp: true
-    sni: bpb-WorKEr-EbA.pageS.dEV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /tr49bp51OWaKikV9bT?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 7 - Trojan - Domain : 8443"
-    port: 8443
-    server: bpb-worker-eba.pages.dev
-    type: trojan
-    network: ws
-    udp: true
-    sni: bPb-WOrKer-eba.pages.Dev
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trThPMcuIfbGy4PGId?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 11 - Trojan - IPv6 : 8443"
-    port: 8443
-    server: "[2606:4700:310c::ac42:2d17]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: bPB-woRKEr-EBa.PaGes.DEv
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trHWY9O7sSc1phwkQo?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 27 - Trojan - IPv4 : 2087"
-    port: 2087
-    server: 172.66.46.233
-    type: trojan
-    network: ws
-    udp: true
-    sni: bpb-WORKEr-EbA.pAGEs.DEv
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trjiljulhTqSvAJKRs?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 13 - Trojan - Domain : 2053"
-    port: 2053
-    server: bpb-worker-eba.pages.dev
-    type: trojan
-    network: ws
-    udp: true
-    sni: Bpb-worKER-eba.pAgEs.dEV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trFYpcfyCxDnKexktK?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 35 - Trojan - IPv6 : 2096"
-    port: 2096
-    server: "[2606:4700:310c::ac42:2d17]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: bPB-woRkEr-EBa.paGeS.dev
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /tr4Z3A9EJBa460HsWG?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 18 - Trojan - IPv6 : 2053"
-    port: 2053
-    server: "[2606:4700:310c::ac42:2ee9]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: bpb-wORKEr-EBA.PAGEs.Dev
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trGcmxgjAEvzXQ3ouG?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 31 - Trojan - Domain : 2096"
-    port: 2096
-    server: bpb-worker-eba.pages.dev
-    type: trojan
-    network: ws
-    udp: true
-    sni: bPB-WORkEr-eBA.pAGeS.dev
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /tr4QgE30sS7p5PvhfV?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 9 - Trojan - IPv4 : 8443"
-    port: 8443
-    server: 172.66.46.233
-    type: trojan
-    network: ws
-    udp: true
-    sni: bPb-woRKER-eBA.pAGeS.dev
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trtV84G3L2H2Z2jQbw?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 5 - Trojan - IPv6 : 443"
-    port: 443
-    server: "[2606:4700:310c::ac42:2d17]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: BPb-wORkER-eba.pAGES.dEV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /truOndPMolgPH0G9BI?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 25 - Trojan - Domain : 2087"
-    port: 2087
-    server: bpb-worker-eba.pages.dev
-    type: trojan
-    network: ws
-    udp: true
-    sni: BPb-WORKer-EbA.paGEs.dEv
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trFJS6pNIMgTnGAuK5?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 6 - Trojan - IPv6 : 443"
-    port: 443
-    server: "[2606:4700:310c::ac42:2ee9]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: Bpb-WoRkEr-ebA.pAgEs.dev
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trfvmFoW5rj3DldHnk?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 36 - Trojan - IPv6 : 2096"
-    port: 2096
-    server: "[2606:4700:310c::ac42:2ee9]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: bpB-WorKeR-EBA.PaGeS.deV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trxq668qO279SvmFFN?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
-    alpn:
-      - h2,http/1.1
-    client-fingerprint: randomized
-  - name: "💦 30 - Trojan - IPv6 : 2087"
-    port: 2087
-    server: "[2606:4700:310c::ac42:2ee9]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: BpB-WOrKeR-Eba.PaGes.DeV
-    password: bpb-trojan
-    skip-cert-verify: false
-    ws-opts:
-      path: /trMc8T6Udz8hn0VOkO?ed=2560
-      headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
   - name: "💦 24 - Trojan - IPv6 : 2083"
     port: 2083
-    server: "[2606:4700:310c::ac42:2ee9]"
+    server: "[2606:4700:310c::ac42:2c62]"
     type: trojan
     network: ws
     udp: true
-    sni: BPb-wORkER-EbA.PAgEs.Dev
+    sni: bPb-wOrKeR-paneL22-01C.PaGeS.DEv
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /trZ9yFNKJjs7svnrMF?ed=2560
+      path: /trt6S2dnx7xB9St1ZS?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
-  - name: "💦 2 - Trojan - Domain : 443"
+  - name: "💦 5 - Trojan - IPv6 : 443"
     port: 443
-    server: www.speedtest.net
+    server: "[2606:4700:310c::ac42:2f9e]"
     type: trojan
     network: ws
     udp: true
-    sni: bpB-WoRKER-ebA.PageS.DeV
+    sni: BpB-WoRkeR-PAnEL22-01C.paGEs.Dev
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /trO7z6pTtcdPQjPxq5?ed=2560
+      path: /trbYozWF4UmNgSVS7w?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
-  - name: "💦 8 - Trojan - Domain : 8443"
+  - name: "💦 10 - Trojan - IPv4 : 8443"
     port: 8443
-    server: www.speedtest.net
+    server: 172.66.47.158
     type: trojan
     network: ws
     udp: true
-    sni: BpB-woRKeR-eBA.paGes.dev
+    sni: bpB-woRKEr-PaNEL22-01c.PAges.dEv
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /trGU2S8Fxh7xp0ztpx?ed=2560
+      path: /trhBG5jDCQshNBPEqB?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
-  - name: "💦 32 - Trojan - Domain : 2096"
-    port: 2096
-    server: www.speedtest.net
+  - name: "💦 23 - Trojan - IPv6 : 2083"
+    port: 2083
+    server: "[2606:4700:310c::ac42:2f9e]"
     type: trojan
     network: ws
     udp: true
-    sni: bpB-wORKER-Eba.pagEs.dEv
+    sni: bpb-woRkEr-PaNeL22-01c.pagES.dev
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /trenIpPWzYxGrVP26D?ed=2560
+      path: /trD7OjZFxsijqV2rjQ?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
-  - name: "💦 26 - Trojan - Domain : 2087"
+  - name: "💦 7 - Trojan - Domain : 8443"
+    port: 8443
+    server: bpb-worker-panel22-01c.pages.dev
+    type: trojan
+    network: ws
+    udp: true
+    sni: bpb-WorKEr-paNeL22-01C.PAgEs.dEV
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trZ0OPXDR7TGTiKZ9J?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 22 - Trojan - IPv4 : 2083"
+    port: 2083
+    server: 172.66.47.158
+    type: trojan
+    network: ws
+    udp: true
+    sni: bpB-WOrker-Panel22-01c.PAges.DEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trro7Euz7rSzD6Dba0?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 18 - Trojan - IPv6 : 2053"
+    port: 2053
+    server: "[2606:4700:310c::ac42:2c62]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: bPB-WOrkER-pAneL22-01C.pAgeS.DEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trbt7UBOF00XqaQGyK?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 28 - Trojan - IPv4 : 2087"
     port: 2087
-    server: www.speedtest.net
+    server: 172.66.47.158
     type: trojan
     network: ws
     udp: true
-    sni: BPb-workEr-EbA.PageS.dEv
+    sni: Bpb-wORkeR-paNeL22-01C.PaGes.dev
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /tr1UeKvUYKclUHY7qG?ed=2560
+      path: /trdOdsUMt1OBNwowe8?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 16 - Trojan - IPv4 : 2053"
+    port: 2053
+    server: 172.66.47.158
+    type: trojan
+    network: ws
+    udp: true
+    sni: bpb-WoRKEr-panEl22-01C.PagEs.dEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /tr8FBvNWx97fXh1Kp2?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 6 - Trojan - IPv6 : 443"
+    port: 443
+    server: "[2606:4700:310c::ac42:2c62]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: BpB-woRkER-paneL22-01c.PagEs.DEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trvPZT3qT6j1766kp2?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 33 - Trojan - IPv4 : 2096"
+    port: 2096
+    server: 172.66.44.98
+    type: trojan
+    network: ws
+    udp: true
+    sni: Bpb-wORkeR-paNel22-01C.pageS.deV
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trkBUO3yKd1V3vnxkd?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 4 - Trojan - IPv4 : 443"
+    port: 443
+    server: 172.66.47.158
+    type: trojan
+    network: ws
+    udp: true
+    sni: BpB-woRkeR-PAnEl22-01C.PAgEs.dEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /traIHSSsu8uCqVBGPB?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 17 - Trojan - IPv6 : 2053"
+    port: 2053
+    server: "[2606:4700:310c::ac42:2f9e]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: Bpb-wORkER-pANEL22-01C.PagES.Dev
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /truLUtqQKVtCRpK4Ro?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 34 - Trojan - IPv4 : 2096"
+    port: 2096
+    server: 172.66.47.158
+    type: trojan
+    network: ws
+    udp: true
+    sni: bpb-WOrKER-paNEl22-01C.pAGEs.DEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /traX7NjLXBx4VcMglr?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 11 - Trojan - IPv6 : 8443"
+    port: 8443
+    server: "[2606:4700:310c::ac42:2f9e]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: bPb-WorkER-PaNeL22-01C.paGES.Dev
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trm6JuGTlhU2YzCpmL?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 13 - Trojan - Domain : 2053"
+    port: 2053
+    server: bpb-worker-panel22-01c.pages.dev
+    type: trojan
+    network: ws
+    udp: true
+    sni: bpb-wOrkeR-pAnel22-01C.PaGEs.DeV
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trnvsppbs8d3I9lW4A?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 25 - Trojan - Domain : 2087"
+    port: 2087
+    server: bpb-worker-panel22-01c.pages.dev
+    type: trojan
+    network: ws
+    udp: true
+    sni: BPb-woRKEr-PANEl22-01c.paGEs.Dev
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trJQUCY7KviLdTKzvV?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 30 - Trojan - IPv6 : 2087"
+    port: 2087
+    server: "[2606:4700:310c::ac42:2c62]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: bpb-WORKer-paNel22-01c.pAgEs.dev
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trsELoDcIryqYmic7s?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 35 - Trojan - IPv6 : 2096"
+    port: 2096
+    server: "[2606:4700:310c::ac42:2f9e]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: Bpb-workEr-PANEL22-01c.PageS.DEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trkAHgjzv8hq3t5C3p?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
@@ -576,13 +384,205 @@ proxies:
     type: trojan
     network: ws
     udp: true
-    sni: bPB-woRKEr-EBA.PaGES.deV
+    sni: bpB-WoRKER-PaNel22-01c.paGEs.deV
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /traN3ypyYpJUJE6A5t?ed=2560
+      path: /trU8ifVlaPbOZYL0E6?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 27 - Trojan - IPv4 : 2087"
+    port: 2087
+    server: 172.66.44.98
+    type: trojan
+    network: ws
+    udp: true
+    sni: bPB-wOrKEr-PaneL22-01c.PaGeS.DeV
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trABgAUVfPW2BuBGc2?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 36 - Trojan - IPv6 : 2096"
+    port: 2096
+    server: "[2606:4700:310c::ac42:2c62]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: BpB-woRKER-PanEL22-01C.pagES.Dev
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trzP3TaFSfNksA7tkw?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 12 - Trojan - IPv6 : 8443"
+    port: 8443
+    server: "[2606:4700:310c::ac42:2c62]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: bpB-WORkeR-pANeL22-01c.pagES.dEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trGF7P4OsTLvGt977s?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 31 - Trojan - Domain : 2096"
+    port: 2096
+    server: bpb-worker-panel22-01c.pages.dev
+    type: trojan
+    network: ws
+    udp: true
+    sni: bPB-WoRKER-PAneL22-01C.PAGES.dEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trTEQcj4B1CjvvHe8n?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 15 - Trojan - IPv4 : 2053"
+    port: 2053
+    server: 172.66.44.98
+    type: trojan
+    network: ws
+    udp: true
+    sni: bPB-wORKER-PaNEL22-01c.PaGEs.dev
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trqHMrv4RdyshERRFr?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 3 - Trojan - IPv4 : 443"
+    port: 443
+    server: 172.66.44.98
+    type: trojan
+    network: ws
+    udp: true
+    sni: BPB-WoRkEr-panel22-01C.PAGES.DEV
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trizpTp8HLKCPDol3J?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 19 - Trojan - Domain : 2083"
+    port: 2083
+    server: bpb-worker-panel22-01c.pages.dev
+    type: trojan
+    network: ws
+    udp: true
+    sni: BPb-woRkEr-pANel22-01c.pages.dev
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trMhZp1cDWHzcfVoLR?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 9 - Trojan - IPv4 : 8443"
+    port: 8443
+    server: 172.66.44.98
+    type: trojan
+    network: ws
+    udp: true
+    sni: BpB-woRker-PAnEL22-01C.PaGes.DEv
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trOA9qb1s6gO9Xk5Wv?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 29 - Trojan - IPv6 : 2087"
+    port: 2087
+    server: "[2606:4700:310c::ac42:2f9e]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: bpb-woRkER-PaNel22-01C.Pages.DeV
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trQ1wlVdtvTSKzq9oR?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 1 - Trojan - Domain : 443"
+    port: 443
+    server: bpb-worker-panel22-01c.pages.dev
+    type: trojan
+    network: ws
+    udp: true
+    sni: bPb-WORkER-PanEL22-01C.pagES.DeV
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trJhRcOnFOSvdNX7He?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 8 - Trojan - Domain : 8443"
+    port: 8443
+    server: www.speedtest.net
+    type: trojan
+    network: ws
+    udp: true
+    sni: bPB-WOrker-paNel22-01c.pAgES.Dev
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trwuZMuNpYQcf5fA9U?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
+    alpn:
+      - h2,http/1.1
+    client-fingerprint: randomized
+  - name: "💦 2 - Trojan - Domain : 443"
+    port: 443
+    server: www.speedtest.net
+    type: trojan
+    network: ws
+    udp: true
+    sni: Bpb-wORKEr-pANeL22-01c.PaGeS.deV
+    password: bpb-trojan
+    skip-cert-verify: false
+    ws-opts:
+      path: /trgOYewMSIt8t3K8qP?ed=2560
+      headers:
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
@@ -592,45 +592,45 @@ proxies:
     type: trojan
     network: ws
     udp: true
-    sni: bPb-WoRKER-eBA.PAges.DEV
+    sni: BPB-woRKer-PaNEL22-01c.PAGeS.dEv
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /trE4Ijq5WX2XCfMNzd?ed=2560
+      path: /trGaQIoxiuYH9PkJNq?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
-  - name: "💦 12 - Trojan - IPv6 : 8443"
-    port: 8443
-    server: "[2606:4700:310c::ac42:2ee9]"
+  - name: "💦 26 - Trojan - Domain : 2087"
+    port: 2087
+    server: www.speedtest.net
     type: trojan
     network: ws
     udp: true
-    sni: bpb-WoRKer-ebA.PaGEs.deV
+    sni: BPb-woRKeR-pANEL22-01C.PagEs.Dev
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /trTAhXBsqxhECzTaxP?ed=2560
+      path: /trfmU8VwMmaVByrBQj?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
-  - name: "💦 23 - Trojan - IPv6 : 2083"
-    port: 2083
-    server: "[2606:4700:310c::ac42:2d17]"
+  - name: "💦 32 - Trojan - Domain : 2096"
+    port: 2096
+    server: www.speedtest.net
     type: trojan
     network: ws
     udp: true
-    sni: bpB-wORKeR-eba.pAGES.dEv
+    sni: BPb-WorKEr-pANeL22-01c.pAgEs.DeV
     password: bpb-trojan
     skip-cert-verify: false
     ws-opts:
-      path: /trhc4VQBAVNniNsTKC?ed=2560
+      path: /trSDiRK7x4K3tCWfKR?ed=2560
       headers:
-        host: bpb-worker-eba.pages.dev
+        host: bpb-worker-panel22-01c.pages.dev
     alpn:
       - h2,http/1.1
     client-fingerprint: randomized
@@ -640,249 +640,249 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "💦 10 - Trojan - IPv4 : 8443"
-      - "💦 33 - Trojan - IPv4 : 2096"
-      - "💦 22 - Trojan - IPv4 : 2083"
-      - "💦 3 - Trojan - IPv4 : 443"
-      - "💦 19 - Trojan - Domain : 2083"
-      - "💦 4 - Trojan - IPv4 : 443"
       - "💦 21 - Trojan - IPv4 : 2083"
-      - "💦 17 - Trojan - IPv6 : 2053"
-      - "💦 29 - Trojan - IPv6 : 2087"
-      - "💦 1 - Trojan - Domain : 443"
-      - "💦 34 - Trojan - IPv4 : 2096"
-      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 24 - Trojan - IPv6 : 2083"
+      - "💦 5 - Trojan - IPv6 : 443"
+      - "💦 10 - Trojan - IPv4 : 8443"
+      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 7 - Trojan - Domain : 8443"
+      - "💦 22 - Trojan - IPv4 : 2083"
+      - "💦 18 - Trojan - IPv6 : 2053"
       - "💦 28 - Trojan - IPv4 : 2087"
       - "💦 16 - Trojan - IPv4 : 2053"
-      - "💦 7 - Trojan - Domain : 8443"
-      - "💦 11 - Trojan - IPv6 : 8443"
-      - "💦 27 - Trojan - IPv4 : 2087"
-      - "💦 13 - Trojan - Domain : 2053"
-      - "💦 35 - Trojan - IPv6 : 2096"
-      - "💦 18 - Trojan - IPv6 : 2053"
-      - "💦 31 - Trojan - Domain : 2096"
-      - "💦 9 - Trojan - IPv4 : 8443"
-      - "💦 5 - Trojan - IPv6 : 443"
-      - "💦 25 - Trojan - Domain : 2087"
       - "💦 6 - Trojan - IPv6 : 443"
-      - "💦 36 - Trojan - IPv6 : 2096"
+      - "💦 33 - Trojan - IPv4 : 2096"
+      - "💦 4 - Trojan - IPv4 : 443"
+      - "💦 17 - Trojan - IPv6 : 2053"
+      - "💦 34 - Trojan - IPv4 : 2096"
+      - "💦 11 - Trojan - IPv6 : 8443"
+      - "💦 13 - Trojan - Domain : 2053"
+      - "💦 25 - Trojan - Domain : 2087"
       - "💦 30 - Trojan - IPv6 : 2087"
-      - "💦 24 - Trojan - IPv6 : 2083"
-      - "💦 2 - Trojan - Domain : 443"
-      - "💦 8 - Trojan - Domain : 8443"
-      - "💦 32 - Trojan - Domain : 2096"
-      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 35 - Trojan - IPv6 : 2096"
       - "💦 14 - Trojan - Domain : 2053"
-      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 27 - Trojan - IPv4 : 2087"
+      - "💦 36 - Trojan - IPv6 : 2096"
       - "💦 12 - Trojan - IPv6 : 8443"
-      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 31 - Trojan - Domain : 2096"
+      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 3 - Trojan - IPv4 : 443"
+      - "💦 19 - Trojan - Domain : 2083"
+      - "💦 9 - Trojan - IPv4 : 8443"
+      - "💦 29 - Trojan - IPv6 : 2087"
+      - "💦 1 - Trojan - Domain : 443"
+      - "💦 8 - Trojan - Domain : 8443"
+      - "💦 2 - Trojan - Domain : 443"
+      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 32 - Trojan - Domain : 2096"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - "💦 10 - Trojan - IPv4 : 8443"
-      - "💦 33 - Trojan - IPv4 : 2096"
-      - "💦 22 - Trojan - IPv4 : 2083"
-      - "💦 3 - Trojan - IPv4 : 443"
-      - "💦 19 - Trojan - Domain : 2083"
-      - "💦 4 - Trojan - IPv4 : 443"
       - "💦 21 - Trojan - IPv4 : 2083"
-      - "💦 17 - Trojan - IPv6 : 2053"
-      - "💦 29 - Trojan - IPv6 : 2087"
-      - "💦 1 - Trojan - Domain : 443"
-      - "💦 34 - Trojan - IPv4 : 2096"
-      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 24 - Trojan - IPv6 : 2083"
+      - "💦 5 - Trojan - IPv6 : 443"
+      - "💦 10 - Trojan - IPv4 : 8443"
+      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 7 - Trojan - Domain : 8443"
+      - "💦 22 - Trojan - IPv4 : 2083"
+      - "💦 18 - Trojan - IPv6 : 2053"
       - "💦 28 - Trojan - IPv4 : 2087"
       - "💦 16 - Trojan - IPv4 : 2053"
-      - "💦 7 - Trojan - Domain : 8443"
-      - "💦 11 - Trojan - IPv6 : 8443"
-      - "💦 27 - Trojan - IPv4 : 2087"
-      - "💦 13 - Trojan - Domain : 2053"
-      - "💦 35 - Trojan - IPv6 : 2096"
-      - "💦 18 - Trojan - IPv6 : 2053"
-      - "💦 31 - Trojan - Domain : 2096"
-      - "💦 9 - Trojan - IPv4 : 8443"
-      - "💦 5 - Trojan - IPv6 : 443"
-      - "💦 25 - Trojan - Domain : 2087"
       - "💦 6 - Trojan - IPv6 : 443"
-      - "💦 36 - Trojan - IPv6 : 2096"
+      - "💦 33 - Trojan - IPv4 : 2096"
+      - "💦 4 - Trojan - IPv4 : 443"
+      - "💦 17 - Trojan - IPv6 : 2053"
+      - "💦 34 - Trojan - IPv4 : 2096"
+      - "💦 11 - Trojan - IPv6 : 8443"
+      - "💦 13 - Trojan - Domain : 2053"
+      - "💦 25 - Trojan - Domain : 2087"
       - "💦 30 - Trojan - IPv6 : 2087"
-      - "💦 24 - Trojan - IPv6 : 2083"
-      - "💦 2 - Trojan - Domain : 443"
-      - "💦 8 - Trojan - Domain : 8443"
-      - "💦 32 - Trojan - Domain : 2096"
-      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 35 - Trojan - IPv6 : 2096"
       - "💦 14 - Trojan - Domain : 2053"
-      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 27 - Trojan - IPv4 : 2087"
+      - "💦 36 - Trojan - IPv6 : 2096"
       - "💦 12 - Trojan - IPv6 : 8443"
-      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 31 - Trojan - Domain : 2096"
+      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 3 - Trojan - IPv4 : 443"
+      - "💦 19 - Trojan - Domain : 2083"
+      - "💦 9 - Trojan - IPv4 : 8443"
+      - "💦 29 - Trojan - IPv6 : 2087"
+      - "💦 1 - Trojan - Domain : 443"
+      - "💦 8 - Trojan - Domain : 8443"
+      - "💦 2 - Trojan - Domain : 443"
+      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 32 - Trojan - Domain : 2096"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "💦 10 - Trojan - IPv4 : 8443"
-      - "💦 33 - Trojan - IPv4 : 2096"
-      - "💦 22 - Trojan - IPv4 : 2083"
-      - "💦 3 - Trojan - IPv4 : 443"
-      - "💦 19 - Trojan - Domain : 2083"
-      - "💦 4 - Trojan - IPv4 : 443"
       - "💦 21 - Trojan - IPv4 : 2083"
-      - "💦 17 - Trojan - IPv6 : 2053"
-      - "💦 29 - Trojan - IPv6 : 2087"
-      - "💦 1 - Trojan - Domain : 443"
-      - "💦 34 - Trojan - IPv4 : 2096"
-      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 24 - Trojan - IPv6 : 2083"
+      - "💦 5 - Trojan - IPv6 : 443"
+      - "💦 10 - Trojan - IPv4 : 8443"
+      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 7 - Trojan - Domain : 8443"
+      - "💦 22 - Trojan - IPv4 : 2083"
+      - "💦 18 - Trojan - IPv6 : 2053"
       - "💦 28 - Trojan - IPv4 : 2087"
       - "💦 16 - Trojan - IPv4 : 2053"
-      - "💦 7 - Trojan - Domain : 8443"
-      - "💦 11 - Trojan - IPv6 : 8443"
-      - "💦 27 - Trojan - IPv4 : 2087"
-      - "💦 13 - Trojan - Domain : 2053"
-      - "💦 35 - Trojan - IPv6 : 2096"
-      - "💦 18 - Trojan - IPv6 : 2053"
-      - "💦 31 - Trojan - Domain : 2096"
-      - "💦 9 - Trojan - IPv4 : 8443"
-      - "💦 5 - Trojan - IPv6 : 443"
-      - "💦 25 - Trojan - Domain : 2087"
       - "💦 6 - Trojan - IPv6 : 443"
-      - "💦 36 - Trojan - IPv6 : 2096"
+      - "💦 33 - Trojan - IPv4 : 2096"
+      - "💦 4 - Trojan - IPv4 : 443"
+      - "💦 17 - Trojan - IPv6 : 2053"
+      - "💦 34 - Trojan - IPv4 : 2096"
+      - "💦 11 - Trojan - IPv6 : 8443"
+      - "💦 13 - Trojan - Domain : 2053"
+      - "💦 25 - Trojan - Domain : 2087"
       - "💦 30 - Trojan - IPv6 : 2087"
-      - "💦 24 - Trojan - IPv6 : 2083"
-      - "💦 2 - Trojan - Domain : 443"
-      - "💦 8 - Trojan - Domain : 8443"
-      - "💦 32 - Trojan - Domain : 2096"
-      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 35 - Trojan - IPv6 : 2096"
       - "💦 14 - Trojan - Domain : 2053"
-      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 27 - Trojan - IPv4 : 2087"
+      - "💦 36 - Trojan - IPv6 : 2096"
       - "💦 12 - Trojan - IPv6 : 8443"
-      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 31 - Trojan - Domain : 2096"
+      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 3 - Trojan - IPv4 : 443"
+      - "💦 19 - Trojan - Domain : 2083"
+      - "💦 9 - Trojan - IPv4 : 8443"
+      - "💦 29 - Trojan - IPv6 : 2087"
+      - "💦 1 - Trojan - Domain : 443"
+      - "💦 8 - Trojan - Domain : 8443"
+      - "💦 2 - Trojan - Domain : 443"
+      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 32 - Trojan - Domain : 2096"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "💦 10 - Trojan - IPv4 : 8443"
-      - "💦 33 - Trojan - IPv4 : 2096"
-      - "💦 22 - Trojan - IPv4 : 2083"
-      - "💦 3 - Trojan - IPv4 : 443"
-      - "💦 19 - Trojan - Domain : 2083"
-      - "💦 4 - Trojan - IPv4 : 443"
       - "💦 21 - Trojan - IPv4 : 2083"
-      - "💦 17 - Trojan - IPv6 : 2053"
-      - "💦 29 - Trojan - IPv6 : 2087"
-      - "💦 1 - Trojan - Domain : 443"
-      - "💦 34 - Trojan - IPv4 : 2096"
-      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 24 - Trojan - IPv6 : 2083"
+      - "💦 5 - Trojan - IPv6 : 443"
+      - "💦 10 - Trojan - IPv4 : 8443"
+      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 7 - Trojan - Domain : 8443"
+      - "💦 22 - Trojan - IPv4 : 2083"
+      - "💦 18 - Trojan - IPv6 : 2053"
       - "💦 28 - Trojan - IPv4 : 2087"
       - "💦 16 - Trojan - IPv4 : 2053"
-      - "💦 7 - Trojan - Domain : 8443"
-      - "💦 11 - Trojan - IPv6 : 8443"
-      - "💦 27 - Trojan - IPv4 : 2087"
-      - "💦 13 - Trojan - Domain : 2053"
-      - "💦 35 - Trojan - IPv6 : 2096"
-      - "💦 18 - Trojan - IPv6 : 2053"
-      - "💦 31 - Trojan - Domain : 2096"
-      - "💦 9 - Trojan - IPv4 : 8443"
-      - "💦 5 - Trojan - IPv6 : 443"
-      - "💦 25 - Trojan - Domain : 2087"
       - "💦 6 - Trojan - IPv6 : 443"
-      - "💦 36 - Trojan - IPv6 : 2096"
+      - "💦 33 - Trojan - IPv4 : 2096"
+      - "💦 4 - Trojan - IPv4 : 443"
+      - "💦 17 - Trojan - IPv6 : 2053"
+      - "💦 34 - Trojan - IPv4 : 2096"
+      - "💦 11 - Trojan - IPv6 : 8443"
+      - "💦 13 - Trojan - Domain : 2053"
+      - "💦 25 - Trojan - Domain : 2087"
       - "💦 30 - Trojan - IPv6 : 2087"
-      - "💦 24 - Trojan - IPv6 : 2083"
-      - "💦 2 - Trojan - Domain : 443"
-      - "💦 8 - Trojan - Domain : 8443"
-      - "💦 32 - Trojan - Domain : 2096"
-      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 35 - Trojan - IPv6 : 2096"
       - "💦 14 - Trojan - Domain : 2053"
-      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 27 - Trojan - IPv4 : 2087"
+      - "💦 36 - Trojan - IPv6 : 2096"
       - "💦 12 - Trojan - IPv6 : 8443"
-      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 31 - Trojan - Domain : 2096"
+      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 3 - Trojan - IPv4 : 443"
+      - "💦 19 - Trojan - Domain : 2083"
+      - "💦 9 - Trojan - IPv4 : 8443"
+      - "💦 29 - Trojan - IPv6 : 2087"
+      - "💦 1 - Trojan - Domain : 443"
+      - "💦 8 - Trojan - Domain : 8443"
+      - "💦 2 - Trojan - Domain : 443"
+      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 32 - Trojan - Domain : 2096"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "💦 10 - Trojan - IPv4 : 8443"
-      - "💦 33 - Trojan - IPv4 : 2096"
-      - "💦 22 - Trojan - IPv4 : 2083"
-      - "💦 3 - Trojan - IPv4 : 443"
-      - "💦 19 - Trojan - Domain : 2083"
-      - "💦 4 - Trojan - IPv4 : 443"
       - "💦 21 - Trojan - IPv4 : 2083"
-      - "💦 17 - Trojan - IPv6 : 2053"
-      - "💦 29 - Trojan - IPv6 : 2087"
-      - "💦 1 - Trojan - Domain : 443"
-      - "💦 34 - Trojan - IPv4 : 2096"
-      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 24 - Trojan - IPv6 : 2083"
+      - "💦 5 - Trojan - IPv6 : 443"
+      - "💦 10 - Trojan - IPv4 : 8443"
+      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 7 - Trojan - Domain : 8443"
+      - "💦 22 - Trojan - IPv4 : 2083"
+      - "💦 18 - Trojan - IPv6 : 2053"
       - "💦 28 - Trojan - IPv4 : 2087"
       - "💦 16 - Trojan - IPv4 : 2053"
-      - "💦 7 - Trojan - Domain : 8443"
-      - "💦 11 - Trojan - IPv6 : 8443"
-      - "💦 27 - Trojan - IPv4 : 2087"
-      - "💦 13 - Trojan - Domain : 2053"
-      - "💦 35 - Trojan - IPv6 : 2096"
-      - "💦 18 - Trojan - IPv6 : 2053"
-      - "💦 31 - Trojan - Domain : 2096"
-      - "💦 9 - Trojan - IPv4 : 8443"
-      - "💦 5 - Trojan - IPv6 : 443"
-      - "💦 25 - Trojan - Domain : 2087"
       - "💦 6 - Trojan - IPv6 : 443"
-      - "💦 36 - Trojan - IPv6 : 2096"
+      - "💦 33 - Trojan - IPv4 : 2096"
+      - "💦 4 - Trojan - IPv4 : 443"
+      - "💦 17 - Trojan - IPv6 : 2053"
+      - "💦 34 - Trojan - IPv4 : 2096"
+      - "💦 11 - Trojan - IPv6 : 8443"
+      - "💦 13 - Trojan - Domain : 2053"
+      - "💦 25 - Trojan - Domain : 2087"
       - "💦 30 - Trojan - IPv6 : 2087"
-      - "💦 24 - Trojan - IPv6 : 2083"
-      - "💦 2 - Trojan - Domain : 443"
-      - "💦 8 - Trojan - Domain : 8443"
-      - "💦 32 - Trojan - Domain : 2096"
-      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 35 - Trojan - IPv6 : 2096"
       - "💦 14 - Trojan - Domain : 2053"
-      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 27 - Trojan - IPv4 : 2087"
+      - "💦 36 - Trojan - IPv6 : 2096"
       - "💦 12 - Trojan - IPv6 : 8443"
-      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 31 - Trojan - Domain : 2096"
+      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 3 - Trojan - IPv4 : 443"
+      - "💦 19 - Trojan - Domain : 2083"
+      - "💦 9 - Trojan - IPv4 : 8443"
+      - "💦 29 - Trojan - IPv6 : 2087"
+      - "💦 1 - Trojan - Domain : 443"
+      - "💦 8 - Trojan - Domain : 8443"
+      - "💦 2 - Trojan - Domain : 443"
+      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 32 - Trojan - Domain : 2096"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "💦 10 - Trojan - IPv4 : 8443"
-      - "💦 33 - Trojan - IPv4 : 2096"
-      - "💦 22 - Trojan - IPv4 : 2083"
-      - "💦 3 - Trojan - IPv4 : 443"
-      - "💦 19 - Trojan - Domain : 2083"
-      - "💦 4 - Trojan - IPv4 : 443"
       - "💦 21 - Trojan - IPv4 : 2083"
-      - "💦 17 - Trojan - IPv6 : 2053"
-      - "💦 29 - Trojan - IPv6 : 2087"
-      - "💦 1 - Trojan - Domain : 443"
-      - "💦 34 - Trojan - IPv4 : 2096"
-      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 24 - Trojan - IPv6 : 2083"
+      - "💦 5 - Trojan - IPv6 : 443"
+      - "💦 10 - Trojan - IPv4 : 8443"
+      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 7 - Trojan - Domain : 8443"
+      - "💦 22 - Trojan - IPv4 : 2083"
+      - "💦 18 - Trojan - IPv6 : 2053"
       - "💦 28 - Trojan - IPv4 : 2087"
       - "💦 16 - Trojan - IPv4 : 2053"
-      - "💦 7 - Trojan - Domain : 8443"
-      - "💦 11 - Trojan - IPv6 : 8443"
-      - "💦 27 - Trojan - IPv4 : 2087"
-      - "💦 13 - Trojan - Domain : 2053"
-      - "💦 35 - Trojan - IPv6 : 2096"
-      - "💦 18 - Trojan - IPv6 : 2053"
-      - "💦 31 - Trojan - Domain : 2096"
-      - "💦 9 - Trojan - IPv4 : 8443"
-      - "💦 5 - Trojan - IPv6 : 443"
-      - "💦 25 - Trojan - Domain : 2087"
       - "💦 6 - Trojan - IPv6 : 443"
-      - "💦 36 - Trojan - IPv6 : 2096"
+      - "💦 33 - Trojan - IPv4 : 2096"
+      - "💦 4 - Trojan - IPv4 : 443"
+      - "💦 17 - Trojan - IPv6 : 2053"
+      - "💦 34 - Trojan - IPv4 : 2096"
+      - "💦 11 - Trojan - IPv6 : 8443"
+      - "💦 13 - Trojan - Domain : 2053"
+      - "💦 25 - Trojan - Domain : 2087"
       - "💦 30 - Trojan - IPv6 : 2087"
-      - "💦 24 - Trojan - IPv6 : 2083"
-      - "💦 2 - Trojan - Domain : 443"
-      - "💦 8 - Trojan - Domain : 8443"
-      - "💦 32 - Trojan - Domain : 2096"
-      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 35 - Trojan - IPv6 : 2096"
       - "💦 14 - Trojan - Domain : 2053"
-      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 27 - Trojan - IPv4 : 2087"
+      - "💦 36 - Trojan - IPv6 : 2096"
       - "💦 12 - Trojan - IPv6 : 8443"
-      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 31 - Trojan - Domain : 2096"
+      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 3 - Trojan - IPv4 : 443"
+      - "💦 19 - Trojan - Domain : 2083"
+      - "💦 9 - Trojan - IPv4 : 8443"
+      - "💦 29 - Trojan - IPv6 : 2087"
+      - "💦 1 - Trojan - Domain : 443"
+      - "💦 8 - Trojan - Domain : 8443"
+      - "💦 2 - Trojan - Domain : 443"
+      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 32 - Trojan - Domain : 2096"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -905,42 +905,42 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "💦 10 - Trojan - IPv4 : 8443"
-      - "💦 33 - Trojan - IPv4 : 2096"
-      - "💦 22 - Trojan - IPv4 : 2083"
-      - "💦 3 - Trojan - IPv4 : 443"
-      - "💦 19 - Trojan - Domain : 2083"
-      - "💦 4 - Trojan - IPv4 : 443"
       - "💦 21 - Trojan - IPv4 : 2083"
-      - "💦 17 - Trojan - IPv6 : 2053"
-      - "💦 29 - Trojan - IPv6 : 2087"
-      - "💦 1 - Trojan - Domain : 443"
-      - "💦 34 - Trojan - IPv4 : 2096"
-      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 24 - Trojan - IPv6 : 2083"
+      - "💦 5 - Trojan - IPv6 : 443"
+      - "💦 10 - Trojan - IPv4 : 8443"
+      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 7 - Trojan - Domain : 8443"
+      - "💦 22 - Trojan - IPv4 : 2083"
+      - "💦 18 - Trojan - IPv6 : 2053"
       - "💦 28 - Trojan - IPv4 : 2087"
       - "💦 16 - Trojan - IPv4 : 2053"
-      - "💦 7 - Trojan - Domain : 8443"
-      - "💦 11 - Trojan - IPv6 : 8443"
-      - "💦 27 - Trojan - IPv4 : 2087"
-      - "💦 13 - Trojan - Domain : 2053"
-      - "💦 35 - Trojan - IPv6 : 2096"
-      - "💦 18 - Trojan - IPv6 : 2053"
-      - "💦 31 - Trojan - Domain : 2096"
-      - "💦 9 - Trojan - IPv4 : 8443"
-      - "💦 5 - Trojan - IPv6 : 443"
-      - "💦 25 - Trojan - Domain : 2087"
       - "💦 6 - Trojan - IPv6 : 443"
-      - "💦 36 - Trojan - IPv6 : 2096"
+      - "💦 33 - Trojan - IPv4 : 2096"
+      - "💦 4 - Trojan - IPv4 : 443"
+      - "💦 17 - Trojan - IPv6 : 2053"
+      - "💦 34 - Trojan - IPv4 : 2096"
+      - "💦 11 - Trojan - IPv6 : 8443"
+      - "💦 13 - Trojan - Domain : 2053"
+      - "💦 25 - Trojan - Domain : 2087"
       - "💦 30 - Trojan - IPv6 : 2087"
-      - "💦 24 - Trojan - IPv6 : 2083"
-      - "💦 2 - Trojan - Domain : 443"
-      - "💦 8 - Trojan - Domain : 8443"
-      - "💦 32 - Trojan - Domain : 2096"
-      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 35 - Trojan - IPv6 : 2096"
       - "💦 14 - Trojan - Domain : 2053"
-      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 27 - Trojan - IPv4 : 2087"
+      - "💦 36 - Trojan - IPv6 : 2096"
       - "💦 12 - Trojan - IPv6 : 8443"
-      - "💦 23 - Trojan - IPv6 : 2083"
+      - "💦 31 - Trojan - Domain : 2096"
+      - "💦 15 - Trojan - IPv4 : 2053"
+      - "💦 3 - Trojan - IPv4 : 443"
+      - "💦 19 - Trojan - Domain : 2083"
+      - "💦 9 - Trojan - IPv4 : 8443"
+      - "💦 29 - Trojan - IPv6 : 2087"
+      - "💦 1 - Trojan - Domain : 443"
+      - "💦 8 - Trojan - Domain : 8443"
+      - "💦 2 - Trojan - Domain : 443"
+      - "💦 20 - Trojan - Domain : 2083"
+      - "💦 26 - Trojan - Domain : 2087"
+      - "💦 32 - Trojan - Domain : 2096"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
