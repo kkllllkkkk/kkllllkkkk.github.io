@@ -1,6 +1,6 @@
 期货直播间,#genre#
 期货,https://v06.siwe.pro/live/StreamB.flv?auth_key=1735293134-0-0-cfecaadb15901a3b18ab0d2cf3c79110
-道富期货,https://live.mazuiche.com/live/vip.flv?auth_key=1735482037-0-0-ce5fc6c70a0873d75bc3b26fd00e1348
+道富期货,https://live.mazuiche.com/live/vip.flv?auth_key=1735675546-0-0-a30a5a8fc91d9932d66d54ac07270f6b
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
 安徽,rtp://228.1.1.115:8000
