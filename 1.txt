@@ -3,7 +3,7 @@
 河北,http://192.168.1.68:5894/rtp/239.253.92.154:6011
 河北1,http://101.201.69.29:6000/rtp/239.253.92.154:6011
 
-河北联通内网,#genre#
+河北联通组网,#genre#
 河北卫视高清,http://100.75.245.89:5893/rtp/239.253.92.154:6011
 河北经济生活高清,http://100.75.245.89:5893/rtp/239.253.92.171:6001
 河北都市高清,http://100.75.245.89:5893/rtp/239.253.92.172:6002
@@ -317,12 +317,12 @@ CGTN 俄语,http://100.75.245.89:5893/rtp/239.253.93.199:6377
 九屏直播频道,http://100.75.245.89:5893/rtp/239.253.92.203:6150
 临时直播,http://100.75.245.89:5893/rtp/239.253.92.116:6029
 党教,http://100.75.245.89:5893/rtp/239.253.92.125:6024
-YY代理,#genre#
+YY代理组网,#genre#
 官方,https://php80.vip1520.top/yy.php?id=991
 小闪电,https://php80.vip1520.top/yy.php?id=4826
 大壮,https://php80.vip1520.top/yy.php?id=18293
 小儿弟,https://php80.vip1520.top/yy.php?id=1524
-bigo直播,#genre#
+bigo直播组网,#genre#
 ⚓️ꪑ梦梦 迎接美好6🈷️🎊,https://php80.vip1520.top/bigo.php?id=713688529
 北墨,https://php80.vip1520.top/bigo.php?id=987352588
 🩵夏天,https://php80.vip1520.top/bigo.php?id=857093591
@@ -369,7 +369,7 @@ I don't care😎,https://php80.vip1520.top/bigo.php?id=993021168
 老布弹唱🎸,https://php80.vip1520.top/bigo.php?id=1012949856
 🍓鹿儿🍓,https://php80.vip1520.top/bigo.php?id=1010432564
 大熊⚡️,https://php80.vip1520.top/bigo.php?id=960105048
-爱齐鲁,#genre#
+爱齐鲁组网,#genre#
 长清新闻,https://php80.vip1520.top/qilu.php?id=jncqxw
 长清生活,https://php80.vip1520.top/qilu.php?id=jncqsh
 济铁电视台,https://php80.vip1520.top/qilu.php?id=jnjrtv
@@ -733,7 +733,7 @@ UFC格斗精选,https://php80.vip1520.top/migu.php?id=ufcgdjx
 武汉光谷,https://php80.vip1520.top/migu.php?id=whgg
 武汉江汉关,https://php80.vip1520.top/migu.php?id=whjhg
 武汉黄鹤楼,https://php80.vip1520.top/migu.php?id=whhhl
-静态虎牙,#genre#
+静态虎牙组网,#genre#
 小木子先生丶,https://php80.vip1520.top/huya.php?id=11342396
 香港喜剧大全,https://php80.vip1520.top/huya.php?id=23865080
 灯泡妹妹,https://php80.vip1520.top/huya.php?id=610617
@@ -1431,7 +1431,7 @@ WayV-刘扬扬,https://php80.vip1520.top/huya.php?id=660476
 NCT127-泰一,https://php80.vip1520.top/huya.php?id=637217
 黑乎乎的墙角,https://php80.vip1520.top/huya.php?id=28320124
 暖通哥,https://php80.vip1520.top/huya.php?id=21802909
-亦非云,#genre#
+亦非云组网,#genre#
 CCTV1综合,https://php80.vip1520.top/otv.php?id=1
 CCTV2财经,https://php80.vip1520.top/otv.php?id=2
 CCTV3综艺,https://php80.vip1520.top/otv.php?id=3
@@ -1601,7 +1601,7 @@ CHC高清电影,https://php80.vip1520.top/otv.php?id=43063
 凤凰资讯,https://php80.vip1520.top/otv.php?id=52002
 凤凰中文,https://php80.vip1520.top/otv.php?id=52003
 证券服务,https://php80.vip1520.top/otv.php?id=62001
-秦岭云,#genre#
+秦岭云组网,#genre#
 CCTV1HD,https://php80.vip1520.top/qly.php?id=5490
 CCTV2HD,https://php80.vip1520.top/qly.php?id=5612
 CCTV3HD,https://php80.vip1520.top/qly.php?id=5611
@@ -1880,7 +1880,7 @@ cctv1,https://php80.vip1520.top/qly.php?id=6308
 凤凰中文,https://php80.vip1520.top/qly.php?id=6317
 凤凰资讯,https://php80.vip1520.top/qly.php?id=6320
 宝鸡公共,https://php80.vip1520.top/qly.php?id=6344
-黑龙江,#genre#
+黑龙江组网,#genre#
 4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
 4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 cctv1-高码,http://101.201.69.29:35455/gaoma/cctv1.m3u8
