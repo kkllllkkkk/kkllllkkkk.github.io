@@ -3,7 +3,7 @@
 河北,http://192.168.1.68:5894/rtp/239.253.92.154:6011
 河北1,rtp://239.253.92.154:6011
 
-4gtv整合版,#gen斯玛特,#genre#
+斯玛特,#genre#
 香港|翡翠台,http://192.168.1.68:5678/Smart.php?id=jade_twn
 香港|翡翠台 backup,http://192.168.1.68:5678/Smart.php?id=Jade_xue
 香港|iNews 新闻台,http://192.168.1.68:5678/Smart.php?id=inews_twn
@@ -561,7 +561,7 @@
 日本|BS-TBS,http://192.168.1.68:5678/Smart.php?id=bstbs_japan
 日本|NHK Oaska,http://192.168.1.68:5678/Smart.php?id=nhkosaka_japan
 日本|NHK World,http://192.168.1.68:5678/Smart.php?id=nhkworld_japan
-re#
+4gtv整合版,#genre#
 民視第一台,http://192.168.1.68:50007/4gtv-4gtv003/index.m3u8
 民視台灣台,http://192.168.1.68:50007/4gtv-4gtv001/index.m3u8
 民視,http://192.168.1.68:50007/4gtv-4gtv002/index.m3u8
