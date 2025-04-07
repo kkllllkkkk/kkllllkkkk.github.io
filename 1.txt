@@ -3,6 +3,94 @@
 河北,http://10.6.22.1:5893/rtp/239.253.92.154:6011
 河北1,rtp://239.253.92.154:6011
 河北2,http://192.168.1.68:5893/rtp/239.253.92.154:6011
+live,#genre#
+中天新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv009
+TVBS新闻台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv072
+东森新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv152
+民视新闻台,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-ftv13
+镜新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv075
+非凡新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv010
+台视新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv051
+华视新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv052
+中视新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv074
+寰宇新闻台,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn14
+寰宇新闻台湾台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv156
+半岛新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-ftv10
+美国之音,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-ftv03
+东森财经新闻,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv153
+非凡商业台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv048
+台视财经,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv056
+第1商业台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv104
+TVBS,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv073
+台视,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv066
+中视,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv040
+华视,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv041
+民视,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv002
+民视,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv155
+民视台湾台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv001
+民视第一台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv003
+中天亚洲台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv109
+靖天综合台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv046
+靖天国际台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv063
+靖天资讯台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv065
+客家电视台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv043
+阿里郎,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv079
+国会频道1,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv084
+国会频道2,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv085
+TVBS欢乐台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv068
+TVBS精采台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv067
+爱尔达娱乐,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv070
+民视综艺台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv004
+八大综艺台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv039
+八大精彩台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv034
+靖天欢乐台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv054
+靖天育乐台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv062
+中视菁采台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv064
+猪哥亮歌厅秀,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv006
+影迷數位電影台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv011
+amc电影台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv017
+靖天电影台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv061
+靖天映画,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv055
+采昌影剧台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv049
+民视影剧,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-ftv09
+龙华电影,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn03
+龙华洋片,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn02
+公视戏剧,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv042
+靖洋戏剧台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv045
+靖天戏剧台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv058
+中视经典台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv080
+靖天日本台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv047
+龙华戏剧,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn18
+龙华日韩,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn11
+龙华偶像,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn12
+龙华经典,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn21
+台湾戏剧台,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn22
+时尚运动X,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv014
+GinxTV,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv053
+智林体育台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv101
+博斯魅力,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn04
+博斯高球1,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn05
+博斯高球2,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn06
+博斯运动1,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn07
+博斯运动2,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn08
+博斯网球,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn09
+博斯无限,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn10
+博斯无限2,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn13
+视纳华仁纪实,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv013
+Globetrotter,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv016
+达文西频道,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv018
+亚洲旅游台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv076
+民视旅游,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-ftv07
+Smart知识台,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn19
+靖天卡通台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv044
+靖洋卡通台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv057
+龙华卡通,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn01
+古典音乐台,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv059
+TRACE URBAN,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv082
+MEZZO LIVE,http://100.83.104.117:5678/litv.php?token=leifeng&id=4gtv-4gtv083
+好消息1,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-ftv16
+好消息2,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-ftv17
+生活英语台,http://100.83.104.117:5678/litv.php?token=leifeng&id=litv-longturn20
 mytv,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -60,851 +148,835 @@ TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 斯玛特,#genre#
-香港|翡翠台,http://192.168.1.68:5678/Smart.php?id=jade_twn
-香港|翡翠台 backup,http://192.168.1.68:5678/Smart.php?id=Jade_xue
-香港|iNews 新闻台,http://192.168.1.68:5678/Smart.php?id=inews_twn
-香港|J 2,http://192.168.1.68:5678/Smart.php?id=j2_twn
-香港|珍珠台,http://192.168.1.68:5678/Smart.php?id=pearl_twn
-香港|凤凰香港,http://192.168.1.68:5678/Smart.php?id=hkphoenix_twn
-香港|HOY资讯台,http://192.168.1.68:5678/Smart.php?id=hoycaijing_twn
-香港|RHK 31,http://192.168.1.68:5678/Smart.php?id=rhk31_twn
-香港|VIUTV1,http://192.168.1.68:5678/Smart.php?id=viu1_twn
-香港|RHK 32,http://192.168.1.68:5678/Smart.php?id=rhk32_twn
-香港|凤凰卫视,http://192.168.1.68:5678/Smart.php?id=phoenixtv_hd
-香港|凤凰资讯,http://192.168.1.68:5678/Smart.php?id=phoenixinfo_hd
-香港|Viu6,http://192.168.1.68:5678/Smart.php?id=viusix_twn
-
-中国|CCTV-1 综合 HD,http://192.168.1.68:5678/Smart.php?id=cctv1
-中国|CCTV-2 财经,http://192.168.1.68:5678/Smart.php?id=cctv2
-中国|CCTV-3 综艺 HD,http://192.168.1.68:5678/Smart.php?id=cctv3
-中国|CCTV-4 中文国际,http://192.168.1.68:5678/Smart.php?id=cctv4
-中国|CCTV4 新闻台,http://192.168.1.68:5678/Smart.php?id=Cctv4
-中国|CCTV-7 军事农业,http://192.168.1.68:5678/Smart.php?id=cctv7
-中国|CCTV-8 电视剧 HD,http://192.168.1.68:5678/Smart.php?id=cctv8hd
-中国|CCTV-9 记录 HD,http://192.168.1.68:5678/Smart.php?id=cctv9hd
-中国|CCTV-10 科教 HD,http://192.168.1.68:5678/Smart.php?id=cctv10hd
-中国|CCTV-11 戏曲,http://192.168.1.68:5678/Smart.php?id=cctv11
-中国|CCTV-12 社会与法,http://192.168.1.68:5678/Smart.php?id=cctv12
-中国|CCTV-13 新闻频道,http://192.168.1.68:5678/Smart.php?id=cctv13
-中国|CCTV-14 少儿,http://192.168.1.68:5678/Smart.php?id=cctv14
-中国|CCTV-6,http://192.168.1.68:5678/Smart.php?id=cctv6
-中国|CCTV-15 音乐,http://192.168.1.68:5678/Smart.php?id=cctv15
-
-中国|湖南卫视,http://192.168.1.68:5678/Smart.php?id=hunan_twn
-中国|浙江卫视,http://192.168.1.68:5678/Smart.php?id=zhejiang_twn
-中国|江苏卫视,http://192.168.1.68:5678/Smart.php?id=jiangsu_twn
-中国|深圳卫视,http://192.168.1.68:5678/Smart.php?id=shenzhen
-中国|福建东南卫视,http://192.168.1.68:5678/Smart.php?id=fujian
-中国|广东南方卫视,http://192.168.1.68:5678/Smart.php?id=nanfang_twn
-中国|广东卫视,http://192.168.1.68:5678/Smart.php?id=guangdongweishi_twn
-中国|北京卫视,http://192.168.1.68:5678/Smart.php?id=beijing
-中国|珠江台,http://192.168.1.68:5678/Smart.php?id=zhujiang
-中国|广西卫视,http://192.168.1.68:5678/Smart.php?id=guangxi
-中国|湖北卫视,http://192.168.1.68:5678/Smart.php?id=hubei
-中国|四川卫视,http://192.168.1.68:5678/Smart.php?id=sichuan_twn
-中国|东方卫视,http://192.168.1.68:5678/Smart.php?id=dongfangweishi_twn
-中国|CGTN,http://192.168.1.68:5678/Smart.php?id=CGTN
-中国|凤凰卫视,http://192.168.1.68:5678/Smart.php?id=phoenixtv_hd
-中国|凤凰资讯,http://192.168.1.68:5678/Smart.php?id=phoenixinfo_hd
-中国|CCTV-5 体育频道,http://192.168.1.68:5678/Smart.php?id=cctv5
-中国|CCTV-5+ 体育赛事 HD,http://192.168.1.68:5678/Smart.php?id=cctv5plus
-
-体育频道|Astro Premier League 1,http://192.168.1.68:5678/Smart.php?id=go_assp1
-体育频道|Astro EPL 1 backup,http://192.168.1.68:5678/Smart.php?id=go_assp1x
-体育频道|Astro Premier League 2,http://192.168.1.68:5678/Smart.php?id=go_assp2
-体育频道|Astro Grandstand,http://192.168.1.68:5678/Smart.php?id=go_assp3
-体育频道|Astro Football,http://192.168.1.68:5678/Smart.php?id=go_assp4
-体育频道|Astro Sports Plus,http://192.168.1.68:5678/Smart.php?id=go_sportsplus
-体育频道|Astro Badminton 1,http://192.168.1.68:5678/Smart.php?id=go_badminton1
-体育频道|Astro Badminton 2,http://192.168.1.68:5678/Smart.php?id=go_badminton2
-体育频道|Astro W-Sports,http://192.168.1.68:5678/Smart.php?id=go_assp5
-体育频道|Supersports 1,http://192.168.1.68:5678/Smart.php?id=Assp1
-体育频道|Supersports 2,http://192.168.1.68:5678/Smart.php?id=Assp2
-体育频道|Supersports 3,http://192.168.1.68:5678/Smart.php?id=Assp3
-体育频道|Supersports 4,http://192.168.1.68:5678/Smart.php?id=Assp4
-体育频道|WWE,http://192.168.1.68:5678/Smart.php?id=Wwe
-体育频道|Fight Sports,http://192.168.1.68:5678/Smart.php?id=Fs
-体育频道|NBA TV,http://192.168.1.68:5678/Smart.php?id=Nba
-体育频道|Astro Cricket,http://192.168.1.68:5678/Smart.php?id=Acricket
-体育频道|Astro Golf,http://192.168.1.68:5678/Smart.php?id=Agolf
-体育频道|Tnt Sports 1,http://192.168.1.68:5678/Smart.php?id=6fac0aaead
-体育频道|TNT Sports 2,http://192.168.1.68:5678/Smart.php?id=d9a76a79cc
-体育频道|TNT Sports 3,http://192.168.1.68:5678/Smart.php?id=5fea4d73db
-体育频道|TNT Sports 4,http://192.168.1.68:5678/Smart.php?id=tntsport4
-体育频道|Sony Ten 1,http://192.168.1.68:5678/Smart.php?id=ten1_raj
-体育频道|Sony Ten 2,http://192.168.1.68:5678/Smart.php?id=ten2_raj
-体育频道|Sony Ten 3,http://192.168.1.68:5678/Smart.php?id=ten3_raj
-体育频道|SPOTV 1 HD,http://192.168.1.68:5678/Smart.php?id=go_spotv
-体育频道|SPO TV 2,http://192.168.1.68:5678/Smart.php?id=go_spotv2
-体育频道|Skysports F1,http://192.168.1.68:5678/Smart.php?id=tiankongf1
-体育频道|Skysports Cricket,http://192.168.1.68:5678/Smart.php?id=tiankongcricket
-体育频道|Skysports EPL,http://192.168.1.68:5678/Smart.php?id=tiankongepl
-体育频道|Skysports Main Event,http://192.168.1.68:5678/Smart.php?id=tiankongmain
-体育频道|Skysports News,http://192.168.1.68:5678/Smart.php?id=tiankongnews
-体育频道|Skysports Mix,http://192.168.1.68:5678/Smart.php?id=tiankongmix
-体育频道|CCTV-5 体育频道,http://192.168.1.68:5678/Smart.php?id=cctv5
-体育频道|CCTV-5+ 体育赛事 HD,http://192.168.1.68:5678/Smart.php?id=cctv5plus
-体育频道|爱尔达体育2台,http://192.168.1.68:5678/Smart.php?id=eltasport2_twn
-体育频道|爱尔达体育3台,http://192.168.1.68:5678/Smart.php?id=eltasport3_twn
-体育频道|Rugby Pass TV,http://192.168.1.68:5678/Smart.php?id=Rugbypasstv
-体育频道|RTM Sports HD,http://192.168.1.68:5678/Smart.php?id=Rtmsport
-体育频道|Arena,http://192.168.1.68:5678/Smart.php?id=Arena
-体育频道|Arena 2,http://192.168.1.68:5678/Smart.php?id=Arena2
-体育频道|BolaArena 1,http://192.168.1.68:5678/Smart.php?id=Bolaarena1
-体育频道|BolaArena 2,http://192.168.1.68:5678/Smart.php?id=Bolaarena2
-体育频道|Astro Beinsports 1,http://192.168.1.68:5678/Smart.php?id=Astrobein1
-体育频道|Astro Beinsports 2,http://192.168.1.68:5678/Smart.php?id=Astrobein2
-体育频道|Astro Beinsports 3,http://192.168.1.68:5678/Smart.php?id=Astrobein3
-
-台湾|TVBS News 新闻台,http://192.168.1.68:5678/Smart.php?id=tvbs_n
-台湾|TVBS 欢乐台 （备份）,http://192.168.1.68:5678/Smart.php?id=tvbshuanle_twn
-台湾|TVBS HD,http://192.168.1.68:5678/Smart.php?id=tvbs
-台湾|中天新闻 HD,http://192.168.1.68:5678/Smart.php?id=ctinews
-台湾|中天娱乐 CTI Entertaiment,http://192.168.1.68:5678/Smart.php?id=ctient
-台湾|中天综合 CTI Metro,http://192.168.1.68:5678/Smart.php?id=ctizhonghe
-台湾|中天亚洲台,http://192.168.1.68:5678/Smart.php?id=ctiasia_twn
-台湾|台视 TTV HD,http://192.168.1.68:5678/Smart.php?id=ttv_taiwan
-台湾|台视新闻台,http://192.168.1.68:5678/Smart.php?id=ttvnews_twn
-台湾|台视综合台,http://192.168.1.68:5678/Smart.php?id=ttvzhonghe
-台湾|中视 HD,http://192.168.1.68:5678/Smart.php?id=zhongshihd_twn
-台湾|中视新闻台,http://192.168.1.68:5678/Smart.php?id=zhongshinews_twn
-台湾|民视 HD,http://192.168.1.68:5678/Smart.php?id=ftvhd_taiwan
-台湾|民视新闻台 FTV News,http://192.168.1.68:5678/Smart.php?id=ftvnew_taiwan
-台湾|民视台湾台,http://192.168.1.68:5678/Smart.php?id=ftvtaiwan_twn
-台湾|华视 CTS HD,http://192.168.1.68:5678/Smart.php?id=ctshd_twn
-台湾|公视 CTV,http://192.168.1.68:5678/Smart.php?id=ctv18_twn
-台湾|八大第一 GTV First,http://192.168.1.68:5678/Smart.php?id=badafirst
-台湾|八大综合 GTV Metro,http://192.168.1.68:5678/Smart.php?id=badazhonghe
-台湾|八大戏剧 GTV Drama,http://192.168.1.68:5678/Smart.php?id=badadrama
-台湾|八大娱乐 GTV Entertainment,http://192.168.1.68:5678/Smart.php?id=badaentertain
-台湾|HBO_HD,http://192.168.1.68:5678/Smart.php?id=hbohd_twn
-台湾|HBO_HITS,http://192.168.1.68:5678/Smart.php?id=hbohit_twn
-台湾|Hollywood Movies,http://192.168.1.68:5678/Smart.php?id=hollywoodmovies_twn
-台湾|三立台湾 Sanli Taiwan,http://192.168.1.68:5678/Smart.php?id=sanlitaiwan
-台湾|三立戏剧台,http://192.168.1.68:5678/Smart.php?id=sanlixiju_twn
-台湾|三立综合 Sanli Metro,http://192.168.1.68:5678/Smart.php?id=sanlizhonghe
-台湾|三立都会台,http://192.168.1.68:5678/Smart.php?id=sanlidouhui
-台湾|东森新闻 ETTV News,http://192.168.1.68:5678/Smart.php?id=ettvnews
-台湾|CINEMAX,http://192.168.1.68:5678/Smart.php?id=cinemax_twn
-台湾|东森综合 ETTV Metro,http://192.168.1.68:5678/Smart.php?id=ettvzhonghe
-台湾|东森戏剧 ETTV Drama,http://192.168.1.68:5678/Smart.php?id=ettvdrama
-台湾|东森超视,http://192.168.1.68:5678/Smart.php?id=ettvsuper
-台湾|东森财经新闻 ETTV Business,http://192.168.1.68:5678/Smart.php?id=ettvcaijing_twn
-台湾|寰宇财经,http://192.168.1.68:5678/Smart.php?id=huanyutaiwan_twn
-台湾|寰宇新闻台,http://192.168.1.68:5678/Smart.php?id=huanyuxinwen_twn
-台湾|公视2,http://192.168.1.68:5678/Smart.php?id=ctv2_twn
-台湾|大爱1台,http://192.168.1.68:5678/Smart.php?id=daai_twn
-台湾|非凡新闻台,http://192.168.1.68:5678/Smart.php?id=feifannews_twn
-台湾|龙华戏剧 Lunghua Drama,http://192.168.1.68:5678/Smart.php?id=lunghuaxiju_twn
-台湾|龙华经典台,http://192.168.1.68:5678/Smart.php?id=lunghuajingdian_twn
-台湾|龙华偶像,http://192.168.1.68:5678/Smart.php?id=lunghuaidol_twn
-台湾|AXN Taiwan,http://192.168.1.68:5678/Smart.php?id=axn_twn
-台湾|靖天国际台,http://192.168.1.68:5678/Smart.php?id=jingtianintl_twn
-台湾|年代新闻,http://192.168.1.68:5678/Smart.php?id=niandainews_twn
-台湾|纬来日本台,http://192.168.1.68:5678/Smart.php?id=videolandjapan
-台湾|纬来电影台,http://192.168.1.68:5678/Smart.php?id=videolandmovie
-台湾|纬来体育台,http://192.168.1.68:5678/Smart.php?id=videolandsport
-台湾|纬来综合台,http://192.168.1.68:5678/Smart.php?id=videolandzonghe
-台湾|纬来育乐,http://192.168.1.68:5678/Smart.php?id=videolandyule
-台湾|纬来精彩,http://192.168.1.68:5678/Smart.php?id=videolandspecial_twn
-台湾|好消息 2,http://192.168.1.68:5678/Smart.php?id=good2_twn
-台湾|大爱2台,http://192.168.1.68:5678/Smart.php?id=daai2_twn
-台湾|亚洲美食,http://192.168.1.68:5678/Smart.php?id=afc_twn
-台湾|美食星球,http://192.168.1.68:5678/Smart.php?id=foodplanet_twn
-台湾|亚洲旅游 TLC Asia,http://192.168.1.68:5678/Smart.php?id=tlc_twn
-台湾|东森电影 ETTV Movie,http://192.168.1.68:5678/Smart.php?id=ettvmovie
-台湾|阿里郎 Arirang,http://192.168.1.68:5678/Smart.php?id=arirang_twn
-台湾|博斯运动 1,http://192.168.1.68:5678/Smart.php?id=bosisport1_twn
-台湾|博斯运动 2,http://192.168.1.68:5678/Smart.php?id=bosisport2_twn
-台湾|博斯高球2 HD,http://192.168.1.68:5678/Smart.php?id=bosigolf2_twn
-台湾|博斯网球 HD,http://192.168.1.68:5678/Smart.php?id=bositennis_twn
-台湾|东森洋片 ETTV Western,http://192.168.1.68:5678/Smart.php?id=ettvwestern
-台湾|龙华洋片 Lunghua Western,http://192.168.1.68:5678/Smart.php?id=lunghuawestern_twn
-台湾|博斯无限,http://192.168.1.68:5678/Smart.php?id=bosiunlimited_twn
-台湾|MTV Live,http://192.168.1.68:5678/Smart.php?id=mtvhd_twn
-台湾|龙详时代,http://192.168.1.68:5678/Smart.php?id=lungxiangtime_twn
-台湾|EYETV 旅游,http://192.168.1.68:5678/Smart.php?id=eyetvtravel_twn
-台湾|靖天卡通台,http://192.168.1.68:5678/Smart.php?id=jingtiancartoon_twn
-台湾|EYETV 戏剧,http://192.168.1.68:5678/Smart.php?id=eyetvxiju_twn
-台湾|卫视中文台 Star Movies Chinese,http://192.168.1.68:5678/Smart.php?id=weishichinese_twn
-台湾|东森幼幼 Yoyo TV,http://192.168.1.68:5678/Smart.php?id=yoyo_twn
-台湾|卫视电影台,http://192.168.1.68:5678/Smart.php?id=weishimovie_twn
-台湾|美亚电影,http://192.168.1.68:5678/Smart.php?id=meiyamovie_twn
-台湾|爱尔达影剧台,http://192.168.1.68:5678/Smart.php?id=eltayingju_twn
-台湾|爱尔达综合台,http://192.168.1.68:5678/Smart.php?id=eltazonghe_twn
-台湾|星卫电影,http://192.168.1.68:5678/Smart.php?id=xingwei_movie
-台湾|爱尔达影剧,http://192.168.1.68:5678/Smart.php?id=eltayingju_twn
-台湾|AFC 亚洲旅游台,http://192.168.1.68:5678/Smart.php?id=asiatravel_twn
-台湾|爱尔达体育2台,http://192.168.1.68:5678/Smart.php?id=eltasport2_twn
-台湾|爱尔达体育3台,http://192.168.1.68:5678/Smart.php?id=eltasport3_twn
-
-电影频道|HBO_HD,http://192.168.1.68:5678/Smart.php?id=hbohd_twn
-电影频道|HBO_HITS,http://192.168.1.68:5678/Smart.php?id=hbohit_twn
-电影频道|Hollywood Movies,http://192.168.1.68:5678/Smart.php?id=hollywoodmovies_twn
-电影频道|CCTV-6,http://192.168.1.68:5678/Smart.php?id=cctv6
-电影频道|CINEMAX,http://192.168.1.68:5678/Smart.php?id=cinemax_twn
-电影频道|Cinemax,http://192.168.1.68:5678/Smart.php?id=Cinemax
-电影频道|AXN Taiwan,http://192.168.1.68:5678/Smart.php?id=axn_twn
-电影频道|大爱2台,http://192.168.1.68:5678/Smart.php?id=daai2_twn
-电影频道|东森电影 ETTV Movie,http://192.168.1.68:5678/Smart.php?id=ettvmovie
-电影频道|东森洋片 ETTV Western,http://192.168.1.68:5678/Smart.php?id=ettvwestern
-电影频道|龙华洋片 Lunghua Western,http://192.168.1.68:5678/Smart.php?id=lunghuawestern_twn
-电影频道|Animax,http://192.168.1.68:5678/Smart.php?id=Animax
-电影频道|龙详时代,http://192.168.1.68:5678/Smart.php?id=lungxiangtime_twn
-电影频道|Movies Now HD,http://192.168.1.68:5678/Smart.php?id=moviesnow_raj
-电影频道|Star Movies HD,http://192.168.1.68:5678/Smart.php?id=starmovies_raj
-电影频道|卫视中文台 Star Movies Chinese,http://192.168.1.68:5678/Smart.php?id=weishichinese_twn
-电影频道|HBO Family,http://192.168.1.68:5678/Smart.php?id=Hbofamily
-电影频道|Hits,http://192.168.1.68:5678/Smart.php?id=Hits
-电影频道|Warner TV,http://192.168.1.68:5678/Smart.php?id=WarnerTV
-电影频道|卫视电影台,http://192.168.1.68:5678/Smart.php?id=weishimovie_twn
-电影频道|HBO HD,http://192.168.1.68:5678/Smart.php?id=Hbo
-电影频道|美亚电影,http://192.168.1.68:5678/Smart.php?id=meiyamovie_twn
-电影频道|HBO Signature,http://192.168.1.68:5678/Smart.php?id=Hbosignature
-电影频道|HBO Hits,http://192.168.1.68:5678/Smart.php?id=Hbohitshd
-电影频道|星卫电影,http://192.168.1.68:5678/Smart.php?id=xingwei_movie
-电影频道|SCM,http://192.168.1.68:5678/Smart.php?id=Weishimovie
-电影频道|Dreamworks,http://192.168.1.68:5678/Smart.php?id=Dreamworks
-电影频道|Thrill,http://192.168.1.68:5678/Smart.php?id=Thrill
-电影频道|Hits Movie,http://192.168.1.68:5678/Smart.php?id=Hitsmovie
-电影频道|One,http://192.168.1.68:5678/Smart.php?id=One
-电影频道|tvN Movie,http://192.168.1.68:5678/Smart.php?id=Tvnmovie
-电影频道|Celestial Classic,http://192.168.1.68:5678/Smart.php?id=Celestial2
-电影频道|Celestial Movies HD,http://192.168.1.68:5678/Smart.php?id=Celestialindo
-电影频道|Axn HD,http://192.168.1.68:5678/Smart.php?id=Axn
-电影频道|Paramount Network,http://192.168.1.68:5678/Smart.php?id=Paramountnetwork
-电影频道|Astrol Kplus,http://192.168.1.68:5678/Smart.php?id=Kplus
-电影频道|Rock Actions,http://192.168.1.68:5678/Smart.php?id=Rockaction
-电影频道|Rock Entertainment,http://192.168.1.68:5678/Smart.php?id=Rockentertain
-
-纪录频道|Natgeo_HD,http://192.168.1.68:5678/Smart.php?id=natgeohd_twn
-纪录频道|NatGeo_Wild HD,http://192.168.1.68:5678/Smart.php?id=natgeowild_twn
-纪录频道|Animal_Planet,http://192.168.1.68:5678/Smart.php?id=animalplanet_twn
-纪录频道|Discovery Asia,http://192.168.1.68:5678/Smart.php?id=discoverytwn_twn
-纪录频道|CI,http://192.168.1.68:5678/Smart.php?id=ci_twn
-纪录频道|Asia Travel,http://192.168.1.68:5678/Smart.php?id=asiatravel_twn
-纪录频道|Discovery HD,http://192.168.1.68:5678/Smart.php?id=discoveryhd_twn
-纪录频道|亚洲美食,http://192.168.1.68:5678/Smart.php?id=afc_twn
-纪录频道|美食星球,http://192.168.1.68:5678/Smart.php?id=foodplanet_twn
-纪录频道|亚洲旅游 TLC Asia,http://192.168.1.68:5678/Smart.php?id=tlc_twn
-纪录频道|NatGeo HD,http://192.168.1.68:5678/Smart.php?id=Natgeo
-纪录频道|Fashion TV,http://192.168.1.68:5678/Smart.php?id=fashiontv_twn
-纪录频道|History,http://192.168.1.68:5678/Smart.php?id=History
-纪录频道|BBC Earth HD,http://192.168.1.68:5678/Smart.php?id=bbcearth_twn
-纪录频道|BBC Earth Lifestyle,http://192.168.1.68:5678/Smart.php?id=bbclifestyle_twn
-纪录频道|MTV Live,http://192.168.1.68:5678/Smart.php?id=mtvhd_twn
-纪录频道|NatGeo Wild HD,http://192.168.1.68:5678/Smart.php?id=Natgeowild
-纪录频道|Animal Planet (Eng),http://192.168.1.68:5678/Smart.php?id=AnimalPlanet
-纪录频道|TLC,http://192.168.1.68:5678/Smart.php?id=Tlc
-纪录频道|Foodnetwork Hd,http://192.168.1.68:5678/Smart.php?id=Foodnetwork
-纪录频道|HGTV,http://192.168.1.68:5678/Smart.php?id=HGTV
-纪录频道|AFC 亚洲旅游台,http://192.168.1.68:5678/Smart.php?id=asiatravel_twn
-
-新闻频道|Skynews,http://192.168.1.68:5678/Smart.php?id=skynews_twn
-新闻频道|ABC News,http://192.168.1.68:5678/Smart.php?id=abcnews_glo
-新闻频道|东森财经新闻 ETTV Business,http://192.168.1.68:5678/Smart.php?id=ettvcaijing_twn
-新闻频道|CBS HD,http://192.168.1.68:5678/Smart.php?id=cbshd_glo
-新闻频道|CBSN HD,http://192.168.1.68:5678/Smart.php?id=cbsn_glo
-新闻频道|France 24,http://192.168.1.68:5678/Smart.php?id=france24_twn
-新闻频道|DW (Deutsch),http://192.168.1.68:5678/Smart.php?id=dw_twn
-新闻频道|NHK World,http://192.168.1.68:5678/Smart.php?id=nhkworld_japan
-新闻频道|Fox News,http://192.168.1.68:5678/Smart.php?id=foxnews_twn
-新闻频道|CGTN,http://192.168.1.68:5678/Smart.php?id=CGTN
-新闻频道|CNN International,http://192.168.1.68:5678/Smart.php?id=Cnn
-新闻频道|CNN backup,http://192.168.1.68:5678/Smart.php?id=cnn_twn
-新闻频道|CNBC,http://192.168.1.68:5678/Smart.php?id=cnbc_twn
-新闻频道|CNA,http://192.168.1.68:5678/Smart.php?id=cna
-新闻频道|BBC World News,http://192.168.1.68:5678/Smart.php?id=bbcnews_twn
-新闻频道|BBC World News,http://192.168.1.68:5678/Smart.php?id=Bbcnews
-新闻频道|Bloomberg News,http://192.168.1.68:5678/Smart.php?id=bloomberg_twn
-新闻频道|Al-Jazeera,http://192.168.1.68:5678/Smart.php?id=aljazeera_twn
-
-儿童频道|Baby TV Eng,http://192.168.1.68:5678/Smart.php?id=Babytv
-儿童频道|CBeebies,http://192.168.1.68:5678/Smart.php?id=Cbeebies
-儿童频道|Kids TV,http://192.168.1.68:5678/Smart.php?id=KidsTV
-儿童频道|Momo TV,http://192.168.1.68:5678/Smart.php?id=momo1_twn
-儿童频道|Animax,http://192.168.1.68:5678/Smart.php?id=Animax
-儿童频道|Baby TV,http://192.168.1.68:5678/Smart.php?id=babytv_twn
-儿童频道|MiaoMi,http://192.168.1.68:5678/Smart.php?id=MiaoMi
-儿童频道|靖天卡通台,http://192.168.1.68:5678/Smart.php?id=jingtiancartoon_twn
-儿童频道|东森幼幼 Yoyo TV,http://192.168.1.68:5678/Smart.php?id=yoyo_twn
-儿童频道|Cartoon Network,http://192.168.1.68:5678/Smart.php?id=Cn
-儿童频道|Nickelodeon,http://192.168.1.68:5678/Smart.php?id=Nickelodeon
-儿童频道|Nick Jr,http://192.168.1.68:5678/Smart.php?id=Nickjr
-
-新加坡|Channel 5,http://192.168.1.68:5678/Smart.php?id=Channel5HD
-新加坡|Channel 8,http://192.168.1.68:5678/Smart.php?id=Channel8HD
-新加坡|Suria,http://192.168.1.68:5678/Smart.php?id=Suria
-新加坡|Channel U,http://192.168.1.68:5678/Smart.php?id=ChannelU
-新加坡|Vasantham,http://192.168.1.68:5678/Smart.php?id=Vasantham
-新加坡|CNA,http://192.168.1.68:5678/Smart.php?id=cna
-新加坡|CNA backup,http://192.168.1.68:5678/Smart.php?id=cna_twn
-新加坡|MeWatch Ch 5,http://192.168.1.68:5678/Smart.php?id=Mewatch_ch5
-新加坡|MeWatch Ch 8,http://192.168.1.68:5678/Smart.php?id=Mewatch_ch8
-新加坡|MeWatch Ch U,http://192.168.1.68:5678/Smart.php?id=Mewatch_chU
-新加坡|MeWatch Suria,http://192.168.1.68:5678/Smart.php?id=Mewatch_Suria
-新加坡|MeWatch Vasantham,http://192.168.1.68:5678/Smart.php?id=Mewatch_Vasantham
-新加坡|MeWatch CNA,http://192.168.1.68:5678/Smart.php?id=Mewatch_cna
-
-马来西亚|TV1,http://192.168.1.68:5678/Smart.php?id=TV1
-马来西亚|TV1 backup,http://192.168.1.68:5678/Smart.php?id=TV1_backup
-马来西亚|TV2,http://192.168.1.68:5678/Smart.php?id=TV2
-马来西亚|TV3,http://192.168.1.68:5678/Smart.php?id=TV3
-马来西亚|TV3 SD,http://192.168.1.68:5678/Smart.php?id=TV3_mega
-马来西亚|NTV7,http://192.168.1.68:5678/Smart.php?id=NTV7
-马来西亚|TV8,http://192.168.1.68:5678/Smart.php?id=TV8
-马来西亚|TV9,http://192.168.1.68:5678/Smart.php?id=TV9
-马来西亚|Ria,http://192.168.1.68:5678/Smart.php?id=Ria-0
-马来西亚|Ria-3,http://192.168.1.68:5678/Smart.php?id=Ria_backup
-马来西亚|Al-Hijrah,http://192.168.1.68:5678/Smart.php?id=Alhijrah
-马来西亚|Al-Hijrah backup,http://192.168.1.68:5678/Smart.php?id=Alhijrah_backup
-马来西亚|Awani,http://192.168.1.68:5678/Smart.php?id=Awani
-马来西亚|Bernama,http://192.168.1.68:5678/Smart.php?id=Bernama
-马来西亚|Prima,http://192.168.1.68:5678/Smart.php?id=Prima-0
-马来西亚|Prima backup,http://192.168.1.68:5678/Smart.php?id=AAprima1
-马来西亚|Prima backup 2,http://192.168.1.68:5678/Smart.php?id=AAprima
-马来西亚|Ceria,http://192.168.1.68:5678/Smart.php?id=Ceria
-马来西亚|Astro MTV,http://192.168.1.68:5678/Smart.php?id=AstroMTV
-马来西亚|Mecca Live HD,http://192.168.1.68:5678/Smart.php?id=quran_mido
-马来西亚|Madinah HD,http://192.168.1.68:5678/Smart.php?id=sunnah_mido
-马来西亚|Oasis,http://192.168.1.68:5678/Smart.php?id=Oasis
-马来西亚|HBO HD,http://192.168.1.68:5678/Smart.php?id=Hbo
-马来西亚|HBO Signature,http://192.168.1.68:5678/Smart.php?id=Hbosignature
-马来西亚|HBO Hits,http://192.168.1.68:5678/Smart.php?id=Hbohitshd
-马来西亚|NatGeo Wild HD,http://192.168.1.68:5678/Smart.php?id=Natgeowild
-马来西亚|Cartoon Network,http://192.168.1.68:5678/Smart.php?id=Cn
-马来西亚|Nickelodeon,http://192.168.1.68:5678/Smart.php?id=Nickelodeon
-马来西亚|Nick Jr,http://192.168.1.68:5678/Smart.php?id=Nickjr
-马来西亚|Dreamworks,http://192.168.1.68:5678/Smart.php?id=Dreamworks
-马来西亚|Siar,http://192.168.1.68:5678/Smart.php?id=Siar
-马来西亚|Citra,http://192.168.1.68:5678/Smart.php?id=AAcitra
-马来西亚|Citra backup,http://192.168.1.68:5678/Smart.php?id=AAcitra1
-马来西亚|Sensasi,http://192.168.1.68:5678/Smart.php?id=Sensasi
-马来西亚|Aura,http://192.168.1.68:5678/Smart.php?id=Aura
-马来西亚|Rania,http://192.168.1.68:5678/Smart.php?id=Rania
-马来西亚|KBS World,http://192.168.1.68:5678/Smart.php?id=KBS
-马来西亚|Boo,http://192.168.1.68:5678/Smart.php?id=Boo
-马来西亚|Awesome TV,http://192.168.1.68:5678/Smart.php?id=Dsangat
-马来西亚|Astro Sonypix,http://192.168.1.68:5678/Smart.php?id=Asonypix
-马来西亚|Sony HD,http://192.168.1.68:5678/Smart.php?id=SetOne
-马来西亚|TvN,http://192.168.1.68:5678/Smart.php?id=TVN
-马来西亚|AEC,http://192.168.1.68:5678/Smart.php?id=AEC
-马来西亚|华丽台 HD （Wah Lai Toi）,http://192.168.1.68:5678/Smart.php?id=Wlt
-马来西亚|欢喜台 HD （Hua Hee Tai）,http://192.168.1.68:5678/Smart.php?id=Huahee
-马来西亚|Astro QJ,http://192.168.1.68:5678/Smart.php?id=Quanjia
-马来西亚|TVB Jade,http://192.168.1.68:5678/Smart.php?id=Tvbjade
-马来西亚|TVB Asia,http://192.168.1.68:5678/Smart.php?id=Tvbasia
-马来西亚|TVB Entertainment,http://192.168.1.68:5678/Smart.php?id=Tvbentertainment
-马来西亚|TVB Classic,http://192.168.1.68:5678/Smart.php?id=Tvbclassic
-马来西亚|AOD,http://192.168.1.68:5678/Smart.php?id=Aodhd
-马来西亚|One,http://192.168.1.68:5678/Smart.php?id=One
-马来西亚|TVB 星河台 Xing He,http://192.168.1.68:5678/Smart.php?id=Xinhe
-马来西亚|爱奇艺 iQiyi,http://192.168.1.68:5678/Smart.php?id=Qiyi
-马来西亚|Animal Planet (Eng),http://192.168.1.68:5678/Smart.php?id=AnimalPlanet
-马来西亚|tvN Movie,http://192.168.1.68:5678/Smart.php?id=Tvnmovie
-马来西亚|CNN backup,http://192.168.1.68:5678/Smart.php?id=cnn_twn
-马来西亚|Celestial Classic,http://192.168.1.68:5678/Smart.php?id=Celestial2
-马来西亚|CNBC,http://192.168.1.68:5678/Smart.php?id=cnbc_twn
-马来西亚|TLC,http://192.168.1.68:5678/Smart.php?id=Tlc
-马来西亚|CNA,http://192.168.1.68:5678/Smart.php?id=cna
-马来西亚|BBC World News,http://192.168.1.68:5678/Smart.php?id=bbcnews_twn
-马来西亚|Foodnetwork Hd,http://192.168.1.68:5678/Smart.php?id=Foodnetwork
-马来西亚|HGTV,http://192.168.1.68:5678/Smart.php?id=HGTV
-马来西亚|Goshop,http://192.168.1.68:5678/Smart.php?id=Goshop
-马来西亚|Celestial Movies HD,http://192.168.1.68:5678/Smart.php?id=Celestial
-马来西亚|Axn HD,http://192.168.1.68:5678/Smart.php?id=Axn
-马来西亚|Paramount Network,http://192.168.1.68:5678/Smart.php?id=Paramountnetwork
-马来西亚|Astrol Kplus,http://192.168.1.68:5678/Smart.php?id=Kplus
-马来西亚|AFC 亚洲旅游台,http://192.168.1.68:5678/Smart.php?id=asiatravel_twn
-马来西亚|Rock Actions,http://192.168.1.68:5678/Smart.php?id=Rockaction
-马来西亚|Bloomberg News,http://192.168.1.68:5678/Smart.php?id=bloomberg_twn
-马来西亚|Al-Jazeera,http://192.168.1.68:5678/Smart.php?id=aljazeera_twn
-马来西亚|Rock Entertainment,http://192.168.1.68:5678/Smart.php?id=Rockentertain
-马来西亚|RTM Sports HD,http://192.168.1.68:5678/Smart.php?id=Rtmsport
-马来西亚|Arena,http://192.168.1.68:5678/Smart.php?id=Arena
-马来西亚|Arena 2,http://192.168.1.68:5678/Smart.php?id=Arena2
-马来西亚|BolaArena 1,http://192.168.1.68:5678/Smart.php?id=Bolaarena1
-马来西亚|BolaArena 2,http://192.168.1.68:5678/Smart.php?id=Bolaarena2
-马来西亚|Astro LOL,http://192.168.1.68:5678/Smart.php?id=Astro_lol
-马来西亚|Astro Rusi,http://192.168.1.68:5678/Smart.php?id=Rusi
-马来西亚|WION,http://192.168.1.68:5678/Smart.php?id=Wion
-马来西亚|RTM Asean,http://192.168.1.68:5678/Smart.php?id=Rtmasean
-
-印度尼西亚|TVRI National,http://192.168.1.68:5678/Smart.php?id=TVRI
-印度尼西亚|RCTI,http://192.168.1.68:5678/Smart.php?id=Rcti
-印度尼西亚|Kompass TV,http://192.168.1.68:5678/Smart.php?id=Kompass
-印度尼西亚|Berita Satu,http://192.168.1.68:5678/Smart.php?id=BeritaSatu_eko
-印度尼西亚|Indosiar HD,http://192.168.1.68:5678/Smart.php?id=Indosiar
-印度尼西亚|AnTV,http://192.168.1.68:5678/Smart.php?id=Antv
-印度尼西亚|MNC TV,http://192.168.1.68:5678/Smart.php?id=Mnctv
-印度尼西亚|Trans 7,http://192.168.1.68:5678/Smart.php?id=Trans7_eko
-印度尼西亚|Transtv,http://192.168.1.68:5678/Smart.php?id=Transtv
-印度尼西亚|JTV,http://192.168.1.68:5678/Smart.php?id=JTV_eko
-印度尼西亚|Metro TV,http://192.168.1.68:5678/Smart.php?id=metrotv_eko
-印度尼西亚|Cinemax,http://192.168.1.68:5678/Smart.php?id=Cinemax
-印度尼西亚|SCTV,http://192.168.1.68:5678/Smart.php?id=SCTV
-印度尼西亚|Tvone,http://192.168.1.68:5678/Smart.php?id=Tvone
-印度尼西亚|TVMU,http://192.168.1.68:5678/Smart.php?id=TVMU_eko
-印度尼西亚|GTV,http://192.168.1.68:5678/Smart.php?id=Gtv
-印度尼西亚|RTV,http://192.168.1.68:5678/Smart.php?id=Rtv
-印度尼西亚|Jak TV,http://192.168.1.68:5678/Smart.php?id=JakTV
-印度尼西亚|iNews TV,http://192.168.1.68:5678/Smart.php?id=Inewstv
-印度尼西亚|Daai TV,http://192.168.1.68:5678/Smart.php?id=DaaiTV
-印度尼西亚|Net TV,http://192.168.1.68:5678/Smart.php?id=NetTV
-印度尼西亚|Animax,http://192.168.1.68:5678/Smart.php?id=Animax
-印度尼西亚|EWTN,http://192.168.1.68:5678/Smart.php?id=Ewtn
-印度尼西亚|AlQuran AlKareem,http://192.168.1.68:5678/Smart.php?id=AlQuran
-印度尼西亚|Tawaf TV,http://192.168.1.68:5678/Smart.php?id=TawafTV
-印度尼西亚|Vision Prime,http://192.168.1.68:5678/Smart.php?id=VisionPrime
-印度尼西亚|Muslim TV,http://192.168.1.68:5678/Smart.php?id=MuslimTV
-印度尼西亚|Music TV,http://192.168.1.68:5678/Smart.php?id=MusicTV
-印度尼西亚|Lifestyle&Fashion,http://192.168.1.68:5678/Smart.php?id=Lifestyle
-印度尼西亚|Entertain,http://192.168.1.68:5678/Smart.php?id=Entertain
-印度尼西亚|Hits,http://192.168.1.68:5678/Smart.php?id=Hits
-印度尼西亚|Warner TV,http://192.168.1.68:5678/Smart.php?id=WarnerTV
-印度尼西亚|SCM,http://192.168.1.68:5678/Smart.php?id=Weishimovie
-印度尼西亚|Thrill,http://192.168.1.68:5678/Smart.php?id=Thrill
-印度尼西亚|Fight Sports,http://192.168.1.68:5678/Smart.php?id=Fs
-印度尼西亚|Hits Movie,http://192.168.1.68:5678/Smart.php?id=Hitsmovie
-印度尼西亚|One,http://192.168.1.68:5678/Smart.php?id=One
-印度尼西亚|tvN Movie,http://192.168.1.68:5678/Smart.php?id=Tvnmovie
-印度尼西亚|Celestial Movies HD,http://192.168.1.68:5678/Smart.php?id=Celestialindo
-印度尼西亚|Rock Actions,http://192.168.1.68:5678/Smart.php?id=Rockaction
-印度尼西亚|Rock Entertainment,http://192.168.1.68:5678/Smart.php?id=Rockentertain
-印度|Sun TV HD,http://192.168.1.68:5678/Smart.php?id=Suntv
-印度|Star Vijay,http://192.168.1.68:5678/Smart.php?id=Starvijay
-印度|Colors Tamil,http://192.168.1.68:5678/Smart.php?id=Colorstam
-印度|Sun Music,http://192.168.1.68:5678/Smart.php?id=Sunmusic
-印度|Astro Sunlife,http://192.168.1.68:5678/Smart.php?id=Sunlife
-印度|Astro Vaanavil,http://192.168.1.68:5678/Smart.php?id=Vaanavil
-印度|Zee Tamil,http://192.168.1.68:5678/Smart.php?id=Zeetamil
-印度|Zee Business,http://192.168.1.68:5678/Smart.php?id=Zeebusiness
-印度|News 18 Tamil,http://192.168.1.68:5678/Smart.php?id=news18tamil_raj
-印度|Adithya,http://192.168.1.68:5678/Smart.php?id=Adithya
-印度|Makkal TV,http://192.168.1.68:5678/Smart.php?id=Makkaltv
-印度|Zee Action,http://192.168.1.68:5678/Smart.php?id=Zeeaction
-印度|Astro KTV,http://192.168.1.68:5678/Smart.php?id=Astroktv
-印度|Zee TV HD,http://192.168.1.68:5678/Smart.php?id=Zeetvhd
-印度|Zee Cinema HD,http://192.168.1.68:5678/Smart.php?id=Zeecinemahd
-印度|Color HD,http://192.168.1.68:5678/Smart.php?id=Colorhd
-印度|Starplus HD,http://192.168.1.68:5678/Smart.php?id=Starplushd
-印度|Picture HD,http://192.168.1.68:5678/Smart.php?id=Npicture
-印度|Zee News,http://192.168.1.68:5678/Smart.php?id=Zeenews
-印度|Asianet,http://192.168.1.68:5678/Smart.php?id=asianet_raj
-印度|Asianet News,http://192.168.1.68:5678/Smart.php?id=asianetnews_raj
-印度|Discovery World Tamil,http://192.168.1.68:5678/Smart.php?id=discoveryworldtam_raj
-印度|History Tamil,http://192.168.1.68:5678/Smart.php?id=historytam_raj
-印度|NatGeo Tamil,http://192.168.1.68:5678/Smart.php?id=natgeotamil_raj
-印度|Natgeo Wild Tamil,http://192.168.1.68:5678/Smart.php?id=natgeowildtamil_raj
-印度|Astro Sonypix,http://192.168.1.68:5678/Smart.php?id=Asonypix
-印度|Discovery Kids Tamil,http://192.168.1.68:5678/Smart.php?id=discoverykidtamil_raj
-印度|Discovery Tamil,http://192.168.1.68:5678/Smart.php?id=discoverytamil_raj
-印度|Sony Yay Tamil,http://192.168.1.68:5678/Smart.php?id=sonyyaytam_raj
-印度|Sun TV India,http://192.168.1.68:5678/Smart.php?id=suntv_raj
-印度|Starmaa HD,http://192.168.1.68:5678/Smart.php?id=starmaa_raj
-印度|Starmaa Movies HD,http://192.168.1.68:5678/Smart.php?id=starmaamovies_raj
-印度|Bollyone,http://192.168.1.68:5678/Smart.php?id=Bollyone
-印度|Astro Sunmusic,http://192.168.1.68:5678/Smart.php?id=Sunmusic
-印度|Vijay Super,http://192.168.1.68:5678/Smart.php?id=vijaysuper_raj
-印度|Vellithirai,http://192.168.1.68:5678/Smart.php?id=Vellithirai
-
-泰国|Channel 3 Thailand,http://192.168.1.68:5678/Smart.php?id=ch3_pat
-泰国|Channel 5 Thailand,http://192.168.1.68:5678/Smart.php?id=ch5_pat
-泰国|Channel 7 Thailand,http://192.168.1.68:5678/Smart.php?id=ch7_pat
-泰国|MCOT HD Thailand-1,http://192.168.1.68:5678/Smart.php?id=mcot_pat
-泰国|PPTV Thailand1,http://192.168.1.68:5678/Smart.php?id=pptv_pat
-泰国|Thai Thai,http://192.168.1.68:5678/Smart.php?id=thaithai_pat
-泰国|Amarin,http://192.168.1.68:5678/Smart.php?id=amarin_pat
-泰国|Ch 8,http://192.168.1.68:5678/Smart.php?id=ch8_pat
-泰国|GmmOne,http://192.168.1.68:5678/Smart.php?id=gmmone_pat
-泰国|Mono,http://192.168.1.68:5678/Smart.php?id=mono_pat
-泰国|Thairath,http://192.168.1.68:5678/Smart.php?id=thairath_pat
-泰国|tpbs,http://192.168.1.68:5678/Smart.php?id=tpbs_pat
-泰国|Workpoint,http://192.168.1.68:5678/Smart.php?id=workpoint_pat
-泰国|Gmm Channel,http://192.168.1.68:5678/Smart.php?id=gmmchannel_pat
-泰国|Nation,http://192.168.1.68:5678/Smart.php?id=nation_pat
-泰国|Tnn24,http://192.168.1.68:5678/Smart.php?id=tnn24_pat
-泰国|Nbt,http://192.168.1.68:5678/Smart.php?id=nbt_pat
-泰国|New,http://192.168.1.68:5678/Smart.php?id=new_pat
-泰国|TPTV,http://192.168.1.68:5678/Smart.php?id=tptv_pat
-
-英国|BBC 1,http://192.168.1.68:5678/Smart.php?id=bbc1_antik
-英国|BBC 2,http://192.168.1.68:5678/Smart.php?id=bbc2_antik
-英国|CBBC,http://192.168.1.68:5678/Smart.php?id=cbbc_antik
-英国|More4,http://192.168.1.68:5678/Smart.php?id=more4_antik
-英国|Freesports,http://192.168.1.68:5678/Smart.php?id=freesports_antik
-英国|Skynews,http://192.168.1.68:5678/Smart.php?id=skynews_twn
-英国|Pick TV,http://192.168.1.68:5678/Smart.php?id=picktv_antik
-英国|itv 1,http://192.168.1.68:5678/Smart.php?id=itv1_antik
-英国|itv 2,http://192.168.1.68:5678/Smart.php?id=itv2_antik
-英国|Euronews,http://192.168.1.68:5678/Smart.php?id=euronews_antik
-英国|Channel 4,http://192.168.1.68:5678/Smart.php?id=channel4_antik
-英国|NatGeo HD,http://192.168.1.68:5678/Smart.php?id=Natgeo
-英国|CBeebies,http://192.168.1.68:5678/Smart.php?id=Cbeebies
-英国|History,http://192.168.1.68:5678/Smart.php?id=History
-英国|Kids TV,http://192.168.1.68:5678/Smart.php?id=KidsTV
-英国|France 24,http://192.168.1.68:5678/Smart.php?id=france24_twn
-英国|DW (Deutsch),http://192.168.1.68:5678/Smart.php?id=dw_twn
-英国|BBC Earth HD,http://192.168.1.68:5678/Smart.php?id=bbcearth_twn
-英国|BBC Earth Lifestyle,http://192.168.1.68:5678/Smart.php?id=bbclifestyle_twn
-英国|MTV Live,http://192.168.1.68:5678/Smart.php?id=mtvhd_twn
-英国|Star Movies HD,http://192.168.1.68:5678/Smart.php?id=starmovies_raj
-英国|NHK World,http://192.168.1.68:5678/Smart.php?id=nhkworld_japan
-英国|Warner TV,http://192.168.1.68:5678/Smart.php?id=WarnerTV
-英国|HBO HD,http://192.168.1.68:5678/Smart.php?id=Hbo
-英国|NatGeo Wild HD,http://192.168.1.68:5678/Smart.php?id=Natgeowild
-英国|Nickelodeon,http://192.168.1.68:5678/Smart.php?id=Nickelodeon
-英国|Nick Jr,http://192.168.1.68:5678/Smart.php?id=Nickjr
-英国|Thrill,http://192.168.1.68:5678/Smart.php?id=Thrill
-英国|CGTN,http://192.168.1.68:5678/Smart.php?id=CGTN
-英国|Hits Movie,http://192.168.1.68:5678/Smart.php?id=Hitsmovie
-英国|Animal Planet (Eng),http://192.168.1.68:5678/Smart.php?id=AnimalPlanet
-英国|CNBC,http://192.168.1.68:5678/Smart.php?id=cnbc_twn
-英国|TLC,http://192.168.1.68:5678/Smart.php?id=Tlc
-英国|BBC World News,http://192.168.1.68:5678/Smart.php?id=bbcworldnews_antik
-英国|HGTV,http://192.168.1.68:5678/Smart.php?id=HGTV
-英国|Axn HD,http://192.168.1.68:5678/Smart.php?id=Axn
-英国|Skysports F1,http://192.168.1.68:5678/Smart.php?id=tiankongf1
-英国|Skysports Cricket,http://192.168.1.68:5678/Smart.php?id=tiankongcricket
-英国|Bloomberg News,http://192.168.1.68:5678/Smart.php?id=bloomberg_twn
-英国|Skysports EPL,http://192.168.1.68:5678/Smart.php?id=tiankongepl
-英国|Skysports Main Event,http://192.168.1.68:5678/Smart.php?id=tiankongmain
-英国|Skysports News,http://192.168.1.68:5678/Smart.php?id=tiankongnews
-英国|Al-Jazeera,http://192.168.1.68:5678/Smart.php?id=aljazeera_twn
-
-越南|ANTV,http://192.168.1.68:5678/Smart.php?id=viet_antv
-越南|VTV 1,http://192.168.1.68:5678/Smart.php?id=viet_vtv1
-越南|VTV 7,http://192.168.1.68:5678/Smart.php?id=viet_vtv7
-越南|HTV 7,http://192.168.1.68:5678/Smart.php?id=viet_htv7
-越南|HTV 9,http://192.168.1.68:5678/Smart.php?id=viet_htv9
-越南|BPTV 2,http://192.168.1.68:5678/Smart.php?id=viet_bptv2
-越南|BRT HD,http://192.168.1.68:5678/Smart.php?id=viet_brt
-越南|Ca Mau TV,http://192.168.1.68:5678/Smart.php?id=viet_camautv
-越南|Danang TV1 HD,http://192.168.1.68:5678/Smart.php?id=viet_danangtv1
-越南|Danang TV2 HD,http://192.168.1.68:5678/Smart.php?id=viet_danangtv2
-越南|HBTV HD,http://192.168.1.68:5678/Smart.php?id=viet_hbtv
-越南|PTTH 1,http://192.168.1.68:5678/Smart.php?id=viet_ptth1
-
-韩国|Arirang HD,http://192.168.1.68:5678/Smart.php?id=arirang_korea
-韩国|Yonhap News,http://192.168.1.68:5678/Smart.php?id=yonhapnews_korea
-韩国|CBS,http://192.168.1.68:5678/Smart.php?id=cbs_korea
-韩国|EBS 1,http://192.168.1.68:5678/Smart.php?id=ebs1_korea
-韩国|EBS2,http://192.168.1.68:5678/Smart.php?id=ebs2_korea
-韩国|EBS Plus2,http://192.168.1.68:5678/Smart.php?id=ebsplus2_korea
-韩国|SBS Plus,http://192.168.1.68:5678/Smart.php?id=sbsplus_korea
-韩国|YTN,http://192.168.1.68:5678/Smart.php?id=ytn_korea
-韩国|KBS World 24,http://192.168.1.68:5678/Smart.php?id=kbsworld24_korea
-韩国|YTN Science,http://192.168.1.68:5678/Smart.php?id=ytnscience_korea
-韩国|YTN Korean,http://192.168.1.68:5678/Smart.php?id=ytnkorean_korea
-韩国|YTN DMB,http://192.168.1.68:5678/Smart.php?id=ytndmb_korea
-韩国|Apps TV,http://192.168.1.68:5678/Smart.php?id=appongoogle_korea
-韩国|All the Kpop,http://192.168.1.68:5678/Smart.php?id=allthekpop_korea
-韩国|J the Kpop,http://192.168.1.68:5678/Smart.php?id=jthekpop_korea
-韩国|EBS Kids,http://192.168.1.68:5678/Smart.php?id=ebskids_korea
-韩国|CGNTV,http://192.168.1.68:5678/Smart.php?id=cgntv_korea
-
-日本|NHK-総合-2,http://192.168.1.68:5678/Smart.php?id=nhkg_japan
-日本|NHK-E,http://192.168.1.68:5678/Smart.php?id=nhke_japan
-日本|テレビ朝日 Asahi TV,http://192.168.1.68:5678/Smart.php?id=asahitv_japan
-日本|JET 綜合,http://192.168.1.68:5678/Smart.php?id=jettv_japan
-日本|テレビ東京 Tokyo TV,http://192.168.1.68:5678/Smart.php?id=tokyotv_japan
-日本|TOKYOMX,http://192.168.1.68:5678/Smart.php?id=tokyomx_japan
-日本|NHKBS1,http://192.168.1.68:5678/Smart.php?id=nhkbs1_japan
-日本|NHKBSプレミア Premium,http://192.168.1.68:5678/Smart.php?id=nhkpremium_japan
-日本|BSジャパン 181,http://192.168.1.68:5678/Smart.php?id=bs181_japan
-日本|BSフジ BS Fuji,http://192.168.1.68:5678/Smart.php?id=bsfuji_japan
-日本|CNA Japan,http://192.168.1.68:5678/Smart.php?id=cna_japan
-日本|BS-TBS,http://192.168.1.68:5678/Smart.php?id=bstbs_japan
-日本|NHK Oaska,http://192.168.1.68:5678/Smart.php?id=nhkosaka_japan
-日本|NHK World,http://192.168.1.68:5678/Smart.php?id=nhkworld_japan
+香港|翡翠台,http://100.83.104.117:5678/stv.php?id=jade_twn
+香港|翡翠台 backup,http://100.83.104.117:5678/stv.php?id=Jade_xue
+香港|iNews 新闻台,http://100.83.104.117:5678/stv.php?id=inews_twn
+香港|J 2,http://100.83.104.117:5678/stv.php?id=j2_twn
+香港|珍珠台,http://100.83.104.117:5678/stv.php?id=pearl_twn
+香港|凤凰香港,http://100.83.104.117:5678/stv.php?id=hkphoenix_twn
+香港|HOY资讯台,http://100.83.104.117:5678/stv.php?id=hoycaijing_twn
+香港|RHK 31,http://100.83.104.117:5678/stv.php?id=rhk31_twn
+香港|VIUTV1,http://100.83.104.117:5678/stv.php?id=viu1_twn
+香港|RHK 32,http://100.83.104.117:5678/stv.php?id=rhk32_twn
+香港|凤凰卫视,http://100.83.104.117:5678/stv.php?id=phoenixtv_hd
+香港|凤凰资讯,http://100.83.104.117:5678/stv.php?id=phoenixinfo_hd
+香港|Viu6,http://100.83.104.117:5678/stv.php?id=viusix_twn
+中国|CCTV-1 综合 HD,http://100.83.104.117:5678/stv.php?id=cctv1
+中国|CCTV-2 财经,http://100.83.104.117:5678/stv.php?id=cctv2
+中国|CCTV-3 综艺 HD,http://100.83.104.117:5678/stv.php?id=cctv3
+中国|CCTV-4 中文国际,http://100.83.104.117:5678/stv.php?id=cctv4
+中国|CCTV4 新闻台,http://100.83.104.117:5678/stv.php?id=Cctv4
+中国|CCTV-7 军事农业,http://100.83.104.117:5678/stv.php?id=cctv7
+中国|CCTV-8 电视剧 HD,http://100.83.104.117:5678/stv.php?id=cctv8hd
+中国|CCTV-9 记录 HD,http://100.83.104.117:5678/stv.php?id=cctv9hd
+中国|CCTV-10 科教 HD,http://100.83.104.117:5678/stv.php?id=cctv10hd
+中国|CCTV-11 戏曲,http://100.83.104.117:5678/stv.php?id=cctv11
+中国|CCTV-12 社会与法,http://100.83.104.117:5678/stv.php?id=cctv12
+中国|CCTV-13 新闻频道,http://100.83.104.117:5678/stv.php?id=cctv13
+中国|CCTV-14 少儿,http://100.83.104.117:5678/stv.php?id=cctv14
+中国|CCTV-6,http://100.83.104.117:5678/stv.php?id=cctv6
+中国|CCTV-15 音乐,http://100.83.104.117:5678/stv.php?id=cctv15
+中国|湖南卫视,http://100.83.104.117:5678/stv.php?id=hunan_twn
+中国|浙江卫视,http://100.83.104.117:5678/stv.php?id=zhejiang_twn
+中国|江苏卫视,http://100.83.104.117:5678/stv.php?id=jiangsu_twn
+中国|深圳卫视,http://100.83.104.117:5678/stv.php?id=shenzhen
+中国|福建东南卫视,http://100.83.104.117:5678/stv.php?id=fujian
+中国|广东南方卫视,http://100.83.104.117:5678/stv.php?id=nanfang_twn
+中国|广东卫视,http://100.83.104.117:5678/stv.php?id=guangdongweishi_twn
+中国|北京卫视,http://100.83.104.117:5678/stv.php?id=beijing
+中国|珠江台,http://100.83.104.117:5678/stv.php?id=zhujiang
+中国|广西卫视,http://100.83.104.117:5678/stv.php?id=guangxi
+中国|湖北卫视,http://100.83.104.117:5678/stv.php?id=hubei
+中国|四川卫视,http://100.83.104.117:5678/stv.php?id=sichuan_twn
+中国|东方卫视,http://100.83.104.117:5678/stv.php?id=dongfangweishi_twn
+中国|CGTN,http://100.83.104.117:5678/stv.php?id=CGTN
+中国|凤凰卫视,http://100.83.104.117:5678/stv.php?id=phoenixtv_hd
+中国|凤凰资讯,http://100.83.104.117:5678/stv.php?id=phoenixinfo_hd
+中国|CCTV-5 体育频道,http://100.83.104.117:5678/stv.php?id=cctv5
+中国|CCTV-5+ 体育赛事 HD,http://100.83.104.117:5678/stv.php?id=cctv5plus
+体育频道|Astro Premier League 1,http://100.83.104.117:5678/stv.php?id=go_assp1
+体育频道|Astro EPL 1 backup,http://100.83.104.117:5678/stv.php?id=go_assp1x
+体育频道|Astro Premier League 2,http://100.83.104.117:5678/stv.php?id=go_assp2
+体育频道|Astro Grandstand,http://100.83.104.117:5678/stv.php?id=go_assp3
+体育频道|Astro Football,http://100.83.104.117:5678/stv.php?id=go_assp4
+体育频道|Astro Sports Plus,http://100.83.104.117:5678/stv.php?id=go_sportsplus
+体育频道|Astro Badminton 1,http://100.83.104.117:5678/stv.php?id=go_badminton1
+体育频道|Astro Badminton 2,http://100.83.104.117:5678/stv.php?id=go_badminton2
+体育频道|Astro W-Sports,http://100.83.104.117:5678/stv.php?id=go_assp5
+体育频道|Supersports 1,http://100.83.104.117:5678/stv.php?id=Assp1
+体育频道|Supersports 2,http://100.83.104.117:5678/stv.php?id=Assp2
+体育频道|Supersports 3,http://100.83.104.117:5678/stv.php?id=Assp3
+体育频道|Supersports 4,http://100.83.104.117:5678/stv.php?id=Assp4
+体育频道|WWE,http://100.83.104.117:5678/stv.php?id=Wwe
+体育频道|Fight Sports,http://100.83.104.117:5678/stv.php?id=Fs
+体育频道|NBA TV,http://100.83.104.117:5678/stv.php?id=Nba
+体育频道|Astro Cricket,http://100.83.104.117:5678/stv.php?id=Acricket
+体育频道|Astro Golf,http://100.83.104.117:5678/stv.php?id=Agolf
+体育频道|Tnt Sports 1,http://100.83.104.117:5678/stv.php?id=6fac0aaead
+体育频道|TNT Sports 2,http://100.83.104.117:5678/stv.php?id=d9a76a79cc
+体育频道|TNT Sports 3,http://100.83.104.117:5678/stv.php?id=5fea4d73db
+体育频道|TNT Sports 4,http://100.83.104.117:5678/stv.php?id=tntsport4
+体育频道|Sony Ten 1,http://100.83.104.117:5678/stv.php?id=ten1_raj
+体育频道|Sony Ten 2,http://100.83.104.117:5678/stv.php?id=ten2_raj
+体育频道|Sony Ten 3,http://100.83.104.117:5678/stv.php?id=ten3_raj
+体育频道|SPOTV 1 HD,http://100.83.104.117:5678/stv.php?id=go_spotv
+体育频道|SPO TV 2,http://100.83.104.117:5678/stv.php?id=go_spotv2
+体育频道|Skysports F1,http://100.83.104.117:5678/stv.php?id=tiankongf1
+体育频道|Skysports Cricket,http://100.83.104.117:5678/stv.php?id=tiankongcricket
+体育频道|Skysports EPL,http://100.83.104.117:5678/stv.php?id=tiankongepl
+体育频道|Skysports Main Event,http://100.83.104.117:5678/stv.php?id=tiankongmain
+体育频道|Skysports News,http://100.83.104.117:5678/stv.php?id=tiankongnews
+体育频道|Skysports Mix,http://100.83.104.117:5678/stv.php?id=tiankongmix
+体育频道|CCTV-5 体育频道,http://100.83.104.117:5678/stv.php?id=cctv5
+体育频道|CCTV-5+ 体育赛事 HD,http://100.83.104.117:5678/stv.php?id=cctv5plus
+体育频道|爱尔达体育2台,http://100.83.104.117:5678/stv.php?id=eltasport2_twn
+体育频道|爱尔达体育3台,http://100.83.104.117:5678/stv.php?id=eltasport3_twn
+体育频道|Rugby Pass TV,http://100.83.104.117:5678/stv.php?id=Rugbypasstv
+体育频道|RTM Sports HD,http://100.83.104.117:5678/stv.php?id=Rtmsport
+体育频道|Arena,http://100.83.104.117:5678/stv.php?id=Arena
+体育频道|Arena 2,http://100.83.104.117:5678/stv.php?id=Arena2
+体育频道|BolaArena 1,http://100.83.104.117:5678/stv.php?id=Bolaarena1
+体育频道|BolaArena 2,http://100.83.104.117:5678/stv.php?id=Bolaarena2
+体育频道|Astro Beinsports 1,http://100.83.104.117:5678/stv.php?id=Astrobein1
+体育频道|Astro Beinsports 2,http://100.83.104.117:5678/stv.php?id=Astrobein2
+体育频道|Astro Beinsports 3,http://100.83.104.117:5678/stv.php?id=Astrobein3
+台湾|TVBS News 新闻台,http://100.83.104.117:5678/stv.php?id=tvbs_n
+台湾|TVBS 欢乐台 （备份）,http://100.83.104.117:5678/stv.php?id=tvbshuanle_twn
+台湾|TVBS HD,http://100.83.104.117:5678/stv.php?id=tvbs
+台湾|中天新闻 HD,http://100.83.104.117:5678/stv.php?id=ctinews
+台湾|中天娱乐 CTI Entertaiment,http://100.83.104.117:5678/stv.php?id=ctient
+台湾|中天综合 CTI Metro,http://100.83.104.117:5678/stv.php?id=ctizhonghe
+台湾|中天亚洲台,http://100.83.104.117:5678/stv.php?id=ctiasia_twn
+台湾|台视 TTV HD,http://100.83.104.117:5678/stv.php?id=ttv_taiwan
+台湾|台视新闻台,http://100.83.104.117:5678/stv.php?id=ttvnews_twn
+台湾|台视综合台,http://100.83.104.117:5678/stv.php?id=ttvzhonghe
+台湾|中视 HD,http://100.83.104.117:5678/stv.php?id=zhongshihd_twn
+台湾|中视新闻台,http://100.83.104.117:5678/stv.php?id=zhongshinews_twn
+台湾|民视 HD,http://100.83.104.117:5678/stv.php?id=ftvhd_taiwan
+台湾|民视新闻台 FTV News,http://100.83.104.117:5678/stv.php?id=ftvnew_taiwan
+台湾|民视台湾台,http://100.83.104.117:5678/stv.php?id=ftvtaiwan_twn
+台湾|华视 CTS HD,http://100.83.104.117:5678/stv.php?id=ctshd_twn
+台湾|公视 CTV,http://100.83.104.117:5678/stv.php?id=ctv18_twn
+台湾|八大第一 GTV First,http://100.83.104.117:5678/stv.php?id=badafirst
+台湾|八大综合 GTV Metro,http://100.83.104.117:5678/stv.php?id=badazhonghe
+台湾|八大戏剧 GTV Drama,http://100.83.104.117:5678/stv.php?id=badadrama
+台湾|八大娱乐 GTV Entertainment,http://100.83.104.117:5678/stv.php?id=badaentertain
+台湾|HBO_HD,http://100.83.104.117:5678/stv.php?id=hbohd_twn
+台湾|HBO_HITS,http://100.83.104.117:5678/stv.php?id=hbohit_twn
+台湾|Hollywood Movies,http://100.83.104.117:5678/stv.php?id=hollywoodmovies_twn
+台湾|三立台湾 Sanli Taiwan,http://100.83.104.117:5678/stv.php?id=sanlitaiwan
+台湾|三立戏剧台,http://100.83.104.117:5678/stv.php?id=sanlixiju_twn
+台湾|三立综合 Sanli Metro,http://100.83.104.117:5678/stv.php?id=sanlizhonghe
+台湾|三立都会台,http://100.83.104.117:5678/stv.php?id=sanlidouhui
+台湾|东森新闻 ETTV News,http://100.83.104.117:5678/stv.php?id=ettvnews
+台湾|CINEMAX,http://100.83.104.117:5678/stv.php?id=cinemax_twn
+台湾|东森综合 ETTV Metro,http://100.83.104.117:5678/stv.php?id=ettvzhonghe
+台湾|东森戏剧 ETTV Drama,http://100.83.104.117:5678/stv.php?id=ettvdrama
+台湾|东森超视,http://100.83.104.117:5678/stv.php?id=ettvsuper
+台湾|东森财经新闻 ETTV Business,http://100.83.104.117:5678/stv.php?id=ettvcaijing_twn
+台湾|寰宇财经,http://100.83.104.117:5678/stv.php?id=huanyutaiwan_twn
+台湾|寰宇新闻台,http://100.83.104.117:5678/stv.php?id=huanyuxinwen_twn
+台湾|公视2,http://100.83.104.117:5678/stv.php?id=ctv2_twn
+台湾|大爱1台,http://100.83.104.117:5678/stv.php?id=daai_twn
+台湾|非凡新闻台,http://100.83.104.117:5678/stv.php?id=feifannews_twn
+台湾|龙华戏剧 Lunghua Drama,http://100.83.104.117:5678/stv.php?id=lunghuaxiju_twn
+台湾|龙华经典台,http://100.83.104.117:5678/stv.php?id=lunghuajingdian_twn
+台湾|龙华偶像,http://100.83.104.117:5678/stv.php?id=lunghuaidol_twn
+台湾|AXN Taiwan,http://100.83.104.117:5678/stv.php?id=axn_twn
+台湾|靖天国际台,http://100.83.104.117:5678/stv.php?id=jingtianintl_twn
+台湾|年代新闻,http://100.83.104.117:5678/stv.php?id=niandainews_twn
+台湾|纬来日本台,http://100.83.104.117:5678/stv.php?id=videolandjapan
+台湾|纬来电影台,http://100.83.104.117:5678/stv.php?id=videolandmovie
+台湾|纬来体育台,http://100.83.104.117:5678/stv.php?id=videolandsport
+台湾|纬来综合台,http://100.83.104.117:5678/stv.php?id=videolandzonghe
+台湾|纬来育乐,http://100.83.104.117:5678/stv.php?id=videolandyule
+台湾|纬来精彩,http://100.83.104.117:5678/stv.php?id=videolandspecial_twn
+台湾|好消息 2,http://100.83.104.117:5678/stv.php?id=good2_twn
+台湾|大爱2台,http://100.83.104.117:5678/stv.php?id=daai2_twn
+台湾|亚洲美食,http://100.83.104.117:5678/stv.php?id=afc_twn
+台湾|美食星球,http://100.83.104.117:5678/stv.php?id=foodplanet_twn
+台湾|亚洲旅游 TLC Asia,http://100.83.104.117:5678/stv.php?id=tlc_twn
+台湾|东森电影 ETTV Movie,http://100.83.104.117:5678/stv.php?id=ettvmovie
+台湾|阿里郎 Arirang,http://100.83.104.117:5678/stv.php?id=arirang_twn
+台湾|博斯运动 1,http://100.83.104.117:5678/stv.php?id=bosisport1_twn
+台湾|博斯运动 2,http://100.83.104.117:5678/stv.php?id=bosisport2_twn
+台湾|博斯高球2 HD,http://100.83.104.117:5678/stv.php?id=bosigolf2_twn
+台湾|博斯网球 HD,http://100.83.104.117:5678/stv.php?id=bositennis_twn
+台湾|东森洋片 ETTV Western,http://100.83.104.117:5678/stv.php?id=ettvwestern
+台湾|龙华洋片 Lunghua Western,http://100.83.104.117:5678/stv.php?id=lunghuawestern_twn
+台湾|博斯无限,http://100.83.104.117:5678/stv.php?id=bosiunlimited_twn
+台湾|MTV Live,http://100.83.104.117:5678/stv.php?id=mtvhd_twn
+台湾|龙详时代,http://100.83.104.117:5678/stv.php?id=lungxiangtime_twn
+台湾|EYETV 旅游,http://100.83.104.117:5678/stv.php?id=eyetvtravel_twn
+台湾|靖天卡通台,http://100.83.104.117:5678/stv.php?id=jingtiancartoon_twn
+台湾|EYETV 戏剧,http://100.83.104.117:5678/stv.php?id=eyetvxiju_twn
+台湾|卫视中文台 Star Movies Chinese,http://100.83.104.117:5678/stv.php?id=weishichinese_twn
+台湾|东森幼幼 Yoyo TV,http://100.83.104.117:5678/stv.php?id=yoyo_twn
+台湾|卫视电影台,http://100.83.104.117:5678/stv.php?id=weishimovie_twn
+台湾|美亚电影,http://100.83.104.117:5678/stv.php?id=meiyamovie_twn
+台湾|爱尔达影剧台,http://100.83.104.117:5678/stv.php?id=eltayingju_twn
+台湾|爱尔达综合台,http://100.83.104.117:5678/stv.php?id=eltazonghe_twn
+台湾|星卫电影,http://100.83.104.117:5678/stv.php?id=xingwei_movie
+台湾|爱尔达影剧,http://100.83.104.117:5678/stv.php?id=eltayingju_twn
+台湾|AFC 亚洲旅游台,http://100.83.104.117:5678/stv.php?id=asiatravel_twn
+台湾|爱尔达体育2台,http://100.83.104.117:5678/stv.php?id=eltasport2_twn
+台湾|爱尔达体育3台,http://100.83.104.117:5678/stv.php?id=eltasport3_twn
+电影频道|HBO_HD,http://100.83.104.117:5678/stv.php?id=hbohd_twn
+电影频道|HBO_HITS,http://100.83.104.117:5678/stv.php?id=hbohit_twn
+电影频道|Hollywood Movies,http://100.83.104.117:5678/stv.php?id=hollywoodmovies_twn
+电影频道|CCTV-6,http://100.83.104.117:5678/stv.php?id=cctv6
+电影频道|CINEMAX,http://100.83.104.117:5678/stv.php?id=cinemax_twn
+电影频道|Cinemax,http://100.83.104.117:5678/stv.php?id=Cinemax
+电影频道|AXN Taiwan,http://100.83.104.117:5678/stv.php?id=axn_twn
+电影频道|大爱2台,http://100.83.104.117:5678/stv.php?id=daai2_twn
+电影频道|东森电影 ETTV Movie,http://100.83.104.117:5678/stv.php?id=ettvmovie
+电影频道|东森洋片 ETTV Western,http://100.83.104.117:5678/stv.php?id=ettvwestern
+电影频道|龙华洋片 Lunghua Western,http://100.83.104.117:5678/stv.php?id=lunghuawestern_twn
+电影频道|Animax,http://100.83.104.117:5678/stv.php?id=Animax
+电影频道|龙详时代,http://100.83.104.117:5678/stv.php?id=lungxiangtime_twn
+电影频道|Movies Now HD,http://100.83.104.117:5678/stv.php?id=moviesnow_raj
+电影频道|Star Movies HD,http://100.83.104.117:5678/stv.php?id=starmovies_raj
+电影频道|卫视中文台 Star Movies Chinese,http://100.83.104.117:5678/stv.php?id=weishichinese_twn
+电影频道|HBO Family,http://100.83.104.117:5678/stv.php?id=Hbofamily
+电影频道|Hits,http://100.83.104.117:5678/stv.php?id=Hits
+电影频道|Warner TV,http://100.83.104.117:5678/stv.php?id=WarnerTV
+电影频道|卫视电影台,http://100.83.104.117:5678/stv.php?id=weishimovie_twn
+电影频道|HBO HD,http://100.83.104.117:5678/stv.php?id=Hbo
+电影频道|美亚电影,http://100.83.104.117:5678/stv.php?id=meiyamovie_twn
+电影频道|HBO Signature,http://100.83.104.117:5678/stv.php?id=Hbosignature
+电影频道|HBO Hits,http://100.83.104.117:5678/stv.php?id=Hbohitshd
+电影频道|星卫电影,http://100.83.104.117:5678/stv.php?id=xingwei_movie
+电影频道|SCM,http://100.83.104.117:5678/stv.php?id=Weishimovie
+电影频道|Dreamworks,http://100.83.104.117:5678/stv.php?id=Dreamworks
+电影频道|Thrill,http://100.83.104.117:5678/stv.php?id=Thrill
+电影频道|Hits Movie,http://100.83.104.117:5678/stv.php?id=Hitsmovie
+电影频道|One,http://100.83.104.117:5678/stv.php?id=One
+电影频道|tvN Movie,http://100.83.104.117:5678/stv.php?id=Tvnmovie
+电影频道|Celestial Classic,http://100.83.104.117:5678/stv.php?id=Celestial2
+电影频道|Celestial Movies HD,http://100.83.104.117:5678/stv.php?id=Celestialindo
+电影频道|Axn HD,http://100.83.104.117:5678/stv.php?id=Axn
+电影频道|Paramount Network,http://100.83.104.117:5678/stv.php?id=Paramountnetwork
+电影频道|Astrol Kplus,http://100.83.104.117:5678/stv.php?id=Kplus
+电影频道|Rock Actions,http://100.83.104.117:5678/stv.php?id=Rockaction
+电影频道|Rock Entertainment,http://100.83.104.117:5678/stv.php?id=Rockentertain
+纪录频道|Natgeo_HD,http://100.83.104.117:5678/stv.php?id=natgeohd_twn
+纪录频道|NatGeo_Wild HD,http://100.83.104.117:5678/stv.php?id=natgeowild_twn
+纪录频道|Animal_Planet,http://100.83.104.117:5678/stv.php?id=animalplanet_twn
+纪录频道|Discovery Asia,http://100.83.104.117:5678/stv.php?id=discoverytwn_twn
+纪录频道|CI,http://100.83.104.117:5678/stv.php?id=ci_twn
+纪录频道|Asia Travel,http://100.83.104.117:5678/stv.php?id=asiatravel_twn
+纪录频道|Discovery HD,http://100.83.104.117:5678/stv.php?id=discoveryhd_twn
+纪录频道|亚洲美食,http://100.83.104.117:5678/stv.php?id=afc_twn
+纪录频道|美食星球,http://100.83.104.117:5678/stv.php?id=foodplanet_twn
+纪录频道|亚洲旅游 TLC Asia,http://100.83.104.117:5678/stv.php?id=tlc_twn
+纪录频道|NatGeo HD,http://100.83.104.117:5678/stv.php?id=Natgeo
+纪录频道|Fashion TV,http://100.83.104.117:5678/stv.php?id=fashiontv_twn
+纪录频道|History,http://100.83.104.117:5678/stv.php?id=History
+纪录频道|BBC Earth HD,http://100.83.104.117:5678/stv.php?id=bbcearth_twn
+纪录频道|BBC Earth Lifestyle,http://100.83.104.117:5678/stv.php?id=bbclifestyle_twn
+纪录频道|MTV Live,http://100.83.104.117:5678/stv.php?id=mtvhd_twn
+纪录频道|NatGeo Wild HD,http://100.83.104.117:5678/stv.php?id=Natgeowild
+纪录频道|Animal Planet (Eng),http://100.83.104.117:5678/stv.php?id=AnimalPlanet
+纪录频道|TLC,http://100.83.104.117:5678/stv.php?id=Tlc
+纪录频道|Foodnetwork Hd,http://100.83.104.117:5678/stv.php?id=Foodnetwork
+纪录频道|HGTV,http://100.83.104.117:5678/stv.php?id=HGTV
+纪录频道|AFC 亚洲旅游台,http://100.83.104.117:5678/stv.php?id=asiatravel_twn
+新闻频道|Skynews,http://100.83.104.117:5678/stv.php?id=skynews_twn
+新闻频道|ABC News,http://100.83.104.117:5678/stv.php?id=abcnews_glo
+新闻频道|东森财经新闻 ETTV Business,http://100.83.104.117:5678/stv.php?id=ettvcaijing_twn
+新闻频道|CBS HD,http://100.83.104.117:5678/stv.php?id=cbshd_glo
+新闻频道|CBSN HD,http://100.83.104.117:5678/stv.php?id=cbsn_glo
+新闻频道|France 24,http://100.83.104.117:5678/stv.php?id=france24_twn
+新闻频道|DW (Deutsch),http://100.83.104.117:5678/stv.php?id=dw_twn
+新闻频道|NHK World,http://100.83.104.117:5678/stv.php?id=nhkworld_japan
+新闻频道|Fox News,http://100.83.104.117:5678/stv.php?id=foxnews_twn
+新闻频道|CGTN,http://100.83.104.117:5678/stv.php?id=CGTN
+新闻频道|CNN International,http://100.83.104.117:5678/stv.php?id=Cnn
+新闻频道|CNN backup,http://100.83.104.117:5678/stv.php?id=cnn_twn
+新闻频道|CNBC,http://100.83.104.117:5678/stv.php?id=cnbc_twn
+新闻频道|CNA,http://100.83.104.117:5678/stv.php?id=cna
+新闻频道|BBC World News,http://100.83.104.117:5678/stv.php?id=bbcnews_twn
+新闻频道|BBC World News,http://100.83.104.117:5678/stv.php?id=Bbcnews
+新闻频道|Bloomberg News,http://100.83.104.117:5678/stv.php?id=bloomberg_twn
+新闻频道|Al-Jazeera,http://100.83.104.117:5678/stv.php?id=aljazeera_twn
+儿童频道|Baby TV Eng,http://100.83.104.117:5678/stv.php?id=Babytv
+儿童频道|CBeebies,http://100.83.104.117:5678/stv.php?id=Cbeebies
+儿童频道|Kids TV,http://100.83.104.117:5678/stv.php?id=KidsTV
+儿童频道|Momo TV,http://100.83.104.117:5678/stv.php?id=momo1_twn
+儿童频道|Animax,http://100.83.104.117:5678/stv.php?id=Animax
+儿童频道|Baby TV,http://100.83.104.117:5678/stv.php?id=babytv_twn
+儿童频道|MiaoMi,http://100.83.104.117:5678/stv.php?id=MiaoMi
+儿童频道|靖天卡通台,http://100.83.104.117:5678/stv.php?id=jingtiancartoon_twn
+儿童频道|东森幼幼 Yoyo TV,http://100.83.104.117:5678/stv.php?id=yoyo_twn
+儿童频道|Cartoon Network,http://100.83.104.117:5678/stv.php?id=Cn
+儿童频道|Nickelodeon,http://100.83.104.117:5678/stv.php?id=Nickelodeon
+儿童频道|Nick Jr,http://100.83.104.117:5678/stv.php?id=Nickjr
+新加坡|Channel 5,http://100.83.104.117:5678/stv.php?id=Channel5HD
+新加坡|Channel 8,http://100.83.104.117:5678/stv.php?id=Channel8HD
+新加坡|Suria,http://100.83.104.117:5678/stv.php?id=Suria
+新加坡|Channel U,http://100.83.104.117:5678/stv.php?id=ChannelU
+新加坡|Vasantham,http://100.83.104.117:5678/stv.php?id=Vasantham
+新加坡|CNA,http://100.83.104.117:5678/stv.php?id=cna
+新加坡|CNA backup,http://100.83.104.117:5678/stv.php?id=cna_twn
+新加坡|MeWatch Ch 5,http://100.83.104.117:5678/stv.php?id=Mewatch_ch5
+新加坡|MeWatch Ch 8,http://100.83.104.117:5678/stv.php?id=Mewatch_ch8
+新加坡|MeWatch Ch U,http://100.83.104.117:5678/stv.php?id=Mewatch_chU
+新加坡|MeWatch Suria,http://100.83.104.117:5678/stv.php?id=Mewatch_Suria
+新加坡|MeWatch Vasantham,http://100.83.104.117:5678/stv.php?id=Mewatch_Vasantham
+新加坡|MeWatch CNA,http://100.83.104.117:5678/stv.php?id=Mewatch_cna
+马来西亚|TV1,http://100.83.104.117:5678/stv.php?id=TV1
+马来西亚|TV1 backup,http://100.83.104.117:5678/stv.php?id=TV1_backup
+马来西亚|TV2,http://100.83.104.117:5678/stv.php?id=TV2
+马来西亚|TV3,http://100.83.104.117:5678/stv.php?id=TV3
+马来西亚|TV3 SD,http://100.83.104.117:5678/stv.php?id=TV3_mega
+马来西亚|NTV7,http://100.83.104.117:5678/stv.php?id=NTV7
+马来西亚|TV8,http://100.83.104.117:5678/stv.php?id=TV8
+马来西亚|TV9,http://100.83.104.117:5678/stv.php?id=TV9
+马来西亚|Ria,http://100.83.104.117:5678/stv.php?id=Ria
+马来西亚|Ria-3,http://100.83.104.117:5678/stv.php?id=Ria_backup
+马来西亚|Al-Hijrah,http://100.83.104.117:5678/stv.php?id=Alhijrah
+马来西亚|Al-Hijrah backup,http://100.83.104.117:5678/stv.php?id=Alhijrah_backup
+马来西亚|Awani,http://100.83.104.117:5678/stv.php?id=Awani
+马来西亚|Bernama,http://100.83.104.117:5678/stv.php?id=Bernama
+马来西亚|Prima,http://100.83.104.117:5678/stv.php?id=Prima
+马来西亚|Prima backup,http://100.83.104.117:5678/stv.php?id=AAprima1
+马来西亚|Prima backup 2,http://100.83.104.117:5678/stv.php?id=AAprima
+马来西亚|Ceria,http://100.83.104.117:5678/stv.php?id=Ceria
+马来西亚|Astro MTV,http://100.83.104.117:5678/stv.php?id=AstroMTV
+马来西亚|Mecca Live HD,http://100.83.104.117:5678/stv.php?id=quran_mido
+马来西亚|Madinah HD,http://100.83.104.117:5678/stv.php?id=sunnah_mido
+马来西亚|Oasis,http://100.83.104.117:5678/stv.php?id=Oasis
+马来西亚|HBO HD,http://100.83.104.117:5678/stv.php?id=Hbo
+马来西亚|HBO Signature,http://100.83.104.117:5678/stv.php?id=Hbosignature
+马来西亚|HBO Hits,http://100.83.104.117:5678/stv.php?id=Hbohitshd
+马来西亚|NatGeo Wild HD,http://100.83.104.117:5678/stv.php?id=Natgeowild
+马来西亚|Cartoon Network,http://100.83.104.117:5678/stv.php?id=Cn
+马来西亚|Nickelodeon,http://100.83.104.117:5678/stv.php?id=Nickelodeon
+马来西亚|Nick Jr,http://100.83.104.117:5678/stv.php?id=Nickjr
+马来西亚|Dreamworks,http://100.83.104.117:5678/stv.php?id=Dreamworks
+马来西亚|Siar,http://100.83.104.117:5678/stv.php?id=Siar
+马来西亚|Citra,http://100.83.104.117:5678/stv.php?id=AAcitra
+马来西亚|Citra backup,http://100.83.104.117:5678/stv.php?id=AAcitra1
+马来西亚|Sensasi,http://100.83.104.117:5678/stv.php?id=Sensasi
+马来西亚|Aura,http://100.83.104.117:5678/stv.php?id=Aura
+马来西亚|Rania,http://100.83.104.117:5678/stv.php?id=Rania
+马来西亚|KBS World,http://100.83.104.117:5678/stv.php?id=KBS
+马来西亚|Boo,http://100.83.104.117:5678/stv.php?id=Boo
+马来西亚|Awesome TV,http://100.83.104.117:5678/stv.php?id=Dsangat
+马来西亚|Astro Sonypix,http://100.83.104.117:5678/stv.php?id=Asonypix
+马来西亚|Sony HD,http://100.83.104.117:5678/stv.php?id=SetOne
+马来西亚|TvN,http://100.83.104.117:5678/stv.php?id=TVN
+马来西亚|AEC,http://100.83.104.117:5678/stv.php?id=AEC
+马来西亚|华丽台 HD （Wah Lai Toi）,http://100.83.104.117:5678/stv.php?id=Wlt
+马来西亚|欢喜台 HD （Hua Hee Tai）,http://100.83.104.117:5678/stv.php?id=Huahee
+马来西亚|Astro QJ,http://100.83.104.117:5678/stv.php?id=Quanjia
+马来西亚|TVB Jade,http://100.83.104.117:5678/stv.php?id=Tvbjade
+马来西亚|TVB Asia,http://100.83.104.117:5678/stv.php?id=Tvbasia
+马来西亚|TVB Entertainment,http://100.83.104.117:5678/stv.php?id=Tvbentertainment
+马来西亚|TVB Classic,http://100.83.104.117:5678/stv.php?id=Tvbclassic
+马来西亚|AOD,http://100.83.104.117:5678/stv.php?id=Aodhd
+马来西亚|One,http://100.83.104.117:5678/stv.php?id=One
+马来西亚|TVB 星河台 Xing He,http://100.83.104.117:5678/stv.php?id=Xinhe
+马来西亚|爱奇艺 iQiyi,http://100.83.104.117:5678/stv.php?id=Qiyi
+马来西亚|Animal Planet (Eng),http://100.83.104.117:5678/stv.php?id=AnimalPlanet
+马来西亚|tvN Movie,http://100.83.104.117:5678/stv.php?id=Tvnmovie
+马来西亚|CNN backup,http://100.83.104.117:5678/stv.php?id=cnn_twn
+马来西亚|Celestial Classic,http://100.83.104.117:5678/stv.php?id=Celestial2
+马来西亚|CNBC,http://100.83.104.117:5678/stv.php?id=cnbc_twn
+马来西亚|TLC,http://100.83.104.117:5678/stv.php?id=Tlc
+马来西亚|CNA,http://100.83.104.117:5678/stv.php?id=cna
+马来西亚|BBC World News,http://100.83.104.117:5678/stv.php?id=bbcnews_twn
+马来西亚|Foodnetwork Hd,http://100.83.104.117:5678/stv.php?id=Foodnetwork
+马来西亚|HGTV,http://100.83.104.117:5678/stv.php?id=HGTV
+马来西亚|Goshop,http://100.83.104.117:5678/stv.php?id=Goshop
+马来西亚|Celestial Movies HD,http://100.83.104.117:5678/stv.php?id=Celestial
+马来西亚|Axn HD,http://100.83.104.117:5678/stv.php?id=Axn
+马来西亚|Paramount Network,http://100.83.104.117:5678/stv.php?id=Paramountnetwork
+马来西亚|Astrol Kplus,http://100.83.104.117:5678/stv.php?id=Kplus
+马来西亚|AFC 亚洲旅游台,http://100.83.104.117:5678/stv.php?id=asiatravel_twn
+马来西亚|Rock Actions,http://100.83.104.117:5678/stv.php?id=Rockaction
+马来西亚|Bloomberg News,http://100.83.104.117:5678/stv.php?id=bloomberg_twn
+马来西亚|Al-Jazeera,http://100.83.104.117:5678/stv.php?id=aljazeera_twn
+马来西亚|Rock Entertainment,http://100.83.104.117:5678/stv.php?id=Rockentertain
+马来西亚|RTM Sports HD,http://100.83.104.117:5678/stv.php?id=Rtmsport
+马来西亚|Arena,http://100.83.104.117:5678/stv.php?id=Arena
+马来西亚|Arena 2,http://100.83.104.117:5678/stv.php?id=Arena2
+马来西亚|BolaArena 1,http://100.83.104.117:5678/stv.php?id=Bolaarena1
+马来西亚|BolaArena 2,http://100.83.104.117:5678/stv.php?id=Bolaarena2
+马来西亚|Astro LOL,http://100.83.104.117:5678/stv.php?id=Astro_lol
+马来西亚|Astro Rusi,http://100.83.104.117:5678/stv.php?id=Rusi
+马来西亚|WION,http://100.83.104.117:5678/stv.php?id=Wion
+马来西亚|RTM Asean,http://100.83.104.117:5678/stv.php?id=Rtmasean
+印度尼西亚|TVRI National,http://100.83.104.117:5678/stv.php?id=TVRI
+印度尼西亚|RCTI,http://100.83.104.117:5678/stv.php?id=Rcti
+印度尼西亚|Kompass TV,http://100.83.104.117:5678/stv.php?id=Kompass
+印度尼西亚|Berita Satu,http://100.83.104.117:5678/stv.php?id=BeritaSatu_eko
+印度尼西亚|Indosiar HD,http://100.83.104.117:5678/stv.php?id=Indosiar
+印度尼西亚|AnTV,http://100.83.104.117:5678/stv.php?id=Antv
+印度尼西亚|MNC TV,http://100.83.104.117:5678/stv.php?id=Mnctv
+印度尼西亚|Trans 7,http://100.83.104.117:5678/stv.php?id=Trans7_eko
+印度尼西亚|Transtv,http://100.83.104.117:5678/stv.php?id=Transtv
+印度尼西亚|JTV,http://100.83.104.117:5678/stv.php?id=JTV_eko
+印度尼西亚|Metro TV,http://100.83.104.117:5678/stv.php?id=metrotv_eko
+印度尼西亚|Cinemax,http://100.83.104.117:5678/stv.php?id=Cinemax
+印度尼西亚|SCTV,http://100.83.104.117:5678/stv.php?id=SCTV
+印度尼西亚|Tvone,http://100.83.104.117:5678/stv.php?id=Tvone
+印度尼西亚|TVMU,http://100.83.104.117:5678/stv.php?id=TVMU_eko
+印度尼西亚|GTV,http://100.83.104.117:5678/stv.php?id=Gtv
+印度尼西亚|RTV,http://100.83.104.117:5678/stv.php?id=Rtv
+印度尼西亚|Jak TV,http://100.83.104.117:5678/stv.php?id=JakTV
+印度尼西亚|iNews TV,http://100.83.104.117:5678/stv.php?id=Inewstv
+印度尼西亚|Daai TV,http://100.83.104.117:5678/stv.php?id=DaaiTV
+印度尼西亚|Net TV,http://100.83.104.117:5678/stv.php?id=NetTV
+印度尼西亚|Animax,http://100.83.104.117:5678/stv.php?id=Animax
+印度尼西亚|EWTN,http://100.83.104.117:5678/stv.php?id=Ewtn
+印度尼西亚|AlQuran AlKareem,http://100.83.104.117:5678/stv.php?id=AlQuran
+印度尼西亚|Tawaf TV,http://100.83.104.117:5678/stv.php?id=TawafTV
+印度尼西亚|Vision Prime,http://100.83.104.117:5678/stv.php?id=VisionPrime
+印度尼西亚|Muslim TV,http://100.83.104.117:5678/stv.php?id=MuslimTV
+印度尼西亚|Music TV,http://100.83.104.117:5678/stv.php?id=MusicTV
+印度尼西亚|Lifestyle&amp;Fashion,http://100.83.104.117:5678/stv.php?id=Lifestyle
+印度尼西亚|Entertain,http://100.83.104.117:5678/stv.php?id=Entertain
+印度尼西亚|Hits,http://100.83.104.117:5678/stv.php?id=Hits
+印度尼西亚|Warner TV,http://100.83.104.117:5678/stv.php?id=WarnerTV
+印度尼西亚|SCM,http://100.83.104.117:5678/stv.php?id=Weishimovie
+印度尼西亚|Thrill,http://100.83.104.117:5678/stv.php?id=Thrill
+印度尼西亚|Fight Sports,http://100.83.104.117:5678/stv.php?id=Fs
+印度尼西亚|Hits Movie,http://100.83.104.117:5678/stv.php?id=Hitsmovie
+印度尼西亚|One,http://100.83.104.117:5678/stv.php?id=One
+印度尼西亚|tvN Movie,http://100.83.104.117:5678/stv.php?id=Tvnmovie
+印度尼西亚|Celestial Movies HD,http://100.83.104.117:5678/stv.php?id=Celestialindo
+印度尼西亚|Rock Actions,http://100.83.104.117:5678/stv.php?id=Rockaction
+印度尼西亚|Rock Entertainment,http://100.83.104.117:5678/stv.php?id=Rockentertain
+印度|Sun TV HD,http://100.83.104.117:5678/stv.php?id=Suntv
+印度|Star Vijay,http://100.83.104.117:5678/stv.php?id=Starvijay
+印度|Colors Tamil,http://100.83.104.117:5678/stv.php?id=Colorstam
+印度|Sun Music,http://100.83.104.117:5678/stv.php?id=Sunmusic
+印度|Astro Sunlife,http://100.83.104.117:5678/stv.php?id=Sunlife
+印度|Astro Vaanavil,http://100.83.104.117:5678/stv.php?id=Vaanavil
+印度|Zee Tamil,http://100.83.104.117:5678/stv.php?id=Zeetamil
+印度|Zee Business,http://100.83.104.117:5678/stv.php?id=Zeebusiness
+印度|News 18 Tamil,http://100.83.104.117:5678/stv.php?id=news18tamil_raj
+印度|Adithya,http://100.83.104.117:5678/stv.php?id=Adithya
+印度|Makkal TV,http://100.83.104.117:5678/stv.php?id=Makkaltv
+印度|Zee Action,http://100.83.104.117:5678/stv.php?id=Zeeaction
+印度|Astro KTV,http://100.83.104.117:5678/stv.php?id=Astroktv
+印度|Zee TV HD,http://100.83.104.117:5678/stv.php?id=Zeetvhd
+印度|Zee Cinema HD,http://100.83.104.117:5678/stv.php?id=Zeecinemahd
+印度|Color HD,http://100.83.104.117:5678/stv.php?id=Colorhd
+印度|Starplus HD,http://100.83.104.117:5678/stv.php?id=Starplushd
+印度|Picture HD,http://100.83.104.117:5678/stv.php?id=Npicture
+印度|Zee News,http://100.83.104.117:5678/stv.php?id=Zeenews
+印度|Asianet,http://100.83.104.117:5678/stv.php?id=asianet_raj
+印度|Asianet News,http://100.83.104.117:5678/stv.php?id=asianetnews_raj
+印度|Discovery World Tamil,http://100.83.104.117:5678/stv.php?id=discoveryworldtam_raj
+印度|History Tamil,http://100.83.104.117:5678/stv.php?id=historytam_raj
+印度|NatGeo Tamil,http://100.83.104.117:5678/stv.php?id=natgeotamil_raj
+印度|Natgeo Wild Tamil,http://100.83.104.117:5678/stv.php?id=natgeowildtamil_raj
+印度|Astro Sonypix,http://100.83.104.117:5678/stv.php?id=Asonypix
+印度|Discovery Kids Tamil,http://100.83.104.117:5678/stv.php?id=discoverykidtamil_raj
+印度|Discovery Tamil,http://100.83.104.117:5678/stv.php?id=discoverytamil_raj
+印度|Sony Yay Tamil,http://100.83.104.117:5678/stv.php?id=sonyyaytam_raj
+印度|Sun TV India,http://100.83.104.117:5678/stv.php?id=suntv_raj
+印度|Starmaa HD,http://100.83.104.117:5678/stv.php?id=starmaa_raj
+印度|Starmaa Movies HD,http://100.83.104.117:5678/stv.php?id=starmaamovies_raj
+印度|Bollyone,http://100.83.104.117:5678/stv.php?id=Bollyone
+印度|Astro Sunmusic,http://100.83.104.117:5678/stv.php?id=Sunmusic
+印度|Vijay Super,http://100.83.104.117:5678/stv.php?id=vijaysuper_raj
+印度|Vellithirai,http://100.83.104.117:5678/stv.php?id=Vellithirai
+泰国|Channel 3 Thailand,http://100.83.104.117:5678/stv.php?id=ch3_pat
+泰国|Channel 5 Thailand,http://100.83.104.117:5678/stv.php?id=ch5_pat
+泰国|Channel 7 Thailand,http://100.83.104.117:5678/stv.php?id=ch7_pat
+泰国|MCOT HD Thailand-1,http://100.83.104.117:5678/stv.php?id=mcot_pat
+泰国|PPTV Thailand1,http://100.83.104.117:5678/stv.php?id=pptv_pat
+泰国|Thai Thai,http://100.83.104.117:5678/stv.php?id=thaithai_pat
+泰国|Amarin,http://100.83.104.117:5678/stv.php?id=amarin_pat
+泰国|Ch 8,http://100.83.104.117:5678/stv.php?id=ch8_pat
+泰国|GmmOne,http://100.83.104.117:5678/stv.php?id=gmmone_pat
+泰国|Mono,http://100.83.104.117:5678/stv.php?id=mono_pat
+泰国|Thairath,http://100.83.104.117:5678/stv.php?id=thairath_pat
+泰国|tpbs,http://100.83.104.117:5678/stv.php?id=tpbs_pat
+泰国|Workpoint,http://100.83.104.117:5678/stv.php?id=workpoint_pat
+泰国|Gmm Channel,http://100.83.104.117:5678/stv.php?id=gmmchannel_pat
+泰国|Nation,http://100.83.104.117:5678/stv.php?id=nation_pat
+泰国|Tnn24,http://100.83.104.117:5678/stv.php?id=tnn24_pat
+泰国|Nbt,http://100.83.104.117:5678/stv.php?id=nbt_pat
+泰国|New,http://100.83.104.117:5678/stv.php?id=new_pat
+泰国|TPTV,http://100.83.104.117:5678/stv.php?id=tptv_pat
+英国|BBC 1,http://100.83.104.117:5678/stv.php?id=bbc1_antik
+英国|BBC 2,http://100.83.104.117:5678/stv.php?id=bbc2_antik
+英国|CBBC,http://100.83.104.117:5678/stv.php?id=cbbc_antik
+英国|More4,http://100.83.104.117:5678/stv.php?id=more4_antik
+英国|Freesports,http://100.83.104.117:5678/stv.php?id=freesports_antik
+英国|Skynews,http://100.83.104.117:5678/stv.php?id=skynews_twn
+英国|Pick TV,http://100.83.104.117:5678/stv.php?id=picktv_antik
+英国|itv 1,http://100.83.104.117:5678/stv.php?id=itv1_antik
+英国|itv 2,http://100.83.104.117:5678/stv.php?id=itv2_antik
+英国|Euronews,http://100.83.104.117:5678/stv.php?id=euronews_antik
+英国|Channel 4,http://100.83.104.117:5678/stv.php?id=channel4_antik
+英国|NatGeo HD,http://100.83.104.117:5678/stv.php?id=Natgeo
+英国|CBeebies,http://100.83.104.117:5678/stv.php?id=Cbeebies
+英国|History,http://100.83.104.117:5678/stv.php?id=History
+英国|Kids TV,http://100.83.104.117:5678/stv.php?id=KidsTV
+英国|France 24,http://100.83.104.117:5678/stv.php?id=france24_twn
+英国|DW (Deutsch),http://100.83.104.117:5678/stv.php?id=dw_twn
+英国|BBC Earth HD,http://100.83.104.117:5678/stv.php?id=bbcearth_twn
+英国|BBC Earth Lifestyle,http://100.83.104.117:5678/stv.php?id=bbclifestyle_twn
+英国|MTV Live,http://100.83.104.117:5678/stv.php?id=mtvhd_twn
+英国|Star Movies HD,http://100.83.104.117:5678/stv.php?id=starmovies_raj
+英国|NHK World,http://100.83.104.117:5678/stv.php?id=nhkworld_japan
+英国|Warner TV,http://100.83.104.117:5678/stv.php?id=WarnerTV
+英国|HBO HD,http://100.83.104.117:5678/stv.php?id=Hbo
+英国|NatGeo Wild HD,http://100.83.104.117:5678/stv.php?id=Natgeowild
+英国|Nickelodeon,http://100.83.104.117:5678/stv.php?id=Nickelodeon
+英国|Nick Jr,http://100.83.104.117:5678/stv.php?id=Nickjr
+英国|Thrill,http://100.83.104.117:5678/stv.php?id=Thrill
+英国|CGTN,http://100.83.104.117:5678/stv.php?id=CGTN
+英国|Hits Movie,http://100.83.104.117:5678/stv.php?id=Hitsmovie
+英国|Animal Planet (Eng),http://100.83.104.117:5678/stv.php?id=AnimalPlanet
+英国|CNBC,http://100.83.104.117:5678/stv.php?id=cnbc_twn
+英国|TLC,http://100.83.104.117:5678/stv.php?id=Tlc
+英国|BBC World News,http://100.83.104.117:5678/stv.php?id=bbcworldnews_antik
+英国|HGTV,http://100.83.104.117:5678/stv.php?id=HGTV
+英国|Axn HD,http://100.83.104.117:5678/stv.php?id=Axn
+英国|Skysports F1,http://100.83.104.117:5678/stv.php?id=tiankongf1
+英国|Skysports Cricket,http://100.83.104.117:5678/stv.php?id=tiankongcricket
+英国|Bloomberg News,http://100.83.104.117:5678/stv.php?id=bloomberg_twn
+英国|Skysports EPL,http://100.83.104.117:5678/stv.php?id=tiankongepl
+英国|Skysports Main Event,http://100.83.104.117:5678/stv.php?id=tiankongmain
+英国|Skysports News,http://100.83.104.117:5678/stv.php?id=tiankongnews
+英国|Al-Jazeera,http://100.83.104.117:5678/stv.php?id=aljazeera_twn
+越南|ANTV,http://100.83.104.117:5678/stv.php?id=viet_antv
+越南|VTV 1,http://100.83.104.117:5678/stv.php?id=viet_vtv1
+越南|VTV 7,http://100.83.104.117:5678/stv.php?id=viet_vtv7
+越南|HTV 7,http://100.83.104.117:5678/stv.php?id=viet_htv7
+越南|HTV 9,http://100.83.104.117:5678/stv.php?id=viet_htv9
+越南|BPTV 2,http://100.83.104.117:5678/stv.php?id=viet_bptv2
+越南|BRT HD,http://100.83.104.117:5678/stv.php?id=viet_brt
+越南|Ca Mau TV,http://100.83.104.117:5678/stv.php?id=viet_camautv
+越南|Danang TV1 HD,http://100.83.104.117:5678/stv.php?id=viet_danangtv1
+越南|Danang TV2 HD,http://100.83.104.117:5678/stv.php?id=viet_danangtv2
+越南|HBTV HD,http://100.83.104.117:5678/stv.php?id=viet_hbtv
+越南|PTTH 1,http://100.83.104.117:5678/stv.php?id=viet_ptth1
+韩国|Arirang HD,http://100.83.104.117:5678/stv.php?id=arirang_korea
+韩国|Yonhap News,http://100.83.104.117:5678/stv.php?id=yonhapnews_korea
+韩国|CBS,http://100.83.104.117:5678/stv.php?id=cbs_korea
+韩国|EBS 1,http://100.83.104.117:5678/stv.php?id=ebs1_korea
+韩国|EBS2,http://100.83.104.117:5678/stv.php?id=ebs2_korea
+韩国|EBS Plus2,http://100.83.104.117:5678/stv.php?id=ebsplus2_korea
+韩国|SBS Plus,http://100.83.104.117:5678/stv.php?id=sbsplus_korea
+韩国|YTN,http://100.83.104.117:5678/stv.php?id=ytn_korea
+韩国|KBS World 24,http://100.83.104.117:5678/stv.php?id=kbsworld24_korea
+韩国|YTN Science,http://100.83.104.117:5678/stv.php?id=ytnscience_korea
+韩国|YTN Korean,http://100.83.104.117:5678/stv.php?id=ytnkorean_korea
+韩国|YTN DMB,http://100.83.104.117:5678/stv.php?id=ytndmb_korea
+韩国|Apps TV,http://100.83.104.117:5678/stv.php?id=appongoogle_korea
+韩国|All the Kpop,http://100.83.104.117:5678/stv.php?id=allthekpop_korea
+韩国|J the Kpop,http://100.83.104.117:5678/stv.php?id=jthekpop_korea
+韩国|EBS Kids,http://100.83.104.117:5678/stv.php?id=ebskids_korea
+韩国|CGNTV,http://100.83.104.117:5678/stv.php?id=cgntv_korea
+日本|NHK-総合-2,http://100.83.104.117:5678/stv.php?id=nhkg_japan
+日本|NHK-E,http://100.83.104.117:5678/stv.php?id=nhke_japan
+日本|テレビ朝日 Asahi TV,http://100.83.104.117:5678/stv.php?id=asahitv_japan
+日本|JET 綜合,http://100.83.104.117:5678/stv.php?id=jettv_japan
+日本|テレビ東京 Tokyo TV,http://100.83.104.117:5678/stv.php?id=tokyotv_japan
+日本|TOKYOMX,http://100.83.104.117:5678/stv.php?id=tokyomx_japan
+日本|NHKBS1,http://100.83.104.117:5678/stv.php?id=nhkbs1_japan
+日本|NHKBSプレミア Premium,http://100.83.104.117:5678/stv.php?id=nhkpremium_japan
+日本|BSジャパン 181,http://100.83.104.117:5678/stv.php?id=bs181_japan
+日本|BSフジ BS Fuji,http://100.83.104.117:5678/stv.php?id=bsfuji_japan
+日本|CNA Japan,http://100.83.104.117:5678/stv.php?id=cna_japan
+日本|BS-TBS,http://100.83.104.117:5678/stv.php?id=bstbs_japan
+日本|NHK Oaska,http://100.83.104.117:5678/stv.php?id=nhkosaka_japan
+日本|NHK World,http://100.83.104.117:5678/stv.php?id=nhkworld_japan
 4gtv整合版,#genre#
-民視第一台,http://192.168.1.68:50007/4gtv-4gtv003/index.m3u8
-民視台灣台,http://192.168.1.68:50007/4gtv-4gtv001/index.m3u8
-民視,http://192.168.1.68:50007/4gtv-4gtv002/index.m3u8
-大愛電視,http://192.168.1.68:50007/4gtv-live007/index.m3u8
-中視,http://192.168.1.68:50007/4gtv-4gtv040/index.m3u8
-中視經典台,http://192.168.1.68:50007/4gtv-4gtv080/index.m3u8
-華視,http://192.168.1.68:50007/4gtv-4gtv041/index.m3u8
-龍華洋片台,http://192.168.1.68:50007/litv-longturn02/index.m3u8
-龍華卡通台,http://192.168.1.68:50007/litv-longturn01/index.m3u8
-龍華電影台,http://192.168.1.68:50007/litv-longturn03/index.m3u8
-龍華日韓台,http://192.168.1.68:50007/litv-longturn11/index.m3u8
-龍華偶像台,http://192.168.1.68:50007/litv-longturn12/index.m3u8
-龍華戲劇台,http://192.168.1.68:50007/litv-longturn18/index.m3u8
-龍華經典台,http://192.168.1.68:50007/litv-longturn21/index.m3u8
-博斯魅力台,http://192.168.1.68:50007/litv-longturn04/index.m3u8
-博斯高球台,http://192.168.1.68:50007/litv-longturn05/index.m3u8
-博斯高球二台,http://192.168.1.68:50007/litv-longturn06/index.m3u8
-博斯運動一台,http://192.168.1.68:50007/litv-longturn07/index.m3u8
-博斯運動二台,http://192.168.1.68:50007/litv-longturn08/index.m3u8
-博斯網球台,http://192.168.1.68:50007/litv-longturn09/index.m3u8
-博斯無限台,http://192.168.1.68:50007/litv-longturn10/index.m3u8
-博斯無限二台,http://192.168.1.68:50007/litv-longturn13/index.m3u8
-非凡新聞台,http://192.168.1.68:50007/4gtv-4gtv010/index.m3u8
-非凡商業台,http://192.168.1.68:50007/4gtv-4gtv048/index.m3u8
-台視財經,http://192.168.1.68:50007/4gtv-4gtv056/index.m3u8
-中天亞洲精采台,http://192.168.1.68:50007/4gtv-4gtv109/index.m3u8
-三立新聞iNEWS,http://192.168.1.68:50007/iNEWS/index.m3u8
-三立綜合台,http://192.168.1.68:50007/4gtv-live207/index.m3u8
-客家電視台,http://192.168.1.68:50007/4gtv-4gtv043/index.m3u8
-八大綜藝台,http://192.168.1.68:50007/4gtv-4gtv039/index.m3u8
-中視菁采台,http://192.168.1.68:50007/4gtv-4gtv064/index.m3u8
-TVBS精采台,http://192.168.1.68:50007/4gtv-4gtv067/index.m3u8
-愛爾達娛樂台,http://192.168.1.68:50007/4gtv-4gtv070/index.m3u8
-靖天綜合台,http://192.168.1.68:50007/4gtv-4gtv046/index.m3u8
-靖天日本台,http://192.168.1.68:50007/4gtv-4gtv047/index.m3u8
-新唐人亞太台,http://192.168.1.68:50007/4gtv-live050/index.m3u8
-ARIRANG阿里郎頻道,http://192.168.1.68:50007/4gtv-4gtv079/index.m3u8
-GlobalTrekker,http://192.168.1.68:50007/4gtv-live112/index.m3u8
-原住民族電視台,http://192.168.1.68:50007/4gtv-live014/index.m3u8
-東森購物四台,http://192.168.1.68:50007/4gtv-live049/index.m3u8
-LiveABC互動英語頻道,http://192.168.1.68:50007/4gtv-live030/index.m3u8
-達文西頻道,http://192.168.1.68:50007/4gtv-4gtv018/index.m3u8
-ELTV生活英語台,http://192.168.1.68:50007/litv-longturn20/index.m3u8
-NickJr.兒童頻道,http://192.168.1.68:50007/4gtv-live032/index.m3u8
-尼克兒童頻道,http://192.168.1.68:50007/4gtv-live105/index.m3u8
-DreamWorks夢工廠動畫,http://192.168.1.68:50007/4gtv-live017/index.m3u8
-靖天卡通台,http://192.168.1.68:50007/4gtv-4gtv044/index.m3u8
-靖洋卡通NiceBingo,http://192.168.1.68:50007/4gtv-4gtv057/index.m3u8
-MOMO親子台,http://192.168.1.68:50007/4gtv-live107/index.m3u8
-東森購物一台,http://192.168.1.68:50007/4gtv-live047/index.m3u8
-鏡電視新聞台,http://192.168.1.68:50007/4gtv-4gtv075/index.m3u8
-東森新聞台,http://192.168.1.68:50007/4gtv-4gtv152/index.m3u8
-華視新聞,http://192.168.1.68:50007/4gtv-4gtv052/index.m3u8
-民視新聞台,http://192.168.1.68:50007/litv-ftv13/index.m3u8
-三立新聞iNEWS,http://192.168.1.68:50007/4gtv-live089/index.m3u8
-TVBS新聞,http://192.168.1.68:50007/4gtv-4gtv072/index.m3u8
-東森財經新聞台,http://192.168.1.68:50007/4gtv-4gtv153/index.m3u8
-中視新聞,http://192.168.1.68:50007/4gtv-4gtv074/index.m3u8
-中天新聞台,http://192.168.1.68:50007/4gtv-4gtv009/index.m3u8
-BloombergTV,http://192.168.1.68:50007/4gtv-live059/index.m3u8
-寰宇新聞台,http://192.168.1.68:50007/litv-longturn14/index.m3u8
-寰宇新聞台灣台,http://192.168.1.68:50007/4gtv-4gtv156/index.m3u8
-SBN全球財經台,http://192.168.1.68:50007/4gtv-live060/index.m3u8
-寰宇財經台,http://192.168.1.68:50007/4gtv-4gtv158/index.m3u8
-TVBS,http://192.168.1.68:50007/4gtv-4gtv073/index.m3u8
-東森購物二台,http://192.168.1.68:50007/4gtv-live046/index.m3u8
-民視綜藝台,http://192.168.1.68:50007/4gtv-4gtv004/index.m3u8
-豬哥亮歌廳秀,http://192.168.1.68:50007/4gtv-4gtv006/index.m3u8
-靖天育樂台,http://192.168.1.68:50007/4gtv-4gtv062/index.m3u8
-KLT-靖天國際台,http://192.168.1.68:50007/4gtv-4gtv063/index.m3u8
-NiceTV靖天歡樂台,http://192.168.1.68:50007/4gtv-4gtv054/index.m3u8
-靖天資訊台,http://192.168.1.68:50007/4gtv-4gtv065/index.m3u8
-TVBS歡樂台,http://192.168.1.68:50007/4gtv-4gtv068/index.m3u8
-韓國娛樂台KMTV,http://192.168.1.68:50007/4gtv-4gtv016/index.m3u8
-ROCKEntertainment,http://192.168.1.68:50007/4gtv-live080/index.m3u8
-Lifetime娛樂頻道,http://192.168.1.68:50007/4gtv-live029/index.m3u8
-電影原聲台CMusic,http://192.168.1.68:50007/4gtv-live031/index.m3u8
-TRACEUrban,http://192.168.1.68:50007/4gtv-4gtv082/index.m3u8
-MTVLiveHD音樂頻道,http://192.168.1.68:50007/4gtv-live025/index.m3u8
-MezzoLiveHD,http://192.168.1.68:50007/4gtv-4gtv083/index.m3u8
-CLASSICA古典樂,http://192.168.1.68:50007/4gtv-4gtv059/index.m3u8
-東森購物三台,http://192.168.1.68:50007/4gtv-live048/index.m3u8
-INULTRA,http://192.168.1.68:50007/4gtv-live096/index.m3u8
-TRACESportStars,http://192.168.1.68:50007/4gtv-4gtv077/index.m3u8
-智林體育台,http://192.168.1.68:50007/4gtv-4gtv101/index.m3u8
-時尚運動X,http://192.168.1.68:50007/4gtv-4gtv014/index.m3u8
-車迷TV,http://192.168.1.68:50007/4gtv-live201/index.m3u8
-GINXEsportsTV,http://192.168.1.68:50007/4gtv-4gtv053/index.m3u8
-PetClubTV,http://192.168.1.68:50007/4gtv-live110/index.m3u8
-民視旅遊台,http://192.168.1.68:50007/litv-ftv07/index.m3u8
-滾動力rollor,http://192.168.1.68:50007/4gtv-live012/index.m3u8
-亞洲旅遊台,http://192.168.1.68:50007/4gtv-4gtv076/index.m3u8
-fun探索娛樂台,http://192.168.1.68:50007/4gtv-live011/index.m3u8
-幸福空間居家台,http://192.168.1.68:50007/4gtv-live206/index.m3u8
-LoveNature,http://192.168.1.68:50007/4gtv-live208/index.m3u8
-History歷史頻道,http://192.168.1.68:50007/4gtv-live026/index.m3u8
-愛爾達生活旅遊台,http://192.168.1.68:50007/4gtv-live120/index.m3u8
-LUXETVChannel,http://192.168.1.68:50007/4gtv-live121/index.m3u8
-TV5MONDESTYLEHD生活時尚,http://192.168.1.68:50007/4gtv-live122/index.m3u8
-MagellanTV頻道(麥哲倫頻道),http://192.168.1.68:50007/4gtv-live123/index.m3u8
-公視戲劇,http://192.168.1.68:50007/4gtv-4gtv042/index.m3u8
-民視影劇台,http://192.168.1.68:50007/litv-ftv09/index.m3u8
-HITS頻道,http://192.168.1.68:50007/4gtv-live620/index.m3u8
-八大精彩台,http://192.168.1.68:50007/4gtv-4gtv034/index.m3u8
-霹靂布袋戲,http://192.168.1.68:50007/4gtv-live145/index.m3u8
-靖天戲劇台,http://192.168.1.68:50007/4gtv-4gtv058/index.m3u8
-靖洋戲劇台,http://192.168.1.68:50007/4gtv-4gtv045/index.m3u8
-CI罪案偵查頻道,http://192.168.1.68:50007/4gtv-live027/index.m3u8
-視納華仁紀實頻道,http://192.168.1.68:50007/4gtv-4gtv013/index.m3u8
-影迷數位紀實台,http://192.168.1.68:50007/litv-ftv15/index.m3u8
-金光布袋戲,http://192.168.1.68:50007/4gtv-live144/index.m3u8
-ROCKAction,http://192.168.1.68:50007/4gtv-live138/index.m3u8
-采昌影劇台,http://192.168.1.68:50007/4gtv-4gtv049/index.m3u8
-靖天映畫,http://192.168.1.68:50007/4gtv-4gtv055/index.m3u8
-靖天電影台,http://192.168.1.68:50007/4gtv-4gtv061/index.m3u8
-影迷數位電影台,http://192.168.1.68:50007/4gtv-4gtv011/index.m3u8
-amc電影台,http://192.168.1.68:50007/4gtv-4gtv017/index.m3u8
-CinemaWorld,http://192.168.1.68:50007/4gtv-live069/index.m3u8
-MyCinemaEuropeHD我的歐洲電影,http://192.168.1.68:50007/4gtv-live157/index.m3u8
-好消息,http://192.168.1.68:50007/litv-ftv16/index.m3u8
-好消息2台,http://192.168.1.68:50007/litv-ftv17/index.m3u8
-大愛二台,http://192.168.1.68:50007/4gtv-live106/index.m3u8
-人間衛視,http://192.168.1.68:50007/4gtv-live008/index.m3u8
-FRANCE24英文台,http://192.168.1.68:50007/4gtv-live146/index.m3u8
-半島國際新聞台,http://192.168.1.68:50007/litv-ftv10/index.m3u8
-VOA美國之音,http://192.168.1.68:50007/litv-ftv03/index.m3u8
-CNBCAsia財經台,http://192.168.1.68:50007/4gtv-live130/index.m3u8
-DW德國之聲,http://192.168.1.68:50007/4gtv-live071/index.m3u8
-國會頻道1,http://192.168.1.68:50007/4gtv-4gtv084/index.m3u8
-國會頻道2,http://192.168.1.68:50007/4gtv-4gtv085/index.m3u8
-TVBS綜藝台,http://192.168.1.68:50007/4gtv-live087/index.m3u8
-TVBS台劇台,http://192.168.1.68:50007/4gtv-live088/index.m3u8
-經典電影台,http://192.168.1.68:50007/4gtv-live021/index.m3u8
-經典卡通台,http://192.168.1.68:50007/4gtv-live022/index.m3u8
-精選動漫台,http://192.168.1.68:50007/4gtv-live024/index.m3u8
-戲劇免費看1台,http://192.168.1.68:50007/4gtv-live010/index.m3u8
-台灣戲劇台,http://192.168.1.68:50007/litv-longturn22/index.m3u8
-Smart知識台,http://192.168.1.68:50007/litv-longturn19/index.m3u8
-台視新聞,http://192.168.1.68:50007/4gtv-4gtv051/index.m3u8
-台視,http://192.168.1.68:50007/4gtv-4gtv066/index.m3u8
-第1商業台,http://192.168.1.68:50007/4gtv-4gtv104/index.m3u8
-倪珍播新聞,http://192.168.1.68:50007/nnews-zh/index.m3u8
-倪珍英語新聞,http://192.168.1.68:50007/nnews-en/index.m3u8
-倪珍越南語新聞,http://192.168.1.68:50007/nnews-en/index.m3u8
-公視金獎台,http://192.168.1.68:50007/ofiii13/index.m3u8
-哆啦Ａ夢台,http://192.168.1.68:50007/ofiii22/index.m3u8
-新哆啦A夢(中文版),http://192.168.1.68:50007/ofiii23/index.m3u8
-TVBS食尚玩家,http://192.168.1.68:50007/ofiii31/index.m3u8
-東森娛樂台,http://192.168.1.68:50007/ofiii32/index.m3u8
-中天亞洲精采台,http://192.168.1.68:50007/ofiii36/index.m3u8
-經典劇場,http://192.168.1.68:50007/ofiii38/index.m3u8
-Yes娛樂,http://192.168.1.68:50007/ofiii47/index.m3u8
-Focus風采戲劇台,http://192.168.1.68:50007/ofiii1048/index.m3u8
-掏掏新聞,http://192.168.1.68:50007/ofiii50/index.m3u8
-柯文哲政治風波,http://192.168.1.68:50007/ofiii51/index.m3u8
-國際大小事,http://192.168.1.68:50007/ofiii55/index.m3u8
-第1財經,http://192.168.1.68:50007/ofiii64/index.m3u8
-Golden 強片台,http://192.168.1.68:50007/ofiii70/index.m3u8
-周星馳台,http://192.168.1.68:50007/ofiii73/index.m3u8
-歐飛電影台,http://192.168.1.68:50007/ofiii74/index.m3u8
-歐飛動作電影台,http://192.168.1.68:50007/ofiii75/index.m3u8
-Focus探索新知台,http://192.168.1.68:50007/ofiii82/index.m3u8
-鄉民大學問,http://192.168.1.68:50007/ofiii83/index.m3u8
-野球名人房,http://192.168.1.68:50007/ofiii84/index.m3u8
-社會NOW什麼,http://192.168.1.68:50007/ofiii85/index.m3u8
-泰可愛旋風,http://192.168.1.68:50007/ofiii89/index.m3u8
-演唱會直擊,http://192.168.1.68:50007/ofiii91/index.m3u8
-健康問良醫,http://192.168.1.68:50007/ofiii92/index.m3u8
-Freeman,http://192.168.1.68:50007/ofiii95/index.m3u8
-饕客揪愛吃,http://192.168.1.68:50007/ofiii96/index.m3u8
-人氣動漫預告,http://192.168.1.68:50007/ofiii97/index.m3u8
-銀髮聚樂部,http://192.168.1.68:50007/ofiii99/index.m3u8
-錦繡安寧,http://192.168.1.68:50007/ofiii100/index.m3u8
-琅琊榜,http://192.168.1.68:50007/ofiii101/index.m3u8
-扶搖,http://192.168.1.68:50007/ofiii102/index.m3u8
-三國,http://192.168.1.68:50007/ofiii103/index.m3u8
-武媚娘傳奇,http://192.168.1.68:50007/ofiii104/index.m3u8
-長樂曲,http://192.168.1.68:50007/ofiii105/index.m3u8
-軍師聯盟,http://192.168.1.68:50007/ofiii106/index.m3u8
-軍師聯盟2 虎嘯龍吟,http://192.168.1.68:50007/ofiii107/index.m3u8
-東宮(完整版),http://192.168.1.68:50007/ofiii108/index.m3u8
-錦衣之下,http://192.168.1.68:50007/ofiii109/index.m3u8
-楚喬傳,http://192.168.1.68:50007/ofiii110/index.m3u8
-倚天屠龍記 2019,http://192.168.1.68:50007/ofiii111/index.m3u8
-披荊斬棘的大小姐,http://192.168.1.68:50007/ofiii112/index.m3u8
-步步驚心,http://192.168.1.68:50007/ofiii113/index.m3u8
-九重紫,http://192.168.1.68:50007/ofiii114/index.m3u8
-私藏浪漫,http://192.168.1.68:50007/ofiii115/index.m3u8
-去有風的地方,http://192.168.1.68:50007/ofiii116/index.m3u8
-以愛為營,http://192.168.1.68:50007/ofiii117/index.m3u8
-向風而行,http://192.168.1.68:50007/ofiii118/index.m3u8
-以家人之名,http://192.168.1.68:50007/ofiii119/index.m3u8
-獵狐,http://192.168.1.68:50007/ofiii120/index.m3u8
-好運家,http://192.168.1.68:50007/ofiii121/index.m3u8
-請叫我總監,http://192.168.1.68:50007/ofiii122/index.m3u8
-司藤,http://192.168.1.68:50007/ofiii123/index.m3u8
-他們的奇妙時光,http://192.168.1.68:50007/ofiii124/index.m3u8
-豬哥壹級棒,http://192.168.1.68:50007/ofiii126/index.m3u8
-醫師好辣,http://192.168.1.68:50007/ofiii128/index.m3u8
-WTO姐妹會,http://192.168.1.68:50007/ofiii129/index.m3u8
-綜藝玩很大,http://192.168.1.68:50007/ofiii130/index.m3u8
-全民星攻略,http://192.168.1.68:50007/ofiii131/index.m3u8
-健康2.0,http://192.168.1.68:50007/ofiii132/index.m3u8
-台灣啟示錄,http://192.168.1.68:50007/ofiii133/index.m3u8
-法眼黑與白,http://192.168.1.68:50007/ofiii134/index.m3u8
-天才衝衝衝,http://192.168.1.68:50007/ofiii135/index.m3u8
-一步一腳印 發現新台灣,http://192.168.1.68:50007/ofiii136/index.m3u8
-女人我最大,http://192.168.1.68:50007/ofiii137/index.m3u8
-看板人物,http://192.168.1.68:50007/ofiii138/index.m3u8
-威廉沈歡樂送,http://192.168.1.68:50007/ofiii139/index.m3u8
-一字千金,http://192.168.1.68:50007/ofiii142/index.m3u8
-11點熱吵店,http://192.168.1.68:50007/ofiii143/index.m3u8
-白雪公主非死不可,http://192.168.1.68:50007/ofiii146/index.m3u8
-好搭檔,http://192.168.1.68:50007/ofiii147/index.m3u8
-頭腦共助,http://192.168.1.68:50007/ofiii148/index.m3u8
-凌晨兩點的灰姑娘,http://192.168.1.68:50007/ofiii149/index.m3u8
-台灣靈異事件,http://192.168.1.68:50007/ofiii150/index.m3u8
-包青天 1993版,http://192.168.1.68:50007/ofiii151/index.m3u8
-我的婆婆怎麼那麼可愛,http://192.168.1.68:50007/ofiii152/index.m3u8
-村裡來了個暴走女外科,http://192.168.1.68:50007/ofiii153/index.m3u8
-一把青,http://192.168.1.68:50007/ofiii154/index.m3u8
-茶金,http://192.168.1.68:50007/ofiii155/index.m3u8
-苦力,http://192.168.1.68:50007/ofiii156/index.m3u8
-俗女養成記,http://192.168.1.68:50007/ofiii157/index.m3u8
-麻醉風暴,http://192.168.1.68:50007/ofiii158/index.m3u8
-雖然等級只有1級但固有技能是最強的,http://192.168.1.68:50007/ofiii159/index.m3u8
-擁有超常技能的異世界流浪美食家,http://192.168.1.68:50007/ofiii160/index.m3u8
-WIND BREAKER—防風少年—,http://192.168.1.68:50007/ofiii161/index.m3u8
-在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～,http://192.168.1.68:50007/ofiii162/index.m3u8
-第一神拳,http://192.168.1.68:50007/ofiii163/index.m3u8
-刀劍神域(中文版),http://192.168.1.68:50007/ofiii164/index.m3u8
-蠟筆小新(中文版),http://192.168.1.68:50007/ofiii165/index.m3u8
-我們這一家,http://192.168.1.68:50007/ofiii166/index.m3u8
-獵人(中文版),http://192.168.1.68:50007/ofiii167/index.m3u8
-中華一番(中文版),http://192.168.1.68:50007/ofiii168/index.m3u8
-隊長小翼(中文版),http://192.168.1.68:50007/ofiii169/index.m3u8
-SPY X FAMILY 間諜家家酒,http://192.168.1.68:50007/ofiii170/index.m3u8
-SPY X FAMILY 間諜家家酒(中文版),http://192.168.1.68:50007/ofiii171/index.m3u8
-無職轉生，到了異世界就拿出真本事,http://192.168.1.68:50007/ofiii172/index.m3u8
-關於我轉生變成史萊姆這檔事(國),http://192.168.1.68:50007/ofiii173/index.m3u8
-夏目友人帳,http://192.168.1.68:50007/ofiii174/index.m3u8
-家庭教師HITMAN REBORN!(中文版),http://192.168.1.68:50007/ofiii175/index.m3u8
-烘焙王(中文版),http://192.168.1.68:50007/ofiii176/index.m3u8
-鋼之鍊金術師,http://192.168.1.68:50007/ofiii177/index.m3u8
-JOJO 的奇妙冒險,http://192.168.1.68:50007/ofiii178/index.m3u8
-葬送的芙莉蓮,http://192.168.1.68:50007/ofiii179/index.m3u8
-史上最強弟子兼一(中文版),http://192.168.1.68:50007/ofiii180/index.m3u8
-爆漫王(中文版),http://192.168.1.68:50007/ofiii181/index.m3u8
-忍者亂太郎(中文版),http://192.168.1.68:50007/ofiii182/index.m3u8
-膽大黨,http://192.168.1.68:50007/ofiii183/index.m3u8
-新忍者哈特利,http://192.168.1.68:50007/ofiii184/index.m3u8
-生命的贏家,http://192.168.1.68:50007/ofiii192/index.m3u8
-海派甜心,http://192.168.1.68:50007/ofiii195/index.m3u8
-不良笑花,http://192.168.1.68:50007/ofiii196/index.m3u8
-戰神,http://192.168.1.68:50007/ofiii197/index.m3u8
-大新聞大爆卦,http://192.168.1.68:50007/ofiii201/index.m3u8
-新聞大白話,http://192.168.1.68:50007/ofiii202/index.m3u8
-文茜的世界周報,http://192.168.1.68:50007/ofiii203/index.m3u8
-寰宇全視界,http://192.168.1.68:50007/ofiii204/index.m3u8
-文茜的世界財經周報,http://192.168.1.68:50007/ofiii205/index.m3u8
-環球大戰線,http://192.168.1.68:50007/ofiii206/index.m3u8
-少康戰情室,http://192.168.1.68:50007/ofiii207/index.m3u8
-國民大會,http://192.168.1.68:50007/ofiii208/index.m3u8
-電動車時代,http://192.168.1.68:50007/ofiii215/index.m3u8
-SiCAR愛車酷,http://192.168.1.68:50007/ofiii216/index.m3u8
-狂人日誌,http://192.168.1.68:50007/ofiii217/index.m3u8
-脖子解說 Mr. Neck,http://192.168.1.68:50007/ofiii218/index.m3u8
-食尚玩家-Hello腹餓代,http://192.168.1.68:50007/ofiii225/index.m3u8
-食尚玩家-天菜就醬吃,http://192.168.1.68:50007/ofiii226/index.m3u8
-食尚玩家-2天1夜go,http://192.168.1.68:50007/ofiii227/index.m3u8
-食尚玩家-熱血48小時,http://192.168.1.68:50007/ofiii228/index.m3u8
-食尚玩家-魚肉鄉民,http://192.168.1.68:50007/ofiii229/index.m3u8
-食尚玩家-瘋狂總部,http://192.168.1.68:50007/ofiii230/index.m3u8
-非凡大探索,http://192.168.1.68:50007/ofiii234/index.m3u8
-台灣1001個故事,http://192.168.1.68:50007/ofiii235/index.m3u8
-詹姆士出走料理,http://192.168.1.68:50007/ofiii236/index.m3u8
-進擊的台灣,http://192.168.1.68:50007/ofiii237/index.m3u8
-世界第一等,http://192.168.1.68:50007/ofiii238/index.m3u8
-台灣第一等,http://192.168.1.68:50007/ofiii239/index.m3u8
-溢遊未盡,http://192.168.1.68:50007/ofiii240/index.m3u8
-台灣真善美,http://192.168.1.68:50007/ofiii241/index.m3u8
-請問今晚住誰家,http://192.168.1.68:50007/ofiii242/index.m3u8
-紓壓雷雨聲,http://192.168.1.68:50007/ofiii250/index.m3u8
-療癒下雨聲,http://192.168.1.68:50007/ofiii251/index.m3u8
-放鬆的爵士午後,http://192.168.1.68:50007/ofiii252/index.m3u8
-野外燒柴火聲,http://192.168.1.68:50007/ofiii253/index.m3u8
-夏日陽光海浪聲,http://192.168.1.68:50007/ofiii254/index.m3u8
+民視第一台,http://100.83.104.117:50007/4gtv-4gtv003/index.m3u8
+民視台灣台,http://100.83.104.117:50007/4gtv-4gtv001/index.m3u8
+民視,http://100.83.104.117:50007/4gtv-4gtv002/index.m3u8
+大愛電視,http://100.83.104.117:50007/4gtv-live007/index.m3u8
+中視,http://100.83.104.117:50007/4gtv-4gtv040/index.m3u8
+中視經典台,http://100.83.104.117:50007/4gtv-4gtv080/index.m3u8
+華視,http://100.83.104.117:50007/4gtv-4gtv041/index.m3u8
+龍華洋片台,http://100.83.104.117:50007/litv-longturn02/index.m3u8
+龍華卡通台,http://100.83.104.117:50007/litv-longturn01/index.m3u8
+龍華電影台,http://100.83.104.117:50007/litv-longturn03/index.m3u8
+龍華日韓台,http://100.83.104.117:50007/litv-longturn11/index.m3u8
+龍華偶像台,http://100.83.104.117:50007/litv-longturn12/index.m3u8
+龍華戲劇台,http://100.83.104.117:50007/litv-longturn18/index.m3u8
+龍華經典台,http://100.83.104.117:50007/litv-longturn21/index.m3u8
+博斯魅力台,http://100.83.104.117:50007/litv-longturn04/index.m3u8
+博斯高球台,http://100.83.104.117:50007/litv-longturn05/index.m3u8
+博斯高球二台,http://100.83.104.117:50007/litv-longturn06/index.m3u8
+博斯運動一台,http://100.83.104.117:50007/litv-longturn07/index.m3u8
+博斯運動二台,http://100.83.104.117:50007/litv-longturn08/index.m3u8
+博斯網球台,http://100.83.104.117:50007/litv-longturn09/index.m3u8
+博斯無限台,http://100.83.104.117:50007/litv-longturn10/index.m3u8
+博斯無限二台,http://100.83.104.117:50007/litv-longturn13/index.m3u8
+非凡新聞台,http://100.83.104.117:50007/4gtv-4gtv010/index.m3u8
+非凡商業台,http://100.83.104.117:50007/4gtv-4gtv048/index.m3u8
+台視財經,http://100.83.104.117:50007/4gtv-4gtv056/index.m3u8
+中天亞洲精采台,http://100.83.104.117:50007/4gtv-4gtv109/index.m3u8
+三立新聞iNEWS,http://100.83.104.117:50007/iNEWS/index.m3u8
+三立綜合台,http://100.83.104.117:50007/4gtv-live207/index.m3u8
+客家電視台,http://100.83.104.117:50007/4gtv-4gtv043/index.m3u8
+八大綜藝台,http://100.83.104.117:50007/4gtv-4gtv039/index.m3u8
+中視菁采台,http://100.83.104.117:50007/4gtv-4gtv064/index.m3u8
+TVBS精采台,http://100.83.104.117:50007/4gtv-4gtv067/index.m3u8
+愛爾達娛樂台,http://100.83.104.117:50007/4gtv-4gtv070/index.m3u8
+靖天綜合台,http://100.83.104.117:50007/4gtv-4gtv046/index.m3u8
+靖天日本台,http://100.83.104.117:50007/4gtv-4gtv047/index.m3u8
+新唐人亞太台,http://100.83.104.117:50007/4gtv-live050/index.m3u8
+ARIRANG阿里郎頻道,http://100.83.104.117:50007/4gtv-4gtv079/index.m3u8
+GlobalTrekker,http://100.83.104.117:50007/4gtv-live112/index.m3u8
+原住民族電視台,http://100.83.104.117:50007/4gtv-live014/index.m3u8
+東森購物四台,http://100.83.104.117:50007/4gtv-live049/index.m3u8
+LiveABC互動英語頻道,http://100.83.104.117:50007/4gtv-live030/index.m3u8
+達文西頻道,http://100.83.104.117:50007/4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://100.83.104.117:50007/litv-longturn20/index.m3u8
+NickJr.兒童頻道,http://100.83.104.117:50007/4gtv-live032/index.m3u8
+尼克兒童頻道,http://100.83.104.117:50007/4gtv-live105/index.m3u8
+DreamWorks夢工廠動畫,http://100.83.104.117:50007/4gtv-live017/index.m3u8
+靖天卡通台,http://100.83.104.117:50007/4gtv-4gtv044/index.m3u8
+靖洋卡通NiceBingo,http://100.83.104.117:50007/4gtv-4gtv057/index.m3u8
+MOMO親子台,http://100.83.104.117:50007/4gtv-live107/index.m3u8
+東森購物一台,http://100.83.104.117:50007/4gtv-live047/index.m3u8
+鏡電視新聞台,http://100.83.104.117:50007/4gtv-4gtv075/index.m3u8
+東森新聞台,http://100.83.104.117:50007/4gtv-4gtv152/index.m3u8
+華視新聞,http://100.83.104.117:50007/4gtv-4gtv052/index.m3u8
+民視新聞台,http://100.83.104.117:50007/litv-ftv13/index.m3u8
+三立新聞iNEWS,http://100.83.104.117:50007/4gtv-live089/index.m3u8
+TVBS新聞,http://100.83.104.117:50007/4gtv-4gtv072/index.m3u8
+東森財經新聞台,http://100.83.104.117:50007/4gtv-4gtv153/index.m3u8
+中視新聞,http://100.83.104.117:50007/4gtv-4gtv074/index.m3u8
+中天新聞台,http://100.83.104.117:50007/4gtv-4gtv009/index.m3u8
+BloombergTV,http://100.83.104.117:50007/4gtv-live059/index.m3u8
+寰宇新聞台,http://100.83.104.117:50007/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://100.83.104.117:50007/4gtv-4gtv156/index.m3u8
+SBN全球財經台,http://100.83.104.117:50007/4gtv-live060/index.m3u8
+寰宇財經台,http://100.83.104.117:50007/4gtv-4gtv158/index.m3u8
+TVBS,http://100.83.104.117:50007/4gtv-4gtv073/index.m3u8
+東森購物二台,http://100.83.104.117:50007/4gtv-live046/index.m3u8
+民視綜藝台,http://100.83.104.117:50007/4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://100.83.104.117:50007/4gtv-4gtv006/index.m3u8
+靖天育樂台,http://100.83.104.117:50007/4gtv-4gtv062/index.m3u8
+KLT-靖天國際台,http://100.83.104.117:50007/4gtv-4gtv063/index.m3u8
+NiceTV靖天歡樂台,http://100.83.104.117:50007/4gtv-4gtv054/index.m3u8
+靖天資訊台,http://100.83.104.117:50007/4gtv-4gtv065/index.m3u8
+TVBS歡樂台,http://100.83.104.117:50007/4gtv-4gtv068/index.m3u8
+韓國娛樂台KMTV,http://100.83.104.117:50007/4gtv-4gtv016/index.m3u8
+ROCKEntertainment,http://100.83.104.117:50007/4gtv-live080/index.m3u8
+Lifetime娛樂頻道,http://100.83.104.117:50007/4gtv-live029/index.m3u8
+電影原聲台CMusic,http://100.83.104.117:50007/4gtv-live031/index.m3u8
+TRACEUrban,http://100.83.104.117:50007/4gtv-4gtv082/index.m3u8
+MTVLiveHD音樂頻道,http://100.83.104.117:50007/4gtv-live025/index.m3u8
+MezzoLiveHD,http://100.83.104.117:50007/4gtv-4gtv083/index.m3u8
+CLASSICA古典樂,http://100.83.104.117:50007/4gtv-4gtv059/index.m3u8
+東森購物三台,http://100.83.104.117:50007/4gtv-live048/index.m3u8
+INULTRA,http://100.83.104.117:50007/4gtv-live096/index.m3u8
+TRACESportStars,http://100.83.104.117:50007/4gtv-4gtv077/index.m3u8
+智林體育台,http://100.83.104.117:50007/4gtv-4gtv101/index.m3u8
+時尚運動X,http://100.83.104.117:50007/4gtv-4gtv014/index.m3u8
+車迷TV,http://100.83.104.117:50007/4gtv-live201/index.m3u8
+GINXEsportsTV,http://100.83.104.117:50007/4gtv-4gtv053/index.m3u8
+PetClubTV,http://100.83.104.117:50007/4gtv-live110/index.m3u8
+民視旅遊台,http://100.83.104.117:50007/litv-ftv07/index.m3u8
+滾動力rollor,http://100.83.104.117:50007/4gtv-live012/index.m3u8
+亞洲旅遊台,http://100.83.104.117:50007/4gtv-4gtv076/index.m3u8
+fun探索娛樂台,http://100.83.104.117:50007/4gtv-live011/index.m3u8
+幸福空間居家台,http://100.83.104.117:50007/4gtv-live206/index.m3u8
+LoveNature,http://100.83.104.117:50007/4gtv-live208/index.m3u8
+History歷史頻道,http://100.83.104.117:50007/4gtv-live026/index.m3u8
+愛爾達生活旅遊台,http://100.83.104.117:50007/4gtv-live120/index.m3u8
+LUXETVChannel,http://100.83.104.117:50007/4gtv-live121/index.m3u8
+TV5MONDESTYLEHD生活時尚,http://100.83.104.117:50007/4gtv-live122/index.m3u8
+MagellanTV頻道(麥哲倫頻道),http://100.83.104.117:50007/4gtv-live123/index.m3u8
+公視戲劇,http://100.83.104.117:50007/4gtv-4gtv042/index.m3u8
+民視影劇台,http://100.83.104.117:50007/litv-ftv09/index.m3u8
+HITS頻道,http://100.83.104.117:50007/4gtv-live620/index.m3u8
+八大精彩台,http://100.83.104.117:50007/4gtv-4gtv034/index.m3u8
+霹靂布袋戲,http://100.83.104.117:50007/4gtv-live145/index.m3u8
+靖天戲劇台,http://100.83.104.117:50007/4gtv-4gtv058/index.m3u8
+靖洋戲劇台,http://100.83.104.117:50007/4gtv-4gtv045/index.m3u8
+CI罪案偵查頻道,http://100.83.104.117:50007/4gtv-live027/index.m3u8
+視納華仁紀實頻道,http://100.83.104.117:50007/4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://100.83.104.117:50007/litv-ftv15/index.m3u8
+金光布袋戲,http://100.83.104.117:50007/4gtv-live144/index.m3u8
+ROCKAction,http://100.83.104.117:50007/4gtv-live138/index.m3u8
+采昌影劇台,http://100.83.104.117:50007/4gtv-4gtv049/index.m3u8
+靖天映畫,http://100.83.104.117:50007/4gtv-4gtv055/index.m3u8
+靖天電影台,http://100.83.104.117:50007/4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://100.83.104.117:50007/4gtv-4gtv011/index.m3u8
+amc電影台,http://100.83.104.117:50007/4gtv-4gtv017/index.m3u8
+CinemaWorld,http://100.83.104.117:50007/4gtv-live069/index.m3u8
+MyCinemaEuropeHD我的歐洲電影,http://100.83.104.117:50007/4gtv-live157/index.m3u8
+好消息,http://100.83.104.117:50007/litv-ftv16/index.m3u8
+好消息2台,http://100.83.104.117:50007/litv-ftv17/index.m3u8
+大愛二台,http://100.83.104.117:50007/4gtv-live106/index.m3u8
+人間衛視,http://100.83.104.117:50007/4gtv-live008/index.m3u8
+FRANCE24英文台,http://100.83.104.117:50007/4gtv-live146/index.m3u8
+半島國際新聞台,http://100.83.104.117:50007/litv-ftv10/index.m3u8
+VOA美國之音,http://100.83.104.117:50007/litv-ftv03/index.m3u8
+CNBCAsia財經台,http://100.83.104.117:50007/4gtv-live130/index.m3u8
+DW德國之聲,http://100.83.104.117:50007/4gtv-live071/index.m3u8
+國會頻道1,http://100.83.104.117:50007/4gtv-4gtv084/index.m3u8
+國會頻道2,http://100.83.104.117:50007/4gtv-4gtv085/index.m3u8
+TVBS綜藝台,http://100.83.104.117:50007/4gtv-live087/index.m3u8
+TVBS台劇台,http://100.83.104.117:50007/4gtv-live088/index.m3u8
+經典電影台,http://100.83.104.117:50007/4gtv-live021/index.m3u8
+經典卡通台,http://100.83.104.117:50007/4gtv-live022/index.m3u8
+精選動漫台,http://100.83.104.117:50007/4gtv-live024/index.m3u8
+戲劇免費看1台,http://100.83.104.117:50007/4gtv-live010/index.m3u8
+台灣戲劇台,http://100.83.104.117:50007/litv-longturn22/index.m3u8
+Smart知識台,http://100.83.104.117:50007/litv-longturn19/index.m3u8
+台視新聞,http://100.83.104.117:50007/4gtv-4gtv051/index.m3u8
+台視,http://100.83.104.117:50007/4gtv-4gtv066/index.m3u8
+第1商業台,http://100.83.104.117:50007/4gtv-4gtv104/index.m3u8
+倪珍播新聞,http://100.83.104.117:50007/nnews-zh/index.m3u8
+倪珍英語新聞,http://100.83.104.117:50007/nnews-en/index.m3u8
+倪珍越南語新聞,http://100.83.104.117:50007/nnews-en/index.m3u8
+公視金獎台,http://100.83.104.117:50007/ofiii13/index.m3u8
+哆啦Ａ夢台,http://100.83.104.117:50007/ofiii22/index.m3u8
+新哆啦A夢(中文版),http://100.83.104.117:50007/ofiii23/index.m3u8
+TVBS食尚玩家,http://100.83.104.117:50007/ofiii31/index.m3u8
+東森娛樂台,http://100.83.104.117:50007/ofiii32/index.m3u8
+中天亞洲精采台,http://100.83.104.117:50007/ofiii36/index.m3u8
+經典劇場,http://100.83.104.117:50007/ofiii38/index.m3u8
+Yes娛樂,http://100.83.104.117:50007/ofiii47/index.m3u8
+Focus風采戲劇台,http://100.83.104.117:50007/ofiii1048/index.m3u8
+掏掏新聞,http://100.83.104.117:50007/ofiii50/index.m3u8
+柯文哲政治風波,http://100.83.104.117:50007/ofiii51/index.m3u8
+國際大小事,http://100.83.104.117:50007/ofiii55/index.m3u8
+第1財經,http://100.83.104.117:50007/ofiii64/index.m3u8
+Golden 強片台,http://100.83.104.117:50007/ofiii70/index.m3u8
+周星馳台,http://100.83.104.117:50007/ofiii73/index.m3u8
+歐飛電影台,http://100.83.104.117:50007/ofiii74/index.m3u8
+歐飛動作電影台,http://100.83.104.117:50007/ofiii75/index.m3u8
+Focus探索新知台,http://100.83.104.117:50007/ofiii82/index.m3u8
+鄉民大學問,http://100.83.104.117:50007/ofiii83/index.m3u8
+野球名人房,http://100.83.104.117:50007/ofiii84/index.m3u8
+社會NOW什麼,http://100.83.104.117:50007/ofiii85/index.m3u8
+泰可愛旋風,http://100.83.104.117:50007/ofiii89/index.m3u8
+演唱會直擊,http://100.83.104.117:50007/ofiii91/index.m3u8
+健康問良醫,http://100.83.104.117:50007/ofiii92/index.m3u8
+Freeman,http://100.83.104.117:50007/ofiii95/index.m3u8
+饕客揪愛吃,http://100.83.104.117:50007/ofiii96/index.m3u8
+人氣動漫預告,http://100.83.104.117:50007/ofiii97/index.m3u8
+銀髮聚樂部,http://100.83.104.117:50007/ofiii99/index.m3u8
+錦繡安寧,http://100.83.104.117:50007/ofiii100/index.m3u8
+琅琊榜,http://100.83.104.117:50007/ofiii101/index.m3u8
+扶搖,http://100.83.104.117:50007/ofiii102/index.m3u8
+三國,http://100.83.104.117:50007/ofiii103/index.m3u8
+武媚娘傳奇,http://100.83.104.117:50007/ofiii104/index.m3u8
+長樂曲,http://100.83.104.117:50007/ofiii105/index.m3u8
+軍師聯盟,http://100.83.104.117:50007/ofiii106/index.m3u8
+軍師聯盟2 虎嘯龍吟,http://100.83.104.117:50007/ofiii107/index.m3u8
+東宮(完整版),http://100.83.104.117:50007/ofiii108/index.m3u8
+錦衣之下,http://100.83.104.117:50007/ofiii109/index.m3u8
+楚喬傳,http://100.83.104.117:50007/ofiii110/index.m3u8
+倚天屠龍記 2019,http://100.83.104.117:50007/ofiii111/index.m3u8
+披荊斬棘的大小姐,http://100.83.104.117:50007/ofiii112/index.m3u8
+步步驚心,http://100.83.104.117:50007/ofiii113/index.m3u8
+九重紫,http://100.83.104.117:50007/ofiii114/index.m3u8
+私藏浪漫,http://100.83.104.117:50007/ofiii115/index.m3u8
+去有風的地方,http://100.83.104.117:50007/ofiii116/index.m3u8
+以愛為營,http://100.83.104.117:50007/ofiii117/index.m3u8
+向風而行,http://100.83.104.117:50007/ofiii118/index.m3u8
+以家人之名,http://100.83.104.117:50007/ofiii119/index.m3u8
+獵狐,http://100.83.104.117:50007/ofiii120/index.m3u8
+好運家,http://100.83.104.117:50007/ofiii121/index.m3u8
+請叫我總監,http://100.83.104.117:50007/ofiii122/index.m3u8
+司藤,http://100.83.104.117:50007/ofiii123/index.m3u8
+他們的奇妙時光,http://100.83.104.117:50007/ofiii124/index.m3u8
+豬哥壹級棒,http://100.83.104.117:50007/ofiii126/index.m3u8
+醫師好辣,http://100.83.104.117:50007/ofiii128/index.m3u8
+WTO姐妹會,http://100.83.104.117:50007/ofiii129/index.m3u8
+綜藝玩很大,http://100.83.104.117:50007/ofiii130/index.m3u8
+全民星攻略,http://100.83.104.117:50007/ofiii131/index.m3u8
+健康2.0,http://100.83.104.117:50007/ofiii132/index.m3u8
+台灣啟示錄,http://100.83.104.117:50007/ofiii133/index.m3u8
+法眼黑與白,http://100.83.104.117:50007/ofiii134/index.m3u8
+天才衝衝衝,http://100.83.104.117:50007/ofiii135/index.m3u8
+一步一腳印 發現新台灣,http://100.83.104.117:50007/ofiii136/index.m3u8
+女人我最大,http://100.83.104.117:50007/ofiii137/index.m3u8
+看板人物,http://100.83.104.117:50007/ofiii138/index.m3u8
+威廉沈歡樂送,http://100.83.104.117:50007/ofiii139/index.m3u8
+一字千金,http://100.83.104.117:50007/ofiii142/index.m3u8
+11點熱吵店,http://100.83.104.117:50007/ofiii143/index.m3u8
+白雪公主非死不可,http://100.83.104.117:50007/ofiii146/index.m3u8
+好搭檔,http://100.83.104.117:50007/ofiii147/index.m3u8
+頭腦共助,http://100.83.104.117:50007/ofiii148/index.m3u8
+凌晨兩點的灰姑娘,http://100.83.104.117:50007/ofiii149/index.m3u8
+台灣靈異事件,http://100.83.104.117:50007/ofiii150/index.m3u8
+包青天 1993版,http://100.83.104.117:50007/ofiii151/index.m3u8
+我的婆婆怎麼那麼可愛,http://100.83.104.117:50007/ofiii152/index.m3u8
+村裡來了個暴走女外科,http://100.83.104.117:50007/ofiii153/index.m3u8
+一把青,http://100.83.104.117:50007/ofiii154/index.m3u8
+茶金,http://100.83.104.117:50007/ofiii155/index.m3u8
+苦力,http://100.83.104.117:50007/ofiii156/index.m3u8
+俗女養成記,http://100.83.104.117:50007/ofiii157/index.m3u8
+麻醉風暴,http://100.83.104.117:50007/ofiii158/index.m3u8
+雖然等級只有1級但固有技能是最強的,http://100.83.104.117:50007/ofiii159/index.m3u8
+擁有超常技能的異世界流浪美食家,http://100.83.104.117:50007/ofiii160/index.m3u8
+WIND BREAKER—防風少年—,http://100.83.104.117:50007/ofiii161/index.m3u8
+在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～,http://100.83.104.117:50007/ofiii162/index.m3u8
+第一神拳,http://100.83.104.117:50007/ofiii163/index.m3u8
+刀劍神域(中文版),http://100.83.104.117:50007/ofiii164/index.m3u8
+蠟筆小新(中文版),http://100.83.104.117:50007/ofiii165/index.m3u8
+我們這一家,http://100.83.104.117:50007/ofiii166/index.m3u8
+獵人(中文版),http://100.83.104.117:50007/ofiii167/index.m3u8
+中華一番(中文版),http://100.83.104.117:50007/ofiii168/index.m3u8
+隊長小翼(中文版),http://100.83.104.117:50007/ofiii169/index.m3u8
+SPY X FAMILY 間諜家家酒,http://100.83.104.117:50007/ofiii170/index.m3u8
+SPY X FAMILY 間諜家家酒(中文版),http://100.83.104.117:50007/ofiii171/index.m3u8
+無職轉生，到了異世界就拿出真本事,http://100.83.104.117:50007/ofiii172/index.m3u8
+關於我轉生變成史萊姆這檔事(國),http://100.83.104.117:50007/ofiii173/index.m3u8
+夏目友人帳,http://100.83.104.117:50007/ofiii174/index.m3u8
+家庭教師HITMAN REBORN!(中文版),http://100.83.104.117:50007/ofiii175/index.m3u8
+烘焙王(中文版),http://100.83.104.117:50007/ofiii176/index.m3u8
+鋼之鍊金術師,http://100.83.104.117:50007/ofiii177/index.m3u8
+JOJO 的奇妙冒險,http://100.83.104.117:50007/ofiii178/index.m3u8
+葬送的芙莉蓮,http://100.83.104.117:50007/ofiii179/index.m3u8
+史上最強弟子兼一(中文版),http://100.83.104.117:50007/ofiii180/index.m3u8
+爆漫王(中文版),http://100.83.104.117:50007/ofiii181/index.m3u8
+忍者亂太郎(中文版),http://100.83.104.117:50007/ofiii182/index.m3u8
+膽大黨,http://100.83.104.117:50007/ofiii183/index.m3u8
+新忍者哈特利,http://100.83.104.117:50007/ofiii184/index.m3u8
+生命的贏家,http://100.83.104.117:50007/ofiii192/index.m3u8
+海派甜心,http://100.83.104.117:50007/ofiii195/index.m3u8
+不良笑花,http://100.83.104.117:50007/ofiii196/index.m3u8
+戰神,http://100.83.104.117:50007/ofiii197/index.m3u8
+大新聞大爆卦,http://100.83.104.117:50007/ofiii201/index.m3u8
+新聞大白話,http://100.83.104.117:50007/ofiii202/index.m3u8
+文茜的世界周報,http://100.83.104.117:50007/ofiii203/index.m3u8
+寰宇全視界,http://100.83.104.117:50007/ofiii204/index.m3u8
+文茜的世界財經周報,http://100.83.104.117:50007/ofiii205/index.m3u8
+環球大戰線,http://100.83.104.117:50007/ofiii206/index.m3u8
+少康戰情室,http://100.83.104.117:50007/ofiii207/index.m3u8
+國民大會,http://100.83.104.117:50007/ofiii208/index.m3u8
+電動車時代,http://100.83.104.117:50007/ofiii215/index.m3u8
+SiCAR愛車酷,http://100.83.104.117:50007/ofiii216/index.m3u8
+狂人日誌,http://100.83.104.117:50007/ofiii217/index.m3u8
+脖子解說 Mr. Neck,http://100.83.104.117:50007/ofiii218/index.m3u8
+食尚玩家-Hello腹餓代,http://100.83.104.117:50007/ofiii225/index.m3u8
+食尚玩家-天菜就醬吃,http://100.83.104.117:50007/ofiii226/index.m3u8
+食尚玩家-2天1夜go,http://100.83.104.117:50007/ofiii227/index.m3u8
+食尚玩家-熱血48小時,http://100.83.104.117:50007/ofiii228/index.m3u8
+食尚玩家-魚肉鄉民,http://100.83.104.117:50007/ofiii229/index.m3u8
+食尚玩家-瘋狂總部,http://100.83.104.117:50007/ofiii230/index.m3u8
+非凡大探索,http://100.83.104.117:50007/ofiii234/index.m3u8
+台灣1001個故事,http://100.83.104.117:50007/ofiii235/index.m3u8
+詹姆士出走料理,http://100.83.104.117:50007/ofiii236/index.m3u8
+進擊的台灣,http://100.83.104.117:50007/ofiii237/index.m3u8
+世界第一等,http://100.83.104.117:50007/ofiii238/index.m3u8
+台灣第一等,http://100.83.104.117:50007/ofiii239/index.m3u8
+溢遊未盡,http://100.83.104.117:50007/ofiii240/index.m3u8
+台灣真善美,http://100.83.104.117:50007/ofiii241/index.m3u8
+請問今晚住誰家,http://100.83.104.117:50007/ofiii242/index.m3u8
+紓壓雷雨聲,http://100.83.104.117:50007/ofiii250/index.m3u8
+療癒下雨聲,http://100.83.104.117:50007/ofiii251/index.m3u8
+放鬆的爵士午後,http://100.83.104.117:50007/ofiii252/index.m3u8
+野外燒柴火聲,http://100.83.104.117:50007/ofiii253/index.m3u8
+夏日陽光海浪聲,http://100.83.104.117:50007/ofiii254/index.m3u8
 allinone组网,#genre#
 4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
 4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
