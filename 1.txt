@@ -1,6 +1,6 @@
 期货直播间,#genre#
 期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
-河北,http://10.6.22.1:5678/litv.php?token=leifeng&id=4gtv-4gtv009
+河北,http://10.6.22.1:5893/rtp/239.253.92.154:6011
 河北1,rtp://239.253.92.154:6011
 河北2,http://192.168.1.68:5893/rtp/239.253.92.154:6011
 live,#genre#
