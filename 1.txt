@@ -18,6 +18,7 @@ CCTV5体育,http://192.168.1.68:5678/bfgd.php?id=cctv5
 CCTV5+体育赛事,http://192.168.1.68:5678/bfgd.php?id=cctv5p
 CCTV6电影,http://192.168.1.68:5678/bfgd.php?id=cctv6
 CCTV7国防军事,http://192.168.1.68:5678/bfgd.php?id=cctv7
+CCTV7,http://192.168.1.68:5678/cctv7_jh.php
 CCTV8电视剧,http://192.168.1.68:5678/bfgd.php?id=cctv8
 CCTV9纪录,http://192.168.1.68:5678/bfgd.php?id=cctv9
 CCTV10科教,http://192.168.1.68:5678/bfgd.php?id=cctv10
