@@ -11,6 +11,7 @@ CCTV1综合3,http://192.168.1.68:5678/bfgd.php?id=cctv1c
 CCTV1综合4,http://192.168.1.68:5678/bfgd.php?id=cctv1d
 CCTV1综合5,http://192.168.1.68:5678/bfgd.php?id=cctv1e
 CCTV2财经,http://192.168.1.68:5678/bfgd.php?id=cctv2
+CCTV2央视财经线路,http://192.168.1.68:5678/cctv2.php
 CCTV3综艺,http://192.168.1.68:5678/bfgd.php?id=cctv3
 CCTV4中文国际,http://192.168.1.68:5678/bfgd.php?id=cctv4
 CCTV5体育,http://192.168.1.68:5678/bfgd.php?id=cctv5
