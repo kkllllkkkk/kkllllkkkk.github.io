@@ -4,7 +4,7 @@
 河北1,rtp://239.253.92.154:6011
 河北2,http://192.168.1.68:5893/rtp/239.253.92.154:6011
 河北3,https://hebiliantong.kooldns.cn:443/rtp/239.253.92.154:6011
-北方广电,#genre#
+北京广电,#genre#
 CCTV1综合,http://192.168.1.68:5678/bfgd.php?id=cctv1
 CCTV1综合2,http://192.168.1.68:5678/bfgd.php?id=cctv1b
 CCTV1综合3,http://192.168.1.68:5678/bfgd.php?id=cctv1c
