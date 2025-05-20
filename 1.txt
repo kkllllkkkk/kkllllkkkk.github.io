@@ -4,6 +4,13 @@
 河北1,rtp://239.253.92.154:6011
 河北2,http://192.168.1.68:5893/rtp/239.253.92.154:6011
 河北3,https://hebiliantong.kooldns.cn:443/rtp/239.253.92.154:6011
+网页电视,#genre#
+CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV1,video://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtml?share=true&type=15&articleid=5234612
+CCTV1,video://https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV1,video://https://tv.cctv.com/live/cctv1/index.shtml
+CCTV1,video://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
+CCTV1,video://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 北京广电,#genre#
 CCTV1综合,http://192.168.1.68:5678/bfgd.php?id=cctv1
 CCTV1综合2,http://192.168.1.68:5678/bfgd.php?id=cctv1b
