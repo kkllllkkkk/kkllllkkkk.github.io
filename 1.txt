@@ -257,7 +257,7 @@ NBA经典,http://192.168.1.68:5678/migu1.php?id=nbajd
 熊猫9,http://192.168.1.68:5678/migu1.php?id=xm9
 熊猫10,http://192.168.1.68:5678/migu1.php?id=xm10
 唐山移动,#genre#
-CCTV-1HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-1HD/7999000/7999000.m3u8
+CCTV-1HD,webview://http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-1HD/7999000/7999000.m3u8
 CCTV-2HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-2HD/7999000/7999000.m3u8
 CCTV-3HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-3HD/7999000/7999000.m3u8
 CCTV-4HD,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-CCTV-4HD/7999000/7999000.m3u8
