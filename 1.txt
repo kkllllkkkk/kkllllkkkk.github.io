@@ -11,6 +11,7 @@ CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV1,webview://https://tv.cctv.com/live/cctv1/index.shtml
 CCTV1,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
 CCTV1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
+正阳综合,webview://https://zhengyang.dxhmt.cn/api/page/shiroVideo?tvId=58a38a7b311849b59efeca1904267c4d
 北京广电,#genre#
 CCTV1综合,http://192.168.1.68:5678/bfgd.php?id=cctv1
 CCTV1综合2,http://192.168.1.68:5678/bfgd.php?id=cctv1b
