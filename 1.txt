@@ -1,5 +1,6 @@
 期货直播间,#genre#
 期货之家http://www.niuxiansheng.xyz/,webview://https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
+平遥电视台,video://https://pingyao.qmtzy.sxmty.com///television/live_wap_3.html
 北京广电,#genre#
 CCTV1综合,http://100.83.104.117:5678/bfgd.php?id=cctv1
 CCTV1综合2,http://100.83.104.117:5678/bfgd.php?id=cctv1b
