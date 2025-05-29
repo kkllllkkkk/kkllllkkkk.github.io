@@ -2905,6 +2905,26 @@ Fashion 4K,webview://https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_7
 咪咕视频_8M1080_咪视通-43,http://100.83.104.117:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-44,http://100.83.104.117:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-45,http://100.83.104.117:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+鳳凰衛視中文台,http://jxiptv.dpdns.org/stream/tvb/null/master.m3u8
+鳳凰衛視資訊台,http://jxiptv.dpdns.org/stream/tvb/null-1/master.m3u8
+鳳凰衛視香港台,http://jxiptv.dpdns.org/stream/tvb/null-2/master.m3u8
+翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-3/master.m3u8
+明珠台,http://jxiptv.dpdns.org/stream/tvb/null-4/master.m3u8
+無線新聞台,http://jxiptv.dpdns.org/stream/tvb/null-5/master.m3u8
+娛樂新聞台,http://jxiptv.dpdns.org/stream/tvb/null-6/master.m3u8
+黃金翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-7/master.m3u8
+美亞電影台,http://jxiptv.dpdns.org/stream/tvb/null-8/master.m3u8
+PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
+TVB Plus,http://jxiptv.dpdns.org/stream/tvb/tvbplus/master.m3u8
+ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
+Love Nature,http://jxiptv.dpdns.org/stream/tvb/lovenature/master.m3u8
+myTV SUPER FREE,http://jxiptv.dpdns.org/stream/tvb/mytvsuperfree/master.m3u8
+SUPER Kids Channel,http://jxiptv.dpdns.org/stream/tvb/superkidschannel/master.m3u8
+粵語片台,http://jxiptv.dpdns.org/stream/tvb/null-9/master.m3u8
+創世電視,http://jxiptv.dpdns.org/stream/tvb/null-10/master.m3u8
+天映經典頻道,http://jxiptv.dpdns.org/stream/tvb/null-11/master.m3u8
+東方衛視國際頻道,http://jxiptv.dpdns.org/stream/tvb/null-12/master.m3u8
+中央電視台綜合頻道 (港澳版),http://jxiptv.dpdns.org/stream/tvb/null-13/master.m3u8
 安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 安徽经济生活,http://43.129.81.169/live.ahsx.ahtv.cn/live/jjshtv.m3u8
 安徽公共,http://43.129.81.169/live.ahsx.ahtv.cn/live/ggtv.m3u8
