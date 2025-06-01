@@ -3,6 +3,7 @@
 期货之家,webview://https://lion.xinsilucn.xyz/
 平遥电视台,video://https://pingyao.qmtzy.sxmty.com///television/live_wap_3.html
 河北,http://10.6.22.1:5893/rtp/239.253.92.154:6011
+河北1,rtp://239.253.92.154:6011
 北京广电,#genre#
 CCTV1综合,http://100.83.104.117:5678/bfgd.php?id=cctv1
 CCTV1综合2,http://100.83.104.117:5678/bfgd.php?id=cctv1b
