@@ -1,5 +1,5 @@
 期货直播间,#genre#
-期货之家http://www.niuxiansheng.xyz/,https://live-pull-18.talk-fun.com/live/30569_PDQ_PDYjTiJMJA.m3u8
+期货之家http://www.niuxiansheng.xyz/,https://live.talk-fun.com.cn/liveout.php?code=eyJyb29taWQiOiIxMjQ0NjIxIiwic2lnbiI6ImNhOWExMjM4ZjM0Njc4ZjcxOTNkMmExZmM3M2FkNmMyIn0=
 期货之家,webview://https://lion.xinsilucn.xyz/
 平遥电视台,video://https://pingyao.qmtzy.sxmty.com///television/live_wap_3.html
 河北,http://10.6.22.1:5893/rtp/239.253.92.154:6011
@@ -9259,6 +9259,7 @@ i乐山,rtmp://r8.vzan.com/v/slowlive_147517797332177132
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 德格综合,http://m3u8channel.ganzitv.com/nmip-media/channellive/channel101955/playlist.m3u8
 德格综合,http://tv.drs.ganzitv.com:8100/channellive/dege.flv
+
 
 
 
